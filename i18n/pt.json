@@ -1,0 +1,45 @@
+{
+  "menu": {
+      "organizacao": "Organização",
+      "patrocinio": "Patrocinadores",
+      "inscricoes": "Inscrições",
+      "programacao": "Programação",
+      "anais":"Anais",
+      "trilha_industria": "Trilha da Indústria",
+      "tutoriais": "Tutoriais",
+      "minicursos": "Minicursos",
+      "sessao_ferramentas": "Sessão de Ferramentas",
+      "codigo_conduta": "Código de Conduta",
+      "edicoes_anteriores": "Edições Anteriores",
+      "home_SBES": "Página Inicial SBES",
+      "trilha_pesquisa": "Trilha de Pesquisa",
+      "trilha_educacao": "Trilha de Educação",
+      "trilha_ideias_inovadoras": "Trilha de Ideias Inovadoras e Resultados Emergentes",
+      "palestras": "Palestras",
+      "chamada_trabalhos": "Chamada de Trabalhos",
+      "artigos_aceitos": "Artigos Aceitos",
+      "informacoes": "Informações",
+      "contato": "Contato"
+  },
+  "about": {
+    "descricao_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.",
+    "descricao_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea."
+  },
+  "speakers": {
+    "palestrantes": "Palestrantes"
+  },
+  "schedule": {
+    "dia_1": "1º Dia",
+    "dia_2": "2º Dia",
+    "dia_3": "3º Dia",
+    "horario": "Horário",
+    "palestrante": "Palestrante",
+    "tema": "Tema",
+    "local": "Local"
+  },
+  "sponsors": {
+    "org_apoio_patrocinio": "Organização, apoio e patrocínio",
+    "organizadores": "Organização",
+    "patrocinio": "Patrocínio"
+  }
+}

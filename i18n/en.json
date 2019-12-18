@@ -1,0 +1,45 @@
+{
+    "menu": {
+        "organizacao": "Organization",
+        "patrocinio": "Sponsors",
+        "inscricoes": "Subscribe",
+        "programacao": "Schedule",
+        "anais":"Proceedings",
+        "trilha_industria": "Industry Track",
+        "tutoriais": "Tutorials",
+        "minicursos": "Short Courses",
+        "sessao_ferramentas": "Tools Session",
+        "codigo_conduta": "Code of Conduct",
+        "edicoes_anteriores": "Previous Editions",
+        "home_SBES": "Home SBES",
+        "trilha_pesquisa": "Research Track",
+        "trilha_educacao": "Education Track",
+        "trilha_ideias_inovadoras": "Innovative Ideas and Emerging Results Track",
+        "palestras": "Speeches",
+        "chamada_trabalhos": "Call for papers",
+        "artigos_aceitos": "Accepted Papers",
+        "informacoes": "Informations",
+        "contato": "Contact"
+    },
+    "about": {
+        "descricao_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.",
+        "descricao_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea."
+    },
+    "speakers": {
+        "palestrantes": "Speakers"
+    },
+    "schedule": {
+        "dia_1": "Day 1",
+        "dia_2": "Day 2",
+        "dia_3": "Day 3",
+        "horario": "Horário",
+        "palestrante": "Speaker",
+        "tema": "Subject",
+        "local": "Venue"
+    },
+    "sponsors": {
+        "org_apoio_patrocinio": "Organization, support and sponsorship",
+        "organizadores": "Organization",
+        "patrocinio": "Sponsor"
+      }
+  }
