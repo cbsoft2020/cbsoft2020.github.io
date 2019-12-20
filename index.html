@@ -1,12 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
+	<script>
+		// Change country flag
+		function toggleImage(inputImg) {
+			var img1   = "images/icon/pt.png";
+			var img2   = "images/icon/en.png";
+			var source = inputImg.getAttribute('src');
+			
+			if(source === img1){
+				inputImg.src   = img2;
+				inputImg.value = "en";
+			}else{
+				inputImg.src   = img1;
+				inputImg.value = "pt";
+			}
+		}
+	</script>
 <head>
 
   <!-- SITE TITTLE -->
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>CBSOFT 2019</title>
+  <title>CBSOFT 2020</title>
   
   <!-- PLUGINS CSS STYLE -->
   <!-- Bootstrap -->
@@ -53,7 +69,6 @@
           <div class="dropdown-menu">
 			<a class="dropdown-item" href="#" data-i18n="menu.organizacao">Organização</a>
 			<a class="dropdown-item" href="#" data-i18n="menu.patrocinio">Patrocínio</a>
-			<a class="dropdown-item" href="#" data-i18n="menu.inscricoes">Inscrições</a>
 			<a class="dropdown-item" href="#" data-i18n="menu.programacao">Programação</a>
 			<a class="dropdown-item" href="#" data-i18n="menu.anais">Anais</a>
 			<a class="dropdown-item" href="#" data-i18n="menu.trilha_industria">Trilha da Indústria</a>
@@ -70,7 +85,7 @@
 		  </a>
 		  <!-- Dropdown list -->
           <div class="dropdown-menu">
-			<a class="dropdown-item" href="#" data-i18n="menu.home_SBES">Página Inicial SBES</a>
+			<a class="dropdown-item" href="#" data-i18n="menu.home_SBES">Página Principal</a>
 			<a class="dropdown-item" href="#" data-i18n="menu.trilha_pesquisa">Trilha de Pesquisa</a>
 			<a class="dropdown-item" href="#" data-i18n="menu.trilha_educacao">Trilha de Educação</a>
 			<a class="dropdown-item" href="#" data-i18n="menu.trilha_ideias_inovadoras">Trilha de Ideias Inovadoras e Resultados Emergentes</a>
@@ -82,6 +97,7 @@
 			</a>
 			<!-- Dropdown list -->
 			<div class="dropdown-menu">
+			  <a class="dropdown-item" href="#" data-i18n="menu.home_SBCARS">Página Principal</a>
 			  <a class="dropdown-item" href="#" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a>
 			  <a class="dropdown-item" href="#" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>
 			  <a class="dropdown-item" href="#" data-i18n="menu.palestras">Palestras</a>
@@ -92,18 +108,30 @@
 			</a>
 			<!-- Dropdown list -->
 			<div class="dropdown-menu">
+			  <a class="dropdown-item" href="#" data-i18n="menu.home_SAST">Página Principal</a>
 			  <a class="dropdown-item" href="#" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a>
 			  <a class="dropdown-item" href="#" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>
 			  <a class="dropdown-item" href="#" data-i18n="menu.palestras">Palestras</a>
 			</div>
 		</li>
-        <li class="nav-item">
+        <li class="nav-item dropdown dropdown-slide">
         	<a class="nav-link" href="*">Workshops
 			</a>
+			<!-- Dropdown list -->
+			<div class="dropdown-menu">
+				<a class="dropdown-item" href="#" data-i18n="menu.chamada_workshops">Chamada de Workshops</a>
+			</div>
 		</li>
-		<li class="nav-item">
+		<li class="nav-item dropdown dropdown-slide">
 			<a class="nav-link" href="*" data-i18n="menu.informacoes">Informações
 			</a>
+			<!-- Dropdown list -->
+			<div class="dropdown-menu">
+				<a class="dropdown-item" href="#" data-i18n="menu.local">Local do Evento</a>
+				<a class="dropdown-item" href="#" data-i18n="menu.natal">Sobre Natal</a>
+				<a class="dropdown-item" href="#" data-i18n="menu.infoViagem">Informações de Viagem</a>
+				<a class="dropdown-item" href="#" data-i18n="menu.hospedagem">Hospedagem</a>
+			</div>
 		</li>
 		<li class="nav-item">
         	<a class="nav-link" href="*" data-i18n="menu.contato">Contato
@@ -111,11 +139,11 @@
 		</li>
 	  </ul>
 	  <form style="margin-right: 5px">
-		<input type="image" name="lang" value="pt" src="images/icon/pt.png" onclick="return false;" width="30" height="25"/>
-		<input type="image" name="lang" value="en" src="images/icon/en.png" onclick="return false;" width="30" height="25"/>
+		<input id="toggleImage" type="image" name="lang" value="pt" src="images/icon/pt.png" onclick="toggleImage(this); return false;" 
+		style="margin-top: 10px; margin-right: 36px;" width="32" height="27"/>
 	  </form>
       <a href="#" class="ticket">
-        <span data-i18n="menu.inscricoes">Inscrições</span>
+        <span data-i18n="menu.inscricoes">Inscreva-se</span>
       </a>
 	  </div>
   </div>
@@ -137,8 +165,6 @@
 				<div class="block">
 					<!-- Coundown Timer -->
 					<div class="timer"></div>
-					<!-- Action Button -->
-					<a href="#" class="btn btn-white-md" data-i18n="menu.inscricoes">Inscreva-se</a>
 				</div>
 			</div>
 		</div>
@@ -207,14 +233,11 @@
 						<div class="socials">
 							<ul class="list-inline">
 								<li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-linkedin"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-pinterest"></i></a></li>
 							</ul>
 						</div>
 					</div>
 					<div class="content text-center">
-						<h5><a href="single-speaker.html">Johnathan Franco</a></h5>
+						<h4><a href="single-speaker.html">Johnathan Franco</a></h4>
 						<p>Project Manager</p>
 					</div>
 				</div>
@@ -228,14 +251,11 @@
 						<div class="socials">
 							<ul class="list-inline">
 								<li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-linkedin"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-pinterest"></i></a></li>
 							</ul>
 						</div>
 					</div>
 					<div class="content text-center">
-						<h5><a href="single-speaker.html">Johnathan Franco</a></h5>
+						<h4><a href="single-speaker.html">Johnathan Franco</a></h4>
 						<p>Project Manager</p>
 					</div>
 				</div>
@@ -249,14 +269,11 @@
 						<div class="socials">
 							<ul class="list-inline">
 								<li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-linkedin"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-pinterest"></i></a></li>
 							</ul>
 						</div>
 					</div>
 					<div class="content text-center">
-						<h5><a href="single-speaker.html">Johnathan Franco</a></h5>
+						<h4><a href="single-speaker.html">Johnathan Franco</a></h4>
 						<p>Project Manager</p>
 					</div>
 				</div>
@@ -270,14 +287,11 @@
 						<div class="socials">
 							<ul class="list-inline">
 								<li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-linkedin"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-pinterest"></i></a></li>
 							</ul>
 						</div>
 					</div>
 					<div class="content text-center">
-						<h5><a href="single-speaker.html">Johnathan Franco</a></h5>
+						<h4><a href="single-speaker.html">Johnathan Franco</a></h4>
 						<p>Project Manager</p>
 					</div>
 				</div>
@@ -291,14 +305,11 @@
 						<div class="socials">
 							<ul class="list-inline">
 								<li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-linkedin"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-pinterest"></i></a></li>
 							</ul>
 						</div>
 					</div>
 					<div class="content text-center">
-						<h5><a href="single-speaker.html">Johnathan Franco</a></h5>
+						<h4><a href="single-speaker.html">Johnathan Franco</a></h4>
 						<p>Project Manager</p>
 					</div>
 				</div>
@@ -312,14 +323,11 @@
 						<div class="socials">
 							<ul class="list-inline">
 								<li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-linkedin"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-pinterest"></i></a></li>
 							</ul>
 						</div>
 					</div>
 					<div class="content text-center">
-						<h5><a href="single-speaker.html">Johnathan Franco</a></h5>
+						<h4><a href="single-speaker.html">Johnathan Franco</a></h4>
 						<p>Project Manager</p>
 					</div>
 				</div>
@@ -333,14 +341,11 @@
 						<div class="socials">
 							<ul class="list-inline">
 								<li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-linkedin"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-pinterest"></i></a></li>
 							</ul>
 						</div>
 					</div>
 					<div class="content text-center">
-						<h5><a href="single-speaker.html">Johnathan Franco</a></h5>
+						<h4><a href="single-speaker.html">Johnathan Franco</a></h4>
 						<p>Project Manager</p>
 					</div>
 				</div>
@@ -354,15 +359,12 @@
 						<div class="socials">
 							<ul class="list-inline">
 								<li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-linkedin"></i></a></li>
-								<li class="list-inline-item"><a href="#"><i class="fa fa-pinterest"></i></a></li>
 							</ul>
 						</div>
 					</div>
 					<div class="content text-center">
-						<h5><a href="single-speaker.html">Johnathan Franco</a></h5>
-						<p>Project Manager</p>
+						<h4><a href="single-speaker.html">Johnathan Franco</a></h4>
+						<p></p>Project Manager</p>
 					</div>
 				</div>
 			</div>
@@ -404,6 +406,18 @@
 					  <li class="nav-item">
 					    <a class="nav-link" href="#nov22" data-toggle="pill" data-i18n="schedule.dia_3">
 							Day-03
+					    	<span>22 November 2017</span>
+					    </a>
+					  </li>
+					  <li class="nav-item">
+					    <a class="nav-link" href="#nov22" data-toggle="pill" data-i18n="schedule.dia_4">
+							Day-04
+					    	<span>22 November 2017</span>
+					    </a>
+					  </li>
+					  <li class="nav-item">
+					    <a class="nav-link" href="#nov22" data-toggle="pill" data-i18n="schedule.dia_5">
+							Day-05
 					    	<span>22 November 2017</span>
 					    </a>
 					  </li>
@@ -820,35 +834,35 @@
 					<ul class="list-inline sponsors-list">
 						<li class="list-inline-item">
 							<div class="image-block text-center">
-								<a href="#">
+								<a href="#" target="_blank">
 									<img src="images/sponsors/sete.png" alt="sponsors-logo" class="img-fluid">
 								</a>
 							</div>
 						</li>
 						<li class="list-inline-item">
 							<div class="image-block text-center">
-								<a href="#">
+								<a href="https://www.imd.ufrn.br/portal/" target="_blank">
 									<img src="images/sponsors/imd.png" alt="sponsors-logo" class="img-fluid">
 								</a>
 							</div>
 						</li>
 						<li class="list-inline-item">
 							<div class="image-block text-center">
-								<a href="#">
+								<a href="https://www.dimap.ufrn.br" target="_blank">
 									<img src="images/sponsors/dimap.png" alt="sponsors-logo" class="img-fluid">
 								</a>
 							</div>
 						</li>
 						<li class="list-inline-item">
 							<div class="image-block text-center">
-								<a href="#">
+								<a href="https://www.ufrn.br/" target="_blank">
 									<img src="images/sponsors/ufrn.png" alt="sponsors-logo" class="img-fluid">
 								</a>
 							</div>
 						</li>
 						<li class="list-inline-item">
 							<div class="image-block text-center">
-								<a href="#">
+								<a href="http://portal.uern.br/" target="_blank">
 									<img src="images/sponsors/uern.png" alt="sponsors-logo" class="img-fluid">
 								</a>
 							</div>
@@ -864,22 +878,8 @@
 					<ul class="list-inline sponsors-list">
 						<li class="list-inline-item">
 							<div class="image-block text-center">
-								<a href="#">
-									<img src="images/sponsors/sete.png" alt="sponsors-logo" class="img-fluid">
-								</a>
-							</div>
-						</li>
-						<li class="list-inline-item">
-							<div class="image-block text-center">
-								<a href="#">
-									<img src="images/sponsors/imd.png" alt="sponsors-logo" class="img-fluid">
-								</a>
-							</div>
-						</li>
-						<li class="list-inline-item">
-							<div class="image-block text-center">
-								<a href="#">
-									<img src="images/sponsors/ufrn.png" alt="sponsors-logo" class="img-fluid">
+								<a href="https://about.google/" target="_blank">
+									<img src="images/sponsors/google.png" alt="sponsors-logo" class="img-fluid">
 								</a>
 							</div>
 						</li>
@@ -919,14 +919,11 @@
         <div class="col-md-12">
           <div class="block text-center">
             <div class="footer-logo">
-              <img src="images/logo_lateral.png" alt="logo" class="img-fluid">
+              <img src="images/logo-footer.png" alt="logo" width="170px" height="34px" class="img-fluid">
             </div>
             <ul class="social-links-footer list-inline">
               <li class="list-inline-item">
                 <a href="https://www.facebook.com/congresso.cbsoft/" target="_blank"><i class="fa fa-facebook"></i></a>
-              </li>
-              <li class="list-inline-item">
-                <a href="#"><i class="fa fa-twitter"></i></a>
               </li>
               <li class="list-inline-item">
                 <a href="https://www.instagram.com/congresso.cbsoft/?hl=pt-br" target="_blank"><i class="fa fa-instagram"></i></a>
@@ -944,7 +941,7 @@
     <div class="row">
       <div class="col-md-6 align-self-center">
         <div class="copyright-text">
-          <p><a href="#">CBSoft</a> &#169; 2019 All Right Reserved</p>
+          <p><a href="#">CBSoft</a> &#169; 2019-2020 All Right Reserved</p>
         </div>
       </div>
       <div class="col-md-6">
