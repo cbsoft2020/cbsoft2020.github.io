@@ -3,6 +3,7 @@
   font-family: Gotham;
   src: url('../gotham-font/Gotham-Book.otf');
 }
+
 html {
   font-size: 16px;
 }
@@ -201,7 +202,7 @@ button:hover {
 }
 
 .bg-banner-one {
-  background: url(../images/background/CBSoft-Natal-1.png) no-repeat;
+  background: url(../images/background/CBSoft-Natal-2.jpg) no-repeat;
   background-size: cover;
   background-position: center center;
 }
@@ -554,8 +555,10 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .main-nav .navbar-brand {
-  padding: 15px 20px 15px 30px;
+  padding: 25px;
+  width: 300px;
   border-right: 1px solid #e5e5e5;
+  text-align: center;
 }
 
 @media (max-width: 1024px) {
@@ -690,12 +693,12 @@ select.form-control:not([size]):not([multiple]) {
 .main-nav .ticket {
   background: #f4b321;
   display: block;
-  padding: 32px 32px;
+  padding: 43px 43px;
 }
 
 @media (max-width: 1024px) {
   .main-nav .ticket {
-    padding: 23px 14px;
+    padding: 33px 24px;
   }
 }
 
@@ -912,7 +915,7 @@ select.form-control:not([size]):not([multiple]) {
 
 .banner {
   margin-top: 80px;
-  padding: 250px 0 150px;
+  padding: 610px 0 150px;
   position: relative;
 }
 
