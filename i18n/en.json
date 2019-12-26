@@ -2,8 +2,8 @@
     "menu": {
         "organizacao": "Organization",
         "patrocinio": "Sponsorship",
-        "inscricoes": "Subscribe",
-        "programacao": "Schedule",
+        "inscricoes": "Registration",
+        "programacao": "Program",
         "anais":"Proceedings",
         "trilha_industria": "Industry Track",
         "tutoriais": "Tutorials",
@@ -18,11 +18,11 @@
         "trilha_educacao": "Education Track",
         "trilha_ideias_inovadoras": "Innovative Ideas and Emerging Results Track",
         "palestras": "Speeches",
-        "chamada_trabalhos": "Call for papers",
+        "chamada_trabalhos": "Call for Papers",
         "chamada_workshops": "Call for Workshops",
         "artigos_aceitos": "Accepted Papers",
-        "informacoes": "Informations",
-        "local": "Event Location",
+        "informacoes": "Information",
+        "local": "Venue",
         "natal": "About Natal",
         "infoViagem": "Travel Info",
         "hospedagem": "Accommodations",
@@ -41,14 +41,14 @@
         "dia_3": "Day 3",
         "dia_4": "Day 4",
         "dia_5": "Day 5",
-        "horario": "Horário",
+        "horario": "Time",
         "palestrante": "Speaker",
         "tema": "Subject",
         "local": "Venue"
     },
     "sponsors": {
-        "org_apoio_patrocinio": "Organization, support and sponsorship",
+        "org_apoio_patrocinio": "Organization, Support and Sponsorship",
         "organizadores": "Organization",
-        "patrocinio": "Sponsor"
+        "patrocinio": "Sponsors"
       }
   }
