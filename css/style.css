@@ -914,8 +914,8 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .banner {
-  margin-top: 80px;
-  padding: 635px 0 150px;
+  margin-top: 40px;
+  padding: 600px 0 150px;
   position: relative;
 }
 
