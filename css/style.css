@@ -768,7 +768,7 @@ select.form-control:not([size]):not([multiple]) {
 
 .footer-main {
   background: #272735;
-  padding: 90px 0;
+  padding: 50px 0;
 }
 
 @media (max-width: 767px) {
@@ -778,7 +778,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .footer-main .block img {
-  margin-bottom: 60px;
+  margin-bottom: 40px;
 }
 
 .footer-main .block ul.social-links-footer {
@@ -794,7 +794,7 @@ select.form-control:not([size]):not([multiple]) {
   height: 50px;
   width: 50px;
   text-align: center;
-  background: #fff;
+  /* background: #fff;*/
 }
 
 .footer-main .block ul.social-links-footer li a i {
