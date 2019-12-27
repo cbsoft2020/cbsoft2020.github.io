@@ -6,7 +6,7 @@ window.marker = null;
 function initialize() {
     var map;
 
-    var nottingham = new google.maps.LatLng(-5.8414264, -35.1839273);
+    var wish_natal = new google.maps.LatLng(-5.8414264, -35.1817386);
 
     var style = [
         {
@@ -72,17 +72,17 @@ function initialize() {
     ];
 
     var mapOptions = {
-        // SET THE CENTER
-        center: nottingham,
+        // Set the center
+        center: wish_natal,
 
-        // SET THE MAP STYLE & ZOOM LEVEL
-        mapTypeId: google.maps.MapTypeId.ROADMAP,
+        // Set the map style and zoom level
+        // mapTypeId: google.maps.MapTypeId.ROADMAP,
         zoom:9,
 
-        // SET THE BACKGROUND COLOUR
-        backgroundColor:"#000",
+        // Set the background color
+        backgroundColor:"#2f92d0",
 
-        // REMOVE ALL THE CONTROLS EXCEPT ZOOM
+        // Remove all controls except zoom
         zoom:17,
         panControl:false,
         zoomControl:true,
@@ -97,17 +97,17 @@ function initialize() {
     }
     map = new google.maps.Map(document.getElementById('map'), mapOptions);
 
-    // SET THE MAP TYPE
+    // Set the map style
     var mapType = new google.maps.StyledMapType(style, {name:"Grayscale"});
     map.mapTypes.set('grey', mapType);
     map.setMapTypeId('grey');
 
-    //CREATE A CUSTOM PIN ICON
+    // Custom pin icon
     var marker_image ='plugins/google-map/images/marker.png';
     var pinIcon = new google.maps.MarkerImage(marker_image,null,null, null,new google.maps.Size(40, 60));
 
     marker = new google.maps.Marker({
-        position: nottingham,
+        position: wish_natal,
         map: map,
         icon: pinIcon,
         title: 'Wish Natal Exclusive Resort'
