@@ -2067,11 +2067,11 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .sponsors .block .image-block img {
-  height: 55px;
+  height: 65px;
 }
 
 .sponsors .block .image-block:hover {
-  border: 1px solid #ff6600;
+  /* border: 1px solid #ff6600; */
 }
 
 .sponsors .sponsor-btn {
