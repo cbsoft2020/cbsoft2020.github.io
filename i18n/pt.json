@@ -9,12 +9,12 @@
       "tutoriais": "Tutoriais",
       "minicursos": "Minicursos",
       "sessao_ferramentas": "Sessão de Ferramentas",
-	  "wtdsoft": "Workshop de Teses e Dissertações",
+	    "wtdsoft": "Workshop de Teses e Dissertações",
       "codigo_conduta": "Código de Conduta",
       "edicoes_anteriores": "Edições Anteriores",
       "home_SBES": "Página Principal",
       "home_SBCARS": "Página Principal",
-	  "home_SBLP": "Página Principal",
+	    "home_SBLP": "Página Principal",
       "home_SAST": "Página Principal",
       "trilha_pesquisa": "Trilha de Pesquisa",
       "trilha_educacao": "Trilha de Educação",
@@ -31,7 +31,8 @@
       "contato": "Contato"
   },
   "about": {
-	  "realizacao": "Realizado por",
+    "sobre": "Sobre o CBSoft",
+    "realizacao": "Realizado por",
 	  "copyright": "Todos os direitos reservados",
     "descricao_1": "O Congresso Brasileiro de Software: Teoria e Prática (CBSoft) é um evento realizado anualmente pela Sociedade Brasileira de Computação (SBC) com o objetivo de promover e incentivar a troca de experiências entre pesquisadores e profissionais da indústria e academia sobre as mais recentes pesquisas, tendências e inovações práticas e teóricas sobre software. Realizado desde 2010 como evento agregador de simpósios brasileiros promovidos pela SBC na área de software, o CBSoft tornou-se um dos principais eventos da comunidade científica brasileira na área de Computação.",
     "descricao_2": "Em 2020, a 11ª edição do CBSoft será realizada em Natal, Rio Grande do Norte, e integrará quatro eventos tradicionais realizados anualmente pela comunidade brasileira em Engenharia de Software:",
@@ -61,5 +62,10 @@
     "org_apoio_patrocinio": "Organização, Apoio e Patrocínio",
     "organizadores": "Organização",
     "patrocinio": "Patrocínio"
+  },
+  "trilha-industria": {
+    "titulo": "Trilha da Indústria",
+    "descricao_1": "A Trilha da Indústria do CBSoft é uma oportunidade em que profissionais da indústria e do Governo compartilham seu conhecimento e suas experiências com o público. Essa é também uma ótima oportunidade para estabelecer cooperações entre profissionais e empresas, bem como estimular a interação entre academia e indústria. A perspectiva de cooperação academia-empresa tem sido um dos requisitos de editais de chamadas a projetos, como os do Programa dos Institutos Nacionais de Ciência e Tecnologia (INCTs), operacionalizado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq).",
+    "descricao_2": "São objetivos da Trilha da Indústria discutir as possibilidades de cooperação academia-indústria e academia-governo com vistas ao estabelecimento de condições e financiamentos para a pesquisa, desenvolvimento e inovação, bem como para a formação de recursos humanos de qualidade de forma integrada. Uma outra perspectiva é o desenvolvimento de produtos de software livre e possíveis impactos em aspectos legais e em modelos de negócio. Essas perspectivas favorecem a transferência tecnológica e a tendência de estreitar a geração e o uso efetivo de resultados de pesquisa, desenvolvimento e inovação."
   }
 }

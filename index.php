@@ -1,187 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
-	<script>
-		// Change country flag
-		function toggleImage(inputImg) {
-			var img1   = "images/icon/en.png";
-			var img2   = "images/icon/pt.png";
-			var source = inputImg.getAttribute('src');
-			
-			if (source === img1) {
-				inputImg.src   = img2;
-				inputImg.value = "en";
-			} else {
-				inputImg.src   = img1;
-				inputImg.value = "pt";
-			}
-		}
-	</script>
-<head>
-
-  <!-- SITE TITTLE -->
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>CBSoft 2020 | XI Congresso Brasileiro de Software</title>
-  
-  <!-- PLUGINS CSS STYLE -->
-  <!-- Bootstrap -->
-  <link href="plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-  <!-- Themefisher Font -->  
-  <link href="plugins/themefisher-font/style.css" rel="stylesheet">
-  <!-- Font Awesome -->
-  <link href="plugins/font-awsome/css/font-awesome.min.css" rel="stylesheet">
-  <!-- Magnific Popup -->
-  <link href="plugins/magnific-popup/magnific-popup.css" rel="stylesheet">
-  <!-- Slick Carousel -->
-  <link href="plugins/slick/slick.css" rel="stylesheet">
-  <link href="plugins/slick/slick-theme.css" rel="stylesheet">
-  <!-- CUSTOM CSS -->
-  <link href="css/style.css" rel="stylesheet">
-
-  <!-- FAVICON -->
-  <link href="images/favicon.png" rel="shortcut icon">
-
-</head>
+<!-- HEAD -->
+<?php 
+	include_once ("header.php");
+?>
 
 <body class="body-wrapper">
 
 
 <!--========================================
-=            Navigation Section            =
+=            Navigation Section and Banner         =
 =========================================-->
 
-<nav class="navbar main-nav border-less fixed-top navbar-expand-lg p-0">
-  <div class="container-fluid p-0">
-      <!-- logo -->
-      <a class="navbar-brand" href="index.html">
-        <img src="images/logo_lateral.png" width="100%" alt="logo">
-      </a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="fa fa-bars"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav mx-auto">
-        <li class="nav-item dropdown active dropdown-slide">
-          <a class="nav-link" href="#"  data-toggle="dropdown">CBSoft 2020
-          </a>
-          <!-- Dropdown list -->
-          <div class="dropdown-menu">
-			<a class="dropdown-item" href="#" data-i18n="menu.organizacao">Organização</a>
-			<a class="dropdown-item" href="#" data-i18n="menu.patrocinio">Patrocínio</a>
-			<a class="dropdown-item" href="#programacao" data-i18n="menu.programacao">Programação</a>
-			<a class="dropdown-item" href="#" data-i18n="menu.anais">Anais</a>
-			<a class="dropdown-item" href="#" data-i18n="menu.trilha_industria">Trilha da Indústria</a>
-			<a class="dropdown-item" href="#" data-i18n="menu.tutoriais">Tutoriais</a>
-			<a class="dropdown-item" href="#" data-i18n="menu.minicursos">Minicursos</a>
-			<a class="dropdown-item" href="#" data-i18n="menu.sessao_ferramentas">Sessão de Ferramentas</a>
-			<a class="dropdown-item" href="#" data-i18n="menu.wtdsoft">Workshop de Teses e Dissertações</a>
-			<a class="dropdown-item" href="#" data-i18n="menu.codigo_conduta">Código de Conduta</a>
-			<a class="dropdown-item" href="#" data-i18n="menu.edicoes_anteriores">Edições Anteriores</a>
-          </div>
-        </li>
-        <li class="nav-item dropdown dropdown-slide">
-          <a class="nav-link" href="#" data-toggle="dropdown">SBES
-		  </a>
-		  <!-- Dropdown list -->
-          <div class="dropdown-menu">
-			<a class="dropdown-item" href="#" data-i18n="menu.home_SBES">Página Principal</a>
-			<a class="dropdown-item" href="#" data-i18n="menu.trilha_pesquisa">Trilha de Pesquisa</a>
-			<a class="dropdown-item" href="#" data-i18n="menu.trilha_educacao">Trilha de Educação</a>
-			<a class="dropdown-item" href="#" data-i18n="menu.trilha_ideias_inovadoras">Trilha de Ideias Inovadoras e Resultados Emergentes</a>
-			<a class="dropdown-item" href="#" data-i18n="menu.palestras">Palestras</a>
-          </div>
-		</li>
-		<li class="nav-item dropdown dropdown-slide">
-			<a class="nav-link" href="#" data-toggle="dropdown">SBCARS
-			</a>
-			<!-- Dropdown list -->
-			<div class="dropdown-menu">
-			  <a class="dropdown-item" href="#" data-i18n="menu.home_SBCARS">Página Principal</a>
-			  <a class="dropdown-item" href="#" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a>
-			  <a class="dropdown-item" href="#" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>
-			  <a class="dropdown-item" href="#" data-i18n="menu.palestras">Palestras</a>
-			</div>
-		</li>
-		<li class="nav-item dropdown dropdown-slide">
-			<a class="nav-link" href="#" data-toggle="dropdown">SBLP
-			</a>
-			<!-- Dropdown list -->
-			<div class="dropdown-menu">
-			  <a class="dropdown-item" href="#" data-i18n="menu.home_SBLP">Página Principal</a>
-			  <a class="dropdown-item" href="#" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a>
-			  <a class="dropdown-item" href="#" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>
-			  <a class="dropdown-item" href="#" data-i18n="menu.palestras">Palestras</a>
-			</div>
-		</li>
-		<li class="nav-item dropdown dropdown-slide">
-			<a class="nav-link" href="#" data-toggle="dropdown">SAST
-			</a>
-			<!-- Dropdown list -->
-			<div class="dropdown-menu">
-			  <a class="dropdown-item" href="#" data-i18n="menu.home_SAST">Página Principal</a>
-			  <a class="dropdown-item" href="#" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a>
-			  <a class="dropdown-item" href="#" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>
-			  <a class="dropdown-item" href="#" data-i18n="menu.palestras">Palestras</a>
-			</div>
-		</li>
-        <li class="nav-item dropdown dropdown-slide">
-        	<a class="nav-link" href="*">Workshops
-			</a>
-			<!-- Dropdown list -->
-			<div class="dropdown-menu">
-				<a class="dropdown-item" href="#" data-i18n="menu.chamada_workshops">Chamada de Workshops</a>
-			</div>
-		</li>
-		<li class="nav-item dropdown dropdown-slide">
-			<a class="nav-link" href="*" data-i18n="menu.informacoes">Informações
-			</a>
-			<!-- Dropdown list -->
-			<div class="dropdown-menu">
-				<a class="dropdown-item" href="#" data-i18n="menu.local">Local do Evento</a>
-				<a class="dropdown-item" href="#" data-i18n="menu.natal">Sobre Natal</a>
-				<a class="dropdown-item" href="#" data-i18n="menu.infoViagem">Informações de Viagem</a>
-				<a class="dropdown-item" href="#" data-i18n="menu.hospedagem">Hospedagem</a>
-			</div>
-		</li>
-		<li class="nav-item">
-        	<a class="nav-link" href="*" data-i18n="menu.contato">Contato
-			</a>
-		</li>
-		<li class="nav-item">
-			<form style="margin-right: 5px">
-				<input id="toggleImage" type="image" name="lang" value="pt" src="images/icon/en.png" onclick="toggleImage(this); return false;" 
-			style="margin-top: 10px; margin-left: 5px; margin-right: 36px;" width="40"/>
-		  </form>
-		</li>
-	  </ul>
-      <a href="#" class="ticket">
-		<span style="color: #ffffff"><i class="fa fa-ticket fa-lg"></i></span>&nbsp;
-        <span data-i18n="menu.inscricoes">Inscreva-se</span>
-      </a>
-	  </div>
-  </div>
-</nav>
+<?php 
+	include_once ("menu.php");
+?>
 
-<!--====  End of Navigation Section  ====-->
-
-
-
-<!--============================
-=            Banner            =
-=============================-->
-
-<section class="banner bg-banner-one overlay">
-	<!--
-	<div class="container subsc_but_container">
-		<div class="row subsc_but">
-			<div class="col-lg-12"></div>
-		</div>
-	</div>
-	-->
-</section>
-	
-<!--====  End of Banner  ====-->
+<!--====  End of Navigation Section and Banner====-->
 
 <!--===========================
 =            About            =
@@ -197,7 +32,7 @@
 			</div>
 			<div class="col-lg-8 col-md-6 align-self-center">
 				<div class="content-block">
-					<h2>Sobre o CBSoft</h2>
+					<h2 data-i18n="about.sobre"></h2>
 					<div class="description-one">
 						<p data-i18n="about.descricao_1"></p>
 					</div>
@@ -828,7 +663,7 @@
 =            Sponsors            =
 ===============================-->
 
-<section class="sponsors section bg-sponsors overlay-white">
+<section id="org-apoio-patro" class="sponsors section bg-sponsors overlay-white">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
@@ -932,73 +767,9 @@
 =            Footer            =
 =============================-->
 
-<footer class="footer-main">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="block text-center">
-            <div class="footer-logo">
-              <img src="images/logo-footer.png" alt="logo" width="220px" height="34px" class="img-fluid">
-            </div>
-            <ul class="social-links-footer list-inline">
-              <li class="list-inline-item">
-                <a href="https://www.facebook.com/congresso.cbsoft/" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>
-              </li>
-              <li class="list-inline-item">
-                <a href="https://www.instagram.com/congresso.cbsoft/?hl=pt-br" target="_blank"><i class="fa fa-instagram fa-2x"></i></a>
-              </li>
-            </ul>
-          </div>
-          
-        </div>
-      </div>
-    </div>
-</footer>
-<!-- Subfooter -->
-<footer class="subfooter">
-  <div class="container">
-    <div class="row">
-      <div class="col-md-6 align-self-center">
-        <div class="copyright-text">
-          <p>
-			  CBSoft &#169; 2019-2020 | <span data-i18n="about.copyright">Todos os direitos reservados</span><br/>
-			  Powered by <a href="https://themefisher.com/">Themefisher</a> under <a href="https://themefisher.com/products/eventre-event-conference-website-template/">Eventre</a> Theme
-			</p>
-        </div>
-      </div>
-      <div class="col-md-6">
-          <a href="#" class="to-top"><i class="fa fa-angle-up"></i></a>
-      </div>
-    </div>
-  </div>
-</footer>
-
-
-
-  <!-- JAVASCRIPTS -->
-  <!-- jQuery -->
-  <script src="plugins/jquery/jquery.js"></script>
-  <!-- Popper js -->
-  <script src="plugins/popper/popper.min.js"></script>
-  <!-- Bootstrap 4 -->
-  <script src="plugins/bootstrap/js/bootstrap.min.js"></script>
-  <!-- Smooth Scroll -->
-  <script src="plugins/smoothscroll/SmoothScroll.min.js"></script>  
-  <!-- Isotope -->
-  <script src="plugins/isotope/mixitup.min.js"></script>  
-  <!-- Magnific Popup -->
-  <script src="plugins/magnific-popup/jquery.magnific-popup.min.js"></script>
-  <!-- Slick Carousel -->
-  <script src="plugins/slick/slick.min.js"></script>  
-  <!-- SyoTimer -->
-  <script src="plugins/syotimer/jquery.syotimer.min.js"></script>
-  <!-- Google Mapl -->
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"></script>
-  <script type="text/javascript" src="plugins/google-map/gmap.js"></script>
-  <!-- Custom Script -->
-  <script type = "module" src="js/custom.js"></script>
-  <!-- Language Script -->
-  <script type = "module" src="js/index.js"></script>
+<?php 
+	include_once ("footer.php");
+?>
 </body>
 
 </html>
