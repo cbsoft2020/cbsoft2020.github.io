@@ -1,58 +1,65 @@
 {
-    "menu": {
-        "organizacao": "Organization",
-        "patrocinio": "Sponsorship",
-        "inscricoes": "Registration",
-        "programacao": "Program",
-        "anais":"Proceedings",
-        "trilha_industria": "Industry Track",
-        "tutoriais": "Tutorials",
-        "minicursos": "Short Courses",
-        "sessao_ferramentas": "Tools Session",
-		"wtdsoft": "Workshop on Theses and Dissertations",
-        "codigo_conduta": "Code of Conduct",
-        "edicoes_anteriores": "Previous Editions",
-        "home_SBES": "Home",
-        "home_SBCARS": "Home",
-		"home_SBLP": "Home",
-        "home_SAST": "Home",
-        "trilha_pesquisa": "Research Track",
-        "trilha_educacao": "Education Track",
-        "trilha_ideias_inovadoras": "Innovative Ideas and Emerging Results Track",
-        "palestras": "Keynotes",
-        "chamada_trabalhos": "Call for Papers",
-        "chamada_workshops": "Call for Workshops",
-        "artigos_aceitos": "Accepted Papers",
-        "informacoes": "Information",
-        "local": "Venue",
-        "natal": "About Natal",
-        "infoViagem": "Travel Info",
-        "hospedagem": "Accommodations",
-        "contato": "Contact"
-    },
-    "about": {
-		"realizacao": "Promoted by",
-		"copyright": "All rights reserved",
-        "descricao_1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.",
-        "descricao_2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmtempor incididunt ut labore et dolore magna aliq enim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea."
-    },
-    "speakers": {
-        "palestrantes": "Speakers"
-    },
-    "schedule": {
-        "dia_1": "Day 1",
-        "dia_2": "Day 2",
-        "dia_3": "Day 3",
-        "dia_4": "Day 4",
-        "dia_5": "Day 5",
-        "horario": "Time",
-        "palestrante": "Speaker",
-        "tema": "Subject",
-        "local": "Venue"
-    },
-    "sponsors": {
-        "org_apoio_patrocinio": "Organization, Support and Sponsorship",
-        "organizadores": "Organization",
-        "patrocinio": "Sponsors"
-      }
+  "menu": {
+    "organizacao": "Organization",
+    "patrocinio": "Sponsorship",
+    "inscricoes": "Registration",
+    "programacao": "Program",
+    "anais": "Proceedings",
+    "trilha_industria": "Industry Track",
+    "tutoriais": "Tutorials",
+    "minicursos": "Short Courses",
+    "sessao_ferramentas": "Tools Session",
+    "wtdsoft": "Workshop on Theses and Dissertations",
+    "codigo_conduta": "Code of Conduct",
+    "edicoes_anteriores": "Previous Editions",
+    "home_SBES": "Home",
+    "home_SBCARS": "Home",
+    "home_SBLP": "Home",
+    "home_SAST": "Home",
+    "trilha_pesquisa": "Research Track",
+    "trilha_educacao": "Education Track",
+    "trilha_ideias_inovadoras": "Innovative Ideas and Emerging Results Track",
+    "palestras": "Keynotes",
+    "chamada_trabalhos": "Call for Papers",
+    "chamada_workshops": "Call for Workshops",
+    "artigos_aceitos": "Accepted Papers",
+    "informacoes": "Information",
+    "local": "Venue",
+    "natal": "About Natal",
+    "infoViagem": "Travel Info",
+    "hospedagem": "Accommodations",
+    "contato": "Contact"
+  },
+  "about": {
+    "realizacao": "Promoted by",
+    "copyright": "All rights reserved",
+    "descricao_1": "O Congresso Brasileiro de Software: Teoria e Prática (CBSoft) é um evento realizado anualmente pela Sociedade Brasileira de Computação (SBC) com o objetivo de promover e incentivar a troca de experiências entre pesquisadores e profissionais da indústria e academia sobre as mais recentes pesquisas, tendências e inovações práticas e teóricas sobre software. Realizado desde 2010 como evento agregador de simpósios brasileiros promovidos pela SBC na área de software, o CBSoft tornou-se um dos principais eventos da comunidade científica brasileira na área de Computação.",
+    "descricao_2": "Em 2020, a 11ª edição do CBSoft será realizada em Natal, Rio Grande do Norte, e integrará quatro eventos tradicionais realizados anualmente pela comunidade brasileira em Engenharia de Software:",
+    "desc_eventos": [
+      "o XXXIV Simpósio Brasileiro de Engenharia de Software (SBES), o principal evento de Engenharia de Software na América Latina;",
+      "o XXIV Simpósio Brasileiro de Linguagens de Programação (SBLP), que possui enfoque no estudo teórico e prático de linguagens de programação;",
+      "o XIV Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS), que agrega tópicos como linhas de produto de software, desenvolvimento de software baseado em componentes, arquiteturas de software e reutilização, e;",
+      "o V Simpósio Brasileiro de Teste de Software Sistemático Automatizado (SAST), que versa sobre questões relacionadas à sistematização e automação da atividade de teste de software."
+    ],
+    "descricao_3": "A programação do CBSoft inclui sessões técnicas com apresentações de artigos científicos, palestras proferidas por pesquisadores brasileiros e estrangeiros de renome nacional e internacional, painéis de discussão, workshops, demonstrações de ferramentas, tutoriais e minicursos ministrados por conceituados especialistas em suas respectivas temáticas. Todas essas diversas atividades de interesse da comunidade de Engenharia de Software e de áreas relacionadas ao desenvolvimento de sistemas de software direcionam-se para a difusão do conhecimento e discussão de questões importantes relacionadas à pesquisa, desenvolvimento e inovação, tanto no Brasil quanto no mundo."
+  },
+  "speakers": {
+    "palestrantes": "Speakers"
+  },
+  "schedule": {
+    "dia_1": "Day 1",
+    "dia_2": "Day 2",
+    "dia_3": "Day 3",
+    "dia_4": "Day 4",
+    "dia_5": "Day 5",
+    "horario": "Time",
+    "palestrante": "Speaker",
+    "tema": "Subject",
+    "local": "Venue"
+  },
+  "sponsors": {
+    "org_apoio_patrocinio": "Organization, Support and Sponsorship",
+    "organizadores": "Organization",
+    "patrocinio": "Sponsors"
   }
+}
