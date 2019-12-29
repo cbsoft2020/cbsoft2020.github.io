@@ -92,7 +92,7 @@
               </div>
           </li>
           <li class="nav-item">
-              <a class="nav-link" href="*" data-i18n="menu.contato">Contato
+              <a class="nav-link" href="#" data-i18n="menu.contato">Contato
               </a>
           </li>
           <li class="nav-item">
