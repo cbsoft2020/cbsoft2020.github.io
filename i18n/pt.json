@@ -95,5 +95,30 @@
     "2012": "CBSoft 2012 - III Congresso Brasileiro de Software: Teoria e Prática</br> Natal, Rio Grande do Norte | ? ?",
     "2011": "CBSoft 2011 - II Congresso Brasileiro de Software: Teoria e Prática</br> São Paulo | 26 a 30 de setembro de 2011</br> <a target='_blank' href='http://www.each.usp.br/cbsoft2011/'> http://www.each.usp.br/cbsoft2011/</a>",
     "2010": "CBSoft 2010 - I Congresso Brasileiro de Software: Teoria e Prática</br> Salvador, Bahia | 27 de setembro a 1º de outubro de 2010 </br> <a target='_blank' href='http://wiki.dcc.ufba.br/CBSOFT'> http://wiki.dcc.ufba.br/CBSOFT </a>"
+  },
+  "sbes": {
+    "titulo": "XXXIV SBES",
+    "subtitulo": "Página principal",
+    "descricao_1": "O <b>Simpósio Brasileiro de Engenharia de Software (SBES)</b> é o mais tradicional simpósio promovido pela Sociedade Brasileira de Computação (SBC) na área de desenvolvimento de software. Ao longo de suas 33 edições já realizadas, o SBES se consolidou como o mais importante evento técnico-científico na área de Engenharia de Software no Brasil, atraindo diversos participantes entre pesquisadores, estudantes e profissionais do País e do exterior. Seus principais objetos de estudo são processos, métodos, técnicas e ferramentas para o desenvolvimento, manutenção e evolução de software.</br> O SBES inclui três trilhas:</br>",
+    "trilhas": [
+      "A <b>Trilha de Pesquisa</b> publica sólidas contribuições para a comunidade em Engenharia de Software, com artigos revisados com base na sua originalidade, relevância, solidez técnica e clareza de apresentação.",
+      "A <b>Trilha de Ideias Inovadoras e Resultados Emergentes</b> oferece uma oportunidade para que pesquisadores e profissionais submetam e apresentem ideias inovadoras e resultados promissores em estágios iniciais de pesquisa.",
+      "A <b>Trilha de Educação</b> publica trabalhos que abordam desafios, inovações e melhores práticas para a Educação na área de Engenharia de Software."
+    ]
+  },
+  "sbcars": {
+    "titulo": "XIV SBCARS",
+    "subtitulo": "Página principal",
+    "descricao_1": "<b>O Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS)</b> é um simpósio promovido pela Sociedade Brasileira de Computação (SBC) que reúne pesquisadores, estudantes e profissionais com uma ampla gama de interesses tópicos relacionados à Engenharia de Software, incluindo linhas de produto de software, desenvolvimento de software baseado em componentes, arquiteturas de software e reuso de software. O SBCARS, iniciado em 2007, é o sucessor da série de seis Workshops Brasileiros de Desenvolvimento Baseado em Componentes (WDBC), iniciados em 2001, de modo que suas 13 edições já realizadas têm contribuído para sua consolidação no calendário científico nacional como um importante evento técnico-científico na área de software."
+  },
+  "sblp": {
+    "titulo": "XXIV SBLP",
+    "subtitulo": "Página principal",
+    "descricao_1": "<b>O Simpósio Brasileiro de Linguagens de Programação (SBLP)</b> é um simpósio promovido pela Sociedade Brasileira de Computação (SBC) que se constitui como um fórum para que estudantes, pesquisadores e profissionais apresentem e discutam ideias e inovações no projeto, definição, análise, implementação e uso prático de linguagens de programação."
+  },
+  "sast": {
+    "titulo": "V SAST",
+    "subtitulo": "Página principal",
+    "descricao_1": "<b>O Simpósio Brasileiro de Teste de Software Sistemático e Automatizado (SAST)</b>, o qual desde 2007 existia com o nome de Brazilian Workshop on Systematic and Automated Software Testing em nove edições, é o principal evento científico sobre teste de software no Brasil. Seu objetivo é promover um fórum anual para discutir questões sobre a sistematização e automação da atividade de teste de software, promovendo a interação entre pesquisadores e indústria de modo a fortalecer cooperações e inovação nessa importante área do desenvolvimento de software."
   }
 }
