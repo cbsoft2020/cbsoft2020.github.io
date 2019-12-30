@@ -109,21 +109,21 @@
   "sbcars": {
     "titulo": "XIV SBCARS",
     "subtitulo": "Página principal",
-    "descricao_1": "<b>O Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS)</b> é um simpósio promovido pela Sociedade Brasileira de Computação (SBC) que reúne pesquisadores, estudantes e profissionais com uma ampla gama de interesses tópicos relacionados à Engenharia de Software, incluindo linhas de produto de software, desenvolvimento de software baseado em componentes, arquiteturas de software e reuso de software. O SBCARS, iniciado em 2007, é o sucessor da série de seis Workshops Brasileiros de Desenvolvimento Baseado em Componentes (WDBC), iniciados em 2001, de modo que suas 13 edições já realizadas têm contribuído para sua consolidação no calendário científico nacional como um importante evento técnico-científico na área de software."
+    "descricao_1": "O <b>Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS)</b> é um simpósio promovido pela Sociedade Brasileira de Computação (SBC) que reúne pesquisadores, estudantes e profissionais com uma ampla gama de interesses em tópicos relacionados à Engenharia de Software, incluindo linhas de produto de software, desenvolvimento de software baseado em componentes, arquiteturas de software e reuso de software. O SBCARS, iniciado em 2007, é o sucessor da série de seis Workshops Brasileiros de Desenvolvimento Baseado em Componentes (WDBC), iniciados em 2001, de modo que suas 13 edições já realizadas têm contribuído para sua consolidação no calendário científico nacional como um importante evento técnico-científico na área de software."
   },
   "sblp": {
     "titulo": "XXIV SBLP",
     "subtitulo": "Página principal",
-    "descricao_1": "<b>O Simpósio Brasileiro de Linguagens de Programação (SBLP)</b> é um simpósio promovido pela Sociedade Brasileira de Computação (SBC) que se constitui como um fórum para que estudantes, pesquisadores e profissionais apresentem e discutam ideias e inovações no projeto, definição, análise, implementação e uso prático de linguagens de programação."
+    "descricao_1": "O <b>Simpósio Brasileiro de Linguagens de Programação (SBLP)</b> é um simpósio promovido pela Sociedade Brasileira de Computação (SBC) que se constitui como um fórum para que estudantes, pesquisadores e profissionais apresentem e discutam ideias e inovações no projeto, definição, análise, implementação e uso prático de linguagens de programação."
   },
   "sast": {
     "titulo": "V SAST",
     "subtitulo": "Página principal",
-    "descricao_1": "<b>O Simpósio Brasileiro de Teste de Software Sistemático e Automatizado (SAST)</b>, o qual desde 2007 existia com o nome de Brazilian Workshop on Systematic and Automated Software Testing em nove edições, é o principal evento científico sobre teste de software no Brasil. Seu objetivo é promover um fórum anual para discutir questões sobre a sistematização e automação da atividade de teste de software, promovendo a interação entre pesquisadores e indústria de modo a fortalecer cooperações e inovação nessa importante área do desenvolvimento de software."
+    "descricao_1": "O <b>Simpósio Brasileiro de Teste de Software Sistemático e Automatizado (SAST)</b>, o qual desde 2007 existia com o nome de Brazilian Workshop on Systematic and Automated Software Testing em nove edições, é o principal evento científico sobre teste de software no Brasil. Seu objetivo é promover um fórum anual para discutir questões sobre a sistematização e automação da atividade de teste de software, promovendo a interação entre pesquisadores e indústria de modo a fortalecer cooperações e inovação nessa importante área do desenvolvimento de software."
   },
   "local": {
     "titulo": "Local do Evento",
-    "descricao_1": "O CBSoft 2020 será realizado no <a target= '_blank' href='https://www.wishhotels.co/resort-em-natal/wish-natal-by-gjp/' style='color: #f4b321'>Wish Natal Exclusive Resort</a>, resort com acesso direto à praia e vista para o mar, localizado na Via Costeira Senador Dinarte Mariz, onde se situam as acomodações de melhor padrão na região turística de Natal, ladeado pelo segundo maior parque urbano do Brasil, o Parque das Dunas, e com fácil acesso a restaurantes, shoppings e centros comerciais e demais praias da cidade."
+    "descricao_1": "O CBSoft 2020 será realizado no <a target= '_blank' href='https://www.wishhotels.co/resort-em-natal/wish-natal-by-gjp/' style='color: #f4b321'>Wish Natal Exclusive Resort</a>, resort com acesso direto à praia e vista para o mar, localizado na Via Costeira Senador Dinarte Mariz. É nessa região onde se situam as acomodações de melhor padrão na região turística de Natal, ladeado pelo segundo maior parque urbano do Brasil, o Parque das Dunas, além de se ter fácil acesso a restaurantes, shoppings e centros comerciais e demais praias da cidade."
   },
   "sobre-natal": {
     "titulo": "Sobre Natal",
