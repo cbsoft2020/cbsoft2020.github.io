@@ -123,7 +123,7 @@
   },
   "local": {
     "titulo": "Local do Evento",
-    "descricao_1": "O CBSoft 2020 será realizado no <a target= '_blank' href='https://www.wishhotels.co/resort-em-natal/wish-natal-by-gjp/'>Wish Natal Exclusive Resort</a>, resort com acesso direto à praia e vista para o mar, localizado na Via Costeira Senador Dinarte Mariz, onde se situam as acomodações de melhor padrão na região turística de Natal, ladeado pelo segundo maior parque urbano do Brasil, o Parque das Dunas, e com fácil acesso a restaurantes, shoppings e centros comerciais e demais praias da cidade."
+    "descricao_1": "O CBSoft 2020 será realizado no <a target= '_blank' href='https://www.wishhotels.co/resort-em-natal/wish-natal-by-gjp/' style='color: #f4b321'>Wish Natal Exclusive Resort</a>, resort com acesso direto à praia e vista para o mar, localizado na Via Costeira Senador Dinarte Mariz, onde se situam as acomodações de melhor padrão na região turística de Natal, ladeado pelo segundo maior parque urbano do Brasil, o Parque das Dunas, e com fácil acesso a restaurantes, shoppings e centros comerciais e demais praias da cidade."
   },
   "sobre-natal": {
     "titulo": "Sobre Natal",
