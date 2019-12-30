@@ -29,8 +29,7 @@
 			<div class="col-lg-8 col-md-6 align-self-center">
 				<div class="content-block">
                     <h2 data-i18n="sbcars.titulo"></h2>
-                    <h4 data-i18n="sbcars.subtitulo"></h4><br>
-					<div class="description-one">
+                    <div class="description-one">
 						<p data-i18n="sbcars.descricao_1"></p>
 					</div>
 				</div>
