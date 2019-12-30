@@ -61,12 +61,11 @@
 <!--==============================
 =            Speakers            =
 ===============================-->
-
+<!--
 <section class="section speakers bg-speaker overlay-lighter">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
-				<!-- Section Title -->
 				<div class="section-title white">
 					<h3 data-i18n="speakers.palestrantes">Palestrantes</h3>
 				</div>
@@ -74,7 +73,6 @@
 		</div>
 		<div class="row">
 			<div class="col-lg-3 col-md-4 col-sm-6">
-				<!-- Speaker 1 -->
 				<div class="speaker-item">
 					<div class="image">
 						<img src="images/speakers/speaker-one.jpg" alt="speaker" class="img-fluid">
@@ -92,7 +90,6 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-4 col-sm-6">
-				<!-- Speaker 2 -->
 				<div class="speaker-item">
 					<div class="image">
 						<img src="images/speakers/speaker-two.jpg" alt="speaker" class="img-fluid">
@@ -110,7 +107,6 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-4 col-sm-6">
-				<!-- Speaker 3 -->
 				<div class="speaker-item">
 					<div class="image">
 						<img src="images/speakers/speaker-three.jpg" alt="speaker" class="img-fluid">
@@ -128,7 +124,6 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-4 col-sm-6">
-				<!-- Speaker 4 -->
 				<div class="speaker-item">
 					<div class="image">
 						<img src="images/speakers/speaker-four.jpg" alt="speaker" class="img-fluid">
@@ -146,7 +141,6 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-4 col-sm-6">
-				<!-- Speaker 5 -->
 				<div class="speaker-item">
 					<div class="image">
 						<img src="images/speakers/speaker-five.jpg" alt="speaker" class="img-fluid">
@@ -164,7 +158,6 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-4 col-sm-6">
-				<!-- Speaker 1 -->
 				<div class="speaker-item">
 					<div class="image">
 						<img src="images/speakers/speaker-six.jpg" alt="speaker" class="img-fluid">
@@ -182,7 +175,6 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-4 col-sm-6">
-				<!-- Speaker 7 -->
 				<div class="speaker-item">
 					<div class="image">
 						<img src="images/speakers/speaker-five.jpg" alt="speaker" class="img-fluid">
@@ -200,7 +192,6 @@
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-4 col-sm-6">
-				<!-- Speaker 8 -->
 				<div class="speaker-item">
 					<div class="image">
 						<img src="images/speakers/speaker-six.jpg" alt="speaker" class="img-fluid">
@@ -226,7 +217,7 @@
 <!--==============================
 =            Schedule            =
 ===============================-->
-
+<!--
 <section id="programacao" class="section schedule">
 	<div class="container">
 		<div class="row">
@@ -275,7 +266,6 @@
 				<div class="schedule-contents bg-schedule">
 					<div class="tab-content" id="pills-tabContent">
 					  <div class="tab-pane fade show active schedule-item" id="nov20">
-					  	<!-- Headings -->
 					  	<ul class="m-0 p-0">
 					  		<li class="headings">
 					  			<div class="time" data-i18n="schedule.horario">Horário</div>
@@ -283,124 +273,93 @@
 					  			<div class="subject" data-i18n="schedule.tema">Tema</div>
 					  			<div class="venue" data-i18n="schedule.local">Local</div>
 					  		</li>
-					  		<!-- Schedule Details -->
 					  		<li class="schedule-details">
 					  			<div class="block">
-					  				<!-- time -->
-							  		<div class="time">
+					  				<div class="time">
 							  			<i class="fa fa-clock-o"></i>
 							  			<span class="time">9.00 AM</span>
 							  		</div>
-							  		<!-- Speaker -->
 							  		<div class="speaker">
 							  			<img src="images/speakers/speaker-thumb-one.jpg" alt="speaker-thumb-one">
 										<span class="name">Samanta Doe</span>
 							  		</div>
-							  		<!-- Subject -->
 							  		<div class="subject">Introduction to Wp</div>
-							  		<!-- Venue -->
 							  		<div class="venue">Auditorium A</div>
 					  			</div>
 					  		</li>
-					  		<!-- Schedule Details -->
 					  		<li class="schedule-details">
 					  			<div class="block">
-						  			<!-- time -->
-							  		<div class="time">
+						  			<div class="time">
 							  			<i class="fa fa-clock-o"></i>
 							  			<span class="time">10.00 AM</span>
 							  		</div>
-							  		<!-- Speaker -->
 							  		<div class="speaker">
 							  			<img src="images/speakers/speaker-thumb-two.jpg" alt="speaker-thumb-two">
 										<span class="name">Zerad Pawel</span>
 							  		</div>
-							  		<!-- Subject -->
 							  		<div class="subject">Principle of Wp</div>
-							  		<!-- Venue -->
 							  		<div class="venue">Auditorium B</div>
 					  			</div>
 					  		</li>
-					  		<!-- Schedule Details -->
 					  		<li class="schedule-details">
 					  			<div class="block">
-						  			<!-- time -->
-							  		<div class="time">
+						  			<div class="time">
 							  			<i class="fa fa-clock-o"></i>
 							  			<span class="time">12.00 AM</span>
 							  		</div>
-							  		<!-- Speaker -->
 							  		<div class="speaker">
 							  			<img src="images/speakers/speaker-thumb-three.jpg" alt="speaker-thumb-three">
 										<span class="name">Henry Mong</span>
 							  		</div>
-							  		<!-- Subject -->
 							  		<div class="subject">Wp Requirements</div>
-							  		<!-- Venue -->
 							  		<div class="venue">Auditorium C</div>
 					  			</div>
 					  		</li>
-					  		<!-- Schedule Details -->
 					  		<li class="schedule-details">
 					  			<div class="block">
-						  			<!-- time -->
-							  		<div class="time">
+						  			<div class="time">
 							  			<i class="fa fa-clock-o"></i>
 							  			<span class="time">2.00 PM</span>
 							  		</div>
-							  		<!-- Speaker -->
 							  		<div class="speaker">
 							  			<img src="images/speakers/speaker-thumb-four.jpg" alt="speaker-thumb-four">
 										<span class="name">Baily Leo</span>
 							  		</div>
-							  		<!-- Subject -->
 							  		<div class="subject">Introduction to Wp</div>
-							  		<!-- Venue -->
 							  		<div class="venue">Auditorium D</div>
 					  			</div>
 					  		</li>
-					  		<!-- Schedule Details -->
 					  		<li class="schedule-details">
 					  			<div class="block">
-						  			<!-- time -->
-							  		<div class="time">
+						  			<div class="time">
 							  			<i class="fa fa-clock-o"></i>
 							  			<span class="time">3.00 PM</span>
 							  		</div>
-							  		<!-- Speaker -->
 							  		<div class="speaker">
 							  			<img src="images/speakers/speaker-thumb-five.jpg" alt="speaker-thumb-five">
 										<span class="name">Lee Mun</span>
 							  		</div>
-							  		<!-- Subject -->
 							  		<div class="subject">Useful tips for Wp</div>
-							  		<!-- Venue -->
 							  		<div class="venue">Auditorium E</div>
 					  			</div>
 					  		</li>
-					  		<!-- Schedule Details -->
 					  		<li class="schedule-details">
 					  			<div class="block">
-						  			<!-- time -->
-							  		<div class="time">
+						  			<div class="time">
 							  			<i class="fa fa-clock-o"></i>
 							  			<span class="time">3.00 PM</span>
 							  		</div>
-							  		<!-- Speaker -->
 							  		<div class="speaker">
 							  			<img src="images/speakers/speaker-thumb-six.jpg" alt="speaker-thumb-six">
 										<span class="name">Lee Mun</span>
 							  		</div>
-							  		<!-- Subject -->
 							  		<div class="subject">Useful tips for Wp</div>
-							  		<!-- Venue -->
 							  		<div class="venue">Auditorium E</div>
 					  			</div>
 					  		</li>
 					  	</ul>
 					  </div>
 					  <div class="tab-pane fade schedule-item" id="nov21">
-					  	<!-- Headings -->
 					  	<ul class="m-0 p-0">
 					  		<li class="headings">
 					  			<div class="time">Time</div>
@@ -408,124 +367,93 @@
 					  			<div class="subject">Subject</div>
 					  			<div class="venue">Venue</div>
 					  		</li>
-					  		<!-- Schedule Details -->
 					  		<li class="schedule-details">
 					  			<div class="block">
-					  				<!-- time -->
-							  		<div class="time">
+					  				<div class="time">
 							  			<i class="fa fa-clock-o"></i>
 							  			<span class="time">9.00 AM</span>
 							  		</div>
-							  		<!-- Speaker -->
 							  		<div class="speaker">
 							  			<img src="images/speakers/speaker-thumb-one.jpg" alt="speaker-thumb-one">
 										<span class="name">Samanta Doe</span>
 							  		</div>
-							  		<!-- Subject -->
 							  		<div class="subject">Introduction to Wp</div>
-							  		<!-- Venue -->
 							  		<div class="venue">Auditorium A</div>
 					  			</div>
 					  		</li>
-					  		<!-- Schedule Details -->
 					  		<li class="schedule-details">
 					  			<div class="block">
-						  			<!-- time -->
-							  		<div class="time">
+						  			<div class="time">
 							  			<i class="fa fa-clock-o"></i>
 							  			<span class="time">10.00 AM</span>
 							  		</div>
-							  		<!-- Speaker -->
 							  		<div class="speaker">
 							  			<img src="images/speakers/speaker-thumb-two.jpg" alt="speaker-thumb-two">
 										<span class="name">Zerad Pawel</span>
 							  		</div>
-							  		<!-- Subject -->
 							  		<div class="subject">Principle of Wp</div>
-							  		<!-- Venue -->
 							  		<div class="venue">Auditorium B</div>
 					  			</div>
 					  		</li>
-					  		<!-- Schedule Details -->
 					  		<li class="schedule-details">
 					  			<div class="block">
-						  			<!-- time -->
-							  		<div class="time">
+						  			<div class="time">
 							  			<i class="fa fa-clock-o"></i>
 							  			<span class="time">12.00 AM</span>
 							  		</div>
-							  		<!-- Speaker -->
 							  		<div class="speaker">
 							  			<img src="images/speakers/speaker-thumb-three.jpg" alt="speaker-thumb-three">
 										<span class="name">Henry Mong</span>
 							  		</div>
-							  		<!-- Subject -->
 							  		<div class="subject">Wp Requirements</div>
-							  		<!-- Venue -->
 							  		<div class="venue">Auditorium C</div>
 					  			</div>
 					  		</li>
-					  		<!-- Schedule Details -->
 					  		<li class="schedule-details">
 					  			<div class="block">
-						  			<!-- time -->
-							  		<div class="time">
+						  			<div class="time">
 							  			<i class="fa fa-clock-o"></i>
 							  			<span class="time">2.00 PM</span>
 							  		</div>
-							  		<!-- Speaker -->
 							  		<div class="speaker">
 							  			<img src="images/speakers/speaker-thumb-four.jpg" alt="speaker-thumb-four">
 										<span class="name">Baily Leo</span>
 							  		</div>
-							  		<!-- Subject -->
 							  		<div class="subject">Introduction to Wp</div>
-							  		<!-- Venue -->
 							  		<div class="venue">Auditorium D</div>
 					  			</div>
 					  		</li>
-					  		<!-- Schedule Details -->
 					  		<li class="schedule-details">
 					  			<div class="block">
-						  			<!-- time -->
-							  		<div class="time">
+						  			<div class="time">
 							  			<i class="fa fa-clock-o"></i>
 							  			<span class="time">3.00 PM</span>
 							  		</div>
-							  		<!-- Speaker -->
 							  		<div class="speaker">
 							  			<img src="images/speakers/speaker-thumb-five.jpg" alt="speaker-thumb-five">
 										<span class="name">Lee Mun</span>
 							  		</div>
-							  		<!-- Subject -->
 							  		<div class="subject">Useful tips for Wp</div>
-							  		<!-- Venue -->
 							  		<div class="venue">Auditorium E</div>
 					  			</div>
 					  		</li>
-					  		<!-- Schedule Details -->
 					  		<li class="schedule-details">
 					  			<div class="block">
-						  			<!-- time -->
-							  		<div class="time">
+						  			<div class="time">
 							  			<i class="fa fa-clock-o"></i>
 							  			<span class="time">3.00 PM</span>
 							  		</div>
-							  		<!-- Speaker -->
 							  		<div class="speaker">
 							  			<img src="images/speakers/speaker-thumb-six.jpg" alt="speaker-thumb-six">
 										<span class="name">Lee Mun</span>
 							  		</div>
-							  		<!-- Subject -->
 							  		<div class="subject">Useful tips for Wp</div>
-							  		<!-- Venue -->
 							  		<div class="venue">Auditorium E</div>
 					  			</div>
 					  		</li>
 					  	</ul>
 					  </div>
 					  <div class="tab-pane fade schedule-item" id="nov22">
-					  	<!-- Headings -->
 					  	<ul class="m-0 p-0">
 					  		<li class="headings">
 					  			<div class="time">Time</div>
@@ -533,117 +461,87 @@
 					  			<div class="subject">Subject</div>
 					  			<div class="venue">Venue</div>
 					  		</li>
-					  		<!-- Schedule Details -->
 					  		<li class="schedule-details">
 					  			<div class="block">
-					  				<!-- time -->
-							  		<div class="time">
+					  				<div class="time">
 							  			<i class="fa fa-clock-o"></i>
 							  			<span class="time">9.00 AM</span>
 							  		</div>
-							  		<!-- Speaker -->
 							  		<div class="speaker">
 							  			<img src="images/speakers/speaker-thumb-one.jpg" alt="speaker-thumb-one">
 										<span class="name">Samanta Doe</span>
 							  		</div>
-							  		<!-- Subject -->
 							  		<div class="subject">Introduction to Wp</div>
-							  		<!-- Venue -->
 							  		<div class="venue">Auditorium A</div>
 					  			</div>
 					  		</li>
-					  		<!-- Schedule Details -->
 					  		<li class="schedule-details">
 					  			<div class="block">
-						  			<!-- time -->
-							  		<div class="time">
+						  			<div class="time">
 							  			<i class="fa fa-clock-o"></i>
 							  			<span class="time">10.00 AM</span>
 							  		</div>
-							  		<!-- Speaker -->
 							  		<div class="speaker">
 							  			<img src="images/speakers/speaker-thumb-two.jpg" alt="speaker-thumb-two">
 										<span class="name">Zerad Pawel</span>
 							  		</div>
-							  		<!-- Subject -->
 							  		<div class="subject">Principle of Wp</div>
-							  		<!-- Venue -->
 							  		<div class="venue">Auditorium B</div>
 					  			</div>
 					  		</li>
-					  		<!-- Schedule Details -->
 					  		<li class="schedule-details">
 					  			<div class="block">
-						  			<!-- time -->
-							  		<div class="time">
+						  			<div class="time">
 							  			<i class="fa fa-clock-o"></i>
 							  			<span class="time">12.00 AM</span>
 							  		</div>
-							  		<!-- Speaker -->
 							  		<div class="speaker">
 							  			<img src="images/speakers/speaker-thumb-three.jpg" alt="speaker-thumb-three">
 										<span class="name">Henry Mong</span>
 							  		</div>
-							  		<!-- Subject -->
 							  		<div class="subject">Wp Requirements</div>
-							  		<!-- Venue -->
 							  		<div class="venue">Auditorium C</div>
 					  			</div>
 					  		</li>
-					  		<!-- Schedule Details -->
 					  		<li class="schedule-details">
 					  			<div class="block">
-						  			<!-- time -->
-							  		<div class="time">
+						  			<div class="time">
 							  			<i class="fa fa-clock-o"></i>
 							  			<span class="time">2.00 PM</span>
 							  		</div>
-							  		<!-- Speaker -->
 							  		<div class="speaker">
 							  			<img src="images/speakers/speaker-thumb-four.jpg" alt="speaker-thumb-four">
 										<span class="name">Baily Leo</span>
 							  		</div>
-							  		<!-- Subject -->
 							  		<div class="subject">Introduction to Wp</div>
-							  		<!-- Venue -->
 							  		<div class="venue">Auditorium D</div>
 					  			</div>
 					  		</li>
-					  		<!-- Schedule Details -->
 					  		<li class="schedule-details">
 					  			<div class="block">
-						  			<!-- time -->
-							  		<div class="time">
+						  			<div class="time">
 							  			<i class="fa fa-clock-o"></i>
 							  			<span class="time">3.00 PM</span>
 							  		</div>
-							  		<!-- Speaker -->
 							  		<div class="speaker">
 							  			<img src="images/speakers/speaker-thumb-five.jpg" alt="speaker-thumb-five">
 										<span class="name">Lee Mun</span>
 							  		</div>
-							  		<!-- Subject -->
 							  		<div class="subject">Useful tips for Wp</div>
-							  		<!-- Venue -->
 							  		<div class="venue">Auditorium E</div>
 					  			</div>
 					  		</li>
-					  		<!-- Schedule Details -->
 					  		<li class="schedule-details">
 					  			<div class="block">
-						  			<!-- time -->
-							  		<div class="time">
+						  			<div class="time">
 							  			<i class="fa fa-clock-o"></i>
 							  			<span class="time">3.00 PM</span>
 							  		</div>
-							  		<!-- Speaker -->
 							  		<div class="speaker">
 							  			<img src="images/speakers/speaker-thumb-six.jpg" alt="speaker-thumb-six">
 										<span class="name">Lee Mun</span>
 							  		</div>
-							  		<!-- Subject -->
 							  		<div class="subject">Useful tips for Wp</div>
-							  		<!-- Venue -->
 							  		<div class="venue">Auditorium E</div>
 					  			</div>
 					  		</li>
@@ -651,7 +549,6 @@
 					  </div>
 					</div>
 				</div>
-				
 			</div>
 		</div>
 	</div>
