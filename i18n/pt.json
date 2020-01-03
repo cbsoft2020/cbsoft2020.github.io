@@ -85,16 +85,16 @@
   },
   "edicoes-anteriores": {
     "titulo": "Edições Anteriores",
-    "2019": "CBSoft 2019 - X Congresso Brasileiro de Software: Teoria e Prática</br> Salvador, Bahia | 23 a 27 de setembro de 2019 </br> <a target='_blank' href='http://cbsoft2019.ufba.br/'> http://cbsoft2019.ufba.br/ </a>",
-    "2018": "CBSoft 2018 - IX Congresso Brasileiro de Software: Teoria e Prática</br> São Carlos, São Paulo | 17 a 21 de setembro de 2018 </br> <a target='_blank' href='http://cbsoft2018.icmc.usp.br/#/cbsoft'> http://cbsoft2018.icmc.usp.br/#/cbsoft </a>",
-    "2017": "CBSoft 2017 - VIII Congresso Brasileiro de Software: Teoria e Prática</br> Fortaleza, Ceará | 18 a 22 de setembro de 2017 </br> <a target='_blank' href='http://www.lia.ufc.br/~cbsoft2017/'> http://www.lia.ufc.br/~cbsoft2017/ </a>",
-    "2016": "CBSoft 2016 - VII Congresso Brasileiro de Software: Teoria e Prática</br> Maringá, Paraná | 19 a 23 de setembro de 2016</br> <a target='_blank' href='http://cbsoft.org/cbsoft2016/vii-congresso-brasileiro-de-software-teoria-e-pratica-cbsoft-2016.html'> http://cbsoft.org/cbsoft2016/vii-congresso-brasileiro-de-software-teoria-e-pratica-cbsoft-2016.html </a>",
-    "2015": "CBSoft 2015 - VI Congresso Brasileiro de Software: Teoria e Prática</br> Belo Horizonte, Minas Gerais | 21 a 25 de setembro de 2015 </br> <a target='_blank' href='http://cbsoft.org/cbsoft2015/congresso-brasileiro-de-software-teoria-e-pratica-cbsoft'> http://cbsoft.org/cbsoft2015/congresso-brasileiro-de-software-teoria-e-pratica-cbsoft </a>",
-    "2014": "CBSoft 2014 - V Congresso Brasileiro de Software: Teoria e Prática</br> Maceió, Alagoas | ? ",
-    "2013": "CBSoft 2013 - IV Congresso Brasileiro de Software: Teoria e Prática</br> Brasília, Distrito Federal | 29 de setembro a 4 de outubro de 2013</br> <a target='_blank' href='http://cbsoft2013.unb.br'> http://cbsoft2013.unb.br </a>",
-    "2012": "CBSoft 2012 - III Congresso Brasileiro de Software: Teoria e Prática</br> Natal, Rio Grande do Norte | ? ?",
-    "2011": "CBSoft 2011 - II Congresso Brasileiro de Software: Teoria e Prática</br> São Paulo | 26 a 30 de setembro de 2011</br> <a target='_blank' href='http://www.each.usp.br/cbsoft2011/'> http://www.each.usp.br/cbsoft2011/</a>",
-    "2010": "CBSoft 2010 - I Congresso Brasileiro de Software: Teoria e Prática</br> Salvador, Bahia | 27 de setembro a 1º de outubro de 2010 </br> <a target='_blank' href='http://wiki.dcc.ufba.br/CBSOFT'> http://wiki.dcc.ufba.br/CBSOFT </a>"
+    "2019": "CBSoft 2019 - X Congresso Brasileiro de Software: Teoria e Prática</br> Salvador, Bahia | 23 a 27 de setembro de 2019 </br>",
+    "2018": "CBSoft 2018 - IX Congresso Brasileiro de Software: Teoria e Prática</br> São Carlos, São Paulo | 17 a 21 de setembro de 2018 </br>",
+    "2017": "CBSoft 2017 - VIII Congresso Brasileiro de Software: Teoria e Prática</br> Fortaleza, Ceará | 18 a 22 de setembro de 2017 </br>",
+    "2016": "CBSoft 2016 - VII Congresso Brasileiro de Software: Teoria e Prática</br> Maringá, Paraná | 19 a 23 de setembro de 2016</br>",
+    "2015": "CBSoft 2015 - VI Congresso Brasileiro de Software: Teoria e Prática</br> Belo Horizonte, Minas Gerais | 21 a 25 de setembro de 2015 </br>",
+    "2014": "CBSoft 2014 - V Congresso Brasileiro de Software: Teoria e Prática</br> Maceió, Alagoas | 28 de setembro a 3 de outubro de 2014 </br>",
+    "2013": "CBSoft 2013 - IV Congresso Brasileiro de Software: Teoria e Prática</br> Brasília, Distrito Federal | 29 de setembro a 4 de outubro de 2013</br>",
+    "2012": "CBSoft 2012 - III Congresso Brasileiro de Software: Teoria e Prática</br> Natal, Rio Grande do Norte | 23 a 28 de setembro de 2012</br>",
+    "2011": "CBSoft 2011 - II Congresso Brasileiro de Software: Teoria e Prática</br> São Paulo | 26 a 30 de setembro de 2011 </br>",
+    "2010": "CBSoft 2010 - I Congresso Brasileiro de Software: Teoria e Prática</br> Salvador, Bahia | 27 de setembro a 1º de outubro de 2010 </br>"
   },
   "sbes": {
     "titulo": "XXXIV SBES",

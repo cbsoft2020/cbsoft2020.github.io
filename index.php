@@ -553,8 +553,8 @@
 		</div>
 	</div>
 </section>
-
-<!--====  End of Schedule  ====-->
+-->
+<!-- ====  End of Schedule  ==== -->
 
 <!--==============================
 =            Sponsors            =

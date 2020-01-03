@@ -693,7 +693,11 @@ select.form-control:not([size]):not([multiple]) {
 .main-nav .ticket {
   background: #f4b321;
   display: block;
-  padding: 43px 43px;
+  padding-right: 24px;
+  padding-left: 24px;
+  padding-bottom: 45px;
+  padding-top: 45px;
+  
 }
 
 @media (max-width: 1024px) {
@@ -714,7 +718,7 @@ select.form-control:not([size]):not([multiple]) {
 
 .main-nav .ticket span {
   color: #fff;
-  font-size: 1.0rem;
+  font-size: 0.9rem;
   text-transform: uppercase;
   font-family: "Gotham", sans-serif;
   border-left: 1px solid #ffa366;
