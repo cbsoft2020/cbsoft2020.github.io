@@ -18,7 +18,7 @@
 
 <!--====  End of Navigation Section and Banner====-->
 
-<section id="org-apoio-patro" class="sponsors section bg-sponsors overlay-white">
+<section class="sponsors section bg-sponsors overlay-white">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">

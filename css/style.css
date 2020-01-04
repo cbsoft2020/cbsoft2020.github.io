@@ -2153,6 +2153,10 @@ select.form-control:not([size]):not([multiple]) {
   overflow: hidden;
 }
 
+.fa-lattes:before{
+  content:"\f2b5"
+}
+
 @media (max-width: 767px) {
   .map.new .register {
     width: 100%;

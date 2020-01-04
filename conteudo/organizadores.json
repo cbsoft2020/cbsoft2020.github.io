@@ -1,0 +1,16 @@
+{
+  "organizadores": [
+    {
+      "imagem": "org1.jpg",
+      "nome": "Everton Cavalcante",
+      "universidade": "UFRN",
+      "site": "#"
+    },
+    {
+      "imagem": "org2.jpg",
+      "nome": "Thais Batista",
+      "universidade": "UFRN",
+      "site": "#"
+    }
+  ]
+}

@@ -14,7 +14,7 @@
             </a>
             <!-- Dropdown list -->
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="#org-apoio-patro" data-i18n="menu.organizacao">Organização</a>
+              <a class="dropdown-item" href="organizacao.php" data-i18n="menu.organizacao">Organização</a>
               <a class="dropdown-item" href="#org-apoio-patro" data-i18n="menu.patrocinio">Patrocínio</a>
               <a class="dropdown-item" href="#programacao" data-i18n="menu.programacao">Programação</a>
               <a class="dropdown-item" href="#" data-i18n="menu.anais">Anais</a>

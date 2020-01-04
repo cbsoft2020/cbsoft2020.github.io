@@ -142,5 +142,9 @@
     "titulo": "Hospedagem",
     "descricao_1": "De acordo com estudos recentes do Instituto Brasileiro de Geografia e Estatística (IBGE), Natal é a segunda capital brasileira no número de leitos por 100 mil habitantes. A rede hoteleira da cidade é bastante diversificada e é capaz de atender às necessidades de públicos com diferentes requisitos de acomodação, variando desde níveis mais modestos, como albergues e pousadas, a níveis luxuosos, como hoteis e resorts na categoria cinco estrelas. Independentemente do tipo de acomodação, a maior parte dos estabelecimentos concentra-se nas proximidades da Via Costeira e da Praia de Ponta Negra, a principal região turística de Natal e distando não mais que seis quilômetros (aproximadamente dez minutos de carro, no máximo) do Wish Natal. Além dos hoteis, pousadas e albergues, há também opções de flats equipados ou mesmo oferecidas através de plataformas digitais, tais como o Airbnb.",
     "descricao_2": "O período de realização do CBSoft 2020, no final do mês de setembro, está inserido em uma época considerada de baixa estação em Natal, fazendo com que geralmente haja maior disponibilidade de acomodação e valores de diária mais baixos em comparação a outros meses do ano. A Comissão Organizadora do CBSoft 2020 também envidará esforços para estabelecer negociações com alguns estabelecimentos a fim de obter valores diferenciados com desconto para hóspedes que virão a Natal para participar do evento."
+  },
+  "org": {
+    "organizacao": "Organização",
+    "org_local": "Organização Local"
   }
 }
