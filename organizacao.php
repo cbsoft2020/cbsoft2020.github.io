@@ -53,7 +53,8 @@
                             <div class="primary-overlay"></div>
                             <div class="socials">
                                 <ul class="list-inline">
-                                    <li class="list-inline-item"><a href="<?php echo $org->site;?>"><i class="fa fa-id-card-o"></i></a></li>
+                                    <li class="list-inline-item"><a href="<?php echo $org->lattes;?>"><img src="images/icon/lattes-2.png" style="padding-top: 8px;" widith="40px" height="40px"></i></a></li>
+                                    <li class="list-inline-item"><a href="mailto:<?php echo $org->email;?>?Subject=CBSoft%202020"><i class="fa fa-envelope "></i></a></li>
                                 </ul>
                             </div>
                         </div>

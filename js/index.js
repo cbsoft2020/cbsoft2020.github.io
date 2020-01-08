@@ -1,7 +1,7 @@
 import Translator from "./translator.js";
 
 var translator = new Translator({
-  persist: false,
+  persist: true,
   languages: ["pt", "en"],
   defaultLanguage: "pt",
   detectLanguage: true,
@@ -9,6 +9,14 @@ var translator = new Translator({
 });
 
 translator.load();
+
+// Carrega a página com a bandeira correta
+var lang = translator.getLanguage();
+var img = document.getElementById("toggleImage");
+
+img.src = (lang == "pt") ? "images/icon/en.png" : "images/icon/pt.png";
+
+// -----
 
 document.querySelector("form").addEventListener("click", function(evt) {
   if (evt.target.tagName === "INPUT") {

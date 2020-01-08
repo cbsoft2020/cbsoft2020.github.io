@@ -55,6 +55,14 @@ p, a, li, blockquote, label {
   font-size: 0.9375rem;
 }
 
+/*------ Página de Edições Anteriores ------*/
+.desc-anteriores {
+  color: #161616;
+  text-align: center;
+  padding: 10px;
+}
+/* ----------------------------------------- */
+
 ul.social-links {
   margin-bottom: 0;
 }

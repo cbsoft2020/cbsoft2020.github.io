@@ -4,13 +4,15 @@
       "imagem": "org1.jpg",
       "nome": "Everton Cavalcante",
       "universidade": "UFRN",
-      "site": "#"
+      "lattes": "http://lattes.cnpq.br/5065548216266121",
+      "email": "everton@dimap.ufrn.br"
     },
     {
       "imagem": "org2.jpg",
       "nome": "Thais Batista",
       "universidade": "UFRN",
-      "site": "#"
+      "lattes": "http://lattes.cnpq.br/5521922960404236",
+      "email": "thaisbatista@gmail.com"
     }
   ]
 }

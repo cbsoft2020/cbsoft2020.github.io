@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <!-- HEAD -->
 <?php 
 	include_once ("header.php");
