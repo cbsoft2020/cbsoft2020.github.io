@@ -18,7 +18,7 @@
 
 
 <!--========================================
-=            Navigation Section and Banner         =
+=      Navigation Section and Banner       =
 =========================================-->
 
 <?php 
@@ -38,12 +38,12 @@
         <div class="row">
 			<div class="col-12">
 				<div class="sponsor-title text-center">
-					<h5 data-i18n="org.org_local"></h5>
+					<h5 data-i18n="org.org_local"></h5><br/>
 				</div>
 			</div>
 		</div>
-		<div class="row">
-            <?php
+		<div class="row justify-content-center">
+			<?php
                 foreach($data->organizadores as $org){
             ?>
                 <div class="col-lg-3 col-md-4 col-sm-6">
@@ -53,7 +53,7 @@
                             <div class="primary-overlay"></div>
                             <div class="socials">
                                 <ul class="list-inline">
-                                    <li class="list-inline-item"><a href="<?php echo $org->lattes;?>"><img src="images/icon/lattes-2.png" style="padding-top: 8px;" widith="40px" height="40px"></i></a></li>
+                                    <li class="list-inline-item"><a href="<?php echo $org->lattes;?>"><img src="images/icon/lattes-2.png" style="padding-top: 8px;" width="40px" height="40px"></i></a></li>
                                     <li class="list-inline-item"><a href="mailto:<?php echo $org->email;?>?Subject=CBSoft%202020"><i class="fa fa-envelope "></i></a></li>
                                 </ul>
                             </div>
