@@ -9,7 +9,7 @@
 
 
 <!--========================================
-=            Navigation Section and Banner         =
+=      Navigation Section and Banner       =
 =========================================-->
 
 <?php 
@@ -30,13 +30,9 @@
 			<div class="col-lg-3 col-md-4 col-sm-6">
 				<div class="speaker-item">
 					<div class="image">
-						<img src="images/edicoes-anteriores/cbsoft2019-2.png" alt="speaker" class="img-fluid">
-						<div class="primary-overlay"></div>
-						<div class="socials">
-							<a href="http://cbsoft2019.ufba.br/" target="_blank">
-								<p class="desc-anteriores" data-i18n="edicoes-anteriores.2019"></p>
-							</a>
-						</div>
+						<a href="http://cbsoft2019.ufba.br/" target="_blank">
+							<img src="images/edicoes-anteriores/cbsoft2019-2.png" alt="speaker" class="img-fluid">
+						</a>
 					</div>
 					<div class="content text-center">
 						<p style="font-size: 16px">
@@ -49,144 +45,126 @@
 			<div class="col-lg-3 col-md-4 col-sm-6">
 				<div class="speaker-item">
 					<div class="image">
-						<img src="images/edicoes-anteriores/cbsoft2018-2.png" alt="speaker" class="img-fluid">
-						<div class="primary-overlay"></div>
-						<div class="socials">
-							<a href="http://cbsoft2018.icmc.usp.br/#/cbsoft" target="_blank">
-								<p class="desc-anteriores" data-i18n="edicoes-anteriores.2018"></p>
-							</a>
-						</div>
+						<a href="http://cbsoft2018.icmc.usp.br/#/cbsoft" target="_blank">
+							<img src="images/edicoes-anteriores/cbsoft2018-2.png" alt="speaker" class="img-fluid">
+						</a>
 					</div>
 					<div class="content text-center">
-						<p style="font-size: 16px">CBSoft 2018</p>
+						<p style="font-size: 16px">CBSoft 2018<br/>
+							<span style="font-size: 13px">São Carlos, São Paulo</span>
+						</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-4 col-sm-6">
 				<div class="speaker-item">
 					<div class="image">
-						<img src="images/edicoes-anteriores/cbsoft2017.jpg" alt="speaker" class="img-fluid">
-						<div class="primary-overlay"></div>
-						<div class="socials">
-							<a href="http://www.lia.ufc.br/~cbsoft2017/" target="_blank">
-								<p class="desc-anteriores" data-i18n="edicoes-anteriores.2017"></p>
-							</a>
-						</div>
+						<a href="http://www.lia.ufc.br/~cbsoft2017/" target="_blank">
+							<img src="images/edicoes-anteriores/cbsoft2017.jpg" alt="speaker" class="img-fluid">
+						</a>
 					</div>
 					<div class="content text-center">
-						<p style="font-size: 16px">CBSoft 2017</p>
+						<p style="font-size: 16px">CBSoft 2017<br/>
+							<span style="font-size: 13px">Fortaleza, Ceará</span>
+						</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-4 col-sm-6">
 				<div class="speaker-item">
 					<div class="image">
-						<img src="images/edicoes-anteriores/cbsoft2016-2.png" alt="speaker" class="img-fluid">
-						<div class="primary-overlay"></div>
-						<div class="socials">
-							<a href="http://cbsoft.org/cbsoft2016/vii-congresso-brasileiro-de-software-teoria-e-pratica-cbsoft-2016.html" target="_blank">
-								<p class="desc-anteriores" data-i18n="edicoes-anteriores.2016"></p>
-							</a>
-						</div>
+						<a href="http://cbsoft.org/cbsoft2016/vii-congresso-brasileiro-de-software-teoria-e-pratica-cbsoft-2016.html" target="_blank">
+							<img src="images/edicoes-anteriores/cbsoft2016-2.png" alt="speaker" class="img-fluid">
+						</a>
 					</div>
 					<div class="content text-center">
-						<p style="font-size: 16px">CBSoft 2016</p>
+						<p style="font-size: 16px">CBSoft 2016<br/>
+							<span style="font-size: 13px">Maringá, Paraná</span>
+						</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-4 col-sm-6">
 				<div class="speaker-item">
 					<div class="image">
-						<img src="images/edicoes-anteriores/cbsoft2015-2.png" alt="speaker" class="img-fluid">
-						<div class="primary-overlay"></div>
-						<div class="socials">
-							<a href="http://cbsoft.org/cbsoft2015/congresso-brasileiro-de-software-teoria-e-pratica-cbsoft" target="_blank">
-								<p class="desc-anteriores" data-i18n="edicoes-anteriores.2015"></p>
-							</a>
-						</div>
+						<a href="http://cbsoft.org/cbsoft2015/congresso-brasileiro-de-software-teoria-e-pratica-cbsoft" target="_blank">
+							<img src="images/edicoes-anteriores/cbsoft2015-2.png" alt="speaker" class="img-fluid">
+						</a>
 					</div>
 					<div class="content text-center">
-						<p style="font-size: 16px">CBSoft 2015</p>
+						<p style="font-size: 16px">CBSoft 2015<br/>
+							<span style="font-size: 13px">Belo Horizonte,<br/>Minas Gerais</span>
+						</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-4 col-sm-6">
 				<div class="speaker-item">
 					<div class="image">
-						<img src="images/edicoes-anteriores/cbsoft2014-2.png" alt="speaker" class="img-fluid">
-						<div class="primary-overlay"></div>
-						<div class="socials">
-							<a href="https://www.facebook.com/cbsoft2014" target="_blank">
-								<p class="desc-anteriores" data-i18n="edicoes-anteriores.2014"></p>
-							</a>
-						</div>
+						<a href="https://www.facebook.com/cbsoft2014" target="_blank">
+							<img src="images/edicoes-anteriores/cbsoft2014-2.png" alt="speaker" class="img-fluid">
+						</a>
 					</div>
 					<div class="content text-center">
-						<p style="font-size: 16px">CBSoft 2014</p>
+						<p style="font-size: 16px">CBSoft 2014<br/>
+							<span style="font-size: 13px">Maceió, Alagoas</span>
+						</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-4 col-sm-6">
 				<div class="speaker-item">
 					<div class="image">
-						<img src="images/edicoes-anteriores/cbsoft2013-2.png" alt="speaker" class="img-fluid">
-						<div class="primary-overlay"></div>
-						<div class="socials">
-							<a href="http://cbsoft2013.unb.br" target="_blank">
-								<p class="desc-anteriores" data-i18n="edicoes-anteriores.2013"></p>
-							</a>
-						</div>
+						<a href="http://cbsoft2013.unb.br" target="_blank">
+							<img src="images/edicoes-anteriores/cbsoft2013-2.png" alt="speaker" class="img-fluid">
+						</a>
 					</div>
 					<div class="content text-center">
-						<p style="font-size: 16px">CBSoft 2013</p>
+						<p style="font-size: 16px">CBSoft 2013<br/>
+							<span style="font-size: 13px">Brasília, Distrito Federal</span>
+						</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-4 col-sm-6">
 				<div class="speaker-item">
 					<div class="image">
-						<img src="images/edicoes-anteriores/cbsoft2012.jpg" alt="speaker" class="img-fluid">
-						<div class="primary-overlay"></div>
-						<div class="socials">
-							<a href="https://www.facebook.com/cbsoft.natal/" target="_blank">
-								<p class="desc-anteriores" data-i18n="edicoes-anteriores.2012"></p>
-							</a>
-						</div>
+						<a href="https://www.facebook.com/cbsoft.natal/" target="_blank">
+							<img src="images/edicoes-anteriores/cbsoft2012.jpg" alt="speaker" class="img-fluid">
+						</a>
 					</div>
 					<div class="content text-center">
-						<p style="font-size: 16px">CBSoft 2012</p>
+						<p style="font-size: 16px">CBSoft 2012<br/>
+							<span style="font-size: 13px">Natal, Rio Grande do Norte</span>
+						</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-4 col-sm-6">
 				<div class="speaker-item">
 					<div class="image">
-						<img src="images/edicoes-anteriores/cbsoft2011-2.png" alt="speaker" class="img-fluid">
-						<div class="primary-overlay"></div>
-						<div class="socials">
-							<a href="http://www.each.usp.br/cbsoft2011/" target="_blank">
-								<p class="desc-anteriores" data-i18n="edicoes-anteriores.2011"></p>
-							</a>
-						</div>
+						<a href="http://www.each.usp.br/cbsoft2011/" target="_blank">
+							<img src="images/edicoes-anteriores/cbsoft2011-2.png" alt="speaker" class="img-fluid">
+						</a>
 					</div>
 					<div class="content text-center">
-						<p style="font-size: 16px">CBSoft 2011</p>
+						<p style="font-size: 16px">CBSoft 2011<br/>
+							<span style="font-size: 13px">São Paulo</span>
+						</p>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-3 col-md-4 col-sm-6">
 				<div class="speaker-item">
 					<div class="image">
-						<img src="images/edicoes-anteriores/cbsoft2010-2.png" alt="speaker" class="img-fluid">
-						<div class="primary-overlay"></div>
-						<div class="socials">
-							<a href="http://wiki.dcc.ufba.br/CBSOFT" target="_blank">
-								<p class="desc-anteriores" data-i18n="edicoes-anteriores.2010"></p>
-							</a>
-						</div>
+						<a href="http://wiki.dcc.ufba.br/CBSOFT" target="_blank">
+							<img src="images/edicoes-anteriores/cbsoft2010-2.png" alt="speaker" class="img-fluid">
+						</a>
 					</div>
 					<div class="content text-center">
-						<p style="font-size: 16px">CBSoft 2010</p>
+						<p style="font-size: 16px">CBSoft 2010<br/>
+							<span style="font-size: 13px">Salvador, Bahia</span>
+						</p>
 					</div>
 				</div>
 			</div>
