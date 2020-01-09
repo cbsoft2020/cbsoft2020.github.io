@@ -39,7 +39,10 @@
 						</div>
 					</div>
 					<div class="content text-center">
-						<p>CBSoft 2019</p>
+						<p style="font-size: 16px">
+							CBSoft 2019<br/>
+							<span style="font-size: 13px">Salvador, Bahia</span>
+						</p>
 					</div>
 				</div>
 			</div>
@@ -55,7 +58,7 @@
 						</div>
 					</div>
 					<div class="content text-center">
-						<p>CBSoft 2018</p>
+						<p style="font-size: 16px">CBSoft 2018</p>
 					</div>
 				</div>
 			</div>
@@ -71,7 +74,7 @@
 						</div>
 					</div>
 					<div class="content text-center">
-						<p>CBSoft 2017</p>
+						<p style="font-size: 16px">CBSoft 2017</p>
 					</div>
 				</div>
 			</div>
@@ -87,7 +90,7 @@
 						</div>
 					</div>
 					<div class="content text-center">
-						<p>CBSoft 2016</p>
+						<p style="font-size: 16px">CBSoft 2016</p>
 					</div>
 				</div>
 			</div>
@@ -103,7 +106,7 @@
 						</div>
 					</div>
 					<div class="content text-center">
-						<p>CBSoft 2015</p>
+						<p style="font-size: 16px">CBSoft 2015</p>
 					</div>
 				</div>
 			</div>
@@ -119,7 +122,7 @@
 						</div>
 					</div>
 					<div class="content text-center">
-						<p>CBSoft 2014</p>
+						<p style="font-size: 16px">CBSoft 2014</p>
 					</div>
 				</div>
 			</div>
@@ -135,7 +138,7 @@
 						</div>
 					</div>
 					<div class="content text-center">
-						<p>CBSoft 2013</p>
+						<p style="font-size: 16px">CBSoft 2013</p>
 					</div>
 				</div>
 			</div>
@@ -151,7 +154,7 @@
 						</div>
 					</div>
 					<div class="content text-center">
-						<p>CBSoft 2012</p>
+						<p style="font-size: 16px">CBSoft 2012</p>
 					</div>
 				</div>
 			</div>
@@ -167,7 +170,7 @@
 						</div>
 					</div>
 					<div class="content text-center">
-						<p>CBSoft 2011</p>
+						<p style="font-size: 16px">CBSoft 2011</p>
 					</div>
 				</div>
 			</div>
@@ -183,7 +186,7 @@
 						</div>
 					</div>
 					<div class="content text-center">
-						<p>CBSoft 2010</p>
+						<p style="font-size: 16px">CBSoft 2010</p>
 					</div>
 				</div>
 			</div>
