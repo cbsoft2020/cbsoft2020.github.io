@@ -35,9 +35,9 @@
 						</a>
 					</div>
 					<div class="content text-center">
-						<p style="font-size: 16px">
+						<p style="font-size: 18px">
 							CBSoft 2019<br/>
-							<span style="font-size: 13px">Salvador, Bahia</span>
+							<span style="font-size: 14px">Salvador, Bahia</span>
 						</p>
 					</div>
 				</div>
@@ -50,8 +50,8 @@
 						</a>
 					</div>
 					<div class="content text-center">
-						<p style="font-size: 16px">CBSoft 2018<br/>
-							<span style="font-size: 13px">São Carlos, São Paulo</span>
+						<p style="font-size: 18px">CBSoft 2018<br/>
+							<span style="font-size: 14px">São Carlos, São Paulo</span>
 						</p>
 					</div>
 				</div>
@@ -64,8 +64,8 @@
 						</a>
 					</div>
 					<div class="content text-center">
-						<p style="font-size: 16px">CBSoft 2017<br/>
-							<span style="font-size: 13px">Fortaleza, Ceará</span>
+						<p style="font-size: 18px">CBSoft 2017<br/>
+							<span style="font-size: 14px">Fortaleza, Ceará</span>
 						</p>
 					</div>
 				</div>
@@ -78,8 +78,8 @@
 						</a>
 					</div>
 					<div class="content text-center">
-						<p style="font-size: 16px">CBSoft 2016<br/>
-							<span style="font-size: 13px">Maringá, Paraná</span>
+						<p style="font-size: 18px">CBSoft 2016<br/>
+							<span style="font-size: 14px">Maringá, Paraná</span>
 						</p>
 					</div>
 				</div>
@@ -92,8 +92,8 @@
 						</a>
 					</div>
 					<div class="content text-center">
-						<p style="font-size: 16px">CBSoft 2015<br/>
-							<span style="font-size: 13px">Belo Horizonte,<br/>Minas Gerais</span>
+						<p style="font-size: 18px">CBSoft 2015<br/>
+							<span style="font-size: 14px">Belo Horizonte,<br/>Minas Gerais</span>
 						</p>
 					</div>
 				</div>
@@ -106,8 +106,8 @@
 						</a>
 					</div>
 					<div class="content text-center">
-						<p style="font-size: 16px">CBSoft 2014<br/>
-							<span style="font-size: 13px">Maceió, Alagoas</span>
+						<p style="font-size: 18px">CBSoft 2014<br/>
+							<span style="font-size: 14px">Maceió, Alagoas</span>
 						</p>
 					</div>
 				</div>
@@ -120,8 +120,8 @@
 						</a>
 					</div>
 					<div class="content text-center">
-						<p style="font-size: 16px">CBSoft 2013<br/>
-							<span style="font-size: 13px">Brasília, Distrito Federal</span>
+						<p style="font-size: 18px">CBSoft 2013<br/>
+							<span style="font-size: 14px">Brasília, Distrito Federal</span>
 						</p>
 					</div>
 				</div>
@@ -134,8 +134,8 @@
 						</a>
 					</div>
 					<div class="content text-center">
-						<p style="font-size: 16px">CBSoft 2012<br/>
-							<span style="font-size: 13px">Natal, Rio Grande do Norte</span>
+						<p style="font-size: 18px">CBSoft 2012<br/>
+							<span style="font-size: 14px">Natal,<br/>Rio Grande do Norte</span>
 						</p>
 					</div>
 				</div>
@@ -148,8 +148,8 @@
 						</a>
 					</div>
 					<div class="content text-center">
-						<p style="font-size: 16px">CBSoft 2011<br/>
-							<span style="font-size: 13px">São Paulo</span>
+						<p style="font-size: 18px">CBSoft 2011<br/>
+							<span style="font-size: 14px">São Paulo</span>
 						</p>
 					</div>
 				</div>
@@ -162,8 +162,8 @@
 						</a>
 					</div>
 					<div class="content text-center">
-						<p style="font-size: 16px">CBSoft 2010<br/>
-							<span style="font-size: 13px">Salvador, Bahia</span>
+						<p style="font-size: 18px">CBSoft 2010<br/>
+							<span style="font-size: 14px">Salvador, Bahia</span>
 						</p>
 					</div>
 				</div>
