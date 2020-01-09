@@ -59,8 +59,8 @@
                             </div>
                         </div>
                         <div class="content text-center">
-                            <p><?php echo $org->nome;?></p>
-                            <p><?php echo $org->universidade;?></p>
+                            <p style="font-size: 18px"><?php echo $org->nome;?></p>
+                            <p style="font-size: 14px"><?php echo $org->universidade;?></p>
                         </div>
                     </div>
                 </div>
