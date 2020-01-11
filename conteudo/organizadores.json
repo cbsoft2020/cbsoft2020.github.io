@@ -1,14 +1,21 @@
 {
   "organizadores": [
     {
-      "imagem": "org1.jpg",
+      "imagem": "everton.jpg",
       "nome": "Everton Cavalcante",
       "universidade": "UFRN",
       "lattes": "http://lattes.cnpq.br/5065548216266121",
       "email": "everton@dimap.ufrn.br"
     },
     {
-      "imagem": "org2.jpg",
+      "imagem": "chico.jpg",
+      "nome": "Francisco Dantas",
+      "universidade": "UERN",
+      "lattes": "http://lattes.cnpq.br/5525562330158282",
+      "email": "fdmneto@gmail.com"
+    },
+    {
+      "imagem": "thais.jpg",
       "nome": "Thais Batista",
       "universidade": "UFRN",
       "lattes": "http://lattes.cnpq.br/5521922960404236",
