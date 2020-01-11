@@ -85,16 +85,16 @@
   },
   "edicoes-anteriores": {
     "titulo": "Edições Anteriores",
-    "2019": "X Congresso Brasileiro de Software: Teoria e Prática | Salvador, Bahia | 23 a 27 de setembro de 2019",
-    "2018": "IX Congresso Brasileiro de Software: Teoria e Prática | São Carlos, São Paulo | 17 a 21 de setembro de 2018",
-    "2017": "VIII Congresso Brasileiro de Software: Teoria e Prática | Fortaleza, Ceará | 18 a 22 de setembro de 2017",
-    "2016": "VII Congresso Brasileiro de Software: Teoria e Prática | Maringá, Paraná | 19 a 23 de setembro de 2016",
-    "2015": "VI Congresso Brasileiro de Software: Teoria e Prática | Belo Horizonte, Minas Gerais | 21 a 25 de setembro de 2015",
-    "2014": "V Congresso Brasileiro de Software: Teoria e Prática | Maceió, Alagoas | 28 de setembro a 3 de outubro de 2014",
-    "2013": "IV Congresso Brasileiro de Software: Teoria e Prática | Brasília, Distrito Federal | 29 de setembro a 4 de outubro de 2013",
-    "2012": "III Congresso Brasileiro de Software: Teoria e Prática | Natal, Rio Grande do Norte | 23 a 28 de setembro de 2012",
-    "2011": "II Congresso Brasileiro de Software: Teoria e Prática | São Paulo | 26 a 30 de setembro de 2011",
-    "2010": "I Congresso Brasileiro de Software: Teoria e Prática | Salvador, Bahia | 27 de setembro a 1º de outubro de 2010"
+    "2019": "Salvador, Bahia | 23 a 27 de setembro de 2019",
+    "2018": "São Carlos, São Paulo | 17 a 21 de setembro de 2018",
+    "2017": "Fortaleza, Ceará | 18 a 22 de setembro de 2017",
+    "2016": "Maringá, Paraná | 19 a 23 de setembro de 2016",
+    "2015": "Belo Horizonte, Minas Gerais | 21 a 25 de setembro de 2015",
+    "2014": "Maceió, Alagoas | 28 de setembro a 3 de outubro de 2014",
+    "2013": "Brasília, Distrito Federal | 29 de setembro a 4 de outubro de 2013",
+    "2012": "Natal, Rio Grande do Norte | 23 a 28 de setembro de 2012",
+    "2011": "São Paulo | 26 a 30 de setembro de 2011",
+    "2010": "Salvador, Bahia | 27 de setembro a 1º de outubro de 2010"
   },
   "sbes": {
     "titulo": "XXXIV SBES",

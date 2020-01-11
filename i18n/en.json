@@ -85,16 +85,16 @@
   },
   "edicoes-anteriores": {
     "titulo": "Previous Editions",
-    "2019": "10th Brazilian Conference on Software: Theory and Practice | Salvador, Bahia | September 23-27, 2019",
-    "2018": "9th Brazilian Conference on Software: Theory and Practice | São Carlos, São Paulo | September 17-21, 2018",
-    "2017": "8th Brazilian Conference on Software: Theory and Practice | Fortaleza, Ceará | September 18-22, 2017",
-    "2016": "7th Brazilian Conference on Software: Theory and Practice | Maringá, Paraná | September 19-23, 2016",
-    "2015": "6th Brazilian Conference on Software: Theory and Practice | Belo Horizonte, Minas Gerais | September 21-25, 2015",
-    "2014": "5th Brazilian Conference on Software: Theory and Practice | Maceió, Alagoas | September 28 - October 3, 2014",
-    "2013": "4th Brazilian Conference on Software: Theory and Practice Brasília, Distrito Federal September 29-October 4,2013",
-    "2012": "3rd Brazilian Conference on Software: Theory and Practice | Natal, Rio Grande do Norte | September 23-28, 2012",
-    "2011": "2nd Brazilian Conference on Software: Theory and Practice | São Paulo | September 26-30, 2011",
-    "2010": "1st Brazilian Conference on Software: Theory and Practice | Salvador, Bahia | September 27-October 1, 2020"
+    "2019": "Salvador, Bahia | September 23-27, 2019",
+    "2018": "São Carlos, São Paulo | September 17-21, 2018",
+    "2017": "Fortaleza, Ceará | September 18-22, 2017",
+    "2016": "Maringá, Paraná | September 19-23, 2016",
+    "2015": "Belo Horizonte, Minas Gerais | September 21-25, 2015",
+    "2014": "Maceió, Alagoas | September 28 - October 3, 2014",
+    "2013": "Brasília, Distrito Federal | September 29-October 4,2013",
+    "2012": "Natal, Rio Grande do Norte | September 23-28, 2012",
+    "2011": "São Paulo | September 26-30, 2011",
+    "2010": "Salvador, Bahia | September 27-October 1, 2020"
   },
   "sbes": {
     "titulo": "34th SBES",

@@ -59,7 +59,7 @@
   <!-- SyoTimer -->
   <script src="plugins/syotimer/jquery.syotimer.min.js"></script>
   <!-- Google Mapl -->
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBDY6ZYnoEJn02AB5ejzk6EoXk358wumNE"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBoAkFxAfyDvzazOPjqTPYXSDJDeZ7tzww"></script>
   <script type="text/javascript" src="plugins/google-map/gmap.js"></script>
   <!-- Custom Script -->
   <script type = "module" src="js/custom.js"></script>
