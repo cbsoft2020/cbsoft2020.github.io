@@ -10,7 +10,7 @@
 
 
 <!--========================================
-=            Navigation Section and Banner         =
+=      Navigation Section and Banner       =
 =========================================-->
 
 <?php 
@@ -642,9 +642,8 @@
 <!--================================
 =            Google Map            =
 =================================-->
-
+<!--
 <section class="map">
-	<!-- Google Map -->
 	<div id="map"></div>
 	<div class="address-block">
 		<h4>CBSoft 2020</h4>
@@ -658,7 +657,7 @@
         </ul>
 	</div>
 </section>
-
+-->
 <!--====  End of Google Map  ====-->
 
 <!--============================

@@ -85,7 +85,8 @@
               </a>
               <!-- Dropdown list -->
               <div class="dropdown-menu">
-                  <a class="dropdown-item" href="local.php" data-i18n="menu.local">Local do Evento</a>
+                  <!-- <a class="dropdown-item" href="local.php" data-i18n="menu.local">Local do Evento</a> -->
+				  <a class="dropdown-item" href="#" data-i18n="menu.local">Local do Evento</a>
                   <a class="dropdown-item" href="sobre-natal.php" data-i18n="menu.natal">Sobre Natal</a>
                   <a class="dropdown-item" href="informacoes-viagem.php" data-i18n="menu.infoViagem">Informações de Viagem</a>
                   <a class="dropdown-item" href="hospedagem.php" data-i18n="menu.hospedagem">Hospedagem</a>
