@@ -610,7 +610,7 @@
 						<li class="list-inline-item">
 							<div class="image-block text-center">
 								<a href="http://portal.uern.br/" target="_blank">
-									<img src="images/sponsors/uern.png" alt="sponsors-logo" class="img-fluid">
+									<img src="images/sponsors/uern.png" alt="sponsors-logo" class="img-fluid" style="height: 40px">
 								</a>
 							</div>
 						</li>
