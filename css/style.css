@@ -215,6 +215,12 @@ button:hover {
   background-position: center center;
 }
 
+@media (max-width: 767px) {
+  #main-banner {
+	  display: none;
+  }
+}
+
 .bg-banner-two {
   background: url(../images/background/banner-bg-two.jpg) no-repeat;
   background-size: cover;

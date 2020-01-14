@@ -115,7 +115,7 @@
 =            Banner            =
 =============================-->
 
-<section class="banner bg-banner-one overlay">
+<section id="main-banner" class="banner bg-banner-one overlay">
 	<!--
 	<div class="container subsc_but_container">
 		<div class="row subsc_but">
