@@ -34,7 +34,7 @@
                     </div>
                     <div class="description-one">
                         <p data-i18n="sobre-natal.quick-facts"></p>
-                        <img src="images/quick-facts/qf1-br.png" id="about-natal" width="80%" height="80%" style="margin-top: 10px">
+                        <img src="images/quick-facts/qf1-br.png" id="about-natal" width="80%" height="80%">
                     </div>
                     <div class="description-one">
                         <p data-i18n="sobre-natal.descricao_2"></p>
