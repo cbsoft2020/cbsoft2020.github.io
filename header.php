@@ -1,16 +1,28 @@
 <script>
   // Change country flag
   function toggleImage(inputImg) {
+    var aboutImg = document.getElementById("about-natal");
     var img1   = "images/icon/en.png";
     var img2   = "images/icon/pt.png";
     var source = inputImg.getAttribute('src');
+
+    // Identifica a página atual
+    var url = window.location.pathname;
+    var absoluto = url.split("/")[url.split("/").length -1];
     
     if (source === img1) {
       inputImg.src   = img2;
       inputImg.value = "en";
+
+      // Se estiver na página sobre Natal
+      if(absoluto === "sobre-natal.php")
+        aboutImg.src = "images/quick-facts/qf1-en.png"; // Imagem da página sobre Natal português
     } else {
       inputImg.src   = img1;
       inputImg.value = "pt";
+
+      if(absoluto === "sobre-natal.php")
+        aboutImg.src = "images/quick-facts/qf1-br.png"; // Imagem da página sobre Natal inglês
     }
   }
 </script>

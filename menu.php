@@ -15,8 +15,8 @@
             <!-- Dropdown list -->
             <div class="dropdown-menu">
               <a class="dropdown-item" href="organizacao.php" data-i18n="menu.organizacao">Organização</a>
-              <a class="dropdown-item" href="#org-apoio-patro" data-i18n="menu.patrocinio">Patrocínio</a>
-              <a class="dropdown-item" href="#programacao" data-i18n="menu.programacao">Programação</a>
+              <a class="dropdown-item" href="index.php#org-apoio-patro" data-i18n="menu.patrocinio">Patrocínio</a>
+              <a class="dropdown-item" href="index.php#programacao" data-i18n="menu.programacao">Programação</a>
               <a class="dropdown-item" href="#" data-i18n="menu.anais">Anais</a>
               <a class="dropdown-item" href="trilha-industrial.php" data-i18n="menu.trilha_industria">Trilha da Indústria</a>
               <a class="dropdown-item" href="#" data-i18n="menu.tutoriais">Tutoriais</a>
@@ -73,7 +73,7 @@
               </div>
           </li>
           <li class="nav-item dropdown dropdown-slide">
-              <a class="nav-link" href="*">Workshops
+              <a class="nav-link" href="#">Workshops
               </a>
               <!-- Dropdown list -->
               <div class="dropdown-menu">
@@ -81,7 +81,7 @@
               </div>
           </li>
           <li class="nav-item dropdown dropdown-slide">
-              <a class="nav-link" href="*" data-i18n="menu.informacoes">Informações
+              <a class="nav-link" href="#" data-i18n="menu.informacoes">Informações
               </a>
               <!-- Dropdown list -->
               <div class="dropdown-menu">
