@@ -21,7 +21,6 @@
               <a class="dropdown-item" href="trilha-industrial.php" data-i18n="menu.trilha_industria">Trilha da Indústria</a>
               <a class="dropdown-item" href="#" data-i18n="menu.tutoriais">Tutoriais</a>
               <a class="dropdown-item" href="#" data-i18n="menu.minicursos">Minicursos</a>
-              <a class="dropdown-item" href="ferramentas.php" data-i18n="menu.sessao_ferramentas">Sessão de Ferramentas</a>
               <a class="dropdown-item" href="workshop-teses-dissertacoes.php" data-i18n="menu.wtdsoft">Workshop de Teses e Dissertações</a>
               <a class="dropdown-item" href="codigo-conduta.php" data-i18n="menu.codigo_conduta">Código de Conduta</a>
               <a class="dropdown-item" href="edicoes-anteriores.php" data-i18n="menu.edicoes_anteriores">Edições Anteriores</a>
@@ -34,8 +33,9 @@
             <div class="dropdown-menu">
               <a class="dropdown-item" href="sbes.php" data-i18n="menu.home_SBES">Página Principal</a>
               <a class="dropdown-item" href="sbes.php" data-i18n="menu.trilha_pesquisa">Trilha de Pesquisa</a>
+			  <a class="dropdown-item" href="sbes.php" data-i18n="menu.trilha_ideias_inovadoras">Trilha de Ideias Inovadoras e Resultados Emergentes</a>
               <a class="dropdown-item" href="sbes.php" data-i18n="menu.trilha_educacao">Trilha de Educação</a>
-              <a class="dropdown-item" href="sbes.php" data-i18n="menu.trilha_ideias_inovadoras">Trilha de Ideias Inovadoras e Resultados Emergentes</a>
+			  <a class="dropdown-item" href="sbes.php" data-i18n="menu.trilha_ferramentas">Trilha de Ferramentas</a>
               <a class="dropdown-item" href="sbes.php" data-i18n="menu.palestras">Palestras</a>
             </div>
           </li>
