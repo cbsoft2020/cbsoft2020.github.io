@@ -102,8 +102,9 @@
     "descricao_1": "O <b>Simpósio Brasileiro de Engenharia de Software (SBES)</b> é o mais tradicional simpósio promovido pela Sociedade Brasileira de Computação (SBC) na área de desenvolvimento de software. Ao longo de suas 33 edições já realizadas, o SBES se consolidou como o mais importante evento técnico-científico na área de Engenharia de Software no Brasil, atraindo diversos participantes entre pesquisadores, estudantes e profissionais do País e do exterior. Seus principais objetos de estudo são processos, métodos, técnicas e ferramentas para o desenvolvimento, manutenção e evolução de software.</br> O SBES inclui três trilhas:</br>",
     "trilhas": [
       "A <b>Trilha de Pesquisa</b> publica sólidas contribuições para a comunidade em Engenharia de Software, com artigos revisados com base na sua originalidade, relevância, solidez técnica e clareza de apresentação.",
-      "A <b>Trilha de Ideias Inovadoras e Resultados Emergentes</b> oferece uma oportunidade para que pesquisadores e profissionais submetam e apresentem ideias inovadoras e resultados promissores em estágios iniciais de pesquisa.",
-      "A <b>Trilha de Educação</b> publica trabalhos que abordam desafios, inovações e melhores práticas para a Educação na área de Engenharia de Software."
+      "A <b>Trilha de Ideias Inovadoras e Resultados Emergentes</b> oferece uma oportunidade para que pesquisadores e profissionais submetam e apresentem ideias e abordagens (métodos, técnicas e ferramentas) inovadoras e resultados promissores em estágios iniciais de pesquisa.",
+      "A <b>Trilha de Educação</b> (antes FEES - Fórum de Educação em Engenharia de Software) publica trabalhos que abordam desafios, inovações e melhores práticas para a Educação na área de Engenharia de Software.",
+	  "A <b>Trilha de Ferramentas</b> fornece um fórum para apresentação e demonstração de soluções automatizadas que apoiam o processo de desenvolvimento e gerenciamento de sistemas de software."
     ]
   },
   "sbcars": {

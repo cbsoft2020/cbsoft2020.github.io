@@ -102,8 +102,9 @@
     "descricao_1": "The <b>Brazilian Symposium on Software Engineering (SBES)</b> is the most traditional symposium on software development promoted by the Brazilian Computer Society (SBC). Throughout 33 editions, SBES has established itself as the most important technical-scientific event on Software Engineering in Brazil, attracting several participants, including researchers, students, and practitioners from Brazil and abroad. Its main objects of study are processes, methods, techniques, and tools for software development, maintenance, and evolution.</br> SBES includes three tracks:</br>",
     "trilhas": [
       "The <b>Research Track</b> publishes solid contributions for the Software Engineering community, with papers reviewed based on their originality, relevance, technical soundness, and clarity of presentation.",
-      "The <b>Innovative Ideas and Emerging Results Track</b> offers and opportunity for researchers and practitioners to submit and present innovative ideas and promising results in early stages of research.",
-      "The <b>Education Track</b> publishes work addressing challenges, innovations, and best practices on education in Software Engineering."
+      "The <b>Innovative Ideas and Emerging Results Track</b> provides an opportunity for researchers and practitioners to submit and present innovative ideas and approaches (methods, techniques, and tools) and promising results in early stages of research.",
+      "The <b>Education Track</b> (formerly FEES - Forum of Education in Software Engineering) publishes work addressing challenges, innovations, and best practices on education in Software Engineering.",
+	  "The <b>Tools Track</b> provides a forum for presentation and demonstration of automated solutions that support the process of developing and managing software systems."
     ]
   },
   "sbcars": {

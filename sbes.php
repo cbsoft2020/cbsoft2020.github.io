@@ -37,6 +37,7 @@
                             <li data-i18n="sbes.trilhas.0" style="color: black;"></li>
                             <li data-i18n="sbes.trilhas.1" style="color: black;"></li>
                             <li data-i18n="sbes.trilhas.2" style="color: black;"></li>
+							<li data-i18n="sbes.trilhas.3" style="color: black;"></li>
                         </ol>
                     </div>
 				</div>
