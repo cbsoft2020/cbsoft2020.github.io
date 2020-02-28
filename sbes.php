@@ -95,7 +95,7 @@
 					<h5 data-i18n="sbes.secao_journal_first"></h5>
 					<div class="description-one">
 						<p data-i18n="sbes.descricao_5"></p>
-						<ul style="margin-top: 10px">
+						<ul style="margin-top: 10px; margin-left: -20px">
 							<li data-i18n="sbes.criterios_journal_first.0" style="color: black;"></li>
                             <li data-i18n="sbes.criterios_journal_first.1" style="color: black;"></li>
                             <li data-i18n="sbes.criterios_journal_first.2" style="color: black;"></li>
@@ -129,33 +129,9 @@
 					<div class="description-one">
 						<p data-i18n="sbes.descricao_13"></p>
 						<ul style="margin-left: -20px">
-							<li data-i18n="sbes.topicos_sbes.0" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.1" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.2" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.3" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.4" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.5" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.6" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.7" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.8" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.9" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.10" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.11" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.12" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.13" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.14" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.15" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.16" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.17" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.18" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.19" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.20" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.22" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.23" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.24" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.25" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.26" style="color: black;"></li>
-							<li data-i18n="sbes.topicos_sbes.27" style="color: black;"></li>
+							<?php for ($i=0; $i < count($data->topicos_sbes_pt); $i++) { ?>
+								<li data-i18n="sbes.topicos_sbes.<?php echo $i; ?>" style="color: black;"></li>
+							<?php }	// for ?>
 						</ul>
 					</div>
 					

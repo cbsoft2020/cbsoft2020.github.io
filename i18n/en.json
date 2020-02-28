@@ -68,10 +68,6 @@
     "descricao_1": "The CBSoft Industry Track is an opportunity for industry and government practitioners to share their knowledge and experience with the attendees. This is also a great opportunity to establish cooperations between practitioners and companies, as well as stimulate the interaction between academia and industry. The perspective of academia-industry cooperation has been one of the requirements of project calls, such as those of the Brazilian National Institutes of Science and Technology Program (INCTs), operated by the Brazilian National Council for Scientific and Technological Development (CNPq).",
     "descricao_2": "The Industry Track aims to discuss the possibilities of academia-industry and academia-government cooperations towards the establishment of conditions and funding to research, development, and innovation, as well as the formation of high-quality human resources in an integrated way. Another perspective is developing free software products and possible impacts in legal concerns and business models. These perspectives foster the technology transfer and the tendency to narrow the generation and effective use of research, development, and innovation results."
   },
-  "sessao-ferramentas": {
-    "titulo": "Tools Session",
-    "descricao_1": "The CBSoft Tools Session aims to provide a forum for theoretical presentation and practical demonstration of automated solutions supporting software development process and management in its many needs and manifestations. Academics can present results of their applied research projects in Software Engineering, programming languages, components, software architectures and reuse, and software testing. Industry practitioners are also welcome to present commercial tools or of internal use that bring significant benefits to productivity and/or quality in software development process activities."
-  },
   "workshop-teses-dissertacoes": {
     "titulo": "Workshop on Theses and Dissertations",
     "descricao_1": "The CBSoft Workshop on Theses and Dissertations (WTDSoft) is an event dedicated to the presentation and discussion of ongoing Master and PhD works on Software Engineering, programming languages, and software testing."
@@ -97,20 +93,20 @@
     "2010": "Salvador, Bahia | September 27-October 1, 2020"
   },
   "sbes": {
-    "titulo": "34th SBES",
-    "subtitulo": "Main page",
-    "descricao_1": "The <b>Brazilian Symposium on Software Engineering (SBES)</b> is the most traditional symposium on software development promoted by the Brazilian Computer Society (SBC). Throughout 33 editions, SBES has established itself as the most important technical-scientific event on Software Engineering in Brazil, attracting several participants, including researchers, students, and practitioners from Brazil and abroad. Its main objects of study are processes, methods, techniques, and tools for software development, maintenance, and evolution.</br> SBES includes four tracks:</br>",
-	"trilha_pesquisa": "Research Track",
-	"trilha_ideias": "Innovative Ideas and Emerging Results Track",
-	"trilha_educacao": "Education Track",
-	"trilha_ferramentas": "Tools Track",
-	"secao_datas": "Important Dates",
+    "titulo": "XXXIV SBES",
+    "subtitulo": "Página principal",
+    "descricao_1": "O <b>Simpósio Brasileiro de Engenharia de Software (SBES)</b>, promovido anualmente pela Sociedade Brasileira de Computação (SBC), é o principal evento de Engenharia de Software da América Latina, sendo realizado em conjunto com o CBSoft. A programação em conjunto do SBES e do CBSoft inclui trilhas de pesquisa técnica, ideias inovadoras, educação, ferramentas e indústria, além de palestras convidadas, cursos, tutoriais, paineis, Workshop de Teses e Dissertações e vários outros eventos satélites. Tradicionalmente, o evento reúne de 500 a 800 participantes, incluindo acadêmicos, profissionais e estudantes.",
+	"trilha_pesquisa": "Trilha de Pesquisa",
+	"trilha_ideias": "Trilha de Ideias Inovadoras e Resultados Emergentes",
+	"trilha_educacao": "Trilha de Educação",
+	"trilha_ferramentas": "Trilha de Ferramentas",
+	"secao_datas": "Datas Importantes",
 	"deadlines_pesquisa": [
 		"Registro do artigo (submissão do resumo): 4 de maio de 2020",
-		"Prazo final para submissão do artigo: 11 de maio de 2020",
+		"Submissão do artigo: 11 de maio de 2020",
 		"Período de <i>rebuttal</i>: 15 a 20 de junho de 2020",
 		"Notificação de aceitação: 3 de julho de 2020",
-		"Prazo para envio da versão final: 17 de julho de 2020"
+		"Envio da versão final: 17 de julho de 2020"
 	],
 	"deadlines_ideias": [
 		"Registro do artigo (submissão do resumo): 1º de junho de 2020",
@@ -133,31 +129,31 @@
 		"Notificação de aceitação: 17 de julho de 2020",
 		"Envio da versão final: 7 de agosto de 2020"
 	],
-	"secao_trilhas": "SBES Tracks",
-	"descricao_2": "SBES includes four tracks:",
+	"secao_trilhas": "Trilhas do SBES",
+	"descricao_2": "O SBES inclui quatro trilhas:",
     "trilhas": [
-      "The <b>Research Track</b> publishes solid contributions for the Software Engineering community, with papers reviewed based on their originality, relevance, technical soundness, and clarity of presentation.",
-      "The <b>Innovative Ideas and Emerging Results Track</b> provides an opportunity for researchers and practitioners to submit and present innovative ideas and approaches (methods, techniques, and tools) and promising results in early stages of research.",
-      "The <b>Education Track</b> (formerly FEES - Forum of Education in Software Engineering) publishes work addressing challenges, innovations, and best practices on education in Software Engineering.",
-	  "The <b>Tools Track</b> provides a forum for presentation and demonstration of automated solutions that support the process of developing and managing software systems."
+      "A <b>Trilha de Pesquisa</b> publica sólidas contribuições para a comunidade em Engenharia de Software, com artigos revisados com base na sua originalidade, relevância, solidez técnica e clareza de apresentação.",
+      "A <b>Trilha de Ideias Inovadoras e Resultados Emergentes</b> oferece uma oportunidade para que pesquisadores e profissionais submetam e apresentem ideias e abordagens (métodos, técnicas e ferramentas) inovadoras e resultados promissores em estágios iniciais de pesquisa.",
+      "A <b>Trilha de Educação</b> (antes FEES - Fórum de Educação em Engenharia de Software) publica trabalhos que abordam desafios, inovações e melhores práticas para a Educação na área de Engenharia de Software.",
+	  "A <b>Trilha de Ferramentas</b> fornece um fórum para apresentação e demonstração de soluções automatizadas que apoiam o processo de desenvolvimento e gerenciamento de sistemas de software."
     ],
 	"descricao_3": "Pretende-se publicar os anais do SBES na biblioteca digital da ACM (aprovação pendente). Detalhes adicionais sobre tópicos de interesse e preparação de manuscritos (por exemplo, formato, idioma, política de dupla ocultação) para cada uma das trilhas podem ser encontrados nas suas respectivas páginas.",
 	"secao_journal_first": "Submissões para <i>Journal-First</i>",
-	"descricao_4": "O SBES está fazendo parcerias com periódicos internacionais para incorporar os artigos submetidos como <i>Journal First</i> na Trilha de Pesquisa do SBES 2020. Dois periódicos, <i>IEEE Software</i> e <i>Journal of Software Engineering Research and Development</i> confirmaram sua parceria com o SBES 2020. Os autores dos artigos <i>journal-first</i> aceitos nesses periódicos serão convidados a apresentar seu trabalho de pesquisa no SBES. Isso oferece uma oportunidade para os autores discutirem seu trabalho com a comunidade, bem como enriquece o programa técnico do SBES.",
+	"descricao_4": "O SBES está fazendo parcerias com periódicos internacionais para incorporar os artigos submetidos como <i>journal-first</i> na Trilha de Pesquisa do SBES 2020. Dois periódicos, <i>IEEE Software</i> e <i>Journal of Software Engineering Research and Development</i> (JSERD), confirmaram sua parceria com o SBES 2020. Os autores dos artigos <i>journal-first</i> aceitos nesses periódicos serão convidados a apresentar seu trabalho de pesquisa no SBES. Isso oferece uma oportunidade para os autores discutirem seu trabalho com a comunidade, bem como enriquece o programa técnico do SBES.",
 	"descricao_5": "Os seguintes critérios de avaliação serão usados para selecionar os artigos <i>journal-first</i> no SBES 2020:",
 	"criterios_journal_first": [
       "o artigo descreve resultados originais que não são extensões de artigos anteriores publicados em conferências;",
 	  "o artigo foi aceito para publicação no periódico a partir de 1º de janeiro de 2018, e;",
 	  "o artigo não foi apresentado em nenhuma outra conferência como <i>journal-first</i>."
     ],
-	"descricao_6": "Os trabalhos selecionados serão apresentados no programa técnico da Trilha de Pesquisa do SBES. Pelo menos um autor por </i>journal-first</i> selecionado precisará se registrar e participar do simpósio para apresentá-lo.",
-	"descricao_7": "Em relação aos artigos publicados no JSERD, serão aceitas submissões de artigos das seguintes categorias: artigos de pesquisa, estudos de caso e revisão. Com relação aos artigos publicados no <i>IEEE Software</i>, serão aceitos artigos de pesquisa revisados por pares (não são aceitos artigos revisados editorialmente ou trabalhos convidados).",
-	"descricao_8": "Os autores interessados em apresentar artigos <i>journal-first</i> no SBES 2020 devem enviar um <i>e-mail</i> para sbes.j1@cin.ufpe.br com o assunto &quote;Journal First - SBES 2020&quote; até 29 de junho de 2020. As seguintes informações devem ser fornecidas: (i) título do trabalho; (ii) lista de autores; (iii) <i>link</i> para o periódico, e; (iv) uma breve declaração sobre como o trabalho satisfaz os critérios acima.",
+	"descricao_6": "Os trabalhos selecionados serão apresentados no programa técnico da Trilha de Pesquisa do SBES. Pelo menos um autor por <i>journal-first</i> selecionado precisará se registrar e participar do simpósio para apresentá-lo.",
+	"descricao_7": "Em relação aos artigos publicados no JSERD, serão aceitas submissões de artigos das seguintes categorias: artigos de pesquisa, estudos de caso e revisão. Com relação aos artigos publicados no IEEE Software, serão aceitos artigos de pesquisa revisados por pares (não são aceitos artigos revisados editorialmente ou trabalhos convidados).",
+	"descricao_8": "Os autores interessados em apresentar artigos <i>journal-first</i> no SBES 2020 devem enviar um <i>e-mail</i> para <a style='color: #f4b321' href='mailto:sbes.j1@cin.ufpe.br'>sbes.j1@cin.ufpe.br</a> com o assunto &quot;Journal First - SBES 2020&quot; até 29 de junho de 2020. As seguintes informações devem ser fornecidas: (i) título do trabalho; (ii) lista de autores; (iii) <i>link</i> para o periódico, e; (iv) uma breve declaração sobre como o trabalho satisfaz os critérios acima.",
 	"secao_shortpapers": "Artigos Curtos",
 	"descricao_9": "O SBES 2020 apresentará uma trilha de artigos curtos, uma oportunidade adicional para pesquisadores e profissionais para apresentar e discutir os seus avanços, ideias, experiências e desafios mais recentes na área da Engenharia de Software.",
 	"descricao_10": "Não há chamada aberta para submissão de artigos curtos para o SBES 2020. Em vez disso, a trilha de artigos curtos será organizada com base em convite. Algumas submissões para as Trilhas de Pesquisa, Ferramentas e Educação serão convidadas pelos Coordenadores do Comitê de Programa a serem submetidas como artigos curtos, que também serão apresentados nas sessões do SBES. Os autores de um artigo curto convidado também enviarão o artigo seguindo as diretrizes de submissão do SBES, para serem publicados nos anais do evento.",
 	"secao_bestpaper": "Prêmio de Melhor Artigo",
-	"descricao_11": "Todos os anos, o Comitê Diretivo do SBES nomeia um comitê para premiar os melhores trabalhos do simpósio. Os trabalhos premiados da Trilha de Pesquisa são anunciados durante o evento. Os cinco melhores trabalhos da Trilha de Pesquisa serão convidados a submeter uma versão estendida em inglês à categoria de pesquisa do <i>Journal of Software Engineering Research and Development</i> (JSERD).",
+	"descricao_11": "Todos os anos, o Comitê Diretivo do SBES nomeia um comitê para premiar os melhores trabalhos do simpósio. Os trabalhos premiados da Trilha de Pesquisa são anunciados durante o evento. Os cinco melhores trabalhos da Trilha de Pesquisa serão convidados a submeter uma versão estendida em inglês à categoria de pesquisa do JSERD.",
 	"secao_bestreviewer": "Prêmio de Melhor Revisor",
 	"descricao_12": "O SBES 2020 reconhece a generosidade dos revisores que dedicam seu tempo e melhor esforço para revisar os trabalhos submetidos. O progresso do crescimento científico depende de colegas dedicados, que visam promover o desenvolvimento da tecnologia, oferecendo sua atenção e paixão ao revisar os artigos. Um certificado de Melhor Revisor será concedido aos revisores que enviarem revisões de qualidade excelentes ao SBES. A avaliação será baseada na qualidade e utilidade das revisões, assim como participação durante a discussão do Comitê de Programa.",
 	"secao_topicos": "Tópicos de Interesse",
@@ -192,7 +188,7 @@
 		"Gestão de dívida técnica",
 		"Fundamentos teóricos e métodos formais"
 	],
-    "secao_categorias": "Categorias de Artigos",
+	"secao_categorias": "Categorias de Artigos",
 	"descricao_14": "Os autores dos artigos da Trilha de Pesquisa, após o resumo no formulário de submissão, devem indicar em qual das categorias a seguir seu artigo melhor se classifica. Isso pretende estabelecer um conjunto consistente de expectativas no processo de revisão.",
 	"categorias": [
       "<b>Analítico:</b> Um artigo no qual a principal contribuição se baseia em novos algoritmos ou teoria matemática. Os exemplos incluem novas técnicas de previsão de <i>bugs</i>, transformações de modelo, algoritmos para análise dinâmica e estática e análise de confiabilidade. Tal contribuição deve ser avaliada com uma análise convincente dos detalhes algorítmicos, seja através de uma prova, análise de complexidade, ou análise de tempo de execução, entre outros.",
@@ -202,18 +198,18 @@
 	  "<b>Metodológico:</b> Um artigo no qual a principal contribuição é um sistema coerente de princípios e práticas abrangentes para interpretar ou resolver um problema. Isso inclui novos métodos de elicitação de requisitos, modelos de processos, métodos de <i>design</i>, abordagens de desenvolvimento, paradigmas de programação e outras metodologias. Os autores devem fornecer argumentos convincentes com experiências proporcionais, bem como explicar por que um novo método é necessário e quais são os benefícios do método proposto."
     ],
 	"secao_guidelines": "Preparação, Submissão e Revisão de Artigos",
-	"descricao_15": "Os trabalhos podem ser submetidos em Português ou Inglês. A submissão em Inglês é fortemente encorajada. A aceitação de um artigo implica que pelo menos um de seus autores fará inscrição para participar do simpósio para apresentá-lo. Todas as submissões devem estar no formato Adobe Portable Document Format (PDF) e devem estar de acordo com o formato ACM de 2 colunas (ACM_SigConf) disponível em neste <a href='http://www.acm.org/publications/proceedings-template'>link</a>. As submissões não devem ter mais de 10 páginas, incluindo todas as figuras e referências.",
-	"descricao_16": "Os trabalhos devem ser submetidos eletronicamente através do sistema <a href='http://submissoes.sbc.org.br'>JEMS</a>. Todos os trabalhos de pesquisa técnica devem indicar, após o resumo, o idioma e uma ou mais das categorias acima mencionadas. As submissões que não estiverem em conformidade com o formato de submissão exigido ou que estiverem fora do escopo do simpósio, ou que foram enviadas ou publicadas em qualquer outro fórum (conferência ou revista), serão rejeitadas sem revisão. Todos os outros trabalhos serão revisados por pelo menos três membros do Comitê de Programa. Durante o processo de revisão, pode-se solicitar um <i>rebuttal</i>. Neste caso, os autores terão acesso às revisões e poderão argumentar e responder às perguntas dos revisores antes da decisão final de aceitação/rejeição. A réplica é limitada a um texto simples de até 4.000 caracteres.",
+	"descricao_15": "Os trabalhos podem ser submetidos em Português ou Inglês. A submissão em Inglês é fortemente encorajada. A aceitação de um artigo implica que pelo menos um de seus autores fará inscrição para participar do simpósio para apresentá-lo. Todas as submissões devem estar no formato <i>Adobe Portable Document Format</i> (PDF) e devem estar de acordo com o formato ACM de 2 colunas (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) disponível em neste <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>. As submissões não devem ter mais de 10 páginas, incluindo todas as figuras e referências.",
+	"descricao_16": "Os trabalhos devem ser submetidos eletronicamente através do sistema <a style='color: #f4b321' href='http://submissoes.sbc.org.br'>JEMS</a>. Todos os trabalhos de pesquisa técnica devem indicar, após o resumo, o idioma e uma ou mais das categorias acima mencionadas. As submissões que não estiverem em conformidade com o formato de submissão exigido ou que estiverem fora do escopo do simpósio, ou que foram enviadas ou publicadas em qualquer outro fórum (conferência ou revista), serão rejeitadas sem revisão. Todos os outros trabalhos serão revisados por pelo menos três membros do Comitê de Programa. Durante o processo de revisão, pode-se solicitar um <i>rebuttal</i>. Neste caso, os autores terão acesso às revisões e poderão argumentar e responder às perguntas dos revisores antes da decisão final de aceitação/rejeição. A réplica é limitada a um texto simples de até 4.000 caracteres.",
 	"secao_doubleblind": "Submissão <i>Double-Blind</i>",
 	"descricao_17": "As Trilhas de Pesquisa, Ideias Inovadoras e Resultados Emergentes e Educação seguirão um processo de revisão <i>double-blind</i>. Todos os trabalhos submetidos devem ocultar a identidade dos autores. Ambos os nomes de autores e afiliações devem ser omitidos. Além disso, as seguintes regras devem ser abordadas:",
 	"guidelines_doubleblind": [
-      "Você deve garantir que as citações de seu trabalho relacionado sejam escritas na terceira pessoa. Por exemplo, você deve escrever &quot;o trabalho anterior de Silva et al.&quot; em oposição ao &quot;nosso trabalho anterior&quot;. Como uma heurística, procure por ocorrências de identificadores tais como: &quot;nós&quot;, &quot;nosso&quot;, &quot;github&quot;, &quot;financiamento&quot;, &quot;Universidade&quot;, etc., no seu artigo e modifique estas palavras antes de submeter o artigo.",
-	  "No artigo submetido, você não deve mencionar nenhum artefato em um repositório ou site que permita identificar a autoria. Se você precisar disponibilizar qualquer artefato, faça de forma anônima em um repositório/website.",
+      "As citações a trabalho relacionado dos próprios autores devem ser escritas na terceira pessoa. Por exemplo, deve-se escrever &quot;o trabalho anterior de Silva et al.&quot; em oposição ao &quot;nosso trabalho anterior&quot;. Como uma heurística, deve-se procurar por ocorrências de identificadores tais como: &quot;nós&quot;, &quot;nosso&quot;, &quot;github&quot;, &quot;financiamento&quot;, &quot;Universidade&quot;, etc., no artigo e modificar essas palavras antes de submetê-lo.",
+	  "No artigo submetido, não se deve mencionar nenhum artefato em um repositório ou site que permita identificar a autoria. Se for necessário disponibilizar qualquer artefato, isso deve ser feito de forma anônima em um repositório/website.",
 	  "Os revisores não serão encorajados a procurar referências que identifiquem os autores em outras fontes na Internet. Buscas em bibliotecas digitais ou artefatos existentes não invalidam a regra de <i>double-blind</i>.",
-	  "Se o trabalho submetido for uma evolução de seu trabalho anterior, você poderá anonimizar a referência no artigo submetido. Por exemplo, &quot;o trabalho anterior de Silva et al.&quot; pode ser adaptado para &quot;baseado no trabalho anterior [X]&quot; e a referência no final do artigo pode ser apresentada como &quot;[X] autores anônimos devido a revisão <i>double-blind</i>&quot;."
+	  "Se o trabalho submetido for uma evolução de trabalho anterior, é possível anonimizar a referência no artigo submetido. Por exemplo, &quot;o trabalho anterior de Silva et al.&quot; pode ser adaptado para &quot;baseado no trabalho anterior [X]&quot; e a referência no final do artigo pode ser apresentada como &quot;[X] autores anônimos devido a revisão <i>double-blind</i>&quot;."
     ],
-	"descricao_18": "Após a aceitação do artigo, você pode incluir todas as informações (sem anonimização) na versão final.",
-	"descricao_19": "Caso você tenha alguma dúvida sobre a preparação do seu trabalho seguindo as regras de submissão <i>double-blind</i>, envie um <i>e-mail</i> para os Coordenadores do Comitê de Programa com o assunto &quot;SBES: pergunta sobre as regras de double-blind&quot;.",
+	"descricao_18": "Após a aceitação do artigo, todas as informações (sem anonimização) poderão ser incluídas na versão final.",
+	"descricao_19": "Em caso de dúvida sobre a preparação do trabalho seguindo as regras de submissão <i>double-blind</i>, pode-se enviar um <i>e-mail</i> para os Coordenadores do Comitê de Programa com o assunto &quot;SBES: pergunta sobre as regras de double-blind&quot;.",
 	"secao_comite": "Comitê",
 	"comite": [
       "Coordenadores Gerais do CBSoft 2020",
