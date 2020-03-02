@@ -27,7 +27,7 @@
 		<div class="row">
 			<div class="col-lg-12 align-self-center">
 				<div class="content-block">
-                    <h2 data-i18n="sbes.titulo"></h2>
+                    <h2 style="line-height: 50px" data-i18n="sbes.titulo"></h2>
                     <div class="description-one">
 						<p data-i18n="sbes.descricao_1"></p>
 					</div>
