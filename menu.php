@@ -77,7 +77,7 @@
               </a>
               <!-- Dropdown list -->
               <div class="dropdown-menu">
-                  <a class="dropdown-item" href="#" data-i18n="menu.chamada_workshops">Chamada de Workshops</a>
+                  <a class="dropdown-item" href="workshops.php" data-i18n="menu.chamada_workshops">Chamada de Workshops</a>
               </div>
           </li>
           <li class="nav-item dropdown dropdown-slide">
