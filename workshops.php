@@ -38,7 +38,7 @@
                             <li data-i18n="workshops.criterios.2" style="color: black;"></li>
 							<li data-i18n="workshops.criterios.3" style="color: black;"></li>
 						</ol>
-						<p data-i18n="workshops.descricao_3"></p>
+						<p style="margin-bottom: 10px" data-i18n="workshops.descricao_3"></p>
 						<p data-i18n="workshops.descricao_4"></p>
 					</div>
 					
