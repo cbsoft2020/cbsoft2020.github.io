@@ -39,13 +39,14 @@
 							<li data-i18n="workshops.criterios.3" style="color: black;"></li>
 						</ol>
 						<p data-i18n="workshops.descricao_3"></p>
+						<p data-i18n="workshops.descricao_4"></p>
 					</div>
 					
 					<br/>
 					<h5 data-i18n="workshops.secao_submissao"></h5>
 					<div class="description-one">
-						<p data-i18n="workshops.descricao_4"></p>
 						<p data-i18n="workshops.descricao_5"></p>
+						<p data-i18n="workshops.descricao_6"></p>
 						<ol style="margin-top: 10px">
 							<li data-i18n="workshops.informacoes_workshop.0" style="color: black;"></li>
                             <li data-i18n="workshops.informacoes_workshop.1" style="color: black;"></li>
@@ -63,14 +64,14 @@
 					<br/>
 					<h5 data-i18n="workshops.secao_workshop_pre"></h5>
 					<div class="description-one">
-						<p data-i18n="workshops.descricao_6"></p>
+						<p data-i18n="workshops.descricao_7"></p>
 						<ol style="margin-top: 10px">
 							<li data-i18n="workshops.informacoes_workshop_pre.0" style="color: black;"></li>
                             <li data-i18n="workshops.informacoes_workshop_pre.1" style="color: black;"></li>
                             <li data-i18n="workshops.informacoes_workshop_pre.2" style="color: black;"></li>
 							<li data-i18n="workshops.informacoes_workshop_pre.3" style="color: black;"></li>
 						</ol>
-						<p data-i18n="workshops.descricao_7"></p>
+						<p data-i18n="workshops.descricao_8"></p>
 					</div>
 					
 					<br/>
@@ -97,7 +98,7 @@
 					<br/>
 					<h5 data-i18n="workshops.secao_contato"></h5>
 					<div class="description-one">
-						<p data-i18n="workshops.descricao_8"></p>
+						<p data-i18n="workshops.descricao_9"></p>
 					</div>
 				</div>
 			</div>

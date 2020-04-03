@@ -257,56 +257,57 @@
   },
   "workshops": {
     "titulo": "Workshops",
-    "descricao_1": "O CBSoft inclui <i>workshops</i> relacionados às temáticas dos quatro simpósios que tradicionalmente integram o evento, SBES, SBCARS, SBLP e SAST. O objetivo é criar um espaço para que membros da academia e da indústria possam trocar e discutir suas experiências e ideias. <i>Workshops</i> tradicionalmente realizados no CBSoft poderão ser promovidos a <i>workshops</i> pré-aprovados.",
-	"secao_informacoes": "Informações gerais",
-	"descricao_2": "A definição dos <i>workshops</i> que farão parte do CBSoft 2020 será realizada pela análise das propostas submetidas em resposta a esta Chamada. As propostas de <i>workshops</i> submetidas à organização do CBSoft serão avaliadas considerando:",
+    "descricao_1": "CBSoft includes workshops related to the topics of the four symposia that traditionally are part of the programme, SBES, SBCARS, SBLP, and SAST. The goal is providing a forum where academics and practitioners can exchange and discuss their experiences and ideas. Workshops traditionally realized at CBSoft can be promoted to pre-approved workshops..",
+	"secao_informacoes": "General information",
+	"descricao_2": "The definition of the workshops that will be part of CBSoft 2020 will be carried out by evaluating the submitted proposals in response to this Call. Workshop proposals will be evaluated considering:",
 	"criterios": [
-		"a relevância e interesse do tema do <i>workshop</i>",
-		"o currículo do coordenador do <i>workshop</i>",
-		"o Comitê de Programa",
-		"uma análise das edições anteriores, se for o caso"
+		"the relevance and interest of subject matter",
+		"the expertise of the workshop chair",
+		"the Program Committee",
+		"an evaluation of previous editions, if applicable"
 	],
-	"descricao_3": "Os anais dos <i>workshops</i> farão parte dos anais do CBSoft 2020 e deverão ser preparados conjuntamente pela Coordenação dos <i>workshops</i> e pela Coordenação Geral do CBSoft. É importante observar a data limite para envio dos artigos aceitos para à Comissão Organizadora do CBSoft.",
-	"secao_submissao": "Instruções de submissão (vide instruções específicas para <i>workshops</i> pré-aprovados)",
-	"descricao_4": "As propostas de workshop devem ser preenchidas por meio deste <a target= '_blank'  href='https://forms.gle/Fd5E6gM4qUpe3YQMA' style='color: #f4b321'>link</a>.",
-	"descricao_5": "As propostas devem conter exatamente as seguintes informações (em Português ou Inglês):",
+	"descricao_3": "Each workshop can be scheduled for a half-day (three hours) ou a full day (six hours). The dates of the workshops will be confirmed soon by the CBSoft 2020 General Chairs.",
+	"descricao_4": "Workshop proceedings will be prepared by the workshop organizers together with the CBSoft 2020 Organizing Committee. Please note the deadline for delivering the workshop papers to the CBSoft organizing committee.",
+	"secao_submissao": "Submissions instructions (see specific instructions for pre-approved workshops)",
+	"descricao_5": "The workshop proposals must be filled through this <a target= '_blank'  href='https://forms.gle/Fd5E6gM4qUpe3YQMA' style='color: #f4b321'>link</a>.",
+	"descricao_6": "The proposals must exactly contain the following information (in Portuguese or English):",
 	"informacoes_workshop": [
-		"Nome do <i>workshop</i>",
-		"Duração (3 ou 6 horas)",
-		"Descrição do tema principal do <i>workshop</i>, justificando sua relevância",
-		"Histórico do <i>workshop</i> (se já houve edição anterior), incluindo número de participantes, número de submissões e taxa de aceitação",
-		"Formato do <i>workshop</i>, tópicos de interesse, critérios de aceitação de trabalhos e forma de apresentação",
-		"Palestrantes convidados",
-		"Público esperado, incluindo número máximo de participantes",
-		"Comitê de Programa",
-		"Apoio e material requisitado à Comissão Organizadora do CBSoft",
-		"Nome, informação de contato e currículo do coordenador do <i>workshop</i>. Caso o coordenador seja brasileiro, apenas o link para o Curriculum Lattes deve ser incluído. No caso de coordenadores estrangeiros, um currículo resumido deve ser submetido."
+		"Name of the workshop",
+		"Duration (three or six hours)",
+		"Description of the main topic of the workshop, explaining its relevance",
+		"History of the workshop, including the number of attendees, number of submissions, and acceptance rate",
+		"Workshop format, topics of interest, acceptance criteria, and presentation form",
+		"Invited speakers",
+		"Expected audience, including the maximum number of participants",
+		"Program Committee",
+		"Support and required equipment from the CBSoft Organizing Committee",
+		"Name, contact information, and curriculum of the workshop chair. If the chair is Brazilian, the CV can be a link to his/her Lattes CV. If the chair is not Brazilian, a brief CV must be included."
 	],
-	"secao_workshop_pre": "Instruções para <i>workshops</i> pré-aprovados",
-	"descricao_6": "<i>Workshops</i> anuais ou bianuais que já tiveram três ou mais edições (sendo a última realizada em 2018 ou 2017) são considerados <i>workshops</i> pré-aprovados. Para um <i>workshop</i> que se enquadra nessa categoria, solicita-se a submissão de proposta simplificada por meio deste <a target= '_blank'  href='https://forms.gle/wDLTrY7JpVxGQeNeA' style='color: #f4b321'>link</a>, nela constando:",
+	"secao_workshop_pre": "Submission instructions for pre-approved workshops",
+	"descricao_7": "Annual or biannual Workshops that have at least three editions (being the last one held in 2018 or 2017) are considered pre-approved workshopss. Pre-approved workshops must submit a simplified proposal through this <a target= '_blank'  href='https://forms.gle/wDLTrY7JpVxGQeNeA' style='color: #f4b321'>link</a> with the following information:",
 	"informacoes_workshop_pre": [
-		"Comitê Organizador",
-		"Comitê Gestor (se existir)",
-		"Currículo do(s) Coordenador(es) (Curriculum Lattes para brasileiros, currículo resumido para estrangeiros)",
-		"Estatísticas das últimas três edições (número de participantes, número de submissões e taxa de aceitação)"
+		"Organizing Committee",
+		"Steering Committee (if applicable)",
+		"Name, contact information, and CV of chair(s) (Lattes CV for Brazilians, brief CV for foreigners)",
+		"Statistics of the three last editions (number of attendees, number of submissions, and acceptance rate)"
 	],
-	"descricao_7": "Por se tratar de <i>workshop</i> pré-aprovado, o <i>workshop</i> é automaticamente aceito desde que sejam submetidas as informações solicitadas. As informações enviadas na proposta serão analisadas pelo Comitê de Avaliação de <i>Workshops</i> do CBSoft com o objetivo de prover <i>feedback</i> para futuras edições do <i>workshop</i>. Em caso de quedas no número de submissões em anos consecutivos, ou a critério da comissão julgadora, um <i>workshop</i> poderá perder o <i>status</i> de <i>workshop</i> pré-aprovado.",
-	"secao_deadlines": "Datas importantes",
+	"descricao_8": "Pre-approved workshops are automatically accepted since the required information is submitted. Information provided for a pre-approved workshop will be analyzed by the Workshops Evaluation Committee with the goal of providing feedback for future workshop editions. A workshop might lose the pre-approved status due to decreasing submissions number over years or due to any other reason judged by the Workshops Evaluation Committee.",
+	"secao_deadlines": "Important dates",
 	"deadlines": [
-		"Prazo de submissão: 13 de abril de 2020",
-		"Notificação aos proponentes: 20 de abril de 2020",
-		"Envio dos artigos à Coordenação Geral do CBSoft 2020: 3 de agosto de 2020"
+		"Workshop proposal submission: April 13, 2020",
+		"Notification to proponents: April 20, 2020",
+		"Delivery of papers to the CBSoft 2020 General Chairs: August 3, 2020"
 	],
-	"secao_comite": "Comitê de Avaliação",
+	"secao_comite": "Evaluation Committee",
 	"comite": [
-      "Everton Alves (UFCG, Brasil)",
-	  "Fabiano Ferrari (UFSCar, Brasil)",
-	  "Márcio Barros (UNIRIO, Brasil)",
-	  "Thelma Elita Colanzi (UEM, Brasil)"
+      "Everton Alves (UFCG, Brazil)",
+	  "Fabiano Ferrari (UFSCar, Brazil)",
+	  "Márcio Barros (UNIRIO, Brazil)",
+	  "Thelma Elita Colanzi (UEM, Brazil)"
     ],
-	"secao_contato": "Contato",
-	"descricao_8": [
-      "Dúvidas e pedidos de informação devem ser encaminhados para a Coordenação de <i>Workshops</i> do CBSoft 2020, Thelma Elita Colanzi (<a href='mailto:thelma@din.uem.br' style='color: #f4b321'>thelma@din.uem.br</a>)."
+	"secao_contato": "Contact",
+	"descricao_9": [
+      "Questions should be directed to the CBSoft 2020 Workshop Chair, Thelma Elita Colanzi (<a href='mailto:thelma@din.uem.br' style='color: #f4b321'>thelma@din.uem.br</a>)."
     ]
   },
   "local": {
