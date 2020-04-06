@@ -33,10 +33,21 @@
 					</div>
 					
 					<br/>
-					<h5 data-i18n="sbes.secao_datas"></h5>
-					<br/>
+					<h5 data-i18n="sbes.secao_trilhas"></h5>
+					<div class="description-one">
+						<p data-i18n="sbes.descricao_2"></p>
+						<ol style="margin-top: 10px">
+							<li data-i18n="sbes.trilhas.0" style="color: black;"></li>
+                            <li data-i18n="sbes.trilhas.1" style="color: black;"></li>
+                            <li data-i18n="sbes.trilhas.2" style="color: black;"></li>
+							<li data-i18n="sbes.trilhas.3" style="color: black;"></li>
+						</ol>
+						<p data-i18n="sbes.descricao_3"></p>
+					</div>
 					
-					<div class="table-responsive">
+					<br/>
+					<h5 data-i18n="sbes.secao_datas"></h5>
+					<div class="table-responsive" style="margin-top: 30px">
 						<table class="table table-hover">
 							<thead style="background-color: #f4b321; color: white">
 								<tr>
@@ -142,19 +153,6 @@
 						</ul>
 					</div>
 					-->
-					
-					<br/>
-					<h5 data-i18n="sbes.secao_trilhas"></h5>
-					<div class="description-one">
-						<p data-i18n="sbes.descricao_2"></p>
-						<ol style="margin-top: 10px">
-							<li data-i18n="sbes.trilhas.0" style="color: black;"></li>
-                            <li data-i18n="sbes.trilhas.1" style="color: black;"></li>
-                            <li data-i18n="sbes.trilhas.2" style="color: black;"></li>
-							<li data-i18n="sbes.trilhas.3" style="color: black;"></li>
-						</ol>
-						<p data-i18n="sbes.descricao_3"></p>
-					</div>
 					
 					<br/>
 					<h5 data-i18n="sbes.secao_journal_first"></h5>
