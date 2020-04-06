@@ -21,12 +21,7 @@
 <section class="section about">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-4 col-md-6 align-self-center">
-				<div class="image-block bg-about">
-					<img class="img-fluid" src="images/icone_03.png" alt="">
-				</div>
-			</div>
-			<div class="col-lg-8 col-md-6 align-self-center">
+			<div class="col-lg-12 align-self-center">
 				<div class="content-block">
                     <h2 data-i18n="sblp.titulo"></h2>
                     <div class="description-one">

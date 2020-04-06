@@ -30,6 +30,7 @@
     "hospedagem": "Accommodation",
     "contato": "Contact"
   },
+	
   "about": {
     "sobre": "About CBSoft",
     "realizacao": "Promoted by",
@@ -44,9 +45,11 @@
     ],
     "descricao_3": "The CBSoft programme includes technical sessions with presentation of scientific papers, keynotes by nationally and internationally renowned Brazilian and foreign researchers, discussion panels, workshops, tool demonstrations, tutorials, and courses given by experts on their subjects. All these activites of interest of the Software Engineering community and fields related to the development of software systems go towards the diffusion of knowledge and discussion of important issues related to research, development, and innovation in both Brazil and the world."
   },
+	
   "speakers": {
     "palestrantes": "Speakers"
   },
+	
   "schedule": {
     "dia_1": "Day 01",
     "dia_2": "Day 02",
@@ -58,20 +61,24 @@
     "tema": "Subject",
     "local": "Venue"
   },
+	
   "sponsors": {
     "org_apoio_patrocinio": "Organization, Support, and Sponsorship",
     "organizadores": "Organization",
     "patrocinio": "Sponsorship"
   },
+	
   "trilha-industria": {
     "titulo": "Industry Track",
     "descricao_1": "The CBSoft Industry Track is an opportunity for industry and government practitioners to share their knowledge and experience with the attendees. This is also a great opportunity to establish cooperations between practitioners and companies, as well as stimulate the interaction between academia and industry. The perspective of academia-industry cooperation has been one of the requirements of project calls, such as those of the Brazilian National Institutes of Science and Technology Program (INCTs), operated by the Brazilian National Council for Scientific and Technological Development (CNPq).",
     "descricao_2": "The Industry Track aims to discuss the possibilities of academia-industry and academia-government cooperations towards the establishment of conditions and funding to research, development, and innovation, as well as the formation of high-quality human resources in an integrated way. Another perspective is developing free software products and possible impacts in legal concerns and business models. These perspectives foster the technology transfer and the tendency to narrow the generation and effective use of research, development, and innovation results."
   },
+	
   "workshop-teses-dissertacoes": {
     "titulo": "Workshop on Theses and Dissertations",
     "descricao_1": "The CBSoft Workshop on Theses and Dissertations (WTDSoft) is an event dedicated to the presentation and discussion of ongoing Master and PhD works on Software Engineering, programming languages, and software testing."
   },
+	
   "codigo-conduta": {
     "titulo": "Code of Conduct",
     "descricao_1": "The open exchange of ideas and the freedom of thought and expression are central to CBSoft goals. This requires an environment that acknowledges the inherent worth of every person and group, fosters dignity, understanding, and mutual respect, and embraces diversity. For these reasons, CBSoft is committed to provide a harassment-free experience to participants and in its official communication channels, including social media. The aim is every and any participant to feel welcome, included, respected, and safe. There is no any tolerance for hostile or unwelcome behavior or for speech that intimidates, creates discomfort or interferes with a person’s participation at the conference.",
@@ -79,6 +86,7 @@
     "descricao_3": "<b>Harassment includes:</b> harmful comments, writings or actions related to race, color, sex, gender, sexual orientation, gender identity or expression, age, marital status, religion, national origin, disability, pregnancy, medical conditions, veteran status or any other status protected by Brazilian laws.",
     "descricao_4": "Anyone witnessing or subject to unacceptable behavior should notify a member of the CBSoft 2020 Organizing Committee or security staff. A response that the participant was \"joking\" or that the behavior was \"playful\" will not be accepted. Individuals violating these standards may be punished or excluded from the conference without any reimbursement or refund at the discretion of the CBSoft 2020 Organizing Committee."
   },
+	
   "edicoes-anteriores": {
     "titulo": "Previous Editions",
     "2019": "Salvador, Bahia | September 23-27, 2019",
@@ -92,6 +100,7 @@
     "2011": "São Paulo | September 26-30, 2011",
     "2010": "Salvador, Bahia | September 27-October 1, 2020"
   },
+	
   "sbes": {
     "titulo": "SBES 2020<br/>34th Brazilian Symposium on Software Engineering",
     "subtitulo": "Página principal",
@@ -240,21 +249,25 @@
 	  "Uirá Kulesza (UFRN, Brazil)"
     ]
   },
+	
   "sbcars": {
-    "titulo": "14th SBCARS",
+    "titulo": "SBCARS 2020<br/>14th Brazilian Symposium on Software Components, Architectures, and Reuse",
     "subtitulo": "Main page",
     "descricao_1": "The <b>Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS)</b> is a symposium promoted by the Brazilian Computer Society (SBC) that brings together researchers, students, and practitioners with a wide range of interests on topics related to Software Engineering, including software product lines, component-based software development, software architectures, and software reuse. SBCARS, which started in 2007, is the successor to the series of six editions of the Brazilian Workshop on Component-Based Software Development (WDBC), which started in 2001, so that its thirteen editions have contributed to the its consolidation in the Brazilian scientific calendar as an important technical-scientific event on software."
   },
+	
   "sblp": {
-    "titulo": "24th SBLP",
+    "titulo": "SBLP 2020<br/>24th Brazilian Symposium on Programming Languages",
     "subtitulo": "Main page",
     "descricao_1": "The <b>Brazilian Symposium on Programming Languages (SBLP)</b> is a symposium promoted by the Brazilian Computer Society (SBC) that constitutes a forum for students, researchers, and practitioners to present and discuss ideas and innovations in the design, definition, analysis, implementation, and practical use of programming languages."
   },
+	
   "sast": {
-    "titulo": "5th SAST",
+    "titulo": "SAST 2020<br/> 5th Brazilian Symposium on Systematic and Automated Software Testing",
     "subtitulo": "Main page",
-    "descricao_1": "The <b>Brazilian Symposium on Systematic Automated Software Testing (SAST)</b>, which existed since 2007 under the Brazilian Workshop on Systematic and Automated Software Testing in nine editions, is the main scientific event about software testing in Brazil. Its goal is being an annual forum to discuss issues related to systematization and automation of the software testing activity, promoting the interaction between researchers and industry as means of strengthening cooperations and innovation in such an important field of software development."
+    "descricao_1": "The <b>Brazilian Symposium on Systematic and Automated Software Testing (SAST)</b>, which existed since 2007 under the Brazilian Workshop on Systematic and Automated Software Testing in nine editions, is the main scientific event about software testing in Brazil. Its goal is being an annual forum to discuss issues related to systematization and automation of the software testing activity, promoting the interaction between researchers and industry as means of strengthening cooperations and innovation in such an important field of software development."
   },
+	
   "workshops": {
     "titulo": "Workshops",
     "descricao_1": "CBSoft includes workshops related to the topics of the four symposia that traditionally are part of the programme, SBES, SBCARS, SBLP, and SAST. The goal is providing a forum where academics and practitioners can exchange and discuss their experiences and ideas. Workshops traditionally realized at CBSoft can be promoted to pre-approved workshops..",
@@ -310,10 +323,12 @@
       "Questions should be directed to the CBSoft 2020 Workshop Chair, Thelma Elita Colanzi (<a href='mailto:thelma@din.uem.br' style='color: #f4b321'>thelma@din.uem.br</a>)."
     ]
   },
+	
   "local": {
     "titulo": "Venue",
     "descricao_1": "CBSoft 2020 will be held at <a target= '_blank' href='https://www.wishhotels.co/resort-em-natal/wish-natal-by-gjp/' style='color: #f4b321'>Wish Natal Exclusive Resort</a>, a resort with direct access to the beach and overlooking the sea, located at the Via Costeira Senador Dinarte Mariz. In this region, it is possible to find the best accommodation in the Natal's touristic region, flanked by the Brazil's second largest urban park, Parque das Dunas, besides easy access to restaurants, shoppings and commercial centers, and other beaches in the city."
   },
+	
   "sobre-natal": {
     "titulo": "About Natal",
     "descricao_1": "Natal, the capital and largest city of the state of Rio Grande do Norte, Northeastern Brazil, has become a Brazilian destination known throughout the world, being the closest Brazilian city to Europe and Africa due to its location at the corner of South America. The \"City of the Sun\" (\"Cidade do Sol\", in Portuguese), as it is known both nationally and internationally, has a pleasant climate with average temperatures around 28ºC and a bright sunshine throughout the year. Natal is about six degrees south Equator, thus making the sun to shine for 300 days per year, more than in any Brazilian capital.",
@@ -322,17 +337,20 @@
     "descricao_4": "Natal is not just about beaches, lush nature, and good gastronomy. The city was recently affiliated to the <i>IEEE Smart Cities Initiative</i> as a result of the expressive advances and strong engagement between academia and local government. This gave risen to the <i>Natal Human and Smart City Program</i>, formalized by a technical cooperation agreement between the Natal City Hall and the Federal University of Rio Grande do Norte (UFRN). This program represents a large political and societal project in direct cooperation between academia and the population aiming at seeking for solutions to the problems faced by the city in its daily growth, as well as improving the quality of life and well-being of the population through innovative Information and Communication Technology paradigms. In 2017, the <i>Digital Metropolis Technological Park</i> was established. This is a technological park geographically located around the UFRN's central campus with focus on Information Technology, a project involving academia and both public and private sectors as a conducive environment to the diffusion of science, technology, and innovation, besides contributing to the economic and societal development of the city.",
     "quick-facts": "Some quick facts:"
   },
+	
   "info-viagem": {
     "titulo": "Travel information",
     "descricao_1": "<b>Arriving at Natal by plane.</b> The largest airport in the state of Rio Grande do Norte is the <a target='_blank' href= 'http://www.natal.aero/' style='color: #f4b321'>Natal International Airport -- São Gonçalo do Amarante/Governor Aluízio Alves (NAT)</a>. Serving Natal and its Metropolitan Region, the airport was opened in 2014 and it is regarded as one of the best airports in Brazil according to recent surveys. Although Natal is not a major hub in Brazil, there are direct flights connecting it to other larger Brazilian cities, such as Fortaleza (1:00h), Recife (0:50h), Salvador (1:25h), Brasilia (2:45h), Rio de Janeiro (3:00h), and São Paulo (3:20h). There are also some international direct flights connecting Natal to Lisbon, Portugal, and to Buenos Aires, Argentina, but due to national connections to other cities in Brazil, it is not difficult to reach Natal from North America or Europe. All major Brazilian airlines (Azul, Gol, LATAM) currently operate at the airport, in addition to TAP Portugal, Portuguese airline whose direct flights connect Natal to Europe in 6:40h on average.",
     "descricao_2": "<b>Arriving at Natal by car.</b> The BR-101 federal highway is the most important access connecting Natal to other cities in Northeastern Brazil (João Pessoa, Recife, and Salvador) and Southeastern/Southern Brazil along the north-south coast. For who comes from cities such as Fortaleza and Teresina, another common access is the BR-304 federal highway, which comes from the west of Rio Grande do Norte. With respect to the capitals of the nearest states, the average driving time between Natal and João Pessoa (distant 193 km) is 2:30h, between Natal and Recife (distant 291 km) is 4:00h, and between Natal and Fortaleza (distant 524 km) is 7:00h.",
     "descricao_3": "<b>Arriving at Natal by bus.</b> The main bus station in Rio Grande do Norte is the Natal Bus Station/Severino Tomaz da Silveira Bus Terminal, at the Cidade da Esperança neighborhood. There are several bus lines operating routes within Rio Grande do Norte and from/to major cities in the Northeast Region, besides other many cities in Brazil. With respect to the capitals of the nearest states, the average time between Natal and João Pessoa (distant 193 km) is 3:00h, between Natal and Recife (distant 291 km) is 4:40h, and between Natal and Fortaleza (distant 524 km) is 8:30h."
   },
+	
   "hospedagem": {
     "titulo": "Accommodation",
     "descricao_1": "According to recent studies of the Brazilian Institute of Geography and Statistics (IBGE), Natal is the second Brazilian capital in number of beds per 100,000 inhabitants. The hotel network of the city is quite diverse and able to meet the needs of audiences with different accommodation requirements, ranging from more modest levels, such as hostels, to luxury levels, such as five-star hotels and resorts. Regardless of the type of accommodation, most establishments are located close to the Via Costeira and the Ponta Negra Beach, the Natal's main touristic region, no more than six kilometers (approximately ten minutes by car) from Wish Natal. Besides hotels and hostels, there are options of furnished flats or even offered through digital platforms, such as Airbnb.",
     "descricao_2": "The period when CBSoft 2020 will be held, in late September, is regarded as a low-season in Natal, thus leading to more availability of accommodation and lower daily rates in comparison to other months. The CBSoft 2020 Organizing Committee will be committed to negotiate with some establishments to obtain special rates for guests coming to Natal to attend the event."
   },
+	
   "org": {
     "organizacao": "Organization",
     "org_local": "General Chairs"
