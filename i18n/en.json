@@ -116,7 +116,7 @@
 	"trilha_ferramentas_short": "Tools",
 	"secao_datas": "Important Dates",
 	"deadlines_atividades": [
-		"Paper registration<br/>(abstract submission)",
+		"Paper registration (abstract submission)",
 		"Paper submission",
 		"Rebuttal period",
 		"Notification of acceptance",
@@ -159,6 +159,7 @@
 	  "The <b>Tools Track</b> provides a forum for presentation and demonstration of automated solutions that support the process of developing and managing software systems."
     ],
 	"descricao_3": "SBES Proceedings are intended to be published at the ACM Digital Library (pending approval). Additional details about topics of interest and manuscript preparation (e.g., format, language, double-blind policy) for each track can be found on their respective webpages.",
+	"descricao_pesquisa": "O <b>Simpósio Brasileiro de Engenharia de Software</b> (SBES), promovido anualmente pela Sociedade Brasileira de Computação (SBC), é o principal evento de Engenharia de Software da América Latina, sendo realizado em conjunto com o CBSoft. A Trilha de Pesquisa do SBES é a principal trilha do simpósio. A Trilha de Pesquisa publica contribuições sólidas e rigorosamente avaliadas ao estado da arte na área de Engenharia de Software. Artigos nesta trilha são revisados com base na sua originalidade, relevância, solidez técnica e clareza de apresentação. Os anais do simpósio serão publicados na biblioteca digital da ACM.",
 	"secao_journal_first": "Journal-First Submissions",
 	"descricao_4": "SBES is partnering with international journals to incorporate journal-first papers into the SBES 2020 Research Track. Two journals, <i>IEEE Software</i> and the <i>Journal of Software Engineering Research and Development</i> (JSERD), have confirmed their partnership with SBES 2020. Authors of journal-first papers accepted in those journals will be invited to present their research work at SBES. This offers an opportunity for authors to discuss their work with the community as well as enrich the technical program of SBES.",
 	"descricao_5": "The following evaluation criteria will be used to select journal-first papers to SBES 2020:",
