@@ -4,9 +4,9 @@
 <?php 
 	include_once ("header.php");
 	
-	$file = "conteudo/topicos.json";
-    $info = file_get_contents($file);
-    $data = json_decode($info);
+	// $file = "conteudo/topicos.json";
+    // $info = file_get_contents($file);
+    // $data = json_decode($info);
 ?>
 
 <body class="body-wrapper">
@@ -43,6 +43,20 @@
 							<li data-i18n="sbes.trilhas.3" style="color: black;"></li>
 						</ol>
 						<p data-i18n="sbes.descricao_3"></p>
+						<ul style="margin-top: 10px; margin-left: -20px">
+							<li>
+								<a href="sbes-pesquisa.php"><span style="color: #f4b321" data-i18n="sbes.trilha_pesquisa"></span></a>
+							</li>
+							<li>
+								<a href="sbes-ideias.php"><span style="color: #f4b321" data-i18n="sbes.trilha_ideias"></span></a>
+							</li>
+							<li>
+								<a href="sbes-educacao.php"><span style="color: #f4b321" data-i18n="sbes.trilha_educacao"></span></a>
+							</li>
+							<li>
+								<a href="sbes-ferramentas.php"><span style="color: #f4b321" data-i18n="sbes.trilha_ferramentas"></span></a>
+							</li>
+						</ul>
 					</div>
 					
 					<br/>
@@ -51,7 +65,7 @@
 						<table class="table table-hover">
 							<thead style="background-color: #f4b321; color: white">
 								<tr>
-								  	<th scope="col" class="align-middle">
+								  	<th scope="col" class="align-middle" width="21%">
 										<p data-i18n="sbes.trilha" style="color: white;"></p>
 									</th>
 								  	<th scope="col" class="align-middle">
@@ -154,6 +168,7 @@
 					</div>
 					-->
 					
+					<!--
 					<br/>
 					<h5 data-i18n="sbes.secao_journal_first"></h5>
 					<div class="description-one">
@@ -260,6 +275,7 @@
 						<p data-i18n="sbes.comite.24"></p>
 						<p data-i18n="sbes.comite.25"></p>
 					</div>
+					-->
 				</div>
 			</div>
 		</div>
