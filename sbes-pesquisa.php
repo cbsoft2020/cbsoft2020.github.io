@@ -33,7 +33,7 @@
 					</h4>
 					
 					<div class="description-one">
-                    	<p data-i18n="sbes.descricao_pesquisa"></p>
+                    	<p data-i18n="sbes.descricao_1a"></p>
 					</div>
 					
 					<br/>
