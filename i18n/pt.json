@@ -106,6 +106,7 @@
     "subtitulo": "Página principal",
     "descricao_1": "O <b>Simpósio Brasileiro de Engenharia de Software (SBES)</b>, promovido anualmente pela Sociedade Brasileira de Computação (SBC), é o principal evento de Engenharia de Software da América Latina, sendo realizado em conjunto com o CBSoft. A programação em conjunto do SBES e do CBSoft inclui trilhas de pesquisa técnica, ideias inovadoras, educação, ferramentas e indústria, além de palestras convidadas, cursos, tutoriais, paineis, Workshop de Teses e Dissertações e vários outros eventos satélites. Tradicionalmente, o evento reúne de 500 a 800 participantes, incluindo acadêmicos, profissionais e estudantes.",
 	"descricao_1a": "O <b>Simpósio Brasileiro de Engenharia de Software</b> (SBES), promovido anualmente pela Sociedade Brasileira de Computação (SBC), é o principal evento de Engenharia de Software da América Latina, sendo realizado em conjunto com o CBSoft. A Trilha de Pesquisa do SBES é a principal trilha do simpósio. A Trilha de Pesquisa publica contribuições sólidas e rigorosamente avaliadas ao estado da arte na área de Engenharia de Software. Artigos nesta trilha são revisados com base na sua originalidade, relevância, solidez técnica e clareza de apresentação. Os anais do simpósio serão publicados na biblioteca digital da ACM.",
+	"descricao_1b": "A Trilha de Educação do SBES, antigo FEES - Fórum de Educação em Engenharia de Software, foca na discussão de desafios, boas práticas e inovações no ensino de Engenharia de Software. Busca-se submissões de qualidade que tratem de assuntos relacionados ao desenvolvimento de currículo, estudos experimentais, melhores práticas, experiências institucionais ou pessoais, e trabalhos teóricos ou conceituais. Os artigos nesta trilha são revisados com base em sua originalidade, relevância, solidez técnica e clareza na apresentação.",
 	"trilha": "Trilhas",
 	"trilha_pesquisa": "Trilha de Pesquisa",
 	"trilha_pesquisa_short": "Pesquisa",
@@ -210,6 +211,25 @@
 		"Gestão de dívida técnica",
 		"Fundamentos teóricos e métodos formais"
 	],
+	"topicos_sbes_educacao": [
+		"Boas práticas e práticas inovadoras para o ensino de Engenharia de Software",
+		"Currículo ou projetos de curso inovadores",
+		"Ensino de Engenharia de Software no contexto dos diferentes cursos de Graduação e de Pós-graduação",
+		"Ensino de métodos, técnicas e ferramentas para o desenvolvimento de software",
+		"Ensino de Engenharia de Software em ambientes informais, tais como <i>hackathons</i> e <i>Stack Overflow</i>",
+		"Ambientes educacionais emergentes para Engenharia de Software, tais como aprendizado <i>on-line</i>",
+		"Experiências de ensino/aprendizado utilizando abordagens em novos cenários práticos da Engenharia de Software, tais como métodos ágeis, código aberto, desenvolvimento distribuído de software, Computação em Nuvem, <i>Big Data</i>, dispositivos móveis, sistemas embarcados, robótica e outros",
+		"Ferramentas e métodos para avaliação do aprendizado de Engenharia de Software",
+		"Ensino/aprendizado de aspectos humanos, políticos, éticos, legais, profissionais e sociais na Engenharia de Software",
+		"Integração de experiências práticas no ensino da Engenharia de Software",
+		"Integração entre pesquisa e ensino de Engenharia de Software",
+		"Interdisciplinaridade em Engenharia de Software",
+		"Métodos inovadores que promovem o estudo e estimulam o aprendizado de professores, mantendo-os atualizados para o ensino de Engenharia de Software",
+		"Ensino em Engenharia de Software que estimula o empreendedorismo, especialmente a criação de <i>start-ups</i>", 
+		"Pesquisas sobre igualdade, diversidade e inclusão em Engenharia de Software",
+		"Código aberto no ensino de Engenharia de Software",
+		"Ensino/aprendizagem de tópicos emergentes em Engenharia de Software"
+	],
 	"secao_categorias": "Categorias de Artigos",
 	"descricao_14": "Os autores dos artigos da Trilha de Pesquisa, após o resumo no formulário de submissão, devem indicar em qual das categorias a seguir seu artigo melhor se classifica. Isso pretende estabelecer um conjunto consistente de expectativas no processo de revisão.",
 	"categorias": [
@@ -221,9 +241,13 @@
     ],
 	"secao_guidelines": "Preparação, Submissão e Revisão de Artigos",
 	"descricao_15": "Os trabalhos podem ser submetidos em Português ou Inglês. A submissão em Inglês é fortemente encorajada. A aceitação de um artigo implica que pelo menos um de seus autores fará inscrição para participar do simpósio para apresentá-lo. Todas as submissões devem estar no formato <i>Adobe Portable Document Format</i> (PDF) e devem estar de acordo com o formato ACM de 2 colunas (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) disponível neste <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>. As submissões não devem ter mais de 10 páginas, incluindo todas as figuras e referências.",
+	"descricao_15b": "Os trabalhos podem ser escritos em Português ou Inglês. A submissão em inglês é fortemente encorajada, uma vez que os anais do simpósio serão indexados pela biblioteca digital da ACM. Título e resumo de todos os artigos devem estar em Inglês, mesmo se escritos em Português. Os artigos submetidos não devem ter sido submetidos simultaneamente a nenhum outro fórum (conferência ou revista), nem devem ter sido publicados em outro lugar. Pelo menos um autor de cada trabalho aceito deve se inscrever para a conferência e apresentar o trabalho pessoalmente durante o evento. Caso contrário, o trabalho não será incluído nos anais.",
 	"descricao_16": "Os trabalhos devem ser submetidos eletronicamente através do sistema <a style='color: #f4b321' href='http://submissoes.sbc.org.br'>JEMS</a>. Todos os trabalhos de pesquisa técnica devem indicar, após o resumo, o idioma e uma ou mais das categorias acima mencionadas. Submissões que não estiverem em conformidade com o formato de submissão exigido,  estiverem fora do escopo do simpósio ou que foram enviadas ou publicadas em qualquer outro fórum (conferência ou revista) serão rejeitadas sem revisão. Todos os outros trabalhos serão revisados por pelo menos três membros do Comitê de Programa. Durante o processo de revisão, pode-se solicitar um <i>rebuttal</i>. Neste caso, os autores terão acesso às revisões e poderão argumentar e responder às perguntas dos revisores antes da decisão final de aceitação/rejeição. A réplica é limitada a um texto simples de até 4.000 caracteres.",
+	"descricao_16b": "Os artigos devem ter no máximo 10 páginas, incluindo todas as figuras e referências. Todas as submissões devem estar no formato <i>Adobe Portable Document Format</i> (PDF) e devem estar de acordo com o modelo ACM de 2 colunas (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) disponível neste <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>. Os trabalhos devem ser submetidos eletronicamente através do sistema <a style='color: #f4b321' href='http://submissoes.sbc.org.br'>JEMS</a>. Todos os trabalhos submetidos devem informar após o título o idioma em que estão escritos. As submissões que não estiverem em conformidade com o formato de envio exigido ou que estejam fora do escopo da Trilha de Educação serão rejeitadas sem revisão. Todos os outros artigos serão revisados por pelo menos três membros do Comitê do Programa.",
+	"descricao_16b1": "O processo de revisão inclui um período de <i>rebuttal</i> em que os autores terão acesso aos comentários dos revisores e poderão argumentar e responder a perguntas dos revisores antes da decisão final de aceitação/rejeição. O rebuttal é limitado a um texto simples de até 4.000 caracteres (incluindo espaços).",
 	"secao_doubleblind": "Submissão <i>Double-Blind</i>",
-	"descricao_17": "As Trilhas de Pesquisa, Ideias Inovadoras e Resultados Emergentes e Educação seguirão um processo de revisão <i>double-blind</i>. Todos os trabalhos submetidos devem ocultar a identidade dos autores. Ambos os nomes de autores e afiliações devem ser omitidos. Além disso, as seguintes regras devem ser abordadas:",
+	"descricao_17": "A Trilha de Pesquisa do SBES 2020 um processo de revisão <i>double-blind</i>. Todos os trabalhos submetidos devem ocultar a identidade dos autores. Tanto os nomes de autores quanto afiliações devem ser omitidos. Além disso, as seguintes regras devem ser abordadas:",
+	"descricao_17b": "A Trilha de Educação do SBES 2020 um processo de revisão <i>double-blind</i>. Todos os trabalhos submetidos devem ocultar a identidade dos autores. Tanto os nomes de autores quanto afiliações devem ser omitidos. Além disso, as seguintes regras devem ser abordadas:",
 	"guidelines_doubleblind": [
       "As citações a trabalho relacionado dos próprios autores devem ser escritas na terceira pessoa. Por exemplo, deve-se escrever &quot;o trabalho anterior de Silva et al.&quot; em oposição ao &quot;nosso trabalho anterior&quot;. Como uma heurística, deve-se procurar por ocorrências de identificadores tais como: &quot;nós&quot;, &quot;nosso&quot;, &quot;github&quot;, &quot;financiamento&quot;, &quot;Universidade&quot;, etc., no artigo e modificar essas palavras antes de submetê-lo.",
 	  "No artigo submetido, não se deve mencionar nenhum artefato em um repositório ou site que permita identificar a autoria. Se for necessário disponibilizar qualquer artefato, isso deve ser feito de forma anônima em um repositório/website.",
@@ -231,8 +255,8 @@
 	  "Se o trabalho submetido for uma evolução de trabalho anterior, é possível anonimizar a referência no artigo submetido. Por exemplo, &quot;o trabalho anterior de Silva et al.&quot; pode ser adaptado para &quot;baseado no trabalho anterior [X]&quot; e a referência no final do artigo pode ser apresentada como &quot;[X] autores anônimos devido a revisão <i>double-blind</i>&quot;."
     ],
 	"descricao_18": "Após a aceitação do artigo, todas as informações (sem anonimização) poderão ser incluídas na versão final.",
-	"descricao_19": "Em caso de dúvida sobre a preparação do trabalho seguindo as regras de submissão <i>double-blind</i>, pode-se enviar um <i>e-mail</i> para os Coordenadores do Comitê de Programa com o assunto &quot;SBES: pergunta sobre as regras de double-blind&quot;.",
-	"secao_comite": "Comitê",
+	"descricao_19": "Em caso de dúvida sobre a preparação do trabalho seguindo as regras de submissão <i>double-blind</i>, pode-se enviar um <i>e-mail</i> para os Coordenadores do Comitê de Programa com o assunto &quot;SBES Trilha de Educação: Pergunta sobre as regras de double-blind&quot;.",
+	"secao_comite": "Organização",
 	"comite": [
       "Coordenadores Gerais do CBSoft 2020",
 	  "Everton Cavalcante (UFRN, Brasil)",
@@ -260,7 +284,9 @@
 	  "Rafael Prikladnicki (PUCRS, Brasil)",
 	  "Tayana Conte (UFAM, Brasil)",
 	  "Uirá Kulesza (UFRN, Brasil)"
-    ]
+    ],
+	"secao_contato": "Contato",
+	"descricao_21b": "Para mais informações, pode-se consultar a página Web do CBSoft 2020 ou entrar em contato com os Coordenadores do Comitê de Programa (<a style='color: #f4b321' href='rps@uniriotec.br'>rps@uniriotec.br</a> e <a style='color: #f4b321' href='igor.steinmacher@nau.edu'>igor.steinmacher@nau.edu</a>). Deve-se utilizar o título &quot;SBES Trilha de Educação: Dúvidas sobre o processo de submissão&quot;."
   },
 	
   "sbcars": {

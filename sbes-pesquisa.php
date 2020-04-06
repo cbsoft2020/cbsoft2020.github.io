@@ -142,22 +142,9 @@
 					<br/>
 					<h5 data-i18n="sbes.secao_comite"></h5>
 					<div class="description-one">
-						<strong><p data-i18n="sbes.comite.0"></p></strong>
-						<p data-i18n="sbes.comite.1"></p>
-						<p data-i18n="sbes.comite.2"></p>
-						<p data-i18n="sbes.comite.3"></p><br/>
 						<strong><p data-i18n="sbes.comite.4"></p></strong>
 						<p data-i18n="sbes.comite.5"></p>
 						<p data-i18n="sbes.comite.6"></p><br/>
-						<strong><p data-i18n="sbes.comite.7"></p></strong>
-						<p data-i18n="sbes.comite.8"></p>
-						<p data-i18n="sbes.comite.9"></p><br/>
-						<strong><p data-i18n="sbes.comite.10"></p></strong>
-						<p data-i18n="sbes.comite.11"></p>
-						<p data-i18n="sbes.comite.12"></p><br/>
-						<strong><p data-i18n="sbes.comite.13"></p></strong>
-						<p data-i18n="sbes.comite.14"></p>
-						<p data-i18n="sbes.comite.15"></p><br/>
 						<strong><p data-i18n="sbes.comite.16"></p></strong>
 						<p data-i18n="sbes.comite.17"></p>
 						<p data-i18n="sbes.comite.18"></p>

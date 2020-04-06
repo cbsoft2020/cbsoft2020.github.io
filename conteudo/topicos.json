@@ -58,5 +58,43 @@
 		"Software testing and verification",
 		"Technical debt management",
 		"Theoretical foundations and formal methods"
+	],
+	"topicos_sbes_educacao_pt": [
+		"Boas práticas e práticas inovadoras para o ensino de Engenharia de Software",
+		"Currículo ou projetos de curso inovadores",
+		"Ensino de Engenharia de Software no contexto dos diferentes cursos de Graduação e de Pós-graduação",
+		"Ensino de métodos, técnicas e ferramentas para o desenvolvimento de software",
+		"Ensino de Engenharia de Software em ambientes informais, tais como <i>hackathons</i> e <i>Stack Overflow</i>",
+		"Ambientes educacionais emergentes para Engenharia de Software, tais como aprendizado <i>on-line</i>",
+		"Experiências de ensino/aprendizado utilizando abordagens em novos cenários práticos da Engenharia de Software, tais como métodos ágeis, código aberto, desenvolvimento distribuído de software, Computação em Nuvem, <i>Big Data</i>, dispositivos móveis, sistemas embarcados, robótica e outros",
+		"Ferramentas e métodos para avaliação do aprendizado de Engenharia de Software",
+		"Ensino/aprendizado de aspectos humanos, políticos, éticos, legais, profissionais e sociais na Engenharia de Software",
+		"Integração de experiências práticas no ensino da Engenharia de Software",
+		"Integração entre pesquisa e ensino de Engenharia de Software",
+		"Interdisciplinaridade em Engenharia de Software",
+		"Métodos inovadores que promovem o estudo e estimulam o aprendizado de professores, mantendo-os atualizados para o ensino de Engenharia de Software",
+		"Ensino em Engenharia de Software que estimula o empreendedorismo, especialmente a criação de <i>start-ups</i>", 
+		"Pesquisas sobre igualdade, diversidade e inclusão em Engenharia de Software",
+		"Código aberto no ensino de Engenharia de Software",
+		"Ensino/aprendizagem de tópicos emergentes em Engenharia de Software"
+	],
+	"topicos_sbes_educacao_en": [
+		"New and innovative best practices for Software Engineering education",
+		"Innovative curriculum or course formats",
+		"Teaching Software Engineering in the context of undergraduate and graduate courses",
+		"Teaching methods, techniques, and tools for developing software",
+		"Software Engineering education in informal settings, such as hackathons and <i>Stack Overflow</i>",
+		"Emerging educational settings for Software Engineering, such as online learning",
+		"Teaching/learning experiences using approaches of new practical scenarios of Software Engineering, such as agile methods, open source, distributed software development, Cloud Computing, Big Data, mobile devices, embedded systems, robotics, etc.",
+		"Tools and methods for the evaluation of Software Engineering learning",
+		"Teaching/learning human, political, ethical, legal, professional. and social issues in Software Engineering",
+		"Integration of practical experiences in teaching Software Engineering",
+		"Integration between research on Software Engineering and teaching/learning Software Engineering",
+		"Interdisciplinarity in Software Engineering",
+		"Innovative methods that promote studying and stimulating learning of professors, keeping them updated for teaching Software Engineering",
+		"Researches on equality, diversity, and inclusion in Software Engineering", 
+		"Education in Software Engineering that stimulates entrepreneurship, specially startups creation",
+		"Open source in education",
+		"Teaching/learning emergent topics in Software Engineering"
 	]
 }
