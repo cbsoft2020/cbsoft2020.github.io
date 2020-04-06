@@ -105,38 +105,50 @@
     "titulo": "SBES 2020<br/>34th Brazilian Symposium on Software Engineering",
     "subtitulo": "Página principal",
     "descricao_1": "The <b>Brazilian Symposium on Software Engineering (SBES)</b>, annually promoted by the Brazilian Computer Society (SBC), is the premier Software Engineering conference in Latin America. SBES is held in conjunction with CBSoft and its joint program includes technical research, insightful ideas, education, tools, and industry tracks, invited talks, courses, tutorials, panels, a Workshop on Theses and Dissertations, and several other satellite events. It traditionally gathers 500-800 people, including academics, practitioners, and students.",
+	"trilha": "Tracks",
 	"trilha_pesquisa": "Research Track",
+	"trilha_pesquisa_short": "Research",
 	"trilha_ideias": "Innovative Ideas and Emerging Results Track",
+	"trilha_ideias_short": "Innovative Ideas and Emerging Results",
 	"trilha_educacao": "Education Track",
+	"trilha_educacao_short": "Education",
 	"trilha_ferramentas": "Tools Track",
+	"trilha_ferramentas_short": "Tools",
 	"secao_datas": "Important Dates",
+	"deadlines_atividades": [
+		"Paper registration<br/>(abstract submission)",
+		"Paper submission",
+		"Rebuttal period",
+		"Notification of acceptance",
+		"Camera-ready"
+	],
 	"deadlines_pesquisa": [
-		"Paper registration (abstract submission): May 4, 2020",
-		"Paper submission: May 11, 2020",
-		"Rebuttal period: June 15-20, 2020",
-		"Notification of acceptance: July 3, 2020",
-		"Camera-ready: July 17, 2020"
+		"May 4, 2020",
+		"May 11, 2020",
+		"June 15-20, 2020",
+		"July 3, 2020",
+		"July 17, 2020"
 	],
 	"deadlines_ideias": [
-		"Paper registration (abstract submission): June 1, 2020",
-		"Paper submission: June 8, 2020",
-		"Rebuttal period: July 6-10, 2020",
-		"Notification of acceptance: July 17, 2020",
-		"Camera-ready: August 7, 2020"
+		"June 1, 2020",
+		"June 8, 2020",
+		"July 6-10, 2020",
+		"July 17, 2020",
+		"August 7, 2020"
 	],
 	"deadlines_educacao": [
-		"Paper registration (abstract submission): June 1, 2020",
-		"Paper submission: June 8, 2020",
-		"Rebuttal period: July 6-10, 2020",
-		"Notification of acceptance: July 17, 2020",
-		"Camera-ready: August 7, 2020"
+		"June 1, 2020",
+		"June 8, 2020",
+		"July 6-10, 2020",
+		"July 17, 2020",
+		"August 7, 2020"
 	],
 	"deadlines_ferramentas": [
-		"Paper registration (abstract submission): June 1, 2020",
-		"Paper submission: June 8, 2020",
-		"Rebuttal period: July 6-10, 2020",
-		"Notification of acceptance: July 17, 2020",
-		"Camera-ready: August 7, 2020"
+		"June 1, 2020",
+		"June 8, 2020",
+		"July 6-10, 2020",
+		"July 17, 2020",
+		"August 7, 2020"
 	],
 	"secao_trilhas": "SBES Tracks",
 	"descricao_2": "SBES includes four tracks:",

@@ -1406,6 +1406,10 @@ select.form-control:not([size]):not([multiple]) {
   }
 }
 
+.schedule .schedule-contents .schedule-item ul li .venue {
+  width: 30%;
+}
+
 @media (max-width: 767px) {
   .schedule .schedule-contents .schedule-item ul li .venue {
     display: none;
@@ -1414,7 +1418,7 @@ select.form-control:not([size]):not([multiple]) {
 
 .schedule .schedule-contents .schedule-item li.headings {
   padding: 22px 40px;
-  background: #2f92d0;
+  background: #f4b321;
 }
 
 .schedule .schedule-contents .schedule-item li.headings div {

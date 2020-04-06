@@ -105,38 +105,50 @@
     "titulo": "SBES 2020<br/>XXXIV Simpósio Brasileiro de Engenharia de Software",
     "subtitulo": "Página principal",
     "descricao_1": "O <b>Simpósio Brasileiro de Engenharia de Software (SBES)</b>, promovido anualmente pela Sociedade Brasileira de Computação (SBC), é o principal evento de Engenharia de Software da América Latina, sendo realizado em conjunto com o CBSoft. A programação em conjunto do SBES e do CBSoft inclui trilhas de pesquisa técnica, ideias inovadoras, educação, ferramentas e indústria, além de palestras convidadas, cursos, tutoriais, paineis, Workshop de Teses e Dissertações e vários outros eventos satélites. Tradicionalmente, o evento reúne de 500 a 800 participantes, incluindo acadêmicos, profissionais e estudantes.",
+	"trilha": "Trilhas",
 	"trilha_pesquisa": "Trilha de Pesquisa",
+	"trilha_pesquisa_short": "Pesquisa",
 	"trilha_ideias": "Trilha de Ideias Inovadoras e Resultados Emergentes",
+	"trilha_ideias_short": "Ideias Inovadoras e Resultados Emergentes",
 	"trilha_educacao": "Trilha de Educação",
+	"trilha_educacao_short": "Educação",
 	"trilha_ferramentas": "Trilha de Ferramentas",
+	"trilha_ferramentas_short": "Ferramentas",
 	"secao_datas": "Datas Importantes",
+	"deadlines_atividades": [
+		"Registro do artigo<br/>(submissão do resumo)",
+		"Submissão do artigo",
+		"Período de <i>rebuttal</i>",
+		"Notificação de aceitação",
+		"Envio da versão final"
+	],
 	"deadlines_pesquisa": [
-		"Registro do artigo (submissão do resumo): 4 de maio de 2020",
-		"Submissão do artigo: 11 de maio de 2020",
-		"Período de <i>rebuttal</i>: 15 a 20 de junho de 2020",
-		"Notificação de aceitação: 3 de julho de 2020",
-		"Envio da versão final: 17 de julho de 2020"
+		"4 de maio de 2020",
+		"11 de maio de 2020",
+		"15 a 20 de junho de 2020",
+		"3 de julho de 2020",
+		"17 de julho de 2020"
 	],
 	"deadlines_ideias": [
-		"Registro do artigo (submissão do resumo): 1º de junho de 2020",
-		"Submissão do artigo: 8 de junho de 2020",
-		"Período de <i>rebuttal</i>: 6 a 10 de julho de 2020",
-		"Notificação de aceitação: 17 de julho de 2020",
-		"Envio da versão final: 7 de agosto de 2020"
+		"1º de junho de 2020",
+		"8 de junho de 2020",
+		"6 a 10 de julho de 2020",
+		"17 de julho de 2020",
+		"7 de agosto de 2020"
 	],
 	"deadlines_educacao": [
-		"Registro do artigo (submissão do resumo): 1º de junho de 2020",
-		"Submissão do artigo: 8 de junho de 2020",
-		"Período de <i>rebuttal</i>: 6 a 10 de julho de 2020",
-		"Notificação de aceitação: 17 de julho de 2020",
-		"Envio da versão final: 7 de agosto de 2020"
+		"1º de junho de 2020",
+		"8 de junho de 2020",
+		"6 a 10 de julho de 2020",
+		"17 de julho de 2020",
+		"7 de agosto de 2020"
 	],
 	"deadlines_ferramentas": [
-		"Registro do artigo (submissão do resumo): 1º de junho de 2020",
-		"Submissão do artigo e do vídeo: 8 de junho de 2020",
-		"Período de <i>rebuttal</i>: 6 a 10 de julho de 2020",
-		"Notificação de aceitação: 17 de julho de 2020",
-		"Envio da versão final: 7 de agosto de 2020"
+		"1º de junho de 2020",
+		"8 de junho de 2020",
+		"6 a 10 de julho de 2020",
+		"17 de julho de 2020",
+		"7 de agosto de 2020"
 	],
 	"secao_trilhas": "Trilhas do SBES",
 	"descricao_2": "O SBES inclui quatro trilhas:",

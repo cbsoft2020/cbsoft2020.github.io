@@ -34,6 +34,70 @@
 					
 					<br/>
 					<h5 data-i18n="sbes.secao_datas"></h5>
+					<br/>
+					
+					<div class="table-responsive">
+						<table class="table table-hover">
+							<thead style="background-color: #f4b321; color: white">
+								<tr>
+								  	<th scope="col" class="align-middle">
+										<p data-i18n="sbes.trilha" style="color: white;"></p>
+									</th>
+								  	<th scope="col" class="align-middle">
+										<p data-i18n="sbes.trilha_pesquisa_short" style="color: white;"></p>
+									</th>
+								  	<th scope="col" class="align-middle" width="20%">
+										<p data-i18n="sbes.trilha_ideias_short" style="color: white;"></p>
+									</th>
+								  	<th scope="col" class="align-middle">
+										<p data-i18n="sbes.trilha_educacao_short" style="color: white;"></p>
+									</th>
+									<th scope="col" class="align-middle">
+										<p data-i18n="sbes.trilha_ferramentas_short" style="color: white;"></p>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td><p data-i18n="sbes.deadlines_atividades.0" style="color: black;"></p></td>
+									<td><p data-i18n="sbes.deadlines_pesquisa.0" style="color: black;"></p></td>
+									<td><p data-i18n="sbes.deadlines_ideias.0" style="color: black;"></p></td>
+									<td><p data-i18n="sbes.deadlines_educacao.0" style="color: black;"></p></td>
+									<td><p data-i18n="sbes.deadlines_ferramentas.0" style="color: black;"></p></td>
+								</tr>
+								<tr>
+									<td><p data-i18n="sbes.deadlines_atividades.1" style="color: black;"></p></td>
+									<td><p data-i18n="sbes.deadlines_pesquisa.1" style="color: black;"></p></td>
+									<td><p data-i18n="sbes.deadlines_ideias.1" style="color: black;"></p></td>
+									<td><p data-i18n="sbes.deadlines_educacao.1" style="color: black;"></p></td>
+									<td><p data-i18n="sbes.deadlines_ferramentas.1" style="color: black;"></p></td>
+								</tr>
+								<tr>
+									<td><p data-i18n="sbes.deadlines_atividades.2" style="color: black;"></p></td>
+									<td><p data-i18n="sbes.deadlines_pesquisa.2" style="color: black;"></p></td>
+									<td><p data-i18n="sbes.deadlines_ideias.2" style="color: black;"></p></td>
+									<td><p data-i18n="sbes.deadlines_educacao.2" style="color: black;"></p></td>
+									<td><p data-i18n="sbes.deadlines_ferramentas.2" style="color: black;"></p></td>
+								</tr>
+								<tr>
+									<td><p data-i18n="sbes.deadlines_atividades.3" style="color: black;"></p></td>
+									<td><p data-i18n="sbes.deadlines_pesquisa.3" style="color: black;"></p></td>
+									<td><p data-i18n="sbes.deadlines_ideias.3" style="color: black;"></p></td>
+									<td><p data-i18n="sbes.deadlines_educacao.3" style="color: black;"></p></td>
+									<td><p data-i18n="sbes.deadlines_ferramentas.3" style="color: black;"></p></td>
+								</tr>
+								<tr>
+									<td><p data-i18n="sbes.deadlines_atividades.4" style="color: black;"></p></td>
+									<td><p data-i18n="sbes.deadlines_pesquisa.4" style="color: black;"></p></td>
+									<td><p data-i18n="sbes.deadlines_ideias.4" style="color: black;"></p></td>
+									<td><p data-i18n="sbes.deadlines_educacao.4" style="color: black;"></p></td>
+									<td><p data-i18n="sbes.deadlines_ferramentas.4" style="color: black;"></p></td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+					
+					<!--
                     <div class="description-one">
 						<strong><p data-i18n="sbes.trilha_pesquisa"></p></strong>
 						<ul style="margin-left: -20px">
@@ -77,6 +141,7 @@
 							<li data-i18n="sbes.deadlines_ferramentas.4" style="color: black;"></li>
 						</ul>
 					</div>
+					-->
 					
 					<br/>
 					<h5 data-i18n="sbes.secao_trilhas"></h5>
