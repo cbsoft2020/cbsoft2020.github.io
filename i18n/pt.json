@@ -389,7 +389,65 @@
 	"sast": {
 		"titulo": "SAST 2020<br/>V Simpósio Brasileiro de Teste de Software Sistemático e Automatizado",
 		"subtitulo": "Página principal",
-		"descricao_1": "O <b>Simpósio Brasileiro de Teste de Software Sistemático e Automatizado (SAST)</b>, o qual desde 2007 existia com o nome de Brazilian Workshop on Systematic and Automated Software Testing em nove edições, é o principal evento científico sobre teste de software no Brasil. Seu objetivo é promover um fórum anual para discutir questões sobre a sistematização e automação da atividade de teste de software, promovendo a interação entre pesquisadores e indústria de modo a fortalecer cooperações e inovação nessa importante área do desenvolvimento de software."
+		"descricao_1": "Teste de software é uma das mais populares técnicas de verificação e validação de software usadas atualmente na indústria de software. Quando aplicado de maneira efetiva, essa técnica pode fornecer evidências importantes sobre a qualidade e a confiabilidade de um sistema de software.",
+		"descricao_2": "O cenário atual mostra uma dependência cada vez maior de software nas atividades diárias e nos ambientes industriais, contribuindo para uma crescente necessidade de respostas rápidas e corretas desses sistemas, que geralmente são críticos, pervasivos, persistentes, móveis, distribuídos, de tempo real, embarcados e adaptativos. Essa necessidade demanda o desenvolvimento de técnicas, critérios e ferramentas de suporte para teste de software, considerando os diferentes domínios de aplicação e paradigmas de programação.",
+		"descricao_3": "Após a sua estreia em 2016, o <b>Simpósio Brasileiro de Teste de Software Sistemático e Automatizado (SAST)</b> promoverá em 2020 sua quinta edição, embora exista desde 2007 com o nome de Workshop Brasileiro de Teste de Software Sistemático e Automatizado. Este é o principal evento científico de teste de software no Brasil. Seu objetivo é promover um fórum anual para discutir questões sobre sistematização e automação da atividade de teste de software, promovendo a interação entre pesquisadores e indústria, a fim de fortalecer a cooperação e a inovação nesta importante área do desenvolvimento de software.",
+		"descricao_4": "Teste de software tem grande importância na verificação e validação de sistemas de software. Além disso, estudos empíricos indicam que as atividades relacionadas a testes geralmente representam mais de 50% dos custos do desenvolvimento de software. Abordagens de teste sistemático e automatizado têm se demonstrado capazes de contribuir para a redução desses custos. Casos de sucesso na indústria têm sido constantemente reportados e o interesse nas investigações na academia aumenta continuamente, como pode ser observado através do grande número de pesquisadores envolvidos neste tema. Desta forma, o principal objetivo do SAST é disponibilizar um fórum de discussão para congregar as comunidades da indústria e da academia envolvidas com a sistematização e automação de testes de software para diferentes categorias de sistemas.",
+		"secao_datas": "Datas Importantes",
+		"deadlines_atividades": [
+			"Registro do artigo (submissão do resumo)",
+			"Submissão do artigo",
+			"Notificação de aceitação",
+			"Envio da versão final"
+		],
+		"deadlines": [
+			"28 de junho de 2020",
+			"6 de julho de 2020",
+			"6 de agosto de 2020",
+			"13 de agosto de 2020"
+		],
+		"secao_topicos": "Tópicos de Interesse",
+		"descricao_5": "O SAST promove a discussão harmônica e conjunta entre os profissionais da academia e indústria envolvidos com práticas, atividades e ferramentas relacionadas ao teste de software sistemático e automatizado. Os tópicos cobertos pelo simpósio incluem, mas não se limitam, os seguintes:",
+		"topicos_sast": [
+			"Teste de software automatizado: ambientes, ferramentas e relatos sobre automação de testes na indústria",
+			"Teste combinatório e teste aleatório",
+			"Teste de software distribuído e paralelo",
+			"Teste baseado em erro e teste baseado em falta",
+			"Gerenciamento e integração de atividades e recursos de teste",
+			"Manutenção e reuso de artefatos de teste",
+			"Testes baseados em modelo e testes dirigidos por modelo",
+			"Testes de desempenho, carga e estresse",
+			"Predição e teste baseado em riscos",
+			"Testes baseados em programa, testes baseados em especificação e teste de requisitos",
+			"Adequação dos testes e medidas de cobertura",
+			"Geração de casos de teste e técnicas de seleção",
+			"Motores de testes, stubs, frameworks e geração de roteiros de teste",
+			"Análise de efetividade de testes e geração de relatórios de teste",
+			"Oráculos de teste e técnicas de verificação dos resultados do teste",
+			"Teste de sistemas de software contemporâneos: móveis, em nuvem, sensíveis ao contexto, Internet das Coisas, Indústria 4.0, <i>Big Data</i>",
+			"Teste de software baseado em aprendizado, incluindo <i>Deep Learning</i>",
+			"Teste de requisitos não funcionais: segurança, <i>safety</i>, interoperabilidade, dentre outros"
+		],
+		"secao_guidelines": "Diretrizes de Submissão",
+		"descricao_6": "O SAST aceita submissões de artigos técnicos apresentando contribuições originais para a área de pesquisa de Testes de Software. O artigo deve ter entre 6 e 10 páginas, incluindo todas as figuras, referências e apêndices, seguindo o modelo ACM de 2 colunas (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) disponível neste <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>.",
+		"descricao_7": "Os artigos podem ser escritos em Português ou Inglês. Entretanto, o SAST encoraja que as submissões sejam realizadas em Inglês porque os anais serão publicados na biblioteca digital da ACM. Para os artigos escritos em Português, o título e o resumo devem estar em Inglês (como recomendado pela ACM). Os artigos serão avaliados de acordo com sua adequação ao escopo do SAST, relevância, coerência técnica e originalidade. Os artigos devem tornar explícita sua relação com eventuais trabalhos anteriores, principalmente aqueles publicados pelos mesmos autores. Artigos envolvendo estudos empíricos e experimentais devem descrever os métodos utilizados e apresentar uma interpretação quantitativa e/ou qualitativa dos resultados. Ao menos três membros do Comitê de Programa do SAST estarão envolvidos na avaliação de cada artigo submetido.",
+		"descricao_8": "O SAST seguirá um processo de revisão anônimo (<i>double-blind review</i>). Assim, as submissões iniciais dos artigos não devem possuir nenhum tipo de identificação dos autores. Todas as informações sobre os autores e suas instituições devem ser removidas do artigo. Além disso, referências a trabalhos anteriores dos próprios autores também devem ser ocultadas. Por exemplo, deve-se escrever &quot;[REF] Informações omitidas para a revisão anônima&quot; na lista de referências. Após a aceitação do artigo, todas as informações ocultadas poderão ser incluídas na versão final do trabalho.",
+		"descricao_9": "Todas as submissões devem ser realizadas no formato <i>Adobe Portable Document Format</i> (PDF) utilizando o sistema <a style='color: #f4b321' href='http://submissoes.sbc.org.br'>JEMS</a>. Para os artigos aceitos, pelo menos um dos autores deve estar registrado no SAST e o artigo deve ser apresentado durante o simpósio para ser incluído na biblioteca digital da ACM.",
+		"secao_comite": "Organização",
+		"comite": [
+			"Coordenadores de Comitê de Programa",
+			"Wilkerson Andrade (UFCG, Brasil)",
+			"Vânia de Oliveira Neves (UFF, Brasil)",
+			"Comitê Diretivo do SAST",
+			"Wilkerson Andrade (UFCG, Brasil)",
+			"Vânia de Oliveira Neves (UFF, Brasil)",
+			"Adenilso da Silva Simão (ICMC-USP, Brasil)",
+			"Elder de Macedo Rodrigues (Unipampa, Brasil)",
+			"Avelino Francisco Zorzo (PUCRS, Brasil)",
+			"Guilherme Horta Travassos (COPPE-UFRJ, Brasil)",
+			"Wesley Assunção (UTFPR, Brasil)",
+			"Marcelo Eler (EACH-USP, Brasil)"
+		]
 	},
 
 	"workshops": {

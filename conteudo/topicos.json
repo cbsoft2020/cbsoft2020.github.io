@@ -136,5 +136,25 @@
 		"Software product lines",
 		"Software reuse (including technical and non-technical issues)",
 		"Variability management"
+	],
+	"topicos_sast_pt": [
+		"Teste de software automatizado: ambientes, ferramentas e relatos sobre automação de testes na indústria",
+		"Teste combinatório e teste aleatório",
+		"Teste de software distribuído e paralelo",
+		"Teste baseado em erro e teste baseado em falta",
+		"Gerenciamento e integração de atividades e recursos de teste",
+		"Manutenção e reuso de artefatos de teste",
+		"Testes baseados em modelo e testes dirigidos por modelo",
+		"Testes de desempenho, carga e estresse",
+		"Predição e teste baseado em riscos",
+		"Testes baseados em programa, testes baseados em especificação e teste de requisitos",
+		"Adequação dos testes e medidas de cobertura",
+		"Geração de casos de teste e técnicas de seleção",
+		"Motores de testes, stubs, frameworks e geração de roteiros de teste",
+		"Análise de efetividade de testes e geração de relatórios de teste",
+		"Oráculos de teste e técnicas de verificação dos resultados do teste",
+		"Teste de sistemas de software contemporâneos: móveis, em nuvem, sensíveis ao contexto, Internet das Coisas, Indústria 4.0, <i>Big Data</i>",
+		"Teste de software baseado em aprendizado, incluindo <i>Deep Learning</i>",
+		"Teste de requisitos não funcionais: segurança, <i>safety</i>, interoperabilidade, dentre outros"
 	]
 }

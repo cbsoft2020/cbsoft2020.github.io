@@ -390,7 +390,65 @@
 	"sast": {
 		"titulo": "SAST 2020<br/> 5th Brazilian Symposium on Systematic and Automated Software Testing",
 		"subtitulo": "Main page",
-		"descricao_1": "The <b>Brazilian Symposium on Systematic and Automated Software Testing (SAST)</b>, which existed since 2007 under the Brazilian Workshop on Systematic and Automated Software Testing in nine editions, is the main scientific event about software testing in Brazil. Its goal is being an annual forum to discuss issues related to systematization and automation of the software testing activity, promoting the interaction between researchers and industry as means of strengthening cooperations and innovation in such an important field of software development."
+		"descricao_1": "Software testing is one of the most popular software verification and validation techniques used currently in the software industry. When applied effectively, this technique can provide important evidences regarding the quality and reliability of a software system.",
+		"descricao_2": "The current scenario shows an increasing dependency on software in daily activities and industrial environments, emerging a growing need for fast, correct answers of these systems, which are often critical, pervasive, persistent, mobile, distributed, real-time, embedded, and adaptive. This need drives the development of techniques, criteria, and supporting tools for software testing considering the different application domains and programming paradigms.",
+		"descricao_3": "After its debut in 2016, the <b>Brazilian Symposium on Systematic and Automated Software Testing (SAST)</b> will promote in 2020 its fifth edition, although it existed since 2007 with the name of Brazilian Workshop on Systematic and Automated Software Testing. This is the main scientific event on software testing in Brazil. Its goal is promoting an annual forum to discuss issues on the systematization and automation of software testing activity, promoting interaction between researchers and industry in order to strengthen cooperation and innovation in this important area of software development.",
+		"descricao_4": "Software testing is of central importance to verify and validate software systems. Moreover, empirical studies show that test-related activities often account for over 50% of software development costs. Systematic and automated approaches have shown capable of reducing this overwhelming cost. Industrial success cases have been openly reported, and academic interest continues to grow as observed by the growing number of researchers in the field. The primary goal of SAST is building a forum that brings the research and industry communities together to discuss improvements in software testing systematization and automation regarding different categories of software systems.",
+		"secao_datas": "Important Dates",
+		"deadlines_atividades": [
+			"Paper registration (abstract submission)",
+			"Paper submission",
+			"Notification of acceptance",
+			"Camera-ready"
+		],
+		"deadlines": [
+			"June 28, 2020",
+			"July 6, 2020",
+			"August 6, 2020",
+			"August 13, 2020"
+		],
+		"secao_topicos": "Topics of Interest",
+		"descricao_5": "SAST focuses on bringing together researchers and practitioners that have been working on systematic and automated practices, activities, and tools of software testing. The topics covered by the symposium include, but are not limited to, the following:",
+		"topicos_sast": [
+			"Automated software testing: environments, tools, and industrial report on testing automation",
+			"Combinatorial testing and random testing",
+			"Distributed and parallel software testing",
+			"Error-based and fault-based testing",
+			"Management and integration of testing activities and resources",
+			"Maintenance and reuse of test artifacts",
+			"Model-based and model-driven testing",
+			"Performance, load, and stress testing",
+			"Prediction and Risk-based testing",
+			"Program-based, specification-based, and requirements testing",
+			"Test adequacy and coverage measurement",
+			"Test case generation and selection techniques",
+			"Test driver, stubs, harness, and test script generation",
+			"Test effective analysis and test report generation",
+			"Test oracle and test result checking techniques",
+			"Testing of contemporary software systems: mobile, Cloud Computing, context-awareness, Internet of Things, Industry 4.0, Big Data",
+			"Testing of learning-based software, including Deep Learning",
+			"Testing of non-functional requirements: security, safety, interoperability, etc."
+		],
+		"secao_guidelines": "Submission Guidelines",
+		"descricao_6": "SAST accepts submissions of technical papers that should present original contributions to the software testing research area. The paper must be no shorter than 6 pages and no longer than 10 pages, including all figures, references, and appendices, following the ACM 2-column format (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) available at this <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>.",
+		"descricao_7": "Papers can be written either in Portuguese or in English. Submissions in English are strongly encouraged since the proceedings will be submitted to ACM Digital Library. For papers written in Portuguese, the title and abstract must be in English (as recommended by ACM). Papers will be judged according to their adequacy to SAST scope, relevance, technical soundness, and originality. Papers should state their relation to previous work, mainly to the previously published work of their authors. Papers on empirical studies should describe the used methods and interpret qualitatively and quantitatively their results. At least three Program Committee members will review all submissions.",
+		"descricao_8": "SAST will follow a double-blind review process. Therefore, the initial paper submissions must not have any author identification. All information about authors and their institutions must be removed from the paper. Moreover, references to previous work must be blinded. For example, one must write &quot;[REF] Information omitted for double-blind reviewing&quot; in the reference list. After paper acceptance, all omitted information can be included in the camera-ready version .",
+		"descricao_9": "All submissions must be in PDF format using the <a style='color: #f4b321' href='http://submissoes.sbc.org.br'>JEMS</a> system. For accepted submissions, at least one of the authors must register and the paper must be presented during the conference to be included in ACM Digital Library.",
+		"secao_comite": "Organização",
+		"comite": [
+			"Program Committee Chairs",
+			"Wilkerson Andrade (UFCG, Brazil)",
+			"Vânia de Oliveira Neves (UFF, Brazil)",
+			"SAST Steering Committee",
+			"Wilkerson Andrade (UFCG, Brazil)",
+			"Vânia de Oliveira Neves (UFF, Brazil)",
+			"Adenilso da Silva Simão (ICMC-USP, Brazil)",
+			"Elder de Macedo Rodrigues (Unipampa, Brazil)",
+			"Avelino Francisco Zorzo (PUCRS, Brazil)",
+			"Guilherme Horta Travassos (COPPE-UFRJ, Brazil)",
+			"Wesley Assunção (UTFPR, Brazil)",
+			"Marcelo Eler (EACH-USP, Brazil)"
+		]
 	},
 
 	"workshops": {
