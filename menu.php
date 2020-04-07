@@ -33,7 +33,7 @@
             <div class="dropdown-menu">
               <a class="dropdown-item" href="sbes.php" data-i18n="menu.home_SBES">Página Principal</a>
               <a class="dropdown-item" href="sbes-pesquisa.php" data-i18n="menu.trilha_pesquisa">Trilha de Pesquisa</a>
-			  <a class="dropdown-item" href="sbes-ideias.php" data-i18n="menu.trilha_ideias_inovadoras">Trilha de Ideias Inovadoras e Resultados Emergentes</a>
+			  <a class="dropdown-item" href="sbes.php" data-i18n="menu.trilha_ideias_inovadoras">Trilha de Ideias Inovadoras e Resultados Emergentes</a>
               <a class="dropdown-item" href="sbes-educacao.php" data-i18n="menu.trilha_educacao">Trilha de Educação</a>
 			  <a class="dropdown-item" href="sbes-ferramentas.php" data-i18n="menu.trilha_ferramentas">Trilha de Ferramentas</a>
               <a class="dropdown-item" href="sbes.php" data-i18n="menu.palestras">Palestras</a>
@@ -44,7 +44,6 @@
               </a>
               <!-- Dropdown list -->
               <div class="dropdown-menu">
-                <a class="dropdown-item" href="sbcars.php" data-i18n="menu.home_SBCARS">Página Principal</a>
                 <a class="dropdown-item" href="sbcars.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a>
                 <a class="dropdown-item" href="sbcars.php" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>
                 <a class="dropdown-item" href="sbcars.php" data-i18n="menu.palestras">Palestras</a>
@@ -55,7 +54,6 @@
               </a>
               <!-- Dropdown list -->
               <div class="dropdown-menu">
-                <a class="dropdown-item" href="sblp.php" data-i18n="menu.home_SBLP">Página Principal</a>
                 <a class="dropdown-item" href="sblp.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a>
                 <a class="dropdown-item" href="sblp.php" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>
                 <a class="dropdown-item" href="sblp.php" data-i18n="menu.palestras">Palestras</a>
@@ -66,7 +64,6 @@
               </a>
               <!-- Dropdown list -->
               <div class="dropdown-menu">
-                <a class="dropdown-item" href="sast.php" data-i18n="menu.home_SAST">Página Principal</a>
                 <a class="dropdown-item" href="sast.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a>
                 <a class="dropdown-item" href="sast.php" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>
                 <a class="dropdown-item" href="sast.php" data-i18n="menu.palestras">Palestras</a>

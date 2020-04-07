@@ -1,422 +1,483 @@
 {
-  "menu": {
-	  "organizacao": "Organization",
-	  "patrocinio": "Sponsorship",
-	  "inscricoes": "Registration",
-	  "programacao": "Program",
-	  "anais": "Proceedings",
-	  "trilha_industria": "Industry Track",
-	  "tutoriais": "Tutorials",
-	  "minicursos": "Short Courses",
-	  "wtdsoft": "Workshop on Theses and Dissertations",
-	  "codigo_conduta": "Code of Conduct",
-	  "edicoes_anteriores": "Previous Editions",
-	  "home_SBES": "Home",
-	  "home_SBCARS": "Home",
-	  "home_SBLP": "Home",
-	  "home_SAST": "Home",
-	  "trilha_pesquisa": "Research Track",
-	  "trilha_educacao": "Education Track",
-	  "trilha_ideias_inovadoras": "Innovative Ideas and Emerging Results Track",
-	  "trilha_ferramentas": "Tools Track",
-	  "palestras": "Keynotes",
-	  "chamada_trabalhos": "Call for Papers",
-	  "chamada_workshops": "Call for Workshops",
-	  "artigos_aceitos": "Accepted Papers",
-	  "informacoes": "Information",
-	  "local": "Venue",
-	  "natal": "About Natal",
-	  "infoViagem": "Travel Information",
-	  "hospedagem": "Accommodation",
-	  "contato": "Contact"
-  },
-	
-  "about": {
-    "sobre": "About CBSoft",
-    "realizacao": "Promoted by",
-	"copyright": "All rights reserved",
-    "descricao_1": "The Brazilian Conference on Software: Practice and Theory (CBSoft) is an event annually promoted by the Brazilian Computer Society (SBC) aiming at fostering the exchange of experience among researchers and practitioners from industry and academia about the most recent research, tendencies, and theoretical and practical innovations on software. Held since 2010 as an aggregating event of Brazilian symposia promoted by SBC on software, CBSoft has become one of the main conferences of the Brazilian scientific community on Computing.",
-    "descricao_2": "In 2020, the 11th edition of CBSoft will be held in Natal, Rio Grande do Norte. It will integrate four traditional events annualy promoted by the Brazilian community on Software Engineering:",
-    "desc_eventos": [
-      "the <a href='sbes.php' style='color: #f4b321'>34th Brazilian Symposium on Software Engineering (SBES)</a>, the premier conference on Software Engineering in Latin America;",
-      "the <a href='sbcars.php' style='color: #f4b321'>14th Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS)</a>, which aggregates topics such as software product lines, component-based software development, software architectures, and reuse;",
-	  "the <a href='sblp.php' style='color: #f4b321'>24th Brazilian Symposium on Programming Languages (SBLP)</a>, which focuses on the theoretical and practical study of programming languages; and",
-      "the <a href='sast.php' style='color: #f4b321'>5th Brazilian Symposium on Systematic Automated Software Testing (SAST)</a>, which is about issues related to the systematization and automation of the software testing activity."
-    ],
-    "descricao_3": "The CBSoft programme includes technical sessions with presentation of scientific papers, keynotes by nationally and internationally renowned Brazilian and foreign researchers, discussion panels, workshops, tool demonstrations, tutorials, and courses given by experts on their subjects. All these activites of interest of the Software Engineering community and fields related to the development of software systems go towards the diffusion of knowledge and discussion of important issues related to research, development, and innovation in both Brazil and the world."
-  },
-	
-  "speakers": {
-    "palestrantes": "Speakers"
-  },
-	
-  "schedule": {
-    "dia_1": "Day 01",
-    "dia_2": "Day 02",
-    "dia_3": "Day 03",
-    "dia_4": "Day 04",
-    "dia_5": "Day 05",
-    "horario": "Time",
-    "palestrante": "Speaker",
-    "tema": "Subject",
-    "local": "Venue"
-  },
-	
-  "sponsors": {
-    "org_apoio_patrocinio": "Organization, Support, and Sponsorship",
-    "organizadores": "Organization",
-    "patrocinio": "Sponsorship"
-  },
-	
-  "trilha-industria": {
-    "titulo": "Industry Track",
-    "descricao_1": "The CBSoft Industry Track is an opportunity for industry and government practitioners to share their knowledge and experience with the attendees. This is also a great opportunity to establish cooperations between practitioners and companies, as well as stimulate the interaction between academia and industry. The perspective of academia-industry cooperation has been one of the requirements of project calls, such as those of the Brazilian National Institutes of Science and Technology Program (INCTs), operated by the Brazilian National Council for Scientific and Technological Development (CNPq).",
-    "descricao_2": "The Industry Track aims to discuss the possibilities of academia-industry and academia-government cooperations towards the establishment of conditions and funding to research, development, and innovation, as well as the formation of high-quality human resources in an integrated way. Another perspective is developing free software products and possible impacts in legal concerns and business models. These perspectives foster the technology transfer and the tendency to narrow the generation and effective use of research, development, and innovation results."
-  },
-	
-  "workshop-teses-dissertacoes": {
-    "titulo": "Workshop on Theses and Dissertations",
-    "descricao_1": "The CBSoft Workshop on Theses and Dissertations (WTDSoft) is an event dedicated to the presentation and discussion of ongoing Master and PhD works on Software Engineering, programming languages, and software testing."
-  },
-	
-  "codigo-conduta": {
-    "titulo": "Code of Conduct",
-    "descricao_1": "The open exchange of ideas and the freedom of thought and expression are central to CBSoft goals. This requires an environment that acknowledges the inherent worth of every person and group, fosters dignity, understanding, and mutual respect, and embraces diversity. For these reasons, CBSoft is committed to provide a harassment-free experience to participants and in its official communication channels, including social media. The aim is every and any participant to feel welcome, included, respected, and safe. There is no any tolerance for hostile or unwelcome behavior or for speech that intimidates, creates discomfort or interferes with a person’s participation at the conference.",
-    "descricao_2": "<b>Unacceptable behavior include:</b> abusive or degrading language, sustained disruption of a talk, discussion or other activity, discrimination, deliberate intimidation, stalking, harassing photography or recording, inappropriate physical contact, sexual imagery, and undesired sexual attention.",
-    "descricao_3": "<b>Harassment includes:</b> harmful comments, writings or actions related to race, color, sex, gender, sexual orientation, gender identity or expression, age, marital status, religion, national origin, disability, pregnancy, medical conditions, veteran status or any other status protected by Brazilian laws.",
-    "descricao_4": "Anyone witnessing or subject to unacceptable behavior should notify a member of the CBSoft 2020 Organizing Committee or security staff. A response that the participant was \"joking\" or that the behavior was \"playful\" will not be accepted. Individuals violating these standards may be punished or excluded from the conference without any reimbursement or refund at the discretion of the CBSoft 2020 Organizing Committee."
-  },
-	
-  "edicoes-anteriores": {
-    "titulo": "Previous Editions",
-    "2019": "Salvador, Bahia | September 23-27, 2019",
-    "2018": "São Carlos, São Paulo | September 17-21, 2018",
-    "2017": "Fortaleza, Ceará | September 18-22, 2017",
-    "2016": "Maringá, Paraná | September 19-23, 2016",
-    "2015": "Belo Horizonte, Minas Gerais | September 21-25, 2015",
-    "2014": "Maceió, Alagoas | September 28 - October 3, 2014",
-    "2013": "Brasília, Distrito Federal | September 29-October 4,2013",
-    "2012": "Natal, Rio Grande do Norte | September 23-28, 2012",
-    "2011": "São Paulo | September 26-30, 2011",
-    "2010": "Salvador, Bahia | September 27-October 1, 2020"
-  },
-	
-  "sbes": {
-    "titulo": "SBES 2020<br/>34th Brazilian Symposium on Software Engineering",
-    "subtitulo": "Página principal",
-    "descricao_1": "The <b>Brazilian Symposium on Software Engineering (SBES)</b>, annually promoted by the Brazilian Computer Society (SBC), is the premier Software Engineering conference in Latin America. SBES is held in conjunction with CBSoft and its joint program includes technical research, insightful ideas, education, tools, and industry tracks, invited talks, courses, tutorials, panels, a Workshop on Theses and Dissertations, and several other satellite events. It traditionally gathers 500-800 people, including academics, practitioners, and students.",
-	"descricao_1a": "The Brazilian Symposium on Software Engineering (SBES), annually promoted by the Brazilian Computer Society (SBC), is the premier Software Engineering event in Latin America. SBES is held in conjunction with CBSoft. The SBES Research Track is the main track of the symposium. It publishes solid, well-evaluated contributions to the state-of-the-art in the area of Software Engineering. Papers in this track are reviewed based on originality, relevance, technical soundness, and clarity of presentation. The symposium proceedings will be published in the ACM Digital Library.",
-	"descricao_1b": "The Education Track of the Brazilian Symposium on Software Engineering (SBES), formerly known as FEES - Education in Software Engineering Forum, focuses on the discussion of challenges, good practices, and innovations in teaching Software Engineering. It seeks quality submissions covering curriculum development, empirical studies, best practices, personal or institutional experiences, and conceptual or theoretical work. Papers in this track are reviewed based on their originality, relevance, technical soundness, and clarity of presentation.",
-	"descricao_1c": "The Tools Track is an important part of the Brazilian Symposium on Software Engineering (SBES). The goal of this track is providing a forum for presentation and demonstration of automated solutions that support the process of developing and managing software systems. It consists of both theoretical presentations and practical exhibitions of the tools, creating a great opportunity for the authors to present and discuss their tools with SBES attendees from academia and industry. Academics can present results of their applied research projects in Software Engineering, while industry professionals are also welcome to present commercial or in-house tools that have brought gains in productivity and/or quality to the software development processes.",
-	"trilha": "Tracks",
-	"trilha_pesquisa": "Research Track",
-	"trilha_pesquisa_short": "Research",
-	"trilha_ideias": "Innovative Ideas and Emerging Results Track",
-	"trilha_ideias_short": "Innovative Ideas and Emerging Results",
-	"trilha_educacao": "Education Track",
-	"trilha_educacao_short": "Education",
-	"trilha_ferramentas": "Tools Track",
-	"trilha_ferramentas_short": "Tools",
-	"secao_datas": "Important Dates",
-	"deadlines_atividades": [
-		"Paper registration (abstract submission)",
-		"Paper submission",
-		"Rebuttal period",
-		"Notification of acceptance",
-		"Camera-ready",
-		"Paper submission and video upload"
-	],
-	"deadlines_pesquisa": [
-		"May 4, 2020",
-		"May 11, 2020",
-		"June 15-20, 2020",
-		"July 3, 2020",
-		"July 17, 2020"
-	],
-	"deadlines_ideias": [
-		"June 1, 2020",
-		"June 8, 2020",
-		"July 6-10, 2020",
-		"July 17, 2020",
-		"August 7, 2020"
-	],
-	"deadlines_educacao": [
-		"June 1, 2020",
-		"June 8, 2020",
-		"July 6-10, 2020",
-		"July 17, 2020",
-		"August 7, 2020"
-	],
-	"deadlines_ferramentas": [
-		"June 1, 2020",
-		"June 8, 2020",
-		"July 6-10, 2020",
-		"July 17, 2020",
-		"August 7, 2020"
-	],
-	"secao_trilhas": "SBES Tracks",
-	"descricao_2": "SBES includes four tracks:",
-    "trilhas": [
-      "The <b>Research Track</b> publishes solid contributions to the Software Engineering community with papers reviewed based on originality, relevance, technical soundness, and clarity of presentation.",
-      "The <b>Insightful Ideas and Emerging Results Track</b> provides an opportunity for researchers and practitioners to submit and present innovative ideas and approaches (methods, techniques, and tools) and promising results in early stages of research.",
-      "The <b>Education Track</b> (formerly FEES - Forum of Education in Software Engineering) publishes papers that address challenges, innovations, and best practices in software engineering education.",
-	  "The <b>Tools Track</b> provides a forum for presentation and demonstration of automated solutions that support the process of developing and managing software systems."
-    ],
-	"descricao_3": "SBES Proceedings are intended to be published at the ACM Digital Library (pending approval). Additional details about topics of interest and manuscript preparation (e.g., format, language, double-blind policy) for each track can be found on their respective webpages.",
-	"descricao_pesquisa": "O <b>Simpósio Brasileiro de Engenharia de Software</b> (SBES), promovido anualmente pela Sociedade Brasileira de Computação (SBC), é o principal evento de Engenharia de Software da América Latina, sendo realizado em conjunto com o CBSoft. A Trilha de Pesquisa do SBES é a principal trilha do simpósio. A Trilha de Pesquisa publica contribuições sólidas e rigorosamente avaliadas ao estado da arte na área de Engenharia de Software. Artigos nesta trilha são revisados com base na sua originalidade, relevância, solidez técnica e clareza de apresentação. Os anais do simpósio serão publicados na biblioteca digital da ACM.",
-	"secao_journal_first": "Journal-First Submissions",
-	"descricao_4": "SBES is partnering with international journals to incorporate journal-first papers into the SBES 2020 Research Track. Two journals, <i>IEEE Software</i> and the <i>Journal of Software Engineering Research and Development</i> (JSERD), have confirmed their partnership with SBES 2020. Authors of journal-first papers accepted in those journals will be invited to present their research work at SBES. This offers an opportunity for authors to discuss their work with the community as well as enrich the technical program of SBES.",
-	"descricao_5": "The following evaluation criteria will be used to select journal-first papers to SBES 2020:",
-	"criterios_journal_first": [
-      "the paper describes original results that are not extensions of previous conference papers;",
-	  "the paper was accepted for publication in the journal no earlier than January 1, 2018; and",
-	  "the paper has not been presented at any other conference as a journal-first."
-    ],
-	"descricao_6": "The selected papers will be presented in the technical program of the SBES Research Track. At least one author per selected journal-first paper will need to register and attend the symposium to present it.",
-	"descricao_7": "For journal-first papers published in JSERD, submissions of papers are accepted from the following categories: research articles, case studies, and review. For journal-first papers published in IEEE Software, only peer-reviewed research papers (not editorially-reviewed or invited papers) are accepted.",
-	"descricao_8": "Authors interested in presenting journal-first papers at SBES 2020 should send an email to <a style='color: #f4b321' href='mailto:sbes.j1@cin.ufpe.br'>sbes.j1@cin.ufpe.br</a> with the subject &quot;Journal-First - SBES 2020&quot; by June 29, 2020. The following information must be provided: (i) paper title; (ii) list of authors; (iii) link to the paper; and (iv) a short statement on how the work satisfies the criteria above.",
-	"secao_shortpapers": "Short Papers",
-	"descricao_9": "SBES 2020 will feature a Short Papers Track, which will be an additional opportunity for researchers and practitioners to present, showcase, and discuss their most recent advances, ideas, experiences, and challenges in the field of Software Engineering.",
-	"descricao_10": "There is no open call for short papers submissions for SBES 2020. The Short Papers Track will be instead organized on an invitation basis. Some submissions to the Research, Tools, and Education Tracks will be invited by the chairs to be considered as short papers, which will also be presented to the plenary during SBES. The authors of an invited short paper will also submit the paper following the SBES submission guidelines to be published in the event proceedings.",
-	"secao_bestpaper": "Best Paper Award",
-	"descricao_11": "Every year, the SBES Steering Committee appoints a committee to award the symposium's best papers. Awarded papers of the Research Track are announced during the event. The five best papers of the Research Track will be invited to submit an extended version in English to the research category of JSERD.",
-	"secao_besttool": "Best Tool Award",
-	"descricao_11c": "Awarded papers of the Tools Track will be announced during the event. The three tools with the best scores from the Program Committee will be awarded.",
-	"secao_bestreviewer": "Outstanding Reviewer Award",
-	"descricao_12": "SBES 2020 acknowledges the generosity of the reviewers who give their time and best effort to referee submitted papers. The progress of scientific growth depends on dedicated colleagues, who aim to further the development of technology by offering their attention and passion when reviewing the papers. A certificate of Outstanding Reviewer will be awarded to reviewers who submitted outstanding quality reviews to SBES. The evaluation will be based on the quality and usefulness of reviews, as well as participation during PC discussion.",
-	"secao_topicos": "Topics of Interest",
-	"descricao_13": "Submissions related (but not limited to) the following topics will be accepted:",
-	"topicos_sbes": [
-		"Agile development",
-		"Business value and software validation",
-		"Configuration management and deployment",
-		"Experimental Software Engineering",
-		"Human and social aspects of Software Engineering",
-		"Industrial applications of Software Engineering",
-		"Mining software repositories and software analytics",
-		"Mobile application development",
-		"Model-driven software development",
-		"Open-source software development",
-		"Requirements engineering",
-		"Search-based Software Engineering",
-		"Services and microservices",
-		"Software architecture",
-		"Software ecosystems and systems-of-systems",
-		"Software Engineering for Cloud Computing and the Web",
-		"Software maintenance and evolution",
-		"Software metrics and measurement",
-		"Software modularity",
-		"Software processes",
-		"Software product lines",
-		"Software quality and quality models",
-		"Software reengineering",
-		"Software reuse",
-		"Software startups",
-		"Software testing and verification",
-		"Technical debt management",
-		"Theoretical foundations and formal methods"
-	],
-	"topicos_sbes_educacao": [
-		"New and innovative best practices for Software Engineering education",
-		"Innovative curriculum or course formats",
-		"Teaching Software Engineering in the context of undergraduate and graduate courses",
-		"Teaching methods, techniques, and tools for developing software",
-		"Software Engineering education in informal settings, such as hackathons and <i>Stack Overflow</i>",
-		"Emerging educational settings for Software Engineering, such as online learning",
-		"Teaching/learning experiences using approaches of new practical scenarios of Software Engineering, such as agile methods, open source, distributed software development, Cloud Computing, Big Data, mobile devices, embedded systems, robotics, etc.",
-		"Tools and methods for the evaluation of Software Engineering learning",
-		"Teaching/learning human, political, ethical, legal, professional. and social issues in Software Engineering",
-		"Integration of practical experiences in teaching Software Engineering",
-		"Integration between research on Software Engineering and teaching/learning Software Engineering",
-		"Interdisciplinarity in Software Engineering",
-		"Innovative methods that promote studying and stimulating learning of professors, keeping them updated for teaching Software Engineering",
-		"Researches on equality, diversity, and inclusion in Software Engineering", 
-		"Education in Software Engineering that stimulates entrepreneurship, specially startups creation",
-		"Open source in education",
-		"Teaching/learning emergent topics in Software Engineering"
-	],
-	"secao_categorias": "Paper Categories",
-	"descricao_14": "Authors of the Research Track papers, after the abstract in the submission form, should indicate which one of the following categories their paper most closely adheres to. This intends to establish a consistent set of expectations in the review process.",
-	"categorias": [
-      "<b>Analytical:</b> A paper in which the main contribution relies on new algorithms or mathematical theories. Examples include new bug prediction techniques, model transformations, algorithms for dynamic and static analysis, and reliability analysis. Such a contribution must be evaluated with a convincing analysis of the algorithmic details, whether through a proof, complexity analysis, or runtime analysis, among others and depending on the objectives.",
-	  "<b>Experimental (primary study):</b> A paper in which the main contribution is the experimental study of a software engineering technology or phenomenon. This includes controlled experiments, quasi-experiments, case studies, and surveys of professionals reporting qualitative or quantitative data and analysis results. Such a contribution will be judged on its study design, appropriateness and correctness of its analysis, and threats to validity. Replications are welcome.",
-	  "<b>Literature review (secondary study):</b> A paper in which the main contribution is the synthesis of primary studies. Examples include systematic reviews and systematic mapping studies. Such a contribution should follow a sound methodology and provide a comprehensive coverage of the relevant literature. Moreover, it should answer relevant research questions with a deep synthesis of the results. Contributions that only provide metadata analysis (e.g., relevant authors, publications density by year, most influential papers, etc.) are discouraged.",
-	  "<b>Technological:</b> A paper in which the main contribution is of a technical nature. This includes novel tools, modeling languages, infrastructures, and other technologies. Such a contribution does not necessarily need to be evaluated with humans. However, clear arguments, backed up by evidence as appropriate, must show how and why the technology is beneficial, whether it is in automating or supporting some user task, refining our modeling capabilities, improving some key system property, etc.",
-	  "<b>Methodological:</b> A paper in which the main contribution is a coherent system of broad principles and practices to interpret or solve a problem. This includes novel requirements elicitation methods, process models, design methods, development approaches, programming paradigms, and other methodologies. The authors should provide convincing arguments with commensurate experiences, as well as explain why a new method is needed and what the benefits of the proposed method are."
-    ],
-	"secao_guidelines": "Paper Preparation, Submission, and Review",
-	"secao_guidelines_1c": "Paper/Video Preparation and Submission",
-	"descricao_15": "Papers can be submitted in Portuguese or English. Submission in English is strongly encouraged. The acceptance of a paper implies that at least one of its authors will register for the symposium to present it. All submissions must be in Adobe Portable Document Format (PDF) and must comply with the ACM 2-column conference format (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) available at this <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>. They must be no longer than 10 pages, including all figures and references.",
-	"descricao_15b": "Papers can be written in Portuguese or English. Submissions in English are strongly encouraged since the symposium proceedings will be indexed by the ACM's digital library. Title and abstract of all papers mut be in English, even if they are written in Portuguese. Papers submitted to the SBES 2020 Education Track must not have been simultaneously submitted to any other forum (conference or journal) or published elsewhere. At least one author of each accepted paper must be registered at CBSoft and present it in-person, otherwise the paper will not be included in the proceedings.",
-	"descricao_15c": "Authors are invited to submit papers describing automated solutions for diverse aspects and needs related to the topics of interest and themes listed in the <a style='color: #f4b321' href='sbes-pesquisa.php'>Call for Papers of SBES</a>.  Each submission consists of a paper accompanied by a demo video about the tool. Submissions must conform to the following submission and formatting instructions:",
-	"instrucoes_submissao_ferramentas": [
-		"The paper must be original and not submitted or published in other academic venues.",
-		"The paper should clearly include:",
-		"Description of the motivation/problem addressed by the tool",
-		"Description of the main functionalities and potential users of the tool",
-		"Usage example and screenshots illustrating the tool interface (when applicable)",
-		"Description of the tool architecture, its core components, and their interfaces",
-		"A brief comparison with existing related tools",
-		"The type of software license",
-		"Papers must be no longer than 6 pages, including all figures (in good quality), references and appendices, and formatted according to the ACM 2-column conference format (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) available at this <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>. Papers may be written in Portuguese or English, but papers in Portuguese must also include an abstract in English. Papers must be submitted in PDF.",
-		"A demo video with audio commentary and with high resolution (details of the tool's functionality should be clearly visible) <b>must</b> accompany the paper submission. The demo video (between 3 to 5 minutes long) should demonstrate tool usage and highlight its main contributions. It should provide an overview of the tool, its objectives and envisioned users, main features, and outputs as well. There should be an announcer presenting the tool and the speech must be in the same language in which the paper is written.",
-		"Authors are encouraged to make the code and datasets of their academic tools open source and provide a URL for them with the submission.",
-		"The Tools Track will use the single-blind reviewing model, so the authors’ identities should be in the submission materials."
-	],
-	"descricao_16": "Papers should be electronically submitted through <a style='color: #f4b321' href='http://submissoes.sbc.org.br'>JEMS</a>. All technical research papers should indicate after the abstract the language and one or more of the aforementioned categories. Submissions that are not in compliance with the required submission format, are out of the scope of the symposium, or were submitted or published in any other forum (conference or journal) will be rejected without review. All other papers will be reviewed by at least three Program Committee members. During the review process, a rebuttal may be requested. In this case, authors will have access to reviews and may argue and answer questions from the referees before the final acceptance/rejection decision. The rebuttal is limited to a plain text up to 4,000 characters.",
-	"descricao_16b": "Papers must be no longer than 10 pages, including all figures and references. All submissions must comply with the ACM 2-column conference format (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) available at this <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>. Papers must be electronically submitted through the <a style='color: #f4b321' href='http://submissoes.sbc.org.br'>JEMS</a> system. All submitted papers must inform the language in which are written after title. Submissions that are not in compliance with the required submission format or are out of the scope of the Education Track will be rejected without reviewing. All other papers will be reviewed by at least three Program Committee members.",
-	"descricao_16b1": "The review process includes a rebuttal period in which the authors will have access to the reviewers’ comments and may argue and answer questions from the reviewers before the final acceptance/rejection decision. The rebuttal is limited to a plain text up to 4,000 characters (including spaces).",
-	"descricao_16c": "Papers should be submitted electronically through the <a style='color: #f4b321' href='http://submissoes.sbc.org.br'>JEMS</a> system. Videos should be uploaded to YouTube and made accessible during the time of reviewing. The URL at which the demo video can be found should be appended at the end of the paper abstract.",
-	"descricao_16c1": "Submissions that do not include a paper <b>and</b> a demo video, that are not in compliance with the required submission format, that are out of the scope of the track, or that were submitted or published in any other forum (conference or journal), will be rejected without review. All other papers will be reviewed by at least three Program Committee members.",
-	"descricao_16c2": "During the review process, a rebuttal may be requested. In this case, authors will have access to reviews and may argue and answer questions from the referees before the final acceptance/rejection decision. The rebuttal is limited to a plain text up to 4,000 characters.",
-	"descricao_16c3": "The acceptance of the submission implies in at least one author to register at and attend SBES 2020 to present the paper and the tool in person. Both paper presentation and tool demonstration are mandatory for all accepted tools. Paper presentations and tool demonstrations are traditionally held in two different days during SBES. Tool demonstrations should be live and the demo videos uploaded for submission should <b>not</b> be used.  The format and timing of presentations will be announced later.",
-	"secao_doubleblind": "Double-Blind Submission",
-	"descricao_17": "The SBES 2020 Research Track will follow a double-blind review process. All submitted papers should conceal the identity of the authors. Both author names and affiliations must be omitted. In addition, the following rules should be addressed:",
-	"descricao_17b": "The SBES 2020 Research Track will follow a double-blind review process. All submitted papers should conceal the identity of the authors. Both author names and affiliations must be omitted. In addition, the following rules should be addressed:",
-	"guidelines_doubleblind": [
-      "Citations to own related work must be written in the third person. For example, one must write &quot;the previous work of Silva et al.&quot; as opposed to &quot;our previous work.&quot; As a heuristic, occurrences of &quot;we&quot;, &quot;our&quot;, &quot;ours&quot;, &quot;github&quot;, &quot;funding&quot;, etc. should be looked in the paper and removed prior to submitting.",
-	  "In the submitted paper, any artifact in a repository or website that allows identifying the authorship should not be mentioned. If any artifact needs to be made available, it should be anonymized in the repository/website.",
-	  "Reviewers will not be encouraged to look for references that identify the authors in other sources on the Internet. Searches in digital libraries or existing artifacts do not break the double blind policy.",
-	  "If the submitted paper is a follow up of a previous work, the reference may be anonymized in the submitted paper. For example, &quot;the previous work of Silva et al.&quot; can be adapted to &quot;based on the previous work [X]&quot; and the reference at the end of the paper can be presented as &quot;[X] Anonymous authors. Not presented due to double blind review.&quot;."
-    ],
-	"descricao_18": "After the paper acceptance, all the paper information (without anonymization) can be included in the camera-ready version.",
-	"descricao_19": "In case of having any questions about the preparation of the paper following the double-blind rules,an email can be sent to the Program Chairs with the subject &quot;SBES: question about the double-blind rules.&quot;.",
-	"secao_comite": "Organization",
-	"comite": [
-      "CBSoft 2020 General Chairs",
-	  "Everton Cavalcante (UFRN, Brazil)",
-	  "Francisco Dantas (UERN, Brazil)",
-	  "Thais Batista (UFRN, Brazil)",
-	  "Program Committee Chairs - Research Track",
-	  "Tayana Conte (UFAM, Brazil)",
-	  "Fernando Castor (UFPE, Brazil)",
-      "Program Committee Chairs - Innovative Ideas and Emerging Results Track",
-	  "Marco Túlio Valente (UFMG, Brazil)",
-	  "Márcio Ribeiro (UFAL, Brazil)",
-	  "Program Committee Chairs - Education Track",
-	  "Igor Steinmacher (Northern Arizona University, USA)",
-	  "Rodrigo Pereira dos Santos (UNIRIO, Brazil)",
-	  "Program Committee Chairs - Tools Track",
-	  "Christina von Flach G. Chavez (UFBA, Brazil)",
-	  "Elisa Yumi Nakagawa (ICMC/USP, Brazil)",
-	  "SBES Steering Committee",
-	  "Fabiano Cutigi Ferrari (UFSCar, Brazil)",
-	  "Fernando Castor (UFPE, Brazil)", 
-	  "Jose Carlos Maldonado (ICMC/USP, Brazil)",
-	  "Márcio Ribeiro (UFAL, Brazil)",
-	  "Marco Aurélio Gerosa (Northern Arizona University, USA)",
-	  "Marco Túlio Valente (UFMG, Brazil)",
-	  "Rafael Prikladnicki (PUCRS, Brazil)",
-	  "Tayana Conte (UFAM, Brazil)",
-	  "Uirá Kulesza (UFRN, Brazil)"
-    ],
-	"secao_contato": "Contact",
-	"descricao_21b": "More information is available at the CBSoft 2020 website or by contacting the Program Chairs (<a style='color: #f4b321' href='rps@uniriotec.br'>rps@uniriotec.br</a> e <a style='color: #f4b321' href='igor.steinmacher@nau.edu'>igor.steinmacher@nau.edu</a>). The subject &quot;SBES Education Track: Doubts about the submission process&quot; shall be used."
-  },
-	
-  "sbcars": {
-    "titulo": "SBCARS 2020<br/>14th Brazilian Symposium on Software Components, Architectures, and Reuse",
-    "subtitulo": "Main page",
-    "descricao_1": "The <b>Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS)</b> is a symposium promoted by the Brazilian Computer Society (SBC) that brings together researchers, students, and practitioners with a wide range of interests on topics related to Software Engineering, including software product lines, component-based software development, software architectures, and software reuse. SBCARS, which started in 2007, is the successor to the series of six editions of the Brazilian Workshop on Component-Based Software Development (WDBC), which started in 2001, so that its thirteen editions have contributed to the its consolidation in the Brazilian scientific calendar as an important technical-scientific event on software."
-  },
-	
-  "sblp": {
-    "titulo": "SBLP 2020<br/>24th Brazilian Symposium on Programming Languages",
-    "subtitulo": "Main page",
-    "descricao_1": "The <b>Brazilian Symposium on Programming Languages (SBLP)</b> is a symposium promoted by the Brazilian Computer Society (SBC) that constitutes a forum for students, researchers, and practitioners to present and discuss ideas and innovations in the design, definition, analysis, implementation, and practical use of programming languages."
-  },
-	
-  "sast": {
-    "titulo": "SAST 2020<br/> 5th Brazilian Symposium on Systematic and Automated Software Testing",
-    "subtitulo": "Main page",
-    "descricao_1": "The <b>Brazilian Symposium on Systematic and Automated Software Testing (SAST)</b>, which existed since 2007 under the Brazilian Workshop on Systematic and Automated Software Testing in nine editions, is the main scientific event about software testing in Brazil. Its goal is being an annual forum to discuss issues related to systematization and automation of the software testing activity, promoting the interaction between researchers and industry as means of strengthening cooperations and innovation in such an important field of software development."
-  },
-	
-  "workshops": {
-    "titulo": "Workshops",
-    "descricao_1": "CBSoft includes workshops related to the topics of the four symposia that traditionally are part of the programme, SBES, SBCARS, SBLP, and SAST. The goal is providing a forum where academics and practitioners can exchange and discuss their experiences and ideas. Workshops traditionally realized at CBSoft can be promoted to pre-approved workshops..",
-	"secao_informacoes": "General information",
-	"descricao_2": "The definition of the workshops that will be part of CBSoft 2020 will be carried out by evaluating the submitted proposals in response to this Call. Workshop proposals will be evaluated considering:",
-	"criterios": [
-		"the relevance and interest of subject matter",
-		"the expertise of the workshop chair",
-		"the Program Committee",
-		"an evaluation of previous editions, if applicable"
-	],
-	"descricao_3": "Each workshop can be scheduled for a half-day (three hours) ou a full day (six hours). The dates of the workshops will be confirmed soon by the CBSoft 2020 General Chairs.",
-	"descricao_4": "Workshop proceedings will be prepared by the workshop organizers together with the CBSoft 2020 Organizing Committee. Please note the deadline for delivering the workshop papers to the CBSoft organizing committee.",
-	"secao_submissao": "Submissions instructions (see specific instructions for pre-approved workshops)",
-	"descricao_5": "The workshop proposals must be filled through this <a target= '_blank'  href='https://forms.gle/Fd5E6gM4qUpe3YQMA' style='color: #f4b321'>link</a>.",
-	"descricao_6": "The proposals must exactly contain the following information (in Portuguese or English):",
-	"informacoes_workshop": [
-		"Name of the workshop",
-		"Duration (three or six hours)",
-		"Description of the main topic of the workshop, explaining its relevance",
-		"History of the workshop, including the number of attendees, number of submissions, and acceptance rate",
-		"Workshop format, topics of interest, acceptance criteria, and presentation form",
-		"Invited speakers",
-		"Expected audience, including the maximum number of participants",
-		"Program Committee",
-		"Support and required equipment from the CBSoft Organizing Committee",
-		"Name, contact information, and curriculum of the workshop chair. If the chair is Brazilian, the CV can be a link to his/her Lattes CV. If the chair is not Brazilian, a brief CV must be included."
-	],
-	"secao_workshop_pre": "Submission instructions for pre-approved workshops",
-	"descricao_7": "Annual or biannual Workshops that have at least three editions (being the last one held in 2018 or 2017) are considered pre-approved workshopss. Pre-approved workshops must submit a simplified proposal through this <a target= '_blank'  href='https://forms.gle/wDLTrY7JpVxGQeNeA' style='color: #f4b321'>link</a> with the following information:",
-	"informacoes_workshop_pre": [
-		"Organizing Committee",
-		"Steering Committee (if applicable)",
-		"Name, contact information, and CV of chair(s) (Lattes CV for Brazilians, brief CV for foreigners)",
-		"Statistics of the three last editions (number of attendees, number of submissions, and acceptance rate)"
-	],
-	"descricao_8": "Pre-approved workshops are automatically accepted since the required information is submitted. Information provided for a pre-approved workshop will be analyzed by the Workshops Evaluation Committee with the goal of providing feedback for future workshop editions. A workshop might lose the pre-approved status due to decreasing submissions number over years or due to any other reason judged by the Workshops Evaluation Committee.",
-	"secao_deadlines": "Important dates",
-	"deadlines": [
-		"Workshop proposal submission: April 13, 2020",
-		"Notification to proponents: April 20, 2020",
-		"Delivery of papers to the CBSoft 2020 General Chairs: August 3, 2020"
-	],
-	"secao_comite": "Evaluation Committee",
-	"comite": [
-      "Everton Alves (UFCG, Brazil)",
-	  "Fabiano Ferrari (UFSCar, Brazil)",
-	  "Márcio Barros (UNIRIO, Brazil)",
-	  "Thelma Elita Colanzi (UEM, Brazil)"
-    ],
-	"secao_contato": "Contact",
-	"descricao_9": [
-      "Questions should be directed to the CBSoft 2020 Workshop Chair, Thelma Elita Colanzi (<a href='mailto:thelma@din.uem.br' style='color: #f4b321'>thelma@din.uem.br</a>)."
-    ]
-  },
-	
-  "local": {
-    "titulo": "Venue",
-    "descricao_1": "CBSoft 2020 will be held at <a target= '_blank' href='https://www.wishhotels.co/resort-em-natal/wish-natal-by-gjp/' style='color: #f4b321'>Wish Natal Exclusive Resort</a>, a resort with direct access to the beach and overlooking the sea, located at the Via Costeira Senador Dinarte Mariz. In this region, it is possible to find the best accommodation in the Natal's touristic region, flanked by the Brazil's second largest urban park, Parque das Dunas, besides easy access to restaurants, shoppings and commercial centers, and other beaches in the city."
-  },
-	
-  "sobre-natal": {
-    "titulo": "About Natal",
-    "descricao_1": "Natal, the capital and largest city of the state of Rio Grande do Norte, Northeastern Brazil, has become a Brazilian destination known throughout the world, being the closest Brazilian city to Europe and Africa due to its location at the corner of South America. The \"City of the Sun\" (\"Cidade do Sol\", in Portuguese), as it is known both nationally and internationally, has a pleasant climate with average temperatures around 28ºC and a bright sunshine throughout the year. Natal is about six degrees south Equator, thus making the sun to shine for 300 days per year, more than in any Brazilian capital.",
-    "descricao_2": "Founded in a Christmas Day, December 25, 1599 (hence the name, according to many writers), Natal is bathed by the Atlantic Ocean, combining a tropical climate, beautiful beaches of warm water, lush nature, and almost 900,000 welcoming inhabitants - just over 1.5 million in the Metropolitan Region, the fifth largest urban agglomeration in the Northeast Region. The city historically had a great importance during World War II, serving as a strategic point to Allies operations (in particular to USA) in the conflict, and it hosted the first rocket base in South America, at the Barreira do Inferno Launch Center in the neighboring municipality of Parnamirim.",
-    "descricao_3": "The city receives millions of Brazilian and foreign visitors each year, attracted by the natural beauty of the cost, the local hospitality, and the largest off-season Carnival in Brazil, <i>Carnatal</i>. Natal has one of the most modern and well-located hotel chains in Brazil, besides excellent restaurants, pubs, bars, shopping malls, and many other entertainment places. This is a reflection of the fact that the local economy is mainly based on the service sector, including national and international leisure tourism and, more recently, the business tourism, as the city has attracted an increasing number of professional events. Moreover, in 2014, Natal was one of the twelve cities that hosted the FIFA World Cup, whose project of the Arena das Dunas Stadium stood out among the host cities.",
-    "descricao_4": "Natal is not just about beaches, lush nature, and good gastronomy. The city was recently affiliated to the <i>IEEE Smart Cities Initiative</i> as a result of the expressive advances and strong engagement between academia and local government. This gave risen to the <i>Natal Human and Smart City Program</i>, formalized by a technical cooperation agreement between the Natal City Hall and the Federal University of Rio Grande do Norte (UFRN). This program represents a large political and societal project in direct cooperation between academia and the population aiming at seeking for solutions to the problems faced by the city in its daily growth, as well as improving the quality of life and well-being of the population through innovative Information and Communication Technology paradigms. In 2017, the <i>Digital Metropolis Technological Park</i> was established. This is a technological park geographically located around the UFRN's central campus with focus on Information Technology, a project involving academia and both public and private sectors as a conducive environment to the diffusion of science, technology, and innovation, besides contributing to the economic and societal development of the city.",
-    "quick-facts": "Some quick facts:"
-  },
-	
-  "info-viagem": {
-    "titulo": "Travel information",
-    "descricao_1": "<b>Arriving at Natal by plane.</b> The largest airport in the state of Rio Grande do Norte is the <a target='_blank' href= 'http://www.natal.aero/' style='color: #f4b321'>Natal International Airport -- São Gonçalo do Amarante/Governor Aluízio Alves (NAT)</a>. Serving Natal and its Metropolitan Region, the airport was opened in 2014 and it is regarded as one of the best airports in Brazil according to recent surveys. Although Natal is not a major hub in Brazil, there are direct flights connecting it to other larger Brazilian cities, such as Fortaleza (1:00h), Recife (0:50h), Salvador (1:25h), Brasilia (2:45h), Rio de Janeiro (3:00h), and São Paulo (3:20h). There are also some international direct flights connecting Natal to Lisbon, Portugal, and to Buenos Aires, Argentina, but due to national connections to other cities in Brazil, it is not difficult to reach Natal from North America or Europe. All major Brazilian airlines (Azul, Gol, LATAM) currently operate at the airport, in addition to TAP Portugal, Portuguese airline whose direct flights connect Natal to Europe in 6:40h on average.",
-    "descricao_2": "<b>Arriving at Natal by car.</b> The BR-101 federal highway is the most important access connecting Natal to other cities in Northeastern Brazil (João Pessoa, Recife, and Salvador) and Southeastern/Southern Brazil along the north-south coast. For who comes from cities such as Fortaleza and Teresina, another common access is the BR-304 federal highway, which comes from the west of Rio Grande do Norte. With respect to the capitals of the nearest states, the average driving time between Natal and João Pessoa (distant 193 km) is 2:30h, between Natal and Recife (distant 291 km) is 4:00h, and between Natal and Fortaleza (distant 524 km) is 7:00h.",
-    "descricao_3": "<b>Arriving at Natal by bus.</b> The main bus station in Rio Grande do Norte is the Natal Bus Station/Severino Tomaz da Silveira Bus Terminal, at the Cidade da Esperança neighborhood. There are several bus lines operating routes within Rio Grande do Norte and from/to major cities in the Northeast Region, besides other many cities in Brazil. With respect to the capitals of the nearest states, the average time between Natal and João Pessoa (distant 193 km) is 3:00h, between Natal and Recife (distant 291 km) is 4:40h, and between Natal and Fortaleza (distant 524 km) is 8:30h."
-  },
-	
-  "hospedagem": {
-    "titulo": "Accommodation",
-    "descricao_1": "According to recent studies of the Brazilian Institute of Geography and Statistics (IBGE), Natal is the second Brazilian capital in number of beds per 100,000 inhabitants. The hotel network of the city is quite diverse and able to meet the needs of audiences with different accommodation requirements, ranging from more modest levels, such as hostels, to luxury levels, such as five-star hotels and resorts. Regardless of the type of accommodation, most establishments are located close to the Via Costeira and the Ponta Negra Beach, the Natal's main touristic region, no more than six kilometers (approximately ten minutes by car) from Wish Natal. Besides hotels and hostels, there are options of furnished flats or even offered through digital platforms, such as Airbnb.",
-    "descricao_2": "The period when CBSoft 2020 will be held, in late September, is regarded as a low-season in Natal, thus leading to more availability of accommodation and lower daily rates in comparison to other months. The CBSoft 2020 Organizing Committee will be committed to negotiate with some establishments to obtain special rates for guests coming to Natal to attend the event."
-  },
-	
-  "org": {
-    "organizacao": "Organization",
-    "org_local": "General Chairs"
-  }
+	"menu": {
+		"organizacao": "Organization",
+		"patrocinio": "Sponsorship",
+		"inscricoes": "Registration",
+		"programacao": "Program",
+		"anais": "Proceedings",
+		"trilha_industria": "Industry Track",
+		"tutoriais": "Tutorials",
+		"minicursos": "Short Courses",
+		"wtdsoft": "Workshop on Theses and Dissertations",
+		"codigo_conduta": "Code of Conduct",
+		"edicoes_anteriores": "Previous Editions",
+		"home_SBES": "Home",
+		"home_SBCARS": "Home",
+		"home_SBLP": "Home",
+		"home_SAST": "Home",
+		"trilha_pesquisa": "Research Track",
+		"trilha_educacao": "Education Track",
+		"trilha_ideias_inovadoras": "Innovative Ideas and Emerging Results Track",
+		"trilha_ferramentas": "Tools Track",
+		"palestras": "Keynotes",
+		"chamada_trabalhos": "Call for Papers",
+		"chamada_workshops": "Call for Workshops",
+		"artigos_aceitos": "Accepted Papers",
+		"informacoes": "Information",
+		"local": "Venue",
+		"natal": "About Natal",
+		"infoViagem": "Travel Information",
+		"hospedagem": "Accommodation",
+		"contato": "Contact"
+	},
+
+	"about": {
+		"sobre": "About CBSoft",
+		"realizacao": "Promoted by",
+		"copyright": "All rights reserved",
+		"descricao_1": "The Brazilian Conference on Software: Practice and Theory (CBSoft) is an event annually promoted by the Brazilian Computer Society (SBC) aiming at fostering the exchange of experience among researchers and practitioners from industry and academia about the most recent research, tendencies, and theoretical and practical innovations on software. Held since 2010 as an aggregating event of Brazilian symposia promoted by SBC on software, CBSoft has become one of the main conferences of the Brazilian scientific community on Computing.",
+		"descricao_2": "In 2020, the 11th edition of CBSoft will be held in Natal, Rio Grande do Norte. It will integrate four traditional events annualy promoted by the Brazilian community on Software Engineering:",
+		"desc_eventos": [
+			"the <a href='sbes.php' style='color: #f4b321'>34th Brazilian Symposium on Software Engineering (SBES)</a>, the premier conference on Software Engineering in Latin America;",
+			"the <a href='sbcars.php' style='color: #f4b321'>14th Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS)</a>, which aggregates topics such as software product lines, component-based software development, software architectures, and reuse;",
+			"the <a href='sblp.php' style='color: #f4b321'>24th Brazilian Symposium on Programming Languages (SBLP)</a>, which focuses on the theoretical and practical study of programming languages; and",
+			"the <a href='sast.php' style='color: #f4b321'>5th Brazilian Symposium on Systematic Automated Software Testing (SAST)</a>, which is about issues related to the systematization and automation of the software testing activity."
+		],
+		"descricao_3": "The CBSoft programme includes technical sessions with presentation of scientific papers, keynotes by nationally and internationally renowned Brazilian and foreign researchers, discussion panels, workshops, tool demonstrations, tutorials, and courses given by experts on their subjects. All these activites of interest of the Software Engineering community and fields related to the development of software systems go towards the diffusion of knowledge and discussion of important issues related to research, development, and innovation in both Brazil and the world."
+	},
+
+	"speakers": {
+		"palestrantes": "Speakers"
+	},
+
+	"schedule": {
+		"dia_1": "Day 01",
+		"dia_2": "Day 02",
+		"dia_3": "Day 03",
+		"dia_4": "Day 04",
+		"dia_5": "Day 05",
+		"horario": "Time",
+		"palestrante": "Speaker",
+		"tema": "Subject",
+		"local": "Venue"
+	},
+
+	"sponsors": {
+		"org_apoio_patrocinio": "Organization, Support, and Sponsorship",
+		"organizadores": "Organization",
+		"patrocinio": "Sponsorship"
+	},
+
+	"trilha-industria": {
+		"titulo": "Industry Track",
+		"descricao_1": "The CBSoft Industry Track is an opportunity for industry and government practitioners to share their knowledge and experience with the attendees. This is also a great opportunity to establish cooperations between practitioners and companies, as well as stimulate the interaction between academia and industry. The perspective of academia-industry cooperation has been one of the requirements of project calls, such as those of the Brazilian National Institutes of Science and Technology Program (INCTs), operated by the Brazilian National Council for Scientific and Technological Development (CNPq).",
+		"descricao_2": "The Industry Track aims to discuss the possibilities of academia-industry and academia-government cooperations towards the establishment of conditions and funding to research, development, and innovation, as well as the formation of high-quality human resources in an integrated way. Another perspective is developing free software products and possible impacts in legal concerns and business models. These perspectives foster the technology transfer and the tendency to narrow the generation and effective use of research, development, and innovation results."
+	},
+
+	"workshop-teses-dissertacoes": {
+		"titulo": "Workshop on Theses and Dissertations",
+		"descricao_1": "The CBSoft Workshop on Theses and Dissertations (WTDSoft) is an event dedicated to the presentation and discussion of ongoing Master and PhD works on Software Engineering, programming languages, and software testing."
+	},
+
+	"codigo-conduta": {
+		"titulo": "Code of Conduct",
+		"descricao_1": "The open exchange of ideas and the freedom of thought and expression are central to CBSoft goals. This requires an environment that acknowledges the inherent worth of every person and group, fosters dignity, understanding, and mutual respect, and embraces diversity. For these reasons, CBSoft is committed to provide a harassment-free experience to participants and in its official communication channels, including social media. The aim is every and any participant to feel welcome, included, respected, and safe. There is no any tolerance for hostile or unwelcome behavior or for speech that intimidates, creates discomfort or interferes with a person’s participation at the conference.",
+		"descricao_2": "<b>Unacceptable behavior include:</b> abusive or degrading language, sustained disruption of a talk, discussion or other activity, discrimination, deliberate intimidation, stalking, harassing photography or recording, inappropriate physical contact, sexual imagery, and undesired sexual attention.",
+		"descricao_3": "<b>Harassment includes:</b> harmful comments, writings or actions related to race, color, sex, gender, sexual orientation, gender identity or expression, age, marital status, religion, national origin, disability, pregnancy, medical conditions, veteran status or any other status protected by Brazilian laws.",
+		"descricao_4": "Anyone witnessing or subject to unacceptable behavior should notify a member of the CBSoft 2020 Organizing Committee or security staff. A response that the participant was \"joking\" or that the behavior was \"playful\" will not be accepted. Individuals violating these standards may be punished or excluded from the conference without any reimbursement or refund at the discretion of the CBSoft 2020 Organizing Committee."
+	},
+
+	"edicoes-anteriores": {
+		"titulo": "Previous Editions",
+		"2019": "Salvador, Bahia | September 23-27, 2019",
+		"2018": "São Carlos, São Paulo | September 17-21, 2018",
+		"2017": "Fortaleza, Ceará | September 18-22, 2017",
+		"2016": "Maringá, Paraná | September 19-23, 2016",
+		"2015": "Belo Horizonte, Minas Gerais | September 21-25, 2015",
+		"2014": "Maceió, Alagoas | September 28 - October 3, 2014",
+		"2013": "Brasília, Distrito Federal | September 29-October 4,2013",
+		"2012": "Natal, Rio Grande do Norte | September 23-28, 2012",
+		"2011": "São Paulo | September 26-30, 2011",
+		"2010": "Salvador, Bahia | September 27-October 1, 2020"
+	},
+
+	"sbes": {
+		"titulo": "SBES 2020<br/>34th Brazilian Symposium on Software Engineering",
+		"subtitulo": "Página principal",
+		"descricao_1": "The <b>Brazilian Symposium on Software Engineering (SBES)</b>, annually promoted by the Brazilian Computer Society (SBC), is the premier Software Engineering conference in Latin America. SBES is held in conjunction with CBSoft and its joint program includes technical research, insightful ideas, education, tools, and industry tracks, invited talks, courses, tutorials, panels, a Workshop on Theses and Dissertations, and several other satellite events. It traditionally gathers 500-800 people, including academics, practitioners, and students.",
+		"descricao_1a": "The Brazilian Symposium on Software Engineering (SBES), annually promoted by the Brazilian Computer Society (SBC), is the premier Software Engineering event in Latin America. SBES is held in conjunction with CBSoft. The SBES Research Track is the main track of the symposium. It publishes solid, well-evaluated contributions to the state-of-the-art in the area of Software Engineering. Papers in this track are reviewed based on originality, relevance, technical soundness, and clarity of presentation. The symposium proceedings will be published in the ACM Digital Library.",
+		"descricao_1b": "The Education Track of the Brazilian Symposium on Software Engineering (SBES), formerly known as FEES - Education in Software Engineering Forum, focuses on the discussion of challenges, good practices, and innovations in teaching Software Engineering. It seeks quality submissions covering curriculum development, empirical studies, best practices, personal or institutional experiences, and conceptual or theoretical work. Papers in this track are reviewed based on their originality, relevance, technical soundness, and clarity of presentation.",
+		"descricao_1c": "The Tools Track is an important part of the Brazilian Symposium on Software Engineering (SBES). The goal of this track is providing a forum for presentation and demonstration of automated solutions that support the process of developing and managing software systems. It consists of both theoretical presentations and practical exhibitions of the tools, creating a great opportunity for the authors to present and discuss their tools with SBES attendees from academia and industry. Academics can present results of their applied research projects in Software Engineering, while industry professionals are also welcome to present commercial or in-house tools that have brought gains in productivity and/or quality to the software development processes.",
+		"trilha": "Tracks",
+		"trilha_pesquisa": "Research Track",
+		"trilha_pesquisa_short": "Research",
+		"trilha_ideias": "Innovative Ideas and Emerging Results Track",
+		"trilha_ideias_short": "Innovative Ideas and Emerging Results",
+		"trilha_educacao": "Education Track",
+		"trilha_educacao_short": "Education",
+		"trilha_ferramentas": "Tools Track",
+		"trilha_ferramentas_short": "Tools",
+		"secao_datas": "Important Dates",
+		"deadlines_atividades": [
+			"Paper registration (abstract submission)",
+			"Paper submission",
+			"Rebuttal period",
+			"Notification of acceptance",
+			"Camera-ready",
+			"Paper submission and video upload"
+		],
+		"deadlines_pesquisa": [
+			"May 4, 2020",
+			"May 11, 2020",
+			"June 15-20, 2020",
+			"July 3, 2020",
+			"July 17, 2020"
+		],
+		"deadlines_ideias": [
+			"June 1, 2020",
+			"June 8, 2020",
+			"July 6-10, 2020",
+			"July 17, 2020",
+			"August 7, 2020"
+		],
+		"deadlines_educacao": [
+			"June 1, 2020",
+			"June 8, 2020",
+			"July 6-10, 2020",
+			"July 17, 2020",
+			"August 7, 2020"
+		],
+		"deadlines_ferramentas": [
+			"June 1, 2020",
+			"June 8, 2020",
+			"July 6-10, 2020",
+			"July 17, 2020",
+			"August 7, 2020"
+		],
+		"secao_trilhas": "SBES Tracks",
+		"descricao_2": "SBES includes four tracks:",
+		"trilhas": [
+			"The <b>Research Track</b> publishes solid contributions to the Software Engineering community with papers reviewed based on originality, relevance, technical soundness, and clarity of presentation.",
+			"The <b>Insightful Ideas and Emerging Results Track</b> provides an opportunity for researchers and practitioners to submit and present innovative ideas and approaches (methods, techniques, and tools) and promising results in early stages of research.",
+			"The <b>Education Track</b> (formerly FEES - Forum of Education in Software Engineering) publishes papers that address challenges, innovations, and best practices in software engineering education.",
+			"The <b>Tools Track</b> provides a forum for presentation and demonstration of automated solutions that support the process of developing and managing software systems."
+		],
+		"descricao_3": "SBES Proceedings are intended to be published at the ACM Digital Library (pending approval). Additional details about topics of interest and manuscript preparation (e.g., format, language, double-blind policy) for each track can be found on their respective webpages.",
+		"descricao_pesquisa": "O <b>Simpósio Brasileiro de Engenharia de Software</b> (SBES), promovido anualmente pela Sociedade Brasileira de Computação (SBC), é o principal evento de Engenharia de Software da América Latina, sendo realizado em conjunto com o CBSoft. A Trilha de Pesquisa do SBES é a principal trilha do simpósio. A Trilha de Pesquisa publica contribuições sólidas e rigorosamente avaliadas ao estado da arte na área de Engenharia de Software. Artigos nesta trilha são revisados com base na sua originalidade, relevância, solidez técnica e clareza de apresentação. Os anais do simpósio serão publicados na biblioteca digital da ACM.",
+		"secao_journal_first": "Journal-First Submissions",
+		"descricao_4": "SBES is partnering with international journals to incorporate journal-first papers into the SBES 2020 Research Track. Two journals, <i>IEEE Software</i> and the <i>Journal of Software Engineering Research and Development</i> (JSERD), have confirmed their partnership with SBES 2020. Authors of journal-first papers accepted in those journals will be invited to present their research work at SBES. This offers an opportunity for authors to discuss their work with the community as well as enrich the technical program of SBES.",
+		"descricao_5": "The following evaluation criteria will be used to select journal-first papers to SBES 2020:",
+		"criterios_journal_first": [
+			"the paper describes original results that are not extensions of previous conference papers;",
+			"the paper was accepted for publication in the journal no earlier than January 1, 2018; and",
+			"the paper has not been presented at any other conference as a journal-first."
+		],
+		"descricao_6": "The selected papers will be presented in the technical program of the SBES Research Track. At least one author per selected journal-first paper will need to register and attend the symposium to present it.",
+		"descricao_7": "For journal-first papers published in JSERD, submissions of papers are accepted from the following categories: research articles, case studies, and review. For journal-first papers published in IEEE Software, only peer-reviewed research papers (not editorially-reviewed or invited papers) are accepted.",
+		"descricao_8": "Authors interested in presenting journal-first papers at SBES 2020 should send an email to <a style='color: #f4b321' href='mailto:sbes.j1@cin.ufpe.br'>sbes.j1@cin.ufpe.br</a> with the subject &quot;Journal-First - SBES 2020&quot; by June 29, 2020. The following information must be provided: (i) paper title; (ii) list of authors; (iii) link to the paper; and (iv) a short statement on how the work satisfies the criteria above.",
+		"secao_shortpapers": "Short Papers",
+		"descricao_9": "SBES 2020 will feature a Short Papers Track, which will be an additional opportunity for researchers and practitioners to present, showcase, and discuss their most recent advances, ideas, experiences, and challenges in the field of Software Engineering.",
+		"descricao_10": "There is no open call for short papers submissions for SBES 2020. The Short Papers Track will be instead organized on an invitation basis. Some submissions to the Research, Tools, and Education Tracks will be invited by the chairs to be considered as short papers, which will also be presented to the plenary during SBES. The authors of an invited short paper will also submit the paper following the SBES submission guidelines to be published in the event proceedings.",
+		"secao_bestpaper": "Best Paper Award",
+		"descricao_11": "Every year, the SBES Steering Committee appoints a committee to award the symposium's best papers. Awarded papers of the Research Track are announced during the event. The five best papers of the Research Track will be invited to submit an extended version in English to the research category of JSERD.",
+		"secao_besttool": "Best Tool Award",
+		"descricao_11c": "Awarded papers of the Tools Track will be announced during the event. The three tools with the best scores from the Program Committee will be awarded.",
+		"secao_bestreviewer": "Outstanding Reviewer Award",
+		"descricao_12": "SBES 2020 acknowledges the generosity of the reviewers who give their time and best effort to referee submitted papers. The progress of scientific growth depends on dedicated colleagues, who aim to further the development of technology by offering their attention and passion when reviewing the papers. A certificate of Outstanding Reviewer will be awarded to reviewers who submitted outstanding quality reviews to SBES. The evaluation will be based on the quality and usefulness of reviews, as well as participation during PC discussion.",
+		"secao_topicos": "Topics of Interest",
+		"descricao_13": "Submissions related (but not limited to) the following topics will be accepted:",
+		"topicos_sbes": [
+			"Agile development",
+			"Business value and software validation",
+			"Configuration management and deployment",
+			"Experimental Software Engineering",
+			"Human and social aspects of Software Engineering",
+			"Industrial applications of Software Engineering",
+			"Mining software repositories and software analytics",
+			"Mobile application development",
+			"Model-driven software development",
+			"Open-source software development",
+			"Requirements engineering",
+			"Search-based Software Engineering",
+			"Services and microservices",
+			"Software architecture",
+			"Software ecosystems and systems-of-systems",
+			"Software Engineering for Cloud Computing and the Web",
+			"Software maintenance and evolution",
+			"Software metrics and measurement",
+			"Software modularity",
+			"Software processes",
+			"Software product lines",
+			"Software quality and quality models",
+			"Software reengineering",
+			"Software reuse",
+			"Software startups",
+			"Software testing and verification",
+			"Technical debt management",
+			"Theoretical foundations and formal methods"
+		],
+		"topicos_sbes_educacao": [
+			"New and innovative best practices for Software Engineering education",
+			"Innovative curriculum or course formats",
+			"Teaching Software Engineering in the context of undergraduate and graduate courses",
+			"Teaching methods, techniques, and tools for developing software",
+			"Software Engineering education in informal settings, such as hackathons and <i>Stack Overflow</i>",
+			"Emerging educational settings for Software Engineering, such as online learning",
+			"Teaching/learning experiences using approaches of new practical scenarios of Software Engineering, such as agile methods, open source, distributed software development, Cloud Computing, Big Data, mobile devices, embedded systems, robotics, etc.",
+			"Tools and methods for the evaluation of Software Engineering learning",
+			"Teaching/learning human, political, ethical, legal, professional. and social issues in Software Engineering",
+			"Integration of practical experiences in teaching Software Engineering",
+			"Integration between research on Software Engineering and teaching/learning Software Engineering",
+			"Interdisciplinarity in Software Engineering",
+			"Innovative methods that promote studying and stimulating learning of professors, keeping them updated for teaching Software Engineering",
+			"Researches on equality, diversity, and inclusion in Software Engineering",
+			"Education in Software Engineering that stimulates entrepreneurship, specially startups creation",
+			"Open source in education",
+			"Teaching/learning emergent topics in Software Engineering"
+		],
+		"secao_categorias": "Paper Categories",
+		"descricao_14": "Authors of the Research Track papers, after the abstract in the submission form, should indicate which one of the following categories their paper most closely adheres to. This intends to establish a consistent set of expectations in the review process.",
+		"categorias": [
+			"<b>Analytical:</b> A paper in which the main contribution relies on new algorithms or mathematical theories. Examples include new bug prediction techniques, model transformations, algorithms for dynamic and static analysis, and reliability analysis. Such a contribution must be evaluated with a convincing analysis of the algorithmic details, whether through a proof, complexity analysis, or runtime analysis, among others and depending on the objectives.",
+			"<b>Experimental (primary study):</b> A paper in which the main contribution is the experimental study of a software engineering technology or phenomenon. This includes controlled experiments, quasi-experiments, case studies, and surveys of professionals reporting qualitative or quantitative data and analysis results. Such a contribution will be judged on its study design, appropriateness and correctness of its analysis, and threats to validity. Replications are welcome.",
+			"<b>Literature review (secondary study):</b> A paper in which the main contribution is the synthesis of primary studies. Examples include systematic reviews and systematic mapping studies. Such a contribution should follow a sound methodology and provide a comprehensive coverage of the relevant literature. Moreover, it should answer relevant research questions with a deep synthesis of the results. Contributions that only provide metadata analysis (e.g., relevant authors, publications density by year, most influential papers, etc.) are discouraged.",
+			"<b>Technological:</b> A paper in which the main contribution is of a technical nature. This includes novel tools, modeling languages, infrastructures, and other technologies. Such a contribution does not necessarily need to be evaluated with humans. However, clear arguments, backed up by evidence as appropriate, must show how and why the technology is beneficial, whether it is in automating or supporting some user task, refining our modeling capabilities, improving some key system property, etc.",
+			"<b>Methodological:</b> A paper in which the main contribution is a coherent system of broad principles and practices to interpret or solve a problem. This includes novel requirements elicitation methods, process models, design methods, development approaches, programming paradigms, and other methodologies. The authors should provide convincing arguments with commensurate experiences, as well as explain why a new method is needed and what the benefits of the proposed method are."
+		],
+		"secao_guidelines": "Paper Preparation, Submission, and Review",
+		"secao_guidelines_1c": "Paper/Video Preparation and Submission",
+		"descricao_15": "Papers can be submitted in Portuguese or English. Submission in English is strongly encouraged. The acceptance of a paper implies that at least one of its authors will register for the symposium to present it. All submissions must be in Adobe Portable Document Format (PDF) and must comply with the ACM 2-column conference format (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) available at this <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>. They must be no longer than 10 pages, including all figures and references.",
+		"descricao_15b": "Papers can be written in Portuguese or English. Submissions in English are strongly encouraged since the symposium proceedings will be indexed by the ACM's digital library. Title and abstract of all papers mut be in English, even if they are written in Portuguese. Papers submitted to the SBES 2020 Education Track must not have been simultaneously submitted to any other forum (conference or journal) or published elsewhere. At least one author of each accepted paper must be registered at CBSoft and present it in-person, otherwise the paper will not be included in the proceedings.",
+		"descricao_15c": "Authors are invited to submit papers describing automated solutions for diverse aspects and needs related to the topics of interest and themes listed in the <a style='color: #f4b321' href='sbes-pesquisa.php'>Call for Papers of SBES</a>.  Each submission consists of a paper accompanied by a demo video about the tool. Submissions must conform to the following submission and formatting instructions:",
+		"instrucoes_submissao_ferramentas": [
+			"The paper must be original and not submitted or published in other academic venues.",
+			"The paper should clearly include:",
+			"Description of the motivation/problem addressed by the tool",
+			"Description of the main functionalities and potential users of the tool",
+			"Usage example and screenshots illustrating the tool interface (when applicable)",
+			"Description of the tool architecture, its core components, and their interfaces",
+			"A brief comparison with existing related tools",
+			"The type of software license",
+			"Papers must be no longer than 6 pages, including all figures (in good quality), references and appendices, and formatted according to the ACM 2-column conference format (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) available at this <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>. Papers may be written in Portuguese or English, but papers in Portuguese must also include an abstract in English. Papers must be submitted in PDF.",
+			"A demo video with audio commentary and with high resolution (details of the tool's functionality should be clearly visible) <b>must</b> accompany the paper submission. The demo video (between 3 to 5 minutes long) should demonstrate tool usage and highlight its main contributions. It should provide an overview of the tool, its objectives and envisioned users, main features, and outputs as well. There should be an announcer presenting the tool and the speech must be in the same language in which the paper is written.",
+			"Authors are encouraged to make the code and datasets of their academic tools open source and provide a URL for them with the submission.",
+			"The Tools Track will use the single-blind reviewing model, so the authors’ identities should be in the submission materials."
+		],
+		"descricao_16": "Papers should be electronically submitted through <a style='color: #f4b321' href='http://submissoes.sbc.org.br'>JEMS</a>. All technical research papers should indicate after the abstract the language and one or more of the aforementioned categories. Submissions that are not in compliance with the required submission format, are out of the scope of the symposium, or were submitted or published in any other forum (conference or journal) will be rejected without review. All other papers will be reviewed by at least three Program Committee members. During the review process, a rebuttal may be requested. In this case, authors will have access to reviews and may argue and answer questions from the referees before the final acceptance/rejection decision. The rebuttal is limited to a plain text up to 4,000 characters.",
+		"descricao_16b": "Papers must be no longer than 10 pages, including all figures and references. All submissions must comply with the ACM 2-column conference format (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) available at this <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>. Papers must be electronically submitted through the <a style='color: #f4b321' href='http://submissoes.sbc.org.br'>JEMS</a> system. All submitted papers must inform the language in which are written after title. Submissions that are not in compliance with the required submission format or are out of the scope of the Education Track will be rejected without reviewing. All other papers will be reviewed by at least three Program Committee members.",
+		"descricao_16b1": "The review process includes a rebuttal period in which the authors will have access to the reviewers’ comments and may argue and answer questions from the reviewers before the final acceptance/rejection decision. The rebuttal is limited to a plain text up to 4,000 characters (including spaces).",
+		"descricao_16c": "Papers should be submitted electronically through the <a style='color: #f4b321' href='http://submissoes.sbc.org.br'>JEMS</a> system. Videos should be uploaded to YouTube and made accessible during the time of reviewing. The URL at which the demo video can be found should be appended at the end of the paper abstract.",
+		"descricao_16c1": "Submissions that do not include a paper <b>and</b> a demo video, that are not in compliance with the required submission format, that are out of the scope of the track, or that were submitted or published in any other forum (conference or journal), will be rejected without review. All other papers will be reviewed by at least three Program Committee members.",
+		"descricao_16c2": "During the review process, a rebuttal may be requested. In this case, authors will have access to reviews and may argue and answer questions from the referees before the final acceptance/rejection decision. The rebuttal is limited to a plain text up to 4,000 characters.",
+		"descricao_16c3": "The acceptance of the submission implies in at least one author to register at and attend SBES 2020 to present the paper and the tool in person. Both paper presentation and tool demonstration are mandatory for all accepted tools. Paper presentations and tool demonstrations are traditionally held in two different days during SBES. Tool demonstrations should be live and the demo videos uploaded for submission should <b>not</b> be used.  The format and timing of presentations will be announced later.",
+		"secao_doubleblind": "Double-Blind Submission",
+		"descricao_17": "The SBES 2020 Research Track will follow a double-blind review process. All submitted papers should conceal the identity of the authors. Both author names and affiliations must be omitted. In addition, the following rules should be addressed:",
+		"descricao_17b": "The SBES 2020 Research Track will follow a double-blind review process. All submitted papers should conceal the identity of the authors. Both author names and affiliations must be omitted. In addition, the following rules should be addressed:",
+		"guidelines_doubleblind": [
+			"Citations to own related work must be written in the third person. For example, one must write &quot;the previous work of Silva et al.&quot; as opposed to &quot;our previous work.&quot; As a heuristic, occurrences of &quot;we&quot;, &quot;our&quot;, &quot;ours&quot;, &quot;github&quot;, &quot;funding&quot;, etc. should be looked in the paper and removed prior to submitting.",
+			"In the submitted paper, any artifact in a repository or website that allows identifying the authorship should not be mentioned. If any artifact needs to be made available, it should be anonymized in the repository/website.",
+			"Reviewers will not be encouraged to look for references that identify the authors in other sources on the Internet. Searches in digital libraries or existing artifacts do not break the double blind policy.",
+			"If the submitted paper is a follow up of a previous work, the reference may be anonymized in the submitted paper. For example, &quot;the previous work of Silva et al.&quot; can be adapted to &quot;based on the previous work [X]&quot; and the reference at the end of the paper can be presented as &quot;[X] Anonymous authors. Not presented due to double blind review.&quot;."
+		],
+		"descricao_18": "After the paper acceptance, all the paper information (without anonymization) can be included in the camera-ready version.",
+		"descricao_19": "In case of having any questions about the preparation of the paper following the double-blind rules,an email can be sent to the Program Chairs with the subject &quot;SBES: question about the double-blind rules.&quot;.",
+		"secao_comite": "Organization",
+		"comite": [
+			"CBSoft 2020 General Chairs",
+			"Everton Cavalcante (UFRN, Brazil)",
+			"Francisco Dantas (UERN, Brazil)",
+			"Thais Batista (UFRN, Brazil)",
+			"Program Committee Chairs - Research Track",
+			"Tayana Conte (UFAM, Brazil)",
+			"Fernando Castor (UFPE, Brazil)",
+			"Program Committee Chairs - Innovative Ideas and Emerging Results Track",
+			"Marco Túlio Valente (UFMG, Brazil)",
+			"Márcio Ribeiro (UFAL, Brazil)",
+			"Program Committee Chairs - Education Track",
+			"Igor Steinmacher (Northern Arizona University, USA)",
+			"Rodrigo Pereira dos Santos (UNIRIO, Brazil)",
+			"Program Committee Chairs - Tools Track",
+			"Christina von Flach G. Chavez (UFBA, Brazil)",
+			"Elisa Yumi Nakagawa (ICMC/USP, Brazil)",
+			"SBES Steering Committee",
+			"Fabiano Cutigi Ferrari (UFSCar, Brazil)",
+			"Fernando Castor (UFPE, Brazil)",
+			"Jose Carlos Maldonado (ICMC/USP, Brazil)",
+			"Márcio Ribeiro (UFAL, Brazil)",
+			"Marco Aurélio Gerosa (Northern Arizona University, USA)",
+			"Marco Túlio Valente (UFMG, Brazil)",
+			"Rafael Prikladnicki (PUCRS, Brazil)",
+			"Tayana Conte (UFAM, Brazil)",
+			"Uirá Kulesza (UFRN, Brazil)"
+		],
+		"secao_contato": "Contact",
+		"descricao_21b": "More information is available at the CBSoft 2020 website or by contacting the Program Chairs (<a style='color: #f4b321' href='rps@uniriotec.br'>rps@uniriotec.br</a> e <a style='color: #f4b321' href='igor.steinmacher@nau.edu'>igor.steinmacher@nau.edu</a>). The subject &quot;SBES Education Track: Doubts about the submission process&quot; shall be used."
+	},
+
+	"sbcars": {
+		"titulo": "SBCARS 2020<br/>14th Brazilian Symposium on Software Components, Architectures, and Reuse",
+		"subtitulo": "Main page",
+		"descricao_1": "The <b>Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS)</b> is a symposium promoted by the Brazilian Computer Society (SBC) that brings together researchers, students, and practitioners with a wide range of interests on topics related to Software Engineering, including software product lines, component-based software development, software architectures, and software reuse. SBCARS, which started in 2007, is the successor to the series of six editions of the Brazilian Workshop on Component-Based Software Development (WDBC), which started in 2001, so that its thirteen editions have contributed to the its consolidation in the Brazilian scientific calendar as an important technical-scientific event on software.",
+		"secao_datas": "Important Dates",
+		"deadlines_atividades": [
+			"Paper registration (abstract submission)",
+			"Paper submission",
+			"Notification of acceptance",
+			"Camera-ready"
+		],
+		"deadlines": [
+			"July 6, 2020",
+			"July 10, 2020",
+			"August 10, 2020",
+			"August 10, 2020"
+		],
+		"secao_topicos": "Topics of Interest",
+		"descricao_2": "Submissions related (but not limited to) the following topics will be accepted:",
+		"topicos_sbcars": [
+			"Agile software architecture and design",
+			"Aspect-oriented software development and software modularity",
+			"Component-based Software Engineering",
+			"Design patterns",
+			"Domain analysis and engineering",
+			"Generative programming and domain-specific languages",
+			"Mining software repositories",
+			"Model-driven engineering",
+			"Program transformation and refactoring",
+			"Reuse and variability in Open Source Software",
+			"Service-oriented architectures (SOA) and service-based development",
+			"Software analysis, comprehension, and reconstruction",
+			"Software architecture (architecture recovery, architecture description languages, architecture evaluation, reverse architecting, etc.)",
+			"Software evolution",
+			"Software metrics",
+			"Software product lines",
+			"Software reuse (including technical and non-technical issues)",
+			"Variability management"
+		],
+		"descricao_3": "There is also interest in experimental studies (controlled experiments, case studies, systematic reviews), experience reports, theoretical contributions, education-related papers, tools, and methods related to all of the above topics.",
+		"secao_guidelines": "Submission Guidelines and Review Process",
+		"descricao_4": "Submitted papers can be written in Portuguese or English. Papers written in Portuguese need to be submitted with title, abstract, and keywords written in English. Submissions in English are strongly encouraged since the symposium proceedings will be indexed in the ACM Digital Library. At least one author of each accepted paper must register for the conference and present the paper in person during the event. Otherwise, the paper will not be included in the proceedings.",
+		"descricao_5": "It is strongly encouraged that authors check papers from previous editions of SBCARS to reference related work whenever it is applicable. This might motivate and improve discussions between researchers working in the same area during the symposium. SBCARS papers published in previous editions are available at this <a style='color: #f4b321' href='http://dblp1.uni-trier.de/db/conf/sbcars/index.html'>link</a>.",
+		"descricao_6": "All submissions must be in PDF and must comply with the ACM 2-column conference format (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) available at this <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>. Papers must be no longer than 10 pages, including figures, tables, and references. Submissions not in compliance with the required format or out of the technical scope will be rejected without review. Submitted papers will be reviewed by at least three referees, based on its originality, relevance, technical soundness, and clarity of presentation.",
+		"descricao_7": "SBCARS 2020 will employ a triple-blind review process. The papers submitted must not reveal the authors' identities in any way.",
+		"guidelines_tripleblind": [
+			"Authors should leave out their names and affiliations from the body of their submission.",
+			"Authors should ensure that any citation to related work by themselves is written in third person, that is, &quot;the prior work of XYZ&quot; as opposed to &quot;our prior work&quot;.",
+			"Authors should avoid providing URLs to author-revealing sites (tools, data sets). The paper can mention the existence of such sites, but the visit of such sites should not be needed to conduct the review.",
+			"Authors should anonymize author-revealing company names, yet can provide general characteristics of the organizations involved needed to understand the context of the paper."
+		],
+		"descricao_8": "Papers should be submitted electronically through the <a style='color: #f4b321' href='http://submissoes.sbc.org.br'>JEMS</a> system. When submitting a paper, authors must specify the language of their paper with a prefix in the field of the paper title in the submission platform. The title of papers in English must start with &quot;[EN]&quot; and the title of papers in Portuguese must start with &quot;[PT]&quot;. This guarantees that the paper is assigned to a reviewer that will be able to review it.",
+		"secao_bestpaper_si": "Best Paper Award and Special Issue",
+		"descricao_9": "Three best papers will be invited to a special issue in the <i>Journal of the Brazilian Computer Society</i> (JBCS).",
+		"secao_comite": "Organization",
+		"comite": [
+			"Program Committee Chair",
+			"Gustavo Pinto (UFPA, Brazil)",
+			"SBCARS Steering Committee",
+			"Gustavo Pinto (UFPA, Brazil)",
+			"Leopoldo Teixeira (UFPE, Brazil)",
+			"Ingrid Nunes (UFRGS, Brazil)",
+			"Márcio Ribeiro (UFAL, Brazil)",
+			"Marco Aurélio Gerosa (Northern Arizona University, USA)"
+		]
+	},
+
+	"sblp": {
+		"titulo": "SBLP 2020<br/>24th Brazilian Symposium on Programming Languages",
+		"subtitulo": "Main page",
+		"descricao_1": "The <b>Brazilian Symposium on Programming Languages (SBLP)</b> is a symposium promoted by the Brazilian Computer Society (SBC) that constitutes a forum for students, researchers, and practitioners to present and discuss ideas and innovations in the design, definition, analysis, implementation, and practical use of programming languages."
+	},
+
+	"sast": {
+		"titulo": "SAST 2020<br/> 5th Brazilian Symposium on Systematic and Automated Software Testing",
+		"subtitulo": "Main page",
+		"descricao_1": "The <b>Brazilian Symposium on Systematic and Automated Software Testing (SAST)</b>, which existed since 2007 under the Brazilian Workshop on Systematic and Automated Software Testing in nine editions, is the main scientific event about software testing in Brazil. Its goal is being an annual forum to discuss issues related to systematization and automation of the software testing activity, promoting the interaction between researchers and industry as means of strengthening cooperations and innovation in such an important field of software development."
+	},
+
+	"workshops": {
+		"titulo": "Workshops",
+		"descricao_1": "CBSoft includes workshops related to the topics of the four symposia that traditionally are part of the programme, SBES, SBCARS, SBLP, and SAST. The goal is providing a forum where academics and practitioners can exchange and discuss their experiences and ideas. Workshops traditionally realized at CBSoft can be promoted to pre-approved workshops..",
+		"secao_informacoes": "General information",
+		"descricao_2": "The definition of the workshops that will be part of CBSoft 2020 will be carried out by evaluating the submitted proposals in response to this Call. Workshop proposals will be evaluated considering:",
+		"criterios": [
+			"the relevance and interest of subject matter",
+			"the expertise of the workshop chair",
+			"the Program Committee",
+			"an evaluation of previous editions, if applicable"
+		],
+		"descricao_3": "Each workshop can be scheduled for a half-day (three hours) ou a full day (six hours). The dates of the workshops will be confirmed soon by the CBSoft 2020 General Chairs.",
+		"descricao_4": "Workshop proceedings will be prepared by the workshop organizers together with the CBSoft 2020 Organizing Committee. Please note the deadline for delivering the workshop papers to the CBSoft organizing committee.",
+		"secao_submissao": "Submissions instructions (see specific instructions for pre-approved workshops)",
+		"descricao_5": "The workshop proposals must be filled through this <a target= '_blank'  href='https://forms.gle/Fd5E6gM4qUpe3YQMA' style='color: #f4b321'>link</a>.",
+		"descricao_6": "The proposals must exactly contain the following information (in Portuguese or English):",
+		"informacoes_workshop": [
+			"Name of the workshop",
+			"Duration (three or six hours)",
+			"Description of the main topic of the workshop, explaining its relevance",
+			"History of the workshop, including the number of attendees, number of submissions, and acceptance rate",
+			"Workshop format, topics of interest, acceptance criteria, and presentation form",
+			"Invited speakers",
+			"Expected audience, including the maximum number of participants",
+			"Program Committee",
+			"Support and required equipment from the CBSoft Organizing Committee",
+			"Name, contact information, and curriculum of the workshop chair. If the chair is Brazilian, the CV can be a link to his/her Lattes CV. If the chair is not Brazilian, a brief CV must be included."
+		],
+		"secao_workshop_pre": "Submission instructions for pre-approved workshops",
+		"descricao_7": "Annual or biannual Workshops that have at least three editions (being the last one held in 2018 or 2017) are considered pre-approved workshopss. Pre-approved workshops must submit a simplified proposal through this <a target= '_blank'  href='https://forms.gle/wDLTrY7JpVxGQeNeA' style='color: #f4b321'>link</a> with the following information:",
+		"informacoes_workshop_pre": [
+			"Organizing Committee",
+			"Steering Committee (if applicable)",
+			"Name, contact information, and CV of chair(s) (Lattes CV for Brazilians, brief CV for foreigners)",
+			"Statistics of the three last editions (number of attendees, number of submissions, and acceptance rate)"
+		],
+		"descricao_8": "Pre-approved workshops are automatically accepted since the required information is submitted. Information provided for a pre-approved workshop will be analyzed by the Workshops Evaluation Committee with the goal of providing feedback for future workshop editions. A workshop might lose the pre-approved status due to decreasing submissions number over years or due to any other reason judged by the Workshops Evaluation Committee.",
+		"secao_deadlines": "Important dates",
+		"deadlines": [
+			"Workshop proposal submission: April 13, 2020",
+			"Notification to proponents: April 20, 2020",
+			"Delivery of papers to the CBSoft 2020 General Chairs: August 3, 2020"
+		],
+		"secao_comite": "Evaluation Committee",
+		"comite": [
+			"Everton Alves (UFCG, Brazil)",
+			"Fabiano Ferrari (UFSCar, Brazil)",
+			"Márcio Barros (UNIRIO, Brazil)",
+			"Thelma Elita Colanzi (UEM, Brazil)"
+		],
+		"secao_contato": "Contact",
+		"descricao_9": [
+			"Questions should be directed to the CBSoft 2020 Workshop Chair, Thelma Elita Colanzi (<a href='mailto:thelma@din.uem.br' style='color: #f4b321'>thelma@din.uem.br</a>)."
+		]
+	},
+
+	"local": {
+		"titulo": "Venue",
+		"descricao_1": "CBSoft 2020 will be held at <a target= '_blank' href='https://www.wishhotels.co/resort-em-natal/wish-natal-by-gjp/' style='color: #f4b321'>Wish Natal Exclusive Resort</a>, a resort with direct access to the beach and overlooking the sea, located at the Via Costeira Senador Dinarte Mariz. In this region, it is possible to find the best accommodation in the Natal's touristic region, flanked by the Brazil's second largest urban park, Parque das Dunas, besides easy access to restaurants, shoppings and commercial centers, and other beaches in the city."
+	},
+
+	"sobre-natal": {
+		"titulo": "About Natal",
+		"descricao_1": "Natal, the capital and largest city of the state of Rio Grande do Norte, Northeastern Brazil, has become a Brazilian destination known throughout the world, being the closest Brazilian city to Europe and Africa due to its location at the corner of South America. The \"City of the Sun\" (\"Cidade do Sol\", in Portuguese), as it is known both nationally and internationally, has a pleasant climate with average temperatures around 28ºC and a bright sunshine throughout the year. Natal is about six degrees south Equator, thus making the sun to shine for 300 days per year, more than in any Brazilian capital.",
+		"descricao_2": "Founded in a Christmas Day, December 25, 1599 (hence the name, according to many writers), Natal is bathed by the Atlantic Ocean, combining a tropical climate, beautiful beaches of warm water, lush nature, and almost 900,000 welcoming inhabitants - just over 1.5 million in the Metropolitan Region, the fifth largest urban agglomeration in the Northeast Region. The city historically had a great importance during World War II, serving as a strategic point to Allies operations (in particular to USA) in the conflict, and it hosted the first rocket base in South America, at the Barreira do Inferno Launch Center in the neighboring municipality of Parnamirim.",
+		"descricao_3": "The city receives millions of Brazilian and foreign visitors each year, attracted by the natural beauty of the cost, the local hospitality, and the largest off-season Carnival in Brazil, <i>Carnatal</i>. Natal has one of the most modern and well-located hotel chains in Brazil, besides excellent restaurants, pubs, bars, shopping malls, and many other entertainment places. This is a reflection of the fact that the local economy is mainly based on the service sector, including national and international leisure tourism and, more recently, the business tourism, as the city has attracted an increasing number of professional events. Moreover, in 2014, Natal was one of the twelve cities that hosted the FIFA World Cup, whose project of the Arena das Dunas Stadium stood out among the host cities.",
+		"descricao_4": "Natal is not just about beaches, lush nature, and good gastronomy. The city was recently affiliated to the <i>IEEE Smart Cities Initiative</i> as a result of the expressive advances and strong engagement between academia and local government. This gave risen to the <i>Natal Human and Smart City Program</i>, formalized by a technical cooperation agreement between the Natal City Hall and the Federal University of Rio Grande do Norte (UFRN). This program represents a large political and societal project in direct cooperation between academia and the population aiming at seeking for solutions to the problems faced by the city in its daily growth, as well as improving the quality of life and well-being of the population through innovative Information and Communication Technology paradigms. In 2017, the <i>Digital Metropolis Technological Park</i> was established. This is a technological park geographically located around the UFRN's central campus with focus on Information Technology, a project involving academia and both public and private sectors as a conducive environment to the diffusion of science, technology, and innovation, besides contributing to the economic and societal development of the city.",
+		"quick-facts": "Some quick facts:"
+	},
+
+	"info-viagem": {
+		"titulo": "Travel information",
+		"descricao_1": "<b>Arriving at Natal by plane.</b> The largest airport in the state of Rio Grande do Norte is the <a target='_blank' href= 'http://www.natal.aero/' style='color: #f4b321'>Natal International Airport -- São Gonçalo do Amarante/Governor Aluízio Alves (NAT)</a>. Serving Natal and its Metropolitan Region, the airport was opened in 2014 and it is regarded as one of the best airports in Brazil according to recent surveys. Although Natal is not a major hub in Brazil, there are direct flights connecting it to other larger Brazilian cities, such as Fortaleza (1:00h), Recife (0:50h), Salvador (1:25h), Brasilia (2:45h), Rio de Janeiro (3:00h), and São Paulo (3:20h). There are also some international direct flights connecting Natal to Lisbon, Portugal, and to Buenos Aires, Argentina, but due to national connections to other cities in Brazil, it is not difficult to reach Natal from North America or Europe. All major Brazilian airlines (Azul, Gol, LATAM) currently operate at the airport, in addition to TAP Portugal, Portuguese airline whose direct flights connect Natal to Europe in 6:40h on average.",
+		"descricao_2": "<b>Arriving at Natal by car.</b> The BR-101 federal highway is the most important access connecting Natal to other cities in Northeastern Brazil (João Pessoa, Recife, and Salvador) and Southeastern/Southern Brazil along the north-south coast. For who comes from cities such as Fortaleza and Teresina, another common access is the BR-304 federal highway, which comes from the west of Rio Grande do Norte. With respect to the capitals of the nearest states, the average driving time between Natal and João Pessoa (distant 193 km) is 2:30h, between Natal and Recife (distant 291 km) is 4:00h, and between Natal and Fortaleza (distant 524 km) is 7:00h.",
+		"descricao_3": "<b>Arriving at Natal by bus.</b> The main bus station in Rio Grande do Norte is the Natal Bus Station/Severino Tomaz da Silveira Bus Terminal, at the Cidade da Esperança neighborhood. There are several bus lines operating routes within Rio Grande do Norte and from/to major cities in the Northeast Region, besides other many cities in Brazil. With respect to the capitals of the nearest states, the average time between Natal and João Pessoa (distant 193 km) is 3:00h, between Natal and Recife (distant 291 km) is 4:40h, and between Natal and Fortaleza (distant 524 km) is 8:30h."
+	},
+
+	"hospedagem": {
+		"titulo": "Accommodation",
+		"descricao_1": "According to recent studies of the Brazilian Institute of Geography and Statistics (IBGE), Natal is the second Brazilian capital in number of beds per 100,000 inhabitants. The hotel network of the city is quite diverse and able to meet the needs of audiences with different accommodation requirements, ranging from more modest levels, such as hostels, to luxury levels, such as five-star hotels and resorts. Regardless of the type of accommodation, most establishments are located close to the Via Costeira and the Ponta Negra Beach, the Natal's main touristic region, no more than six kilometers (approximately ten minutes by car) from Wish Natal. Besides hotels and hostels, there are options of furnished flats or even offered through digital platforms, such as Airbnb.",
+		"descricao_2": "The period when CBSoft 2020 will be held, in late September, is regarded as a low-season in Natal, thus leading to more availability of accommodation and lower daily rates in comparison to other months. The CBSoft 2020 Organizing Committee will be committed to negotiate with some establishments to obtain special rates for guests coming to Natal to attend the event."
+	},
+
+	"org": {
+		"organizacao": "Organization",
+		"org_local": "General Chairs"
+	}
 }

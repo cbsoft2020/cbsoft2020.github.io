@@ -1,421 +1,482 @@
 {
-  "menu": {
-      "organizacao": "Organização",
-      "patrocinio": "Patrocínio",
-      "inscricoes": "Inscreva-se",
-      "programacao": "Programação",
-      "anais":"Anais",
-      "trilha_industria": "Trilha da Indústria",
-      "tutoriais": "Tutoriais",
-      "minicursos": "Minicursos",
-	  "wtdsoft": "Workshop de Teses e Dissertações",
-      "codigo_conduta": "Código de Conduta",
-      "edicoes_anteriores": "Edições Anteriores",
-      "home_SBES": "Página Principal",
-      "home_SBCARS": "Página Principal",
-	  "home_SBLP": "Página Principal",
-      "home_SAST": "Página Principal",
-      "trilha_pesquisa": "Trilha de Pesquisa",
-      "trilha_educacao": "Trilha de Educação",
-      "trilha_ideias_inovadoras": "Trilha de Ideias Inovadoras e Resultados Emergentes",
-	  "trilha_ferramentas": "Trilha de Ferramentas",
-      "palestras": "Palestras",
-      "chamada_trabalhos": "Chamada de Trabalhos",
-      "chamada_workshops": "Chamada de Workshops",
-      "artigos_aceitos": "Artigos Aceitos",
-      "informacoes": "Informações",
-      "local": "Local do Evento",
-      "natal": "Sobre Natal",
-      "infoViagem": "Informações de Viagem",
-      "hospedagem": "Hospedagem",
-      "contato": "Contato"
-  },
-	
-  "about": {
-    "sobre": "Sobre o CBSoft",
-    "realizacao": "Realizado por",
-	"copyright": "Todos os direitos reservados",
-    "descricao_1": "O Congresso Brasileiro de Software: Teoria e Prática (CBSoft) é um evento realizado anualmente pela Sociedade Brasileira de Computação (SBC) com o objetivo de promover e incentivar a troca de experiências entre pesquisadores e profissionais da indústria e academia sobre as mais recentes pesquisas, tendências e inovações práticas e teóricas sobre software. Realizado desde 2010 como evento agregador de simpósios brasileiros promovidos pela SBC na área de software, o CBSoft tornou-se um dos principais eventos da comunidade científica brasileira na área de Computação.",
-    "descricao_2": "Em 2020, a 11ª edição do CBSoft será realizada em Natal, Rio Grande do Norte, e integrará quatro eventos tradicionais realizados anualmente pela comunidade brasileira em Engenharia de Software:",
-    "desc_eventos": [
-      "o <a href='sbes.php' style='color: #f4b321'>XXXIV Simpósio Brasileiro de Engenharia de Software (SBES)</a>, o principal evento de Engenharia de Software na América Latina;",
-      "o <a href='sbcars.php' style='color: #f4b321'>XIV Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS)</a>, que agrega tópicos como linhas de produto de software, desenvolvimento de software baseado em componentes, arquiteturas de software e reutilização;",
-	  "o <a href='sblp.php' style='color: #f4b321'>XXIV Simpósio Brasileiro de Linguagens de Programação (SBLP)</a>, que possui enfoque no estudo teórico e prático de linguagens de programação, e;",
-      "o <a href='sast.php' style='color: #f4b321'>V Simpósio Brasileiro de Teste de Software Sistemático Automatizado (SAST)</a>, que versa sobre questões relacionadas à sistematização e automação da atividade de teste de software."
-    ],
-    "descricao_3": "A programação do CBSoft inclui sessões técnicas com apresentações de artigos científicos, palestras proferidas por pesquisadores brasileiros e estrangeiros de renome nacional e internacional, painéis de discussão, workshops, demonstrações de ferramentas, tutoriais e minicursos ministrados por conceituados especialistas em suas respectivas temáticas. Todas essas diversas atividades de interesse da comunidade de Engenharia de Software e de áreas relacionadas ao desenvolvimento de sistemas de software direcionam-se para a difusão do conhecimento e discussão de questões importantes relacionadas à pesquisa, desenvolvimento e inovação, tanto no Brasil quanto no mundo."
-  },
-	
-  "speakers": {
-    "palestrantes": "Palestrantes"
-  },
-	
-  "schedule": {
-    "dia_1": "1º Dia",
-    "dia_2": "2º Dia",
-    "dia_3": "3º Dia",
-    "dia_4": "4º Dia",
-    "dia_5": "5º Dia",
-    "horario": "Horário",
-    "palestrante": "Palestrante",
-    "tema": "Tema",
-    "local": "Local"
-  },
-	
-  "sponsors": {
-    "org_apoio_patrocinio": "Organização, Apoio e Patrocínio",
-    "organizadores": "Organização",
-    "patrocinio": "Patrocínio"
-  },
-	
-  "trilha-industria": {
-    "titulo": "Trilha da Indústria",
-    "descricao_1": "A Trilha da Indústria do CBSoft é uma oportunidade em que profissionais da indústria e do Governo compartilham seu conhecimento e suas experiências com o público. Essa é também uma ótima oportunidade para estabelecer cooperações entre profissionais e empresas, bem como estimular a interação entre academia e indústria. A perspectiva de cooperação academia-empresa tem sido um dos requisitos de editais de chamadas a projetos, como os do Programa dos Institutos Nacionais de Ciência e Tecnologia (INCTs), operacionalizado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq).",
-    "descricao_2": "São objetivos da Trilha da Indústria discutir as possibilidades de cooperação academia-indústria e academia-governo com vistas ao estabelecimento de condições e financiamentos para a pesquisa, desenvolvimento e inovação, bem como para a formação de recursos humanos de qualidade de forma integrada. Uma outra perspectiva é o desenvolvimento de produtos de software livre e possíveis impactos em aspectos legais e em modelos de negócio. Essas perspectivas favorecem a transferência tecnológica e a tendência de estreitar a geração e o uso efetivo de resultados de pesquisa, desenvolvimento e inovação."
-  },
-	
-  "workshop-teses-dissertacoes": {
-    "titulo": "Workshop de Teses e Dissertações",
-    "descricao_1": "O Workshop de Teses e Dissertações do CBSoft (WTDSoft) é um evento dedicado à apresentação e à discussão de trabalhos em andamento de Mestrado e de Doutorado em andamento nas áreas de Engenharia de Software, linguagens de programação e teste de software."
-  },
-	
-  "codigo-conduta": {
-    "titulo": "Código de Conduta",
-    "descricao_1": "A troca aberta de ideias e a liberdade de pensamento e expressão são fundamentais para os objetivos do CBSoft. Isso requer um ambiente que reconheça o valor inerente de cada pessoa e grupo, que promova a dignidade, a compreensão e o respeito mútuo e que envolva a diversidade. Por essas razões, o CBSoft dedica-se a proporcionar uma experiência livre de assédio aos participantes do evento e em seus canais oficiais de comunicação, incluindo mídias sociais. A meta é que todo e qualquer participante sinta-se bem-vindo, incluído, respeitado e seguro. Não há qualquer tipo de tolerância para comportamento hostil ou indesejado ou para discurso que intimide, crie desconforto ou interfira na participação de alguém no evento.",
-    "descricao_2": "<b>Comportamentos inaceitáveis incluem:</b> linguagem abusiva ou degradante, interrupção prolongada de uma palestra, discussão ou outra atividade, discriminação, intimidação deliberada, perseguição, gravação de vídeo ou imagens com viés de assédio, contato físico inapropriado, imagens sexuais ou atenção sexual indesejada.",
-    "descricao_3": "<b>Assédio inclui:</b> comentários pejorativos, escritos ou ações relacionadas a raça, cor, sexo, gênero, orientação sexual, identidade de gênero ou expressão, idade, estado civil, religião, nacionalidade, deficiência, gravidez, condições médicas, status de veterano ou qualquer outro status protegido pelas leis brasileiras.",
-    "descricao_4": "Qualquer pessoa que testemunhe ou seja vítima de comportamento inaceitável ou assédio deve notificar um membro do Comitê Organizador do CBSoft 2020 ou segurança do evento. Respostas do tipo que o participante estava \"brincando\" ou que o comportamento em questão tenha sido uma \"brincadeira\" não serão aceitas. Os indivíduos que violarem esses padrões poderão ser punidos ou excluídos de participarem do evento, sem qualquer tipo de reembolso ou compensação, a critério do Comitê Organizador do CBSoft 2020."
-  },
-	
-  "edicoes-anteriores": {
-    "titulo": "Edições Anteriores",
-    "2019": "Salvador, Bahia | 23 a 27 de setembro de 2019",
-    "2018": "São Carlos, São Paulo | 17 a 21 de setembro de 2018",
-    "2017": "Fortaleza, Ceará | 18 a 22 de setembro de 2017",
-    "2016": "Maringá, Paraná | 19 a 23 de setembro de 2016",
-    "2015": "Belo Horizonte, Minas Gerais | 21 a 25 de setembro de 2015",
-    "2014": "Maceió, Alagoas | 28 de setembro a 3 de outubro de 2014",
-    "2013": "Brasília, Distrito Federal | 29 de setembro a 4 de outubro de 2013",
-    "2012": "Natal, Rio Grande do Norte | 23 a 28 de setembro de 2012",
-    "2011": "São Paulo | 26 a 30 de setembro de 2011",
-    "2010": "Salvador, Bahia | 27 de setembro a 1º de outubro de 2010"
-  },
-	
-  "sbes": {
-    "titulo": "SBES 2020<br/>XXXIV Simpósio Brasileiro de Engenharia de Software",
-    "subtitulo": "Página principal",
-    "descricao_1": "O <b>Simpósio Brasileiro de Engenharia de Software (SBES)</b>, promovido anualmente pela Sociedade Brasileira de Computação (SBC), é o principal evento de Engenharia de Software da América Latina, sendo realizado em conjunto com o CBSoft. A programação em conjunto do SBES e do CBSoft inclui trilhas de pesquisa técnica, ideias inovadoras, educação, ferramentas e indústria, além de palestras convidadas, cursos, tutoriais, paineis, Workshop de Teses e Dissertações e vários outros eventos satélites. Tradicionalmente, o evento reúne de 500 a 800 participantes, incluindo acadêmicos, profissionais e estudantes.",
-	"descricao_1a": "O Simpósio Brasileiro de Engenharia de Software (SBES), promovido anualmente pela Sociedade Brasileira de Computação (SBC), é o principal evento de Engenharia de Software da América Latina, sendo realizado em conjunto com o CBSoft. A Trilha de Pesquisa do SBES é a principal trilha do simpósio. A Trilha de Pesquisa publica contribuições sólidas e rigorosamente avaliadas ao estado da arte na área de Engenharia de Software. Artigos nesta trilha são revisados com base na sua originalidade, relevância, solidez técnica e clareza de apresentação. Os anais do simpósio serão publicados na biblioteca digital da ACM.",
-	"descricao_1b": "A Trilha de Educação do Simpósio Brasileiro de Engenharia de Software (SBES), antes conhecida como FEES - Fórum de Educação em Engenharia de Software, foca na discussão de desafios, boas práticas e inovações no ensino de Engenharia de Software. Busca-se submissões de qualidade que tratem de assuntos relacionados ao desenvolvimento de currículo, estudos experimentais, melhores práticas, experiências institucionais ou pessoais, e trabalhos teóricos ou conceituais. Os artigos nesta trilha são revisados com base em sua originalidade, relevância, solidez técnica e clareza na apresentação.",
-	"descricao_1c": "A Trilha de Ferramentas é uma parte importante do Simpósio Brasileiro de Engenharia de Software (SBES). O objetivo desta trilha é fornecer um fórum para apresentação e demonstração de soluções automatizadas que dão suporte ao processo de desenvolvimento e gerenciamento de sistemas de software. A trilha inclui apresentações teóricas e demonstrações de ferramentas, criando uma grande oportunidade para os autores apresentarem e discutirem suas ferramentas com os participantes da academia e da indústria durante o SBES. Acadêmicos podem apresentar resultados de seus projetos de pesquisa, enquanto profissionais do setor podem apresentar ferramentas comerciais ou internas que trouxeram ganhos de produtividade e/ou qualidade aos processos de desenvolvimento de software.",
-	"trilha": "Trilhas",
-	"trilha_pesquisa": "Trilha de Pesquisa",
-	"trilha_pesquisa_short": "Pesquisa",
-	"trilha_ideias": "Trilha de Ideias Inovadoras e Resultados Emergentes",
-	"trilha_ideias_short": "Ideias Inovadoras e Resultados Emergentes",
-	"trilha_educacao": "Trilha de Educação",
-	"trilha_educacao_short": "Educação",
-	"trilha_ferramentas": "Trilha de Ferramentas",
-	"trilha_ferramentas_short": "Ferramentas",
-	"secao_datas": "Datas Importantes",
-	"deadlines_atividades": [
-		"Registro do artigo (submissão do resumo)",
-		"Submissão do artigo",
-		"Período de <i>rebuttal</i>",
-		"Notificação de aceitação",
-		"Envio da versão final",
-		"Submissão de artigo e vídeo"
-	],
-	"deadlines_pesquisa": [
-		"4 de maio de 2020",
-		"11 de maio de 2020",
-		"15 a 20 de junho de 2020",
-		"3 de julho de 2020",
-		"17 de julho de 2020"
-	],
-	"deadlines_ideias": [
-		"1º de junho de 2020",
-		"8 de junho de 2020",
-		"6 a 10 de julho de 2020",
-		"17 de julho de 2020",
-		"7 de agosto de 2020"
-	],
-	"deadlines_educacao": [
-		"1º de junho de 2020",
-		"8 de junho de 2020",
-		"6 a 10 de julho de 2020",
-		"17 de julho de 2020",
-		"7 de agosto de 2020"
-	],
-	"deadlines_ferramentas": [
-		"1º de junho de 2020",
-		"8 de junho de 2020",
-		"6 a 10 de julho de 2020",
-		"17 de julho de 2020",
-		"7 de agosto de 2020"
-	],
-	"secao_trilhas": "Trilhas do SBES",
-	"descricao_2": "O SBES inclui quatro trilhas:",
-    "trilhas": [
-      "A <b>Trilha de Pesquisa</b> publica sólidas contribuições para a comunidade em Engenharia de Software, com artigos revisados com base na sua originalidade, relevância, solidez técnica e clareza de apresentação.",
-      "A <b>Trilha de Ideias Inovadoras e Resultados Emergentes</b> oferece uma oportunidade para que pesquisadores e profissionais submetam e apresentem ideias e abordagens (métodos, técnicas e ferramentas) inovadoras e resultados promissores em estágios iniciais de pesquisa.",
-      "A <b>Trilha de Educação</b> (antes FEES - Fórum de Educação em Engenharia de Software) publica trabalhos que abordam desafios, inovações e melhores práticas para a Educação na área de Engenharia de Software.",
-	  "A <b>Trilha de Ferramentas</b> fornece um fórum para apresentação e demonstração de soluções automatizadas que apoiam o processo de desenvolvimento e gerenciamento de sistemas de software."
-    ],
-	"descricao_3": "Pretende-se publicar os anais do SBES na biblioteca digital da ACM (aprovação pendente). Detalhes adicionais sobre tópicos de interesse e preparação de manuscritos (por exemplo, formato, idioma, política de dupla ocultação) para cada uma das trilhas podem ser encontrados nas suas respectivas páginas:",
-	"secao_journal_first": "Submissões para <i>Journal-First</i>",
-	"descricao_4": "O SBES está fazendo parcerias com periódicos internacionais para incorporar os artigos submetidos como <i>journal-first</i> na Trilha de Pesquisa do SBES 2020. Dois periódicos, <i>IEEE Software</i> e <i>Journal of Software Engineering Research and Development</i> (JSERD), confirmaram sua parceria com o SBES 2020. Os autores dos artigos <i>journal-first</i> aceitos nesses periódicos serão convidados a apresentar seu trabalho de pesquisa no SBES. Isso oferece uma oportunidade para os autores discutirem seu trabalho com a comunidade, bem como enriquece o programa técnico do SBES.",
-	"descricao_5": "Os seguintes critérios de avaliação serão usados para selecionar os artigos <i>journal-first</i> no SBES 2020:",
-	"criterios_journal_first": [
-      "o artigo descreve resultados originais que não são extensões de artigos anteriores publicados em conferências;",
-	  "o artigo foi aceito para publicação no periódico a partir de 1º de janeiro de 2018, e;",
-	  "o artigo não foi apresentado em nenhuma outra conferência como <i>journal-first</i>."
-    ],
-	"descricao_6": "Os trabalhos selecionados serão apresentados no programa técnico da Trilha de Pesquisa do SBES. Pelo menos um autor por <i>journal-first</i> selecionado precisará se registrar e participar do simpósio para apresentá-lo.",
-	"descricao_7": "Em relação aos artigos publicados no JSERD, serão aceitas submissões de artigos das seguintes categorias: artigos de pesquisa, estudos de caso e revisão. Com relação aos artigos publicados no IEEE Software, serão aceitos artigos de pesquisa revisados por pares (não são aceitos artigos revisados editorialmente ou trabalhos convidados).",
-	"descricao_8": "Os autores interessados em apresentar artigos <i>journal-first</i> no SBES 2020 devem enviar um <i>e-mail</i> para <a style='color: #f4b321' href='mailto:sbes.j1@cin.ufpe.br'>sbes.j1@cin.ufpe.br</a> com o assunto &quot;Journal First - SBES 2020&quot; até 29 de junho de 2020. As seguintes informações devem ser fornecidas: (i) título do trabalho; (ii) lista de autores; (iii) <i>link</i> para o periódico, e; (iv) uma breve declaração sobre como o trabalho satisfaz os critérios acima.",
-	"secao_shortpapers": "Artigos Curtos",
-	"descricao_9": "O SBES 2020 apresentará uma trilha de artigos curtos, uma oportunidade adicional para pesquisadores e profissionais para apresentar e discutir os seus avanços, ideias, experiências e desafios mais recentes na área da Engenharia de Software.",
-	"descricao_10": "Não há chamada aberta para submissão de artigos curtos para o SBES 2020. Em vez disso, a trilha de artigos curtos será organizada com base em convite. Algumas submissões para as Trilhas de Pesquisa, Ferramentas e Educação serão convidadas pelos Coordenadores do Comitê de Programa a serem submetidas como artigos curtos, que também serão apresentados nas sessões do SBES. Os autores de um artigo curto convidado também enviarão o artigo seguindo as diretrizes de submissão do SBES, para serem publicados nos anais do evento.",
-	"secao_bestpaper": "Prêmio de Melhor Artigo",
-	"descricao_11": "Todos os anos, o Comitê Diretivo do SBES nomeia um comitê para premiar os melhores trabalhos do simpósio. Os trabalhos premiados da Trilha de Pesquisa são anunciados durante o evento. Os cinco melhores trabalhos da Trilha de Pesquisa serão convidados a submeter uma versão estendida em inglês à categoria de pesquisa do JSERD.",
-	"secao_besttool": "Prêmio de Melhor Ferramenta",
-	"descricao_11c": "Os trabalhos premiados da Trilha de Ferramentas serão anunciados durante o evento. As três ferramentas com as melhores pontuações do Comitê do Programa serão premiadas.",
-	"secao_bestreviewer": "Prêmio de Melhor Revisor",
-	"descricao_12": "O SBES 2020 reconhece a generosidade dos revisores que dedicam seu tempo e melhor esforço para revisar os trabalhos submetidos. O progresso do crescimento científico depende de colegas dedicados, que visam promover o desenvolvimento da tecnologia, oferecendo sua atenção e paixão ao revisar os artigos. Um certificado de Melhor Revisor será concedido aos revisores que enviarem revisões de qualidade excelentes ao SBES. A avaliação será baseada na qualidade e utilidade das revisões, assim como participação durante a discussão do Comitê de Programa.",
-	"secao_topicos": "Tópicos de Interesse",
-	"descricao_13": "Serão aceitas submissões relacionadas (mas não limitadas) aos seguintes temas:",
-	"topicos_sbes": [
-		"Desenvolvimento ágil",
-		"Valor de negócio e validação de software",
-		"Gerenciamento de configuração e implantação de software",
-		"Engenharia de Software Experimental",
-		"Aspectos humanos e sociais da Engenharia de Software",
-		"Aplicações industriais de Engenharia de Software",
-		"Mineração de repositórios de software e análise de software",
-		"Desenvolvimento de aplicativos móveis",
-		"Desenvolvimento de software orientado por modelos",
-		"Desenvolvimento de software livre",
-		"Engenharia de requisitos",
-		"Otimização em Engenharia de Software",
-		"Serviços e microsserviços",
-		"Arquitetura de software",
-		"Ecossistemas de software e sistemas de sistemas",
-		"Engenharia de software para Computação em Nuvem e Web",
-		"Manutenção e evolução de software",
-		"Métricas e mensuração de software",
-		"Modularidade de software",
-		"Processos de software",
-		"Linhas de produtos de software",
-		"Qualidade de software e modelos de qualidade",
-		"Reengenharia de software",
-		"Reutilização de software",
-		"<i>Startups</i> de software",
-		"Teste e verificação de software",
-		"Gestão de dívida técnica",
-		"Fundamentos teóricos e métodos formais"
-	],
-	"topicos_sbes_educacao": [
-		"Boas práticas e práticas inovadoras para o ensino de Engenharia de Software",
-		"Currículo ou projetos de curso inovadores",
-		"Ensino de Engenharia de Software no contexto dos diferentes cursos de Graduação e de Pós-graduação",
-		"Ensino de métodos, técnicas e ferramentas para o desenvolvimento de software",
-		"Ensino de Engenharia de Software em ambientes informais, tais como <i>hackathons</i> e <i>Stack Overflow</i>",
-		"Ambientes educacionais emergentes para Engenharia de Software, tais como aprendizado <i>on-line</i>",
-		"Experiências de ensino/aprendizado utilizando abordagens em novos cenários práticos da Engenharia de Software, tais como métodos ágeis, código aberto, desenvolvimento distribuído de software, Computação em Nuvem, <i>Big Data</i>, dispositivos móveis, sistemas embarcados, robótica e outros",
-		"Ferramentas e métodos para avaliação do aprendizado de Engenharia de Software",
-		"Ensino/aprendizado de aspectos humanos, políticos, éticos, legais, profissionais e sociais na Engenharia de Software",
-		"Integração de experiências práticas no ensino da Engenharia de Software",
-		"Integração entre pesquisa e ensino de Engenharia de Software",
-		"Interdisciplinaridade em Engenharia de Software",
-		"Métodos inovadores que promovem o estudo e estimulam o aprendizado de professores, mantendo-os atualizados para o ensino de Engenharia de Software",
-		"Ensino em Engenharia de Software que estimula o empreendedorismo, especialmente a criação de <i>start-ups</i>", 
-		"Pesquisas sobre igualdade, diversidade e inclusão em Engenharia de Software",
-		"Código aberto no ensino de Engenharia de Software",
-		"Ensino/aprendizagem de tópicos emergentes em Engenharia de Software"
-	],
-	"secao_categorias": "Categorias de Artigos",
-	"descricao_14": "Os autores dos artigos da Trilha de Pesquisa, após o resumo no formulário de submissão, devem indicar em qual das categorias a seguir seu artigo melhor se classifica. Isso pretende estabelecer um conjunto consistente de expectativas no processo de revisão.",
-	"categorias": [
-      "<b>Analítico:</b> Um artigo no qual a principal contribuição se baseia em novos algoritmos ou teoria matemática. Os exemplos incluem novas técnicas de previsão de <i>bugs</i>, transformações de modelo, algoritmos para análise dinâmica e estática e análise de confiabilidade. Tal contribuição deve ser avaliada com uma análise convincente dos detalhes algorítmicos, seja através de uma prova, análise de complexidade, ou análise de tempo de execução, entre outros.",
-	  "<b>Experimental (estudo primário):</b> Um artigo no qual a principal contribuição é o estudo experimental de uma tecnologia ou fenômeno de Engenharia de Software. Isso inclui experimentos controlados, <i>quasi</i>-experimentos, estudos de caso e <i>surveys</i> com profissionais que relatam dados qualitativos ou quantitativos e resultados de análises. Tal contribuição será avaliação com base no design experimental do estudo, adequação e correção de sua análise, além do tratamento às ameaças à validade. Replicações de estudos são bem-vindas.",
-	  "<b>Revisão de literatura (estudo secundário):</b> Um artigo em que a principal contribuição é a síntese de estudos primários. Exemplos incluem revisões sistemáticas e mapeamentos sistemáticos. Essa contribuição deve seguir uma metodologia sólida e fornecer uma cobertura abrangente da literatura relevante. Além disso, deve responder a questões de pesquisa relevantes com uma síntese profunda dos resultados. Contribuições que fornecem apenas análise de metadados (por exemplo, autores relevantes, publicações de densidade por ano, artigos mais influentes, etc.) são desencorajadas.",
-	  "<b>Tecnológico:</b> Um artigo em que a principal contribuição é de natureza técnica. Isso inclui novas ferramentas, linguagens de modelagem, infraestruturas e outras tecnologias. Tal contribuição não precisa necessariamente ser avaliada com seres humanos. No entanto, argumentos claros, apoiados por evidências, conforme apropriado, devem mostrar como e por que a tecnologia é benéfica, seja na automação ou suporte a alguma tarefa do usuário, refinando recursos de modelagem, melhorando algumas propriedades importantes do sistema, entre outros.",
-	  "<b>Metodológico:</b> Um artigo no qual a principal contribuição é um sistema coerente de princípios e práticas abrangentes para interpretar ou resolver um problema. Isso inclui novos métodos de elicitação de requisitos, modelos de processos, métodos de <i>design</i>, abordagens de desenvolvimento, paradigmas de programação e outras metodologias. Os autores devem fornecer argumentos convincentes com experiências proporcionais, bem como explicar porque um novo método é necessário e quais são os benefícios do método proposto."
-    ],
-	"secao_guidelines": "Preparação, Submissão e Revisão de Artigos",
-	"secao_guidelines_1c": "Preparação e Submissão de Artigos e Vídeos",
-	"descricao_15": "Os trabalhos podem ser submetidos em Português ou Inglês. A submissão em Inglês é fortemente encorajada. A aceitação de um artigo implica que pelo menos um de seus autores fará inscrição para participar do simpósio para apresentá-lo. Todas as submissões devem estar no formato <i>Adobe Portable Document Format</i> (PDF) e devem estar de acordo com o formato ACM de 2 colunas (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) disponível neste <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>. As submissões não devem ter mais de 10 páginas, incluindo todas as figuras e referências.",
-	"descricao_15b": "Os trabalhos podem ser escritos em Português ou Inglês. A submissão em inglês é fortemente encorajada, uma vez que os anais do simpósio serão indexados pela biblioteca digital da ACM. Título e resumo de todos os artigos devem estar em Inglês, mesmo se escritos em Português. Os artigos submetidos não devem ter sido submetidos simultaneamente a nenhum outro fórum (conferência ou revista), nem devem ter sido publicados em outro lugar. Pelo menos um autor de cada trabalho aceito deve se inscrever para a conferência e apresentar o trabalho pessoalmente durante o evento. Caso contrário, o trabalho não será incluído nos anais.",
-	"descricao_15c": "Autores são convidados a enviarem trabalhos descrevendo soluções automatizadas para diversos aspectos e necessidades relacionados aos tópicos de interesse e temas listados na <a style='color: #f4b321' href='sbes-pesquisa.php'>Chamada de Trabalhos do SBES</a>. Cada submissão consiste em um artigo acompanhado por um vídeo de demonstração da ferramenta. A submissão de trabalhos deve estar em conformidade com as seguintes instruções de envio e formatação:",
-	"instrucoes_submissao_ferramentas": [
-		"O artigo deve ser original e não estar submetido ou publicado em outros veículos acadêmicos.",
-		"O artigo deve incluir claramente:",
-		"Descrição da motivação/problema abordado pela ferramenta",
-		"Descrição das principais funcionalidades e usuários potenciais da ferramenta",
-		"Exemplo de uso e capturas de tela ilustrando a interface da ferramenta (quando aplicável)",
-		"Descrição da arquitetura da ferramenta, seus principais componentes e suas interfaces",
-		"Uma breve comparação com ferramentas relacionadas existentes",
-		"Tipo de licença de software",
-		"Os artigos devem ter no máximo 6 páginas, incluindo figuras (em boa qualidade), referências e apêndices e formatados de acordo com o modelo ACM de 2 colunas (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) disponível neste <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>. Os artigos podem ser escritos em Português ou Inglês, mas os trabalhos em Português também devem incluir um resumo em inglês. Os artigos devem ser enviados no formato <i>Adobe Portable Document Format</i> (PDF).",
-		"Um vídeo de demonstração com comentários em áudio e com alta resolução (os detalhes da funcionalidade da ferramenta devem estar claramente visíveis) <b>deve</b> acompanhar o envio do artigo. O vídeo de demonstração (com duração de 3 a 5 minutos) deve mostrar o uso da ferramenta e destacar suas principais contribuições, além de fornecer uma visão geral da ferramenta, seus objetivos e usuários em potencial, além das principais características e resultados. Deve ainda haver um locutor apresentando a ferramenta no mesmo idioma em que o artigo está escrito.",
-		"Os autores são incentivados a disponibilizar o código como código aberto (<i>open-source</i>), bem como o conjunto de dados para a sua execução, além de informar a URL durante a submissão.",
-		"A Trilha de Ferramentas do SBES 2020 usará o modelo de revisão cega (<i>single-blind</i>) e, portanto, as identidades dos autores devem aparecer nos materiais de envio."
-	],
-	"descricao_16": "Os trabalhos devem ser submetidos eletronicamente através do sistema <a style='color: #f4b321' href='http://submissoes.sbc.org.br'>JEMS</a>. Todos os trabalhos de pesquisa técnica devem indicar, após o resumo, o idioma e uma ou mais das categorias acima mencionadas. Submissões que não estiverem em conformidade com o formato de submissão exigido,  estiverem fora do escopo do simpósio ou que foram enviadas ou publicadas em qualquer outro fórum (conferência ou revista) serão rejeitadas sem revisão. Todos os outros trabalhos serão revisados por pelo menos três membros do Comitê de Programa. Durante o processo de revisão, pode-se solicitar um <i>rebuttal</i>. Neste caso, os autores terão acesso às revisões e poderão argumentar e responder às perguntas dos revisores antes da decisão final de aceitação/rejeição. A réplica é limitada a um texto simples de até 4.000 caracteres.",
-	"descricao_16b": "Os artigos devem ter no máximo 10 páginas, incluindo todas as figuras e referências. Todas as submissões devem estar no formato <i>Adobe Portable Document Format</i> (PDF) e devem estar de acordo com o modelo ACM de 2 colunas (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) disponível neste <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>. Os trabalhos devem ser submetidos eletronicamente através do sistema <a style='color: #f4b321' href='http://submissoes.sbc.org.br'>JEMS</a>. Todos os trabalhos submetidos devem informar após o título o idioma em que estão escritos. As submissões que não estiverem em conformidade com o formato de envio exigido ou que estejam fora do escopo da Trilha de Educação serão rejeitadas sem revisão. Todos os outros artigos serão revisados por pelo menos três membros do Comitê do Programa.",
-	"descricao_16b1": "O processo de revisão inclui um período de <i>rebuttal</i> em que os autores terão acesso aos comentários dos revisores e poderão argumentar e responder a perguntas dos revisores antes da decisão final de aceitação/rejeição. O rebuttal é limitado a um texto simples de até 4.000 caracteres (incluindo espaços).",
-	"descricao_16c": "Os artigos devem ser submetidos eletronicamente por meio do sistema <a style='color: #f4b321' href='http://submissoes.sbc.org.br'>JEMS</a>. Os vídeos devem ser enviados ao YouTube e estar disponíveis durante o período da revisão. A URL onde o vídeo de demonstração está disponível deve aparecer ao final do resumo, no texto do artigo.",
-	"descricao_16c1": "Submissões que não incluírem o artigo <b>e</b> o vídeo, que não estejam em conformidade com o formato de submissão exigido, que estejam fora do escopo da trilha ou que tenham sido submetidas ou publicadas em qualquer outro fórum (conferência ou periódico) serão rejeitadas sem revisão. Todos os outros artigos serão revisados por pelo menos três membros do Comitê de Programa.",
-	"descricao_16c2": "Durante o processo de revisão, pode-se solicitar um <i>rebuttal</i>. Nesse caso, os autores terão acesso às revisões e poderão argumentar e responder a perguntas dos revisores antes da decisão final de aceitação/rejeição. O texto de refutação, sem formatação, deve conter até 4.000 caracteres.",
-	"descricao_16c3": "A aceitação da submissão implica em pelo menos um autor se inscrever e participar do SBES 2020 para apresentar o artigo e a ferramenta pessoalmente. A apresentação do artigo e a demonstração da ferramenta são obrigatórias para todas as ferramentas aceitas. Apresentações de artigos e demonstrações de ferramentas são tradicionalmente realizadas em dois dias diferentes durante o SBES. Demonstrações de ferramentas devem ser ao vivo e os vídeos de demonstração enviados <b>não</b> devem ser usados. O formato e o horário das apresentações serão anunciados posteriormente.",
-	"secao_doubleblind": "Submissão <i>Double-Blind</i>",
-	"descricao_17": "A Trilha de Pesquisa do SBES 2020 um processo de revisão <i>double-blind</i>. Todos os trabalhos submetidos devem ocultar a identidade dos autores. Tanto os nomes de autores quanto afiliações devem ser omitidos. Além disso, as seguintes regras devem ser abordadas:",
-	"descricao_17b": "A Trilha de Educação do SBES 2020 um processo de revisão <i>double-blind</i>. Todos os trabalhos submetidos devem ocultar a identidade dos autores. Tanto os nomes de autores quanto afiliações devem ser omitidos. Além disso, as seguintes regras devem ser abordadas:",
-	"guidelines_doubleblind": [
-      "As citações a trabalho relacionado dos próprios autores devem ser escritas na terceira pessoa. Por exemplo, deve-se escrever &quot;o trabalho anterior de Silva et al.&quot; em oposição ao &quot;nosso trabalho anterior&quot;. Como uma heurística, deve-se procurar por ocorrências de identificadores tais como: &quot;nós&quot;, &quot;nosso&quot;, &quot;github&quot;, &quot;financiamento&quot;, &quot;Universidade&quot;, etc., no artigo e modificar essas palavras antes de submetê-lo.",
-	  "No artigo submetido, não se deve mencionar nenhum artefato em um repositório ou site que permita identificar a autoria. Se for necessário disponibilizar qualquer artefato, isso deve ser feito de forma anônima em um repositório/website.",
-	  "Os revisores não serão encorajados a procurar referências que identifiquem os autores em outras fontes na Internet. Buscas em bibliotecas digitais ou artefatos existentes não invalidam a regra de <i>double-blind</i>.",
-	  "Se o trabalho submetido for uma evolução de trabalho anterior, é possível anonimizar a referência no artigo submetido. Por exemplo, &quot;o trabalho anterior de Silva et al.&quot; pode ser adaptado para &quot;baseado no trabalho anterior [X]&quot; e a referência no final do artigo pode ser apresentada como &quot;[X] autores anônimos devido a revisão <i>double-blind</i>&quot;."
-    ],
-	"descricao_18": "Após a aceitação do artigo, todas as informações (sem anonimização) poderão ser incluídas na versão final.",
-	"descricao_19": "Em caso de dúvida sobre a preparação do trabalho seguindo as regras de submissão <i>double-blind</i>, pode-se enviar um <i>e-mail</i> para os Coordenadores do Comitê de Programa com o assunto &quot;SBES Trilha de Educação: Pergunta sobre as regras de double-blind&quot;.",
-	"secao_comite": "Organização",
-	"comite": [
-      "Coordenadores Gerais do CBSoft 2020",
-	  "Everton Cavalcante (UFRN, Brasil)",
-	  "Francisco Dantas (UERN, Brasil)",
-	  "Thais Batista (UFRN, Brasil)",
-	  "Coordenadores de Comitê de Programa - Trilha de Pesquisa",
-	  "Tayana Conte (UFAM, Brasil)",
-	  "Fernando Castor (UFPE, Brasil)",
-      "Coordenadores de Comitê de Programa - Trilha de Ideias Inovadoras e Resultados Emergentes",
-	  "Marco Túlio Valente (UFMG, Brasil)",
-	  "Márcio Ribeiro (UFAL, Brasil)",
-	  "Coordenadores de Comitê de Programa - Trilha de Educação",
-	  "Igor Steinmacher (Northern Arizona University, EUA)",
-	  "Rodrigo Pereira dos Santos (UNIRIO, Brasil)",
-	  "Coordenadores de Comitê de Programa - Trilha de Ferramentas",
-	  "Christina von Flach G. Chavez (UFBA, Brasil)",
-	  "Elisa Yumi Nakagawa (ICMC/USP, Brasil)",
-	  "Comitê Diretivo do SBES",
-	  "Fabiano Cutigi Ferrari (UFSCar, Brasil)",
-	  "Fernando Castor (UFPE, Brasil)", 
-	  "Jose Carlos Maldonado (ICMC/USP, Brasil)",
-	  "Márcio Ribeiro (UFAL, Brasil)",
-	  "Marco Aurélio Gerosa (Northern Arizona University, EUA)",
-	  "Marco Túlio Valente (UFMG, Brasil)",
-	  "Rafael Prikladnicki (PUCRS, Brasil)",
-	  "Tayana Conte (UFAM, Brasil)",
-	  "Uirá Kulesza (UFRN, Brasil)"
-    ],
-	"secao_contato": "Contato",
-	"descricao_21b": "Para mais informações, pode-se consultar a página Web do CBSoft 2020 ou entrar em contato com os Coordenadores do Comitê de Programa (<a style='color: #f4b321' href='rps@uniriotec.br'>rps@uniriotec.br</a> e <a style='color: #f4b321' href='igor.steinmacher@nau.edu'>igor.steinmacher@nau.edu</a>). Deve-se utilizar o título &quot;SBES Trilha de Educação: Dúvidas sobre o processo de submissão&quot;."
-  },
-	
-  "sbcars": {
-    "titulo": "SBCARS 2020<br/>XIV Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software",
-    "subtitulo": "Página principal",
-    "descricao_1": "O <b>Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS)</b> é um simpósio promovido pela Sociedade Brasileira de Computação (SBC) que reúne pesquisadores, estudantes e profissionais com uma ampla gama de interesses em tópicos relacionados à Engenharia de Software, incluindo linhas de produto de software, desenvolvimento de software baseado em componentes, arquiteturas de software e reuso de software. O SBCARS, iniciado em 2007, é o sucessor da série de seis Workshops Brasileiros de Desenvolvimento Baseado em Componentes (WDBC), iniciados em 2001, de modo que suas 13 edições já realizadas têm contribuído para sua consolidação no calendário científico nacional como um importante evento técnico-científico na área de software."
-  },
-	
-  "sblp": {
-    "titulo": "SBLP 2020<br/>XXIV Simpósio Brasileiro de Linguagens de Programação",
-    "subtitulo": "Página principal",
-    "descricao_1": "O <b>Simpósio Brasileiro de Linguagens de Programação (SBLP)</b> é um simpósio promovido pela Sociedade Brasileira de Computação (SBC) que se constitui como um fórum para que estudantes, pesquisadores e profissionais apresentem e discutam ideias e inovações no projeto, definição, análise, implementação e uso prático de linguagens de programação."
-  },
-	
-  "sast": {
-    "titulo": "SAST 2020<br/>V Simpósio Brasileiro de Teste de Software Sistemático e Automatizado",
-    "subtitulo": "Página principal",
-    "descricao_1": "O <b>Simpósio Brasileiro de Teste de Software Sistemático e Automatizado (SAST)</b>, o qual desde 2007 existia com o nome de Brazilian Workshop on Systematic and Automated Software Testing em nove edições, é o principal evento científico sobre teste de software no Brasil. Seu objetivo é promover um fórum anual para discutir questões sobre a sistematização e automação da atividade de teste de software, promovendo a interação entre pesquisadores e indústria de modo a fortalecer cooperações e inovação nessa importante área do desenvolvimento de software."
-  },
-	
-  "workshops": {
-    "titulo": "Workshops",
-    "descricao_1": "O CBSoft inclui <i>workshops</i> relacionados às temáticas dos quatro simpósios que tradicionalmente integram o evento, SBES, SBCARS, SBLP e SAST. O objetivo é criar um espaço para que membros da academia e da indústria possam trocar e discutir suas experiências e ideias. <i>Workshops</i> tradicionalmente realizados no CBSoft poderão ser promovidos a <i>workshops</i> pré-aprovados.",
-	"secao_informacoes": "Informações gerais",
-	"descricao_2": "A definição dos <i>workshops</i> que farão parte do CBSoft 2020 será realizada pela análise das propostas submetidas em resposta a esta Chamada. As propostas de <i>workshops</i> submetidas à organização do CBSoft serão avaliadas considerando:",
-	"criterios": [
-		"a relevância e interesse do tema do <i>workshop</i>",
-		"a experiência do coordenador do <i>workshop</i>",
-		"o Comitê de Programa",
-		"uma análise das edições anteriores, se for o caso"
-	],
-	"descricao_3": "Cada <i>workshop</i> pode ocupar meio dia (três horas) ou um dia (seis horas). As datas de realização dos <i>workshops</i> serão comunicadas em breve pela Coordenação Geral do CBSoft 2020.",
-	"descricao_4": "Os anais dos <i>workshops</i> farão parte dos anais do CBSoft 2020 e deverão ser preparados conjuntamente pela Coordenação dos <i>workshops</i> e pela Coordenação Geral do CBSoft. É importante observar a data limite para envio dos artigos aceitos para à Comissão Organizadora do CBSoft.",
-	"secao_submissao": "Instruções de submissão (vide instruções específicas para <i>workshops</i> pré-aprovados)",
-	"descricao_5": "As propostas de workshop devem ser preenchidas por meio deste <a target= '_blank'  href='https://forms.gle/Fd5E6gM4qUpe3YQMA' style='color: #f4b321'>link</a>.",
-	"descricao_6": "As propostas devem conter exatamente as seguintes informações (em Português ou Inglês):",
-	"informacoes_workshop": [
-		"Nome do <i>workshop</i>",
-		"Duração (três ou seis horas)",
-		"Descrição do tema principal do <i>workshop</i>, justificando sua relevância",
-		"Histórico do <i>workshop</i> (se já houve edição anterior), incluindo número de participantes, número de submissões e taxa de aceitação",
-		"Formato do <i>workshop</i>, tópicos de interesse, critérios de aceitação de trabalhos e forma de apresentação",
-		"Palestrantes convidados",
-		"Público esperado, incluindo número máximo de participantes",
-		"Comitê de Programa",
-		"Apoio e material requisitado à Comissão Organizadora do CBSoft",
-		"Nome, informação de contato e currículo do coordenador do <i>workshop</i>. Caso o coordenador seja brasileiro, apenas o link para o Curriculum Lattes deve ser incluído. No caso de coordenadores estrangeiros, um currículo resumido deve ser submetido."
-	],
-	"secao_workshop_pre": "Instruções de submissão para <i>workshops</i> pré-aprovados",
-	"descricao_7": "<i>Workshops</i> anuais ou bianuais que já tiveram três ou mais edições (sendo a última realizada em 2018 ou 2017) são considerados <i>workshops</i> pré-aprovados. Para um <i>workshop</i> que se enquadra nessa categoria, solicita-se a submissão de proposta simplificada por meio deste <a target= '_blank'  href='https://forms.gle/wDLTrY7JpVxGQeNeA' style='color: #f4b321'>link</a>, nela constando:",
-	"informacoes_workshop_pre": [
-		"Comitê Organizador",
-		"Comitê Gestor (se existir)",
-		"Nome, informação de contato e currículo do(s) coordenador(es) (Curriculum Lattes para brasileiros, currículo resumido para estrangeiros)",
-		"Estatísticas das últimas três edições (número de participantes, número de submissões e taxa de aceitação)"
-	],
-	"descricao_8": "Por se tratar de <i>workshop</i> pré-aprovado, o <i>workshop</i> é automaticamente aceito desde que sejam submetidas as informações solicitadas. As informações enviadas na proposta serão analisadas pelo Comitê de Avaliação de <i>Workshops</i> do CBSoft com o objetivo de prover <i>feedback</i> para futuras edições do <i>workshop</i>. Em caso de quedas no número de submissões em anos consecutivos, ou a critério da comissão julgadora, um <i>workshop</i> poderá perder o <i>status</i> de <i>workshop</i> pré-aprovado.",
-	"secao_deadlines": "Datas importantes",
-	"deadlines": [
-		"Prazo de submissão: 13 de abril de 2020",
-		"Notificação aos proponentes: 20 de abril de 2020",
-		"Envio dos artigos à Coordenação Geral do CBSoft 2020: 3 de agosto de 2020"
-	],
-	"secao_comite": "Comitê de Avaliação",
-	"comite": [
-      "Everton Alves (UFCG, Brasil)",
-	  "Fabiano Ferrari (UFSCar, Brasil)",
-	  "Márcio Barros (UNIRIO, Brasil)",
-	  "Thelma Elita Colanzi (UEM, Brasil)"
-    ],
-	"secao_contato": "Contato",
-	"descricao_9": [
-      "Dúvidas e pedidos de informação devem ser encaminhados para a Coordenação de <i>Workshops</i> do CBSoft 2020, Thelma Elita Colanzi (<a href='mailto:thelma@din.uem.br' style='color: #f4b321'>thelma@din.uem.br</a>)."
-    ]
-  },
-	
-  "local": {
-    "titulo": "Local do Evento",
-    "descricao_1": "O CBSoft 2020 será realizado no <a target= '_blank' href='https://www.wishhotels.co/resort-em-natal/wish-natal-by-gjp/' style='color: #f4b321'>Wish Natal Exclusive Resort</a>, resort com acesso direto à praia e vista para o mar, localizado na Via Costeira Senador Dinarte Mariz. É nessa região onde se situam as acomodações de melhor padrão na região turística de Natal, ladeado pelo segundo maior parque urbano do Brasil, o Parque das Dunas, além de se ter fácil acesso a restaurantes, shoppings e centros comerciais e demais praias da cidade."
-  },
-	
-  "sobre-natal": {
-    "titulo": "Sobre Natal",
-    "descricao_1": "Natal, capital e maior cidade do Estado do Rio Grande do Norte, localizado no Nordeste do Brasil, tornou-se um destino brasileiro conhecido pelo mundo, sendo a cidade brasileira mais próxima da Europa e da África por estar localizada na esquina do continente sul-americano. A \"Cidade do Sol\", como é conhecida tanto nacional quanto internacionalmente, possui um clima agradável com temperaturas médias por volta dos 28ºC e um sol brilhante durante todo o ano. Natal está a cerca de seis graus ao sul do Equador, fazendo com que o sol brilhe por cerca de 300 dias por ano, mais do que em qualquer capital brasileira.",
-    "descricao_2": "Fundada em um dia de Natal, aos 25 de dezembro de 1599 (daí o nome, segundo diversos escritores), a cidade do Natal é banhada pelo Oceano Atlântico, combinando clima tropical, belas praias de águas normas, natureza exuberante e quase 900 mil habitantes acolhedores - pouco mais de 1,5 milhão na Região Metropolitana, a quinta maior aglomeração urbana da Região Nordeste. Historicamente, a cidade teve grande importância durante a Segunda Guerra Mundial, servindo de ponto estratégico para as operações dos Aliados (particularmente dos Estados Unidos da América) no conflito, e abrigou a primeira base de foguetes da América do Sul, no Centro de Lançamento da Barreira do Inferno, hoje localizado no município limítrofe de Parnamirim.",
-    "descricao_3": "A cidade recebe milhões de visitantes brasileiros e estrangeiros a cada ano, atraídos pelas belezas naturais da costa, a hospitalidade local e o maior Carnaval fora de época do Brasil, o <i>Carnatal</i>. Natal possui ainda uma das mais modernas e bem localizadas redes hoteleiras do Brasil, além de excelentes restaurantes, <i>pubs</i>, bares, <i>shoppings</i> e diversos outros locais para entretenimento. Isso é justamente reflexo de a economia local ser majoritariamente baseada no setor de serviços, dentre as quais destaca-se o turismo de lazer, tanto nacional quanto internacional, e, mais recentemente, o turismo de negócios, visto que a cidade tem atraído um número cada vez mais significativo de eventos profissionais. Além disso, em 2014, Natal foi uma das doze cidades que sediaram a Copa do Mundo FIFA, cujo projeto do estádio Arena das Dunas destacou-se dentre as cidades-sede.",
-    "descricao_4": "Natal não se resume apenas a praias, natureza exuberante e boa gastronomia. A cidade foi recentemente afiliada à <i>IEEE Smart Cities Initiative</i> como resultado dos avanços expressivos e forte engajamento entre academia e governo local. Isso deu força ao <i>Programa Natal Cidade Inteligente e Humana</i>, formalizado através de um Acordo de Cooperação Técnica entre a Prefeitura Municipal do Natal e a Universidade Federal do Rio Grande do Norte (UFRN). Esse Programa representa um grande projeto político e social em cooperação direta entre academia e população, no intuito de buscar soluções para os problemas enfrentados pela cidade em seu crescimento diário, bem como melhorar a qualidade de vida e bem-estar da população através de paradigmas de Tecnologia da Informação e Comunicação inovadores. Mais ainda, em 2017 foi instituído o <i>Parque Tecnológico Metrópole Digital</i>, um parque tecnológico localizado geograficamente no entorno do Campus Central da UFRN voltado para a Tecnologia da Informação, um projeto que envolve a academia e os setores público e privados como um ambiente propício para a difusão da ciência, tecnologia e inovação, além de contribuir para o desenvolvimento econômico e social da cidade.",
-    "quick-facts": "Alguns rápidos fatos:"
-  },
-	
-  "info-viagem": {
-    "titulo": "Informações de Viagem",
-    "descricao_1": "<b>Chegando a Natal de avião.</b> O maior aeroporto no Estado do Rio Grande do Norte é o <a target='_blank' href= 'http://www.natal.aero/' style='color: #f4b321'> Aeroporto Internacional de Natal -- São Gonçalo do Amarante/Governador Aluízio Alves (NAT)</a>. Servindo Natal e sua Região Metropolitana, o aeroporto foi aberto em maio de 2014 e é considerado um dos melhores aeroportos do Brasil de acordo com enquetes recentes. Apesar de Natal não ser um grande hub no Brasil, há voos diretos conectando a cidade a outras cidades brasileiras maiores, como Fortaleza (1h), Recife (50 min), Salvador (1h25), Brasília (2h45), Rio de Janeiro (3h) e São Paulo (3h20). Há também alguns voos internacionais diretos ligando Natal a Lisboa, Portugal, e a Buenos Aires, Argentina, mas devido às conexões nacionais a outras cidades do País, não é difícil chegar a Natal vindo da América do Norte ou da Europa. Todas as maiores companhias aéreas nacionais (Azul, Gol, LATAM) operam atualmente no aeroporto, além da TAP Portugal, companhia aérea portuguesa cujos voos diretos ligam Natal à Europa em um tempo médio de 6h40.",
-    "descricao_2": "<b>Chegando a Natal de carro.</b> A rodovia federal BR-101 é o acesso mais importante ligando Natal a outras cidades do Nordeste (João Pessoa, Recife e Salvador) e ao Sudeste/Sul do Brasil pela costa norte-sul. Para quem vem de cidades como Fortaleza e Teresina, outro acesso comum é a rodovia federal BR-304, que vem do oeste do Rio Grande do Norte. Com relação às capitais dos estados mais próximos, o tempo médio de deslocamento de carro entre Natal e João Pessoa (distante 193 km) é de 2h30, entre Natal e Recife (distante 291 km) é de 4h, e entre Natal e Fortaleza (distante 524 km) é de 7h.",
-    "descricao_3": "<b>Chegando a Natal de ônibus.</b> A principal estação de ônibus do Rio Grande do Norte é a Rodoviária de Natal/Terminal Rodoviário Severino Tomaz da Silveira, no bairro Cidade da Esperança. Existem várias empresas de ônibus realizando rotas dentro do Rio Grande do Norte e de/para todas as maiores cidades do Nordeste, além de outras diversas cidades do País. Com relação às capitais dos estados mais próximos, o tempo médio de deslocamento de ônibus entre Natal e João Pessoa (distante 193 km) é de 3h, entre Natal e Recife (distante 291 km) é de 4h40, e entre Natal e Fortaleza (distante 524 km) é de 8h30."
-  },
-	
-  "hospedagem": {
-    "titulo": "Hospedagem",
-    "descricao_1": "De acordo com estudos recentes do Instituto Brasileiro de Geografia e Estatística (IBGE), Natal é a segunda capital brasileira no número de leitos por 100 mil habitantes. A rede hoteleira da cidade é bastante diversificada e é capaz de atender às necessidades de públicos com diferentes requisitos de acomodação, variando desde níveis mais modestos, como albergues e pousadas, a níveis luxuosos, como hoteis e resorts na categoria cinco estrelas. Independentemente do tipo de acomodação, a maior parte dos estabelecimentos concentra-se nas proximidades da Via Costeira e da Praia de Ponta Negra, a principal região turística de Natal e distando não mais que seis quilômetros (aproximadamente dez minutos de carro, no máximo) do Wish Natal. Além dos hoteis, pousadas e albergues, há também opções de flats equipados ou mesmo oferecidas através de plataformas digitais, tais como o Airbnb.",
-    "descricao_2": "O período de realização do CBSoft 2020, no final do mês de setembro, está inserido em uma época considerada de baixa estação em Natal, fazendo com que geralmente haja maior disponibilidade de acomodação e valores de diária mais baixos em comparação a outros meses do ano. A Comissão Organizadora do CBSoft 2020 também envidará esforços para estabelecer negociações com alguns estabelecimentos a fim de obter valores diferenciados com desconto para hóspedes que virão a Natal para participar do evento."
-  },
-	
-  "org": {
-    "organizacao": "Organização",
-    "org_local": "Coordenação Geral"
-  }
+	"menu": {
+		"organizacao": "Organização",
+		"patrocinio": "Patrocínio",
+		"inscricoes": "Inscreva-se",
+		"programacao": "Programação",
+		"anais": "Anais",
+		"trilha_industria": "Trilha da Indústria",
+		"tutoriais": "Tutoriais",
+		"minicursos": "Minicursos",
+		"wtdsoft": "Workshop de Teses e Dissertações",
+		"codigo_conduta": "Código de Conduta",
+		"edicoes_anteriores": "Edições Anteriores",
+		"home_SBES": "Página Principal",
+		"home_SBCARS": "Página Principal",
+		"home_SBLP": "Página Principal",
+		"home_SAST": "Página Principal",
+		"trilha_pesquisa": "Trilha de Pesquisa",
+		"trilha_educacao": "Trilha de Educação",
+		"trilha_ideias_inovadoras": "Trilha de Ideias Inovadoras e Resultados Emergentes",
+		"trilha_ferramentas": "Trilha de Ferramentas",
+		"palestras": "Palestras",
+		"chamada_trabalhos": "Chamada de Trabalhos",
+		"chamada_workshops": "Chamada de Workshops",
+		"artigos_aceitos": "Artigos Aceitos",
+		"informacoes": "Informações",
+		"local": "Local do Evento",
+		"natal": "Sobre Natal",
+		"infoViagem": "Informações de Viagem",
+		"hospedagem": "Hospedagem",
+		"contato": "Contato"
+	},
+
+	"about": {
+		"sobre": "Sobre o CBSoft",
+		"realizacao": "Realizado por",
+		"copyright": "Todos os direitos reservados",
+		"descricao_1": "O Congresso Brasileiro de Software: Teoria e Prática (CBSoft) é um evento realizado anualmente pela Sociedade Brasileira de Computação (SBC) com o objetivo de promover e incentivar a troca de experiências entre pesquisadores e profissionais da indústria e academia sobre as mais recentes pesquisas, tendências e inovações práticas e teóricas sobre software. Realizado desde 2010 como evento agregador de simpósios brasileiros promovidos pela SBC na área de software, o CBSoft tornou-se um dos principais eventos da comunidade científica brasileira na área de Computação.",
+		"descricao_2": "Em 2020, a 11ª edição do CBSoft será realizada em Natal, Rio Grande do Norte, e integrará quatro eventos tradicionais realizados anualmente pela comunidade brasileira em Engenharia de Software:",
+		"desc_eventos": [
+			"o <a href='sbes.php' style='color: #f4b321'>XXXIV Simpósio Brasileiro de Engenharia de Software (SBES)</a>, o principal evento de Engenharia de Software na América Latina;",
+			"o <a href='sbcars.php' style='color: #f4b321'>XIV Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS)</a>, que agrega tópicos como linhas de produto de software, desenvolvimento de software baseado em componentes, arquiteturas de software e reutilização;",
+			"o <a href='sblp.php' style='color: #f4b321'>XXIV Simpósio Brasileiro de Linguagens de Programação (SBLP)</a>, que possui enfoque no estudo teórico e prático de linguagens de programação, e;",
+			"o <a href='sast.php' style='color: #f4b321'>V Simpósio Brasileiro de Teste de Software Sistemático Automatizado (SAST)</a>, que versa sobre questões relacionadas à sistematização e automação da atividade de teste de software."
+		],
+		"descricao_3": "A programação do CBSoft inclui sessões técnicas com apresentações de artigos científicos, palestras proferidas por pesquisadores brasileiros e estrangeiros de renome nacional e internacional, painéis de discussão, workshops, demonstrações de ferramentas, tutoriais e minicursos ministrados por conceituados especialistas em suas respectivas temáticas. Todas essas diversas atividades de interesse da comunidade de Engenharia de Software e de áreas relacionadas ao desenvolvimento de sistemas de software direcionam-se para a difusão do conhecimento e discussão de questões importantes relacionadas à pesquisa, desenvolvimento e inovação, tanto no Brasil quanto no mundo."
+	},
+
+	"speakers": {
+		"palestrantes": "Palestrantes"
+	},
+
+	"schedule": {
+		"dia_1": "1º Dia",
+		"dia_2": "2º Dia",
+		"dia_3": "3º Dia",
+		"dia_4": "4º Dia",
+		"dia_5": "5º Dia",
+		"horario": "Horário",
+		"palestrante": "Palestrante",
+		"tema": "Tema",
+		"local": "Local"
+	},
+
+	"sponsors": {
+		"org_apoio_patrocinio": "Organização, Apoio e Patrocínio",
+		"organizadores": "Organização",
+		"patrocinio": "Patrocínio"
+	},
+
+	"trilha-industria": {
+		"titulo": "Trilha da Indústria",
+		"descricao_1": "A Trilha da Indústria do CBSoft é uma oportunidade em que profissionais da indústria e do Governo compartilham seu conhecimento e suas experiências com o público. Essa é também uma ótima oportunidade para estabelecer cooperações entre profissionais e empresas, bem como estimular a interação entre academia e indústria. A perspectiva de cooperação academia-empresa tem sido um dos requisitos de editais de chamadas a projetos, como os do Programa dos Institutos Nacionais de Ciência e Tecnologia (INCTs), operacionalizado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq).",
+		"descricao_2": "São objetivos da Trilha da Indústria discutir as possibilidades de cooperação academia-indústria e academia-governo com vistas ao estabelecimento de condições e financiamentos para a pesquisa, desenvolvimento e inovação, bem como para a formação de recursos humanos de qualidade de forma integrada. Uma outra perspectiva é o desenvolvimento de produtos de software livre e possíveis impactos em aspectos legais e em modelos de negócio. Essas perspectivas favorecem a transferência tecnológica e a tendência de estreitar a geração e o uso efetivo de resultados de pesquisa, desenvolvimento e inovação."
+	},
+
+	"workshop-teses-dissertacoes": {
+		"titulo": "Workshop de Teses e Dissertações",
+		"descricao_1": "O Workshop de Teses e Dissertações do CBSoft (WTDSoft) é um evento dedicado à apresentação e à discussão de trabalhos em andamento de Mestrado e de Doutorado em andamento nas áreas de Engenharia de Software, linguagens de programação e teste de software."
+	},
+
+	"codigo-conduta": {
+		"titulo": "Código de Conduta",
+		"descricao_1": "A troca aberta de ideias e a liberdade de pensamento e expressão são fundamentais para os objetivos do CBSoft. Isso requer um ambiente que reconheça o valor inerente de cada pessoa e grupo, que promova a dignidade, a compreensão e o respeito mútuo e que envolva a diversidade. Por essas razões, o CBSoft dedica-se a proporcionar uma experiência livre de assédio aos participantes do evento e em seus canais oficiais de comunicação, incluindo mídias sociais. A meta é que todo e qualquer participante sinta-se bem-vindo, incluído, respeitado e seguro. Não há qualquer tipo de tolerância para comportamento hostil ou indesejado ou para discurso que intimide, crie desconforto ou interfira na participação de alguém no evento.",
+		"descricao_2": "<b>Comportamentos inaceitáveis incluem:</b> linguagem abusiva ou degradante, interrupção prolongada de uma palestra, discussão ou outra atividade, discriminação, intimidação deliberada, perseguição, gravação de vídeo ou imagens com viés de assédio, contato físico inapropriado, imagens sexuais ou atenção sexual indesejada.",
+		"descricao_3": "<b>Assédio inclui:</b> comentários pejorativos, escritos ou ações relacionadas a raça, cor, sexo, gênero, orientação sexual, identidade de gênero ou expressão, idade, estado civil, religião, nacionalidade, deficiência, gravidez, condições médicas, status de veterano ou qualquer outro status protegido pelas leis brasileiras.",
+		"descricao_4": "Qualquer pessoa que testemunhe ou seja vítima de comportamento inaceitável ou assédio deve notificar um membro do Comitê Organizador do CBSoft 2020 ou segurança do evento. Respostas do tipo que o participante estava \"brincando\" ou que o comportamento em questão tenha sido uma \"brincadeira\" não serão aceitas. Os indivíduos que violarem esses padrões poderão ser punidos ou excluídos de participarem do evento, sem qualquer tipo de reembolso ou compensação, a critério do Comitê Organizador do CBSoft 2020."
+	},
+
+	"edicoes-anteriores": {
+		"titulo": "Edições Anteriores",
+		"2019": "Salvador, Bahia | 23 a 27 de setembro de 2019",
+		"2018": "São Carlos, São Paulo | 17 a 21 de setembro de 2018",
+		"2017": "Fortaleza, Ceará | 18 a 22 de setembro de 2017",
+		"2016": "Maringá, Paraná | 19 a 23 de setembro de 2016",
+		"2015": "Belo Horizonte, Minas Gerais | 21 a 25 de setembro de 2015",
+		"2014": "Maceió, Alagoas | 28 de setembro a 3 de outubro de 2014",
+		"2013": "Brasília, Distrito Federal | 29 de setembro a 4 de outubro de 2013",
+		"2012": "Natal, Rio Grande do Norte | 23 a 28 de setembro de 2012",
+		"2011": "São Paulo | 26 a 30 de setembro de 2011",
+		"2010": "Salvador, Bahia | 27 de setembro a 1º de outubro de 2010"
+	},
+
+	"sbes": {
+		"titulo": "SBES 2020<br/>XXXIV Simpósio Brasileiro de Engenharia de Software",
+		"subtitulo": "Página principal",
+		"descricao_1": "O <b>Simpósio Brasileiro de Engenharia de Software (SBES)</b>, promovido anualmente pela Sociedade Brasileira de Computação (SBC), é o principal evento de Engenharia de Software da América Latina, sendo realizado em conjunto com o CBSoft. A programação em conjunto do SBES e do CBSoft inclui trilhas de pesquisa técnica, ideias inovadoras, educação, ferramentas e indústria, além de palestras convidadas, cursos, tutoriais, paineis, Workshop de Teses e Dissertações e vários outros eventos satélites. Tradicionalmente, o evento reúne de 500 a 800 participantes, incluindo acadêmicos, profissionais e estudantes.",
+		"descricao_1a": "O Simpósio Brasileiro de Engenharia de Software (SBES), promovido anualmente pela Sociedade Brasileira de Computação (SBC), é o principal evento de Engenharia de Software da América Latina, sendo realizado em conjunto com o CBSoft. A Trilha de Pesquisa do SBES é a principal trilha do simpósio. A Trilha de Pesquisa publica contribuições sólidas e rigorosamente avaliadas ao estado da arte na área de Engenharia de Software. Artigos nesta trilha são revisados com base na sua originalidade, relevância, solidez técnica e clareza de apresentação. Os anais do simpósio serão publicados na biblioteca digital da ACM.",
+		"descricao_1b": "A Trilha de Educação do Simpósio Brasileiro de Engenharia de Software (SBES), antes conhecida como FEES - Fórum de Educação em Engenharia de Software, foca na discussão de desafios, boas práticas e inovações no ensino de Engenharia de Software. Busca-se submissões de qualidade que tratem de assuntos relacionados ao desenvolvimento de currículo, estudos experimentais, melhores práticas, experiências institucionais ou pessoais, e trabalhos teóricos ou conceituais. Os artigos nesta trilha são revisados com base em sua originalidade, relevância, solidez técnica e clareza na apresentação.",
+		"descricao_1c": "A Trilha de Ferramentas é uma parte importante do Simpósio Brasileiro de Engenharia de Software (SBES). O objetivo desta trilha é fornecer um fórum para apresentação e demonstração de soluções automatizadas que dão suporte ao processo de desenvolvimento e gerenciamento de sistemas de software. A trilha inclui apresentações teóricas e demonstrações de ferramentas, criando uma grande oportunidade para os autores apresentarem e discutirem suas ferramentas com os participantes da academia e da indústria durante o SBES. Acadêmicos podem apresentar resultados de seus projetos de pesquisa, enquanto profissionais do setor podem apresentar ferramentas comerciais ou internas que trouxeram ganhos de produtividade e/ou qualidade aos processos de desenvolvimento de software.",
+		"trilha": "Trilhas",
+		"trilha_pesquisa": "Trilha de Pesquisa",
+		"trilha_pesquisa_short": "Pesquisa",
+		"trilha_ideias": "Trilha de Ideias Inovadoras e Resultados Emergentes",
+		"trilha_ideias_short": "Ideias Inovadoras e Resultados Emergentes",
+		"trilha_educacao": "Trilha de Educação",
+		"trilha_educacao_short": "Educação",
+		"trilha_ferramentas": "Trilha de Ferramentas",
+		"trilha_ferramentas_short": "Ferramentas",
+		"secao_datas": "Datas Importantes",
+		"deadlines_atividades": [
+			"Registro do artigo (submissão do resumo)",
+			"Submissão do artigo",
+			"Período de <i>rebuttal</i>",
+			"Notificação de aceitação",
+			"Envio da versão final",
+			"Submissão de artigo e vídeo"
+		],
+		"deadlines_pesquisa": [
+			"4 de maio de 2020",
+			"11 de maio de 2020",
+			"15 a 20 de junho de 2020",
+			"3 de julho de 2020",
+			"17 de julho de 2020"
+		],
+		"deadlines_ideias": [
+			"1º de junho de 2020",
+			"8 de junho de 2020",
+			"6 a 10 de julho de 2020",
+			"17 de julho de 2020",
+			"7 de agosto de 2020"
+		],
+		"deadlines_educacao": [
+			"1º de junho de 2020",
+			"8 de junho de 2020",
+			"6 a 10 de julho de 2020",
+			"17 de julho de 2020",
+			"7 de agosto de 2020"
+		],
+		"deadlines_ferramentas": [
+			"1º de junho de 2020",
+			"8 de junho de 2020",
+			"6 a 10 de julho de 2020",
+			"17 de julho de 2020",
+			"7 de agosto de 2020"
+		],
+		"secao_trilhas": "Trilhas do SBES",
+		"descricao_2": "O SBES inclui quatro trilhas:",
+		"trilhas": [
+			"A <b>Trilha de Pesquisa</b> publica sólidas contribuições para a comunidade em Engenharia de Software, com artigos revisados com base na sua originalidade, relevância, solidez técnica e clareza de apresentação.",
+			"A <b>Trilha de Ideias Inovadoras e Resultados Emergentes</b> oferece uma oportunidade para que pesquisadores e profissionais submetam e apresentem ideias e abordagens (métodos, técnicas e ferramentas) inovadoras e resultados promissores em estágios iniciais de pesquisa.",
+			"A <b>Trilha de Educação</b> (antes FEES - Fórum de Educação em Engenharia de Software) publica trabalhos que abordam desafios, inovações e melhores práticas para a Educação na área de Engenharia de Software.",
+			"A <b>Trilha de Ferramentas</b> fornece um fórum para apresentação e demonstração de soluções automatizadas que apoiam o processo de desenvolvimento e gerenciamento de sistemas de software."
+		],
+		"descricao_3": "Pretende-se publicar os anais do SBES na biblioteca digital da ACM (aprovação pendente). Detalhes adicionais sobre tópicos de interesse e preparação de manuscritos (por exemplo, formato, idioma, política de dupla ocultação) para cada uma das trilhas podem ser encontrados nas suas respectivas páginas:",
+		"secao_journal_first": "Submissões para <i>Journal-First</i>",
+		"descricao_4": "O SBES está fazendo parcerias com periódicos internacionais para incorporar os artigos submetidos como <i>journal-first</i> na Trilha de Pesquisa do SBES 2020. Dois periódicos, <i>IEEE Software</i> e <i>Journal of Software Engineering Research and Development</i> (JSERD), confirmaram sua parceria com o SBES 2020. Os autores dos artigos <i>journal-first</i> aceitos nesses periódicos serão convidados a apresentar seu trabalho de pesquisa no SBES. Isso oferece uma oportunidade para os autores discutirem seu trabalho com a comunidade, bem como enriquece o programa técnico do SBES.",
+		"descricao_5": "Os seguintes critérios de avaliação serão usados para selecionar os artigos <i>journal-first</i> no SBES 2020:",
+		"criterios_journal_first": [
+			"o artigo descreve resultados originais que não são extensões de artigos anteriores publicados em conferências;",
+			"o artigo foi aceito para publicação no periódico a partir de 1º de janeiro de 2018, e;",
+			"o artigo não foi apresentado em nenhuma outra conferência como <i>journal-first</i>."
+		],
+		"descricao_6": "Os trabalhos selecionados serão apresentados no programa técnico da Trilha de Pesquisa do SBES. Pelo menos um autor por <i>journal-first</i> selecionado precisará se registrar e participar do simpósio para apresentá-lo.",
+		"descricao_7": "Em relação aos artigos publicados no JSERD, serão aceitas submissões de artigos das seguintes categorias: artigos de pesquisa, estudos de caso e revisão. Com relação aos artigos publicados no IEEE Software, serão aceitos artigos de pesquisa revisados por pares (não são aceitos artigos revisados editorialmente ou trabalhos convidados).",
+		"descricao_8": "Os autores interessados em apresentar artigos <i>journal-first</i> no SBES 2020 devem enviar um <i>e-mail</i> para <a style='color: #f4b321' href='mailto:sbes.j1@cin.ufpe.br'>sbes.j1@cin.ufpe.br</a> com o assunto &quot;Journal First - SBES 2020&quot; até 29 de junho de 2020. As seguintes informações devem ser fornecidas: (i) título do trabalho; (ii) lista de autores; (iii) <i>link</i> para o periódico, e; (iv) uma breve declaração sobre como o trabalho satisfaz os critérios acima.",
+		"secao_shortpapers": "Artigos Curtos",
+		"descricao_9": "O SBES 2020 apresentará uma trilha de artigos curtos, uma oportunidade adicional para pesquisadores e profissionais para apresentar e discutir os seus avanços, ideias, experiências e desafios mais recentes na área da Engenharia de Software.",
+		"descricao_10": "Não há chamada aberta para submissão de artigos curtos para o SBES 2020. Em vez disso, a trilha de artigos curtos será organizada com base em convite. Algumas submissões para as Trilhas de Pesquisa, Ferramentas e Educação serão convidadas pelos Coordenadores do Comitê de Programa a serem submetidas como artigos curtos, que também serão apresentados nas sessões do SBES. Os autores de um artigo curto convidado também enviarão o artigo seguindo as diretrizes de submissão do SBES, para serem publicados nos anais do evento.",
+		"secao_bestpaper": "Prêmio de Melhor Artigo",
+		"descricao_11": "Todos os anos, o Comitê Diretivo do SBES nomeia um comitê para premiar os melhores trabalhos do simpósio. Os trabalhos premiados da Trilha de Pesquisa são anunciados durante o evento. Os cinco melhores trabalhos da Trilha de Pesquisa serão convidados a submeter uma versão estendida em inglês à categoria de pesquisa do JSERD.",
+		"secao_besttool": "Prêmio de Melhor Ferramenta",
+		"descricao_11c": "Os trabalhos premiados da Trilha de Ferramentas serão anunciados durante o evento. As três ferramentas com as melhores pontuações do Comitê do Programa serão premiadas.",
+		"secao_bestreviewer": "Prêmio de Melhor Revisor",
+		"descricao_12": "O SBES 2020 reconhece a generosidade dos revisores que dedicam seu tempo e melhor esforço para revisar os trabalhos submetidos. O progresso do crescimento científico depende de colegas dedicados, que visam promover o desenvolvimento da tecnologia, oferecendo sua atenção e paixão ao revisar os artigos. Um certificado de Melhor Revisor será concedido aos revisores que enviarem revisões de qualidade excelentes ao SBES. A avaliação será baseada na qualidade e utilidade das revisões, assim como participação durante a discussão do Comitê de Programa.",
+		"secao_topicos": "Tópicos de Interesse",
+		"descricao_13": "Serão aceitas submissões relacionadas (mas não limitadas) aos seguintes temas:",
+		"topicos_sbes": [
+			"Desenvolvimento ágil",
+			"Valor de negócio e validação de software",
+			"Gerenciamento de configuração e implantação de software",
+			"Engenharia de Software Experimental",
+			"Aspectos humanos e sociais da Engenharia de Software",
+			"Aplicações industriais de Engenharia de Software",
+			"Mineração de repositórios de software e análise de software",
+			"Desenvolvimento de aplicativos móveis",
+			"Desenvolvimento de software orientado por modelos",
+			"Desenvolvimento de software livre",
+			"Engenharia de requisitos",
+			"Otimização em Engenharia de Software",
+			"Serviços e microsserviços",
+			"Arquitetura de software",
+			"Ecossistemas de software e sistemas de sistemas",
+			"Engenharia de software para Computação em Nuvem e Web",
+			"Manutenção e evolução de software",
+			"Métricas e mensuração de software",
+			"Modularidade de software",
+			"Processos de software",
+			"Linhas de produtos de software",
+			"Qualidade de software e modelos de qualidade",
+			"Reengenharia de software",
+			"Reutilização de software",
+			"<i>Startups</i> de software",
+			"Teste e verificação de software",
+			"Gestão de dívida técnica",
+			"Fundamentos teóricos e métodos formais"
+		],
+		"topicos_sbes_educacao": [
+			"Boas práticas e práticas inovadoras para o ensino de Engenharia de Software",
+			"Currículo ou projetos de curso inovadores",
+			"Ensino de Engenharia de Software no contexto dos diferentes cursos de Graduação e de Pós-graduação",
+			"Ensino de métodos, técnicas e ferramentas para o desenvolvimento de software",
+			"Ensino de Engenharia de Software em ambientes informais, tais como <i>hackathons</i> e <i>Stack Overflow</i>",
+			"Ambientes educacionais emergentes para Engenharia de Software, tais como aprendizado <i>on-line</i>",
+			"Experiências de ensino/aprendizado utilizando abordagens em novos cenários práticos da Engenharia de Software, tais como métodos ágeis, código aberto, desenvolvimento distribuído de software, Computação em Nuvem, <i>Big Data</i>, dispositivos móveis, sistemas embarcados, robótica e outros",
+			"Ferramentas e métodos para avaliação do aprendizado de Engenharia de Software",
+			"Ensino/aprendizado de aspectos humanos, políticos, éticos, legais, profissionais e sociais na Engenharia de Software",
+			"Integração de experiências práticas no ensino da Engenharia de Software",
+			"Integração entre pesquisa e ensino de Engenharia de Software",
+			"Interdisciplinaridade em Engenharia de Software",
+			"Métodos inovadores que promovem o estudo e estimulam o aprendizado de professores, mantendo-os atualizados para o ensino de Engenharia de Software",
+			"Ensino em Engenharia de Software que estimula o empreendedorismo, especialmente a criação de <i>start-ups</i>",
+			"Pesquisas sobre igualdade, diversidade e inclusão em Engenharia de Software",
+			"Código aberto no ensino de Engenharia de Software",
+			"Ensino/aprendizagem de tópicos emergentes em Engenharia de Software"
+		],
+		"secao_categorias": "Categorias de Artigos",
+		"descricao_14": "Os autores dos artigos da Trilha de Pesquisa, após o resumo no formulário de submissão, devem indicar em qual das categorias a seguir seu artigo melhor se classifica. Isso pretende estabelecer um conjunto consistente de expectativas no processo de revisão.",
+		"categorias": [
+			"<b>Analítico:</b> Um artigo no qual a principal contribuição se baseia em novos algoritmos ou teoria matemática. Os exemplos incluem novas técnicas de previsão de <i>bugs</i>, transformações de modelo, algoritmos para análise dinâmica e estática e análise de confiabilidade. Tal contribuição deve ser avaliada com uma análise convincente dos detalhes algorítmicos, seja através de uma prova, análise de complexidade, ou análise de tempo de execução, entre outros.",
+			"<b>Experimental (estudo primário):</b> Um artigo no qual a principal contribuição é o estudo experimental de uma tecnologia ou fenômeno de Engenharia de Software. Isso inclui experimentos controlados, <i>quasi</i>-experimentos, estudos de caso e <i>surveys</i> com profissionais que relatam dados qualitativos ou quantitativos e resultados de análises. Tal contribuição será avaliação com base no design experimental do estudo, adequação e correção de sua análise, além do tratamento às ameaças à validade. Replicações de estudos são bem-vindas.",
+			"<b>Revisão de literatura (estudo secundário):</b> Um artigo em que a principal contribuição é a síntese de estudos primários. Exemplos incluem revisões sistemáticas e mapeamentos sistemáticos. Essa contribuição deve seguir uma metodologia sólida e fornecer uma cobertura abrangente da literatura relevante. Além disso, deve responder a questões de pesquisa relevantes com uma síntese profunda dos resultados. Contribuições que fornecem apenas análise de metadados (por exemplo, autores relevantes, publicações de densidade por ano, artigos mais influentes, etc.) são desencorajadas.",
+			"<b>Tecnológico:</b> Um artigo em que a principal contribuição é de natureza técnica. Isso inclui novas ferramentas, linguagens de modelagem, infraestruturas e outras tecnologias. Tal contribuição não precisa necessariamente ser avaliada com seres humanos. No entanto, argumentos claros, apoiados por evidências, conforme apropriado, devem mostrar como e por que a tecnologia é benéfica, seja na automação ou suporte a alguma tarefa do usuário, refinando recursos de modelagem, melhorando algumas propriedades importantes do sistema, entre outros.",
+			"<b>Metodológico:</b> Um artigo no qual a principal contribuição é um sistema coerente de princípios e práticas abrangentes para interpretar ou resolver um problema. Isso inclui novos métodos de elicitação de requisitos, modelos de processos, métodos de <i>design</i>, abordagens de desenvolvimento, paradigmas de programação e outras metodologias. Os autores devem fornecer argumentos convincentes com experiências proporcionais, bem como explicar porque um novo método é necessário e quais são os benefícios do método proposto."
+		],
+		"secao_guidelines": "Preparação, Submissão e Revisão de Artigos",
+		"secao_guidelines_1c": "Preparação e Submissão de Artigos e Vídeos",
+		"descricao_15": "Os trabalhos podem ser submetidos em Português ou Inglês. A submissão em Inglês é fortemente encorajada. A aceitação de um artigo implica que pelo menos um de seus autores fará inscrição para participar do simpósio para apresentá-lo. Todas as submissões devem estar no formato <i>Adobe Portable Document Format</i> (PDF) e devem estar de acordo com o formato ACM de 2 colunas (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) disponível neste <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>. As submissões não devem ter mais de 10 páginas, incluindo todas as figuras e referências.",
+		"descricao_15b": "Os trabalhos podem ser escritos em Português ou Inglês. A submissão em inglês é fortemente encorajada, uma vez que os anais do simpósio serão indexados pela biblioteca digital da ACM. Título e resumo de todos os artigos devem estar em Inglês, mesmo se escritos em Português. Os artigos submetidos não devem ter sido submetidos simultaneamente a nenhum outro fórum (conferência ou revista), nem devem ter sido publicados em outro lugar. Pelo menos um autor de cada trabalho aceito deve se inscrever para a conferência e apresentar o trabalho pessoalmente durante o evento. Caso contrário, o trabalho não será incluído nos anais.",
+		"descricao_15c": "Autores são convidados a enviarem trabalhos descrevendo soluções automatizadas para diversos aspectos e necessidades relacionados aos tópicos de interesse e temas listados na <a style='color: #f4b321' href='sbes-pesquisa.php'>Chamada de Trabalhos do SBES</a>. Cada submissão consiste em um artigo acompanhado por um vídeo de demonstração da ferramenta. A submissão de trabalhos deve estar em conformidade com as seguintes instruções de envio e formatação:",
+		"instrucoes_submissao_ferramentas": [
+			"O artigo deve ser original e não estar submetido ou publicado em outros veículos acadêmicos.",
+			"O artigo deve incluir claramente:",
+			"Descrição da motivação/problema abordado pela ferramenta",
+			"Descrição das principais funcionalidades e usuários potenciais da ferramenta",
+			"Exemplo de uso e capturas de tela ilustrando a interface da ferramenta (quando aplicável)",
+			"Descrição da arquitetura da ferramenta, seus principais componentes e suas interfaces",
+			"Uma breve comparação com ferramentas relacionadas existentes",
+			"Tipo de licença de software",
+			"Os artigos devem ter no máximo 6 páginas, incluindo figuras (em boa qualidade), referências e apêndices e formatados de acordo com o modelo ACM de 2 colunas (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) disponível neste <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>. Os artigos podem ser escritos em Português ou Inglês, mas os trabalhos em Português também devem incluir um resumo em inglês. Os artigos devem ser enviados no formato <i>Adobe Portable Document Format</i> (PDF).",
+			"Um vídeo de demonstração com comentários em áudio e com alta resolução (os detalhes da funcionalidade da ferramenta devem estar claramente visíveis) <b>deve</b> acompanhar o envio do artigo. O vídeo de demonstração (com duração de 3 a 5 minutos) deve mostrar o uso da ferramenta e destacar suas principais contribuições, além de fornecer uma visão geral da ferramenta, seus objetivos e usuários em potencial, além das principais características e resultados. Deve ainda haver um locutor apresentando a ferramenta no mesmo idioma em que o artigo está escrito.",
+			"Os autores são incentivados a disponibilizar o código como código aberto (<i>open-source</i>), bem como o conjunto de dados para a sua execução, além de informar a URL durante a submissão.",
+			"A Trilha de Ferramentas do SBES 2020 usará o modelo de revisão cega (<i>single-blind</i>) e, portanto, as identidades dos autores devem aparecer nos materiais de envio."
+		],
+		"descricao_16": "Os trabalhos devem ser submetidos eletronicamente através do sistema <a style='color: #f4b321' href='http://submissoes.sbc.org.br'>JEMS</a>. Todos os trabalhos de pesquisa técnica devem indicar, após o resumo, o idioma e uma ou mais das categorias acima mencionadas. Submissões que não estiverem em conformidade com o formato de submissão exigido,  estiverem fora do escopo do simpósio ou que foram enviadas ou publicadas em qualquer outro fórum (conferência ou revista) serão rejeitadas sem revisão. Todos os outros trabalhos serão revisados por pelo menos três membros do Comitê de Programa. Durante o processo de revisão, pode-se solicitar um <i>rebuttal</i>. Neste caso, os autores terão acesso às revisões e poderão argumentar e responder às perguntas dos revisores antes da decisão final de aceitação/rejeição. A réplica é limitada a um texto simples de até 4.000 caracteres.",
+		"descricao_16b": "Os artigos devem ter no máximo 10 páginas, incluindo todas as figuras e referências. Todas as submissões devem estar no formato <i>Adobe Portable Document Format</i> (PDF) e devem estar de acordo com o modelo ACM de 2 colunas (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) disponível neste <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>. Os trabalhos devem ser submetidos eletronicamente através do sistema <a style='color: #f4b321' href='http://submissoes.sbc.org.br'>JEMS</a>. Todos os trabalhos submetidos devem informar após o título o idioma em que estão escritos. As submissões que não estiverem em conformidade com o formato de envio exigido ou que estejam fora do escopo da Trilha de Educação serão rejeitadas sem revisão. Todos os outros artigos serão revisados por pelo menos três membros do Comitê do Programa.",
+		"descricao_16b1": "O processo de revisão inclui um período de <i>rebuttal</i> em que os autores terão acesso aos comentários dos revisores e poderão argumentar e responder a perguntas dos revisores antes da decisão final de aceitação/rejeição. O rebuttal é limitado a um texto simples de até 4.000 caracteres (incluindo espaços).",
+		"descricao_16c": "Os artigos devem ser submetidos eletronicamente por meio do sistema <a style='color: #f4b321' href='http://submissoes.sbc.org.br'>JEMS</a>. Os vídeos devem ser enviados ao YouTube e estar disponíveis durante o período da revisão. A URL onde o vídeo de demonstração está disponível deve aparecer ao final do resumo, no texto do artigo.",
+		"descricao_16c1": "Submissões que não incluírem o artigo <b>e</b> o vídeo, que não estejam em conformidade com o formato de submissão exigido, que estejam fora do escopo da trilha ou que tenham sido submetidas ou publicadas em qualquer outro fórum (conferência ou periódico) serão rejeitadas sem revisão. Todos os outros artigos serão revisados por pelo menos três membros do Comitê de Programa.",
+		"descricao_16c2": "Durante o processo de revisão, pode-se solicitar um <i>rebuttal</i>. Nesse caso, os autores terão acesso às revisões e poderão argumentar e responder a perguntas dos revisores antes da decisão final de aceitação/rejeição. O texto de refutação, sem formatação, deve conter até 4.000 caracteres.",
+		"descricao_16c3": "A aceitação da submissão implica em pelo menos um autor se inscrever e participar do SBES 2020 para apresentar o artigo e a ferramenta pessoalmente. A apresentação do artigo e a demonstração da ferramenta são obrigatórias para todas as ferramentas aceitas. Apresentações de artigos e demonstrações de ferramentas são tradicionalmente realizadas em dois dias diferentes durante o SBES. Demonstrações de ferramentas devem ser ao vivo e os vídeos de demonstração enviados <b>não</b> devem ser usados. O formato e o horário das apresentações serão anunciados posteriormente.",
+		"secao_doubleblind": "Submissão <i>Double-Blind</i>",
+		"descricao_17": "A Trilha de Pesquisa do SBES 2020 um processo de revisão <i>double-blind</i>. Todos os trabalhos submetidos devem ocultar a identidade dos autores. Tanto os nomes de autores quanto afiliações devem ser omitidos. Além disso, as seguintes regras devem ser abordadas:",
+		"descricao_17b": "A Trilha de Educação do SBES 2020 um processo de revisão <i>double-blind</i>. Todos os trabalhos submetidos devem ocultar a identidade dos autores. Tanto os nomes de autores quanto afiliações devem ser omitidos. Além disso, as seguintes regras devem ser abordadas:",
+		"guidelines_doubleblind": [
+			"As citações a trabalho relacionado dos próprios autores devem ser escritas na terceira pessoa. Por exemplo, deve-se escrever &quot;o trabalho anterior de Silva et al.&quot; em oposição ao &quot;nosso trabalho anterior&quot;. Como uma heurística, deve-se procurar por ocorrências de identificadores tais como: &quot;nós&quot;, &quot;nosso&quot;, &quot;github&quot;, &quot;financiamento&quot;, &quot;Universidade&quot;, etc., no artigo e modificar essas palavras antes de submetê-lo.",
+			"No artigo submetido, não se deve mencionar nenhum artefato em um repositório ou site que permita identificar a autoria. Se for necessário disponibilizar qualquer artefato, isso deve ser feito de forma anônima em um repositório/website.",
+			"Os revisores não serão encorajados a procurar referências que identifiquem os autores em outras fontes na Internet. Buscas em bibliotecas digitais ou artefatos existentes não invalidam a regra de <i>double-blind</i>.",
+			"Se o trabalho submetido for uma evolução de trabalho anterior, é possível anonimizar a referência no artigo submetido. Por exemplo, &quot;o trabalho anterior de Silva et al.&quot; pode ser adaptado para &quot;baseado no trabalho anterior [X]&quot; e a referência no final do artigo pode ser apresentada como &quot;[X] autores anônimos devido a revisão <i>double-blind</i>&quot;."
+		],
+		"descricao_18": "Após a aceitação do artigo, todas as informações (sem anonimização) poderão ser incluídas na versão final.",
+		"descricao_19": "Em caso de dúvida sobre a preparação do trabalho seguindo as regras de submissão <i>double-blind</i>, pode-se enviar um <i>e-mail</i> para os Coordenadores do Comitê de Programa com o assunto &quot;SBES Trilha de Educação: Pergunta sobre as regras de double-blind&quot;.",
+		"secao_comite": "Organização",
+		"comite": [
+			"Coordenadores Gerais do CBSoft 2020",
+			"Everton Cavalcante (UFRN, Brasil)",
+			"Francisco Dantas (UERN, Brasil)",
+			"Thais Batista (UFRN, Brasil)",
+			"Coordenadores de Comitê de Programa - Trilha de Pesquisa",
+			"Tayana Conte (UFAM, Brasil)",
+			"Fernando Castor (UFPE, Brasil)",
+			"Coordenadores de Comitê de Programa - Trilha de Ideias Inovadoras e Resultados Emergentes",
+			"Marco Túlio Valente (UFMG, Brasil)",
+			"Márcio Ribeiro (UFAL, Brasil)",
+			"Coordenadores de Comitê de Programa - Trilha de Educação",
+			"Igor Steinmacher (Northern Arizona University, EUA)",
+			"Rodrigo Pereira dos Santos (UNIRIO, Brasil)",
+			"Coordenadores de Comitê de Programa - Trilha de Ferramentas",
+			"Christina von Flach G. Chavez (UFBA, Brasil)",
+			"Elisa Yumi Nakagawa (ICMC/USP, Brasil)",
+			"Comitê Diretivo do SBES",
+			"Fabiano Cutigi Ferrari (UFSCar, Brasil)",
+			"Fernando Castor (UFPE, Brasil)",
+			"Jose Carlos Maldonado (ICMC/USP, Brasil)",
+			"Márcio Ribeiro (UFAL, Brasil)",
+			"Marco Aurélio Gerosa (Northern Arizona University, EUA)",
+			"Marco Túlio Valente (UFMG, Brasil)",
+			"Rafael Prikladnicki (PUCRS, Brasil)",
+			"Tayana Conte (UFAM, Brasil)",
+			"Uirá Kulesza (UFRN, Brasil)"
+		],
+		"secao_contato": "Contato",
+		"descricao_21b": "Para mais informações, pode-se consultar a página Web do CBSoft 2020 ou entrar em contato com os Coordenadores do Comitê de Programa (<a style='color: #f4b321' href='rps@uniriotec.br'>rps@uniriotec.br</a> e <a style='color: #f4b321' href='igor.steinmacher@nau.edu'>igor.steinmacher@nau.edu</a>). Deve-se utilizar o título &quot;SBES Trilha de Educação: Dúvidas sobre o processo de submissão&quot;."
+	},
+
+	"sbcars": {
+		"titulo": "SBCARS 2020<br/>XIV Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software",
+		"subtitulo": "Página principal",
+		"descricao_1": "O <b>Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS)</b> é um simpósio promovido pela Sociedade Brasileira de Computação (SBC) que reúne pesquisadores, estudantes e profissionais com uma ampla gama de interesses em tópicos relacionados à Engenharia de Software, incluindo linhas de produto de software, desenvolvimento de software baseado em componentes, arquiteturas de software e reuso de software. O SBCARS, iniciado em 2007, é o sucessor da série de seis Workshops Brasileiros de Desenvolvimento Baseado em Componentes (WDBC), iniciados em 2001, de modo que suas 13 edições já realizadas têm contribuído para sua consolidação no calendário científico nacional como um importante evento técnico-científico na área de software.",
+		"secao_datas": "Datas Importantes",
+		"deadlines_atividades": [
+			"Registro do artigo (submissão do resumo)",
+			"Submissão do artigo",
+			"Notificação de aceitação",
+			"Envio da versão final"
+		],
+		"deadlines": [
+			"6 de julho de 2020",
+			"10 de julho de 2020",
+			"10 de agosto de 2020",
+			"14 de agosto de 2020"
+		],
+		"secao_topicos": "Tópicos de Interesse",
+		"descricao_2": "Serão aceitas submissões relacionadas (mas não limitadas) aos seguintes temas:",
+		"topicos_sbcars": [
+			"Arquitetura e projeto de software ágil",
+			"Desenvolvimento de software orientado a aspectos e modularidade de software",
+			"Engenharia de Software baseada em componentes",
+			"Padrões de projeto",
+			"Análise e engenharia de domínio",
+			"Programação generativa e linguagens específicas de domínio",
+			"Mineração de repositórios de software",
+			"Engenharia dirigida a modelos",
+			"Transformação de programas e refatoração",
+			"Reuso e variabilidade em software de código aberto",
+			"Arquiteturas orientadas a serviço (SOA) e desenvolvimento baseado em serviços",
+			"Análise, compreensão e reconstrução de software",
+			"Arquitetura de software (recuperação arquitetural, linguagens de descrição arquitetural, avaliação arquitetural, arquitetura reversa, etc.)",
+			"Evolução de software",
+			"Métricas de software",
+			"Linhas de produto de software",
+			"Reuso de software (incluindo questões técnicas e não-técnicas)",
+			"Gerenciamento de variabilidade"
+		],
+		"descricao_3": "Há também o interesse em estudos experimentais (experimentos controlados, estudos de caso, revisões sistemáticas), relatórios de experiência, contribuições teóricas, artigos relacionados à educação, ferramentas e métodos relacionados a todos os tópicos acima.",
+		"secao_guidelines": "Instruções de Submissão e Processo de Revisão",
+		"descricao_4": "Artigos submetidos podem ser escritos em Português ou Inglês. Artigos escritos em Português necessitam ser submetidos com título, resumo e palavras-chave escritos em Inglês. Submissões em Inglês são fortemente encorajadas, uma vez que os anais do simpósio serão indexadas pela biblioteca digital da ACM. Pelo menos um autor de cada artigo aceito deve se inscrever no evento e apresentar o artigo pessoalmente no simpósio, caso contrário, o artigo não será incluído nos anais.",
+		"descricao_5": "Recomenda-se fortemente que os autores verifiquem artigos publicados em edições anteriores do SBCARS para referenciá-los como trabalhos relacionados sempre que for aplicável. Isso pode motivar e melhorar as discussões entre pesquisadores que trabalham na mesma área durante o simpósio. Os artigos publicados em edições anteriores do SBCARS estão disponíveis neste <a style='color: #f4b321' href='http://dblp1.uni-trier.de/db/conf/sbcars/index.html'>link</a>.",
+		"descricao_6": "Todas as submissões devem estar em <i>Adobe Portable Document Format</i> (PDF) e devem estar de acordo com o modelo ACM de 2 colunas (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) disponível neste <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>. Os artigos não devem ter mais de 10 páginas, incluindo figuras, tabelas e referências. Submissões que não estejam em conformidade com o formato exigido ou estejam fora do escopo técnico serão rejeitadas sem revisão. Os artigos submetidos serão revisados por pelo menos três revisores com base em sua originalidade, relevância, qualidade técnica e clareza de apresentação.",
+		"descricao_7": "O SBCARS 2020 empregará um processo de revisão <i>triple-blind</i>. Os artigos submetidos não devem revelar de forma alguma as identidades dos autores.",
+		"guidelines_tripleblind": [
+			"Os autores devem remover seus nomes e afiliações do corpo de sua submissão.",
+			"Os autores devem garantir que qualquer citação a trabalhos relacionados próprios esteja escrita em terceira pessoa, ou seja, &quot;o trabalho anterior de XYZ&quot; ao invés de &quot;nosso trabalho anterior&quot;",
+			"Os autores devem evitar fornecer URLs para <i>sites</i> que revelem a autoria do artigo (ferramentas, conjuntos de dados). O artigo pode mencionar a existência desses <i>sites</i>, mas a consulta a estes não deve ser necessária para realizar a revisão.",
+			"Os autores devem anonimizar os nomes de empresas que revelem a autoria do artigo, mas podem fornecer características gerais das organizações envolvidas que sejam necessárias ao entendimento do contexto do artigo."
+		],
+		"descricao_8": "Os artigos devem ser submetidos eletronicamente através do sistema <a style='color: #f4b321' href='http://submissoes.sbc.org.br'>JEMS</a>. Na submissão do artigo, os autores devem especificar o idioma de seu artigo com um prefixo no campo de título do artigo na plataforma de submissão. O título de artigos em Inglês deve iniciar por &quot;[EN]&quot; e o título de artigos em Português deve iniciar por &quot;[PT]&quot;. Isso garante que o artigo seja atribuído a um revisor que seja capaz de revisá-lo.",
+		"secao_bestpaper_si": "Prêmio de Melhor Artigo e Edição Especial",
+		"descricao_9": "Os três melhores artigos serão convidados para uma edição especial no <i>Journal of the Brazilian Computer Society</i> (JBCS).",
+		"secao_comite": "Organização",
+		"comite": [
+			"Coordenador de Comitê de Programa",
+			"Gustavo Pinto (UFPA, Brasil)",
+			"Comitê Diretivo do SBCARS",
+			"Gustavo Pinto (UFPA, Brasil)",
+			"Leopoldo Teixeira (UFPE, Brasil)",
+			"Ingrid Nunes (UFRGS, Brasil)",
+			"Márcio Ribeiro (UFAL, Brasil)",
+			"Marco Aurélio Gerosa (Northern Arizona University, EUA)"
+		]
+	},
+
+	"sblp": {
+		"titulo": "SBLP 2020<br/>XXIV Simpósio Brasileiro de Linguagens de Programação",
+		"subtitulo": "Página principal",
+		"descricao_1": "O <b>Simpósio Brasileiro de Linguagens de Programação (SBLP)</b> é um simpósio promovido pela Sociedade Brasileira de Computação (SBC) que se constitui como um fórum para que estudantes, pesquisadores e profissionais apresentem e discutam ideias e inovações no projeto, definição, análise, implementação e uso prático de linguagens de programação."
+	},
+
+	"sast": {
+		"titulo": "SAST 2020<br/>V Simpósio Brasileiro de Teste de Software Sistemático e Automatizado",
+		"subtitulo": "Página principal",
+		"descricao_1": "O <b>Simpósio Brasileiro de Teste de Software Sistemático e Automatizado (SAST)</b>, o qual desde 2007 existia com o nome de Brazilian Workshop on Systematic and Automated Software Testing em nove edições, é o principal evento científico sobre teste de software no Brasil. Seu objetivo é promover um fórum anual para discutir questões sobre a sistematização e automação da atividade de teste de software, promovendo a interação entre pesquisadores e indústria de modo a fortalecer cooperações e inovação nessa importante área do desenvolvimento de software."
+	},
+
+	"workshops": {
+		"titulo": "Workshops",
+		"descricao_1": "O CBSoft inclui <i>workshops</i> relacionados às temáticas dos quatro simpósios que tradicionalmente integram o evento, SBES, SBCARS, SBLP e SAST. O objetivo é criar um espaço para que membros da academia e da indústria possam trocar e discutir suas experiências e ideias. <i>Workshops</i> tradicionalmente realizados no CBSoft poderão ser promovidos a <i>workshops</i> pré-aprovados.",
+		"secao_informacoes": "Informações gerais",
+		"descricao_2": "A definição dos <i>workshops</i> que farão parte do CBSoft 2020 será realizada pela análise das propostas submetidas em resposta a esta Chamada. As propostas de <i>workshops</i> submetidas à organização do CBSoft serão avaliadas considerando:",
+		"criterios": [
+			"a relevância e interesse do tema do <i>workshop</i>",
+			"a experiência do coordenador do <i>workshop</i>",
+			"o Comitê de Programa",
+			"uma análise das edições anteriores, se for o caso"
+		],
+		"descricao_3": "Cada <i>workshop</i> pode ocupar meio dia (três horas) ou um dia (seis horas). As datas de realização dos <i>workshops</i> serão comunicadas em breve pela Coordenação Geral do CBSoft 2020.",
+		"descricao_4": "Os anais dos <i>workshops</i> farão parte dos anais do CBSoft 2020 e deverão ser preparados conjuntamente pela Coordenação dos <i>workshops</i> e pela Coordenação Geral do CBSoft. É importante observar a data limite para envio dos artigos aceitos para à Comissão Organizadora do CBSoft.",
+		"secao_submissao": "Instruções de submissão (vide instruções específicas para <i>workshops</i> pré-aprovados)",
+		"descricao_5": "As propostas de workshop devem ser preenchidas por meio deste <a target= '_blank'  href='https://forms.gle/Fd5E6gM4qUpe3YQMA' style='color: #f4b321'>link</a>.",
+		"descricao_6": "As propostas devem conter exatamente as seguintes informações (em Português ou Inglês):",
+		"informacoes_workshop": [
+			"Nome do <i>workshop</i>",
+			"Duração (três ou seis horas)",
+			"Descrição do tema principal do <i>workshop</i>, justificando sua relevância",
+			"Histórico do <i>workshop</i> (se já houve edição anterior), incluindo número de participantes, número de submissões e taxa de aceitação",
+			"Formato do <i>workshop</i>, tópicos de interesse, critérios de aceitação de trabalhos e forma de apresentação",
+			"Palestrantes convidados",
+			"Público esperado, incluindo número máximo de participantes",
+			"Comitê de Programa",
+			"Apoio e material requisitado à Comissão Organizadora do CBSoft",
+			"Nome, informação de contato e currículo do coordenador do <i>workshop</i>. Caso o coordenador seja brasileiro, apenas o link para o Curriculum Lattes deve ser incluído. No caso de coordenadores estrangeiros, um currículo resumido deve ser submetido."
+		],
+		"secao_workshop_pre": "Instruções de submissão para <i>workshops</i> pré-aprovados",
+		"descricao_7": "<i>Workshops</i> anuais ou bianuais que já tiveram três ou mais edições (sendo a última realizada em 2018 ou 2017) são considerados <i>workshops</i> pré-aprovados. Para um <i>workshop</i> que se enquadra nessa categoria, solicita-se a submissão de proposta simplificada por meio deste <a target= '_blank'  href='https://forms.gle/wDLTrY7JpVxGQeNeA' style='color: #f4b321'>link</a>, nela constando:",
+		"informacoes_workshop_pre": [
+			"Comitê Organizador",
+			"Comitê Gestor (se existir)",
+			"Nome, informação de contato e currículo do(s) coordenador(es) (Curriculum Lattes para brasileiros, currículo resumido para estrangeiros)",
+			"Estatísticas das últimas três edições (número de participantes, número de submissões e taxa de aceitação)"
+		],
+		"descricao_8": "Por se tratar de <i>workshop</i> pré-aprovado, o <i>workshop</i> é automaticamente aceito desde que sejam submetidas as informações solicitadas. As informações enviadas na proposta serão analisadas pelo Comitê de Avaliação de <i>Workshops</i> do CBSoft com o objetivo de prover <i>feedback</i> para futuras edições do <i>workshop</i>. Em caso de quedas no número de submissões em anos consecutivos, ou a critério da comissão julgadora, um <i>workshop</i> poderá perder o <i>status</i> de <i>workshop</i> pré-aprovado.",
+		"secao_deadlines": "Datas importantes",
+		"deadlines": [
+			"Prazo de submissão: 13 de abril de 2020",
+			"Notificação aos proponentes: 20 de abril de 2020",
+			"Envio dos artigos à Coordenação Geral do CBSoft 2020: 3 de agosto de 2020"
+		],
+		"secao_comite": "Comitê de Avaliação",
+		"comite": [
+			"Everton Alves (UFCG, Brasil)",
+			"Fabiano Ferrari (UFSCar, Brasil)",
+			"Márcio Barros (UNIRIO, Brasil)",
+			"Thelma Elita Colanzi (UEM, Brasil)"
+		],
+		"secao_contato": "Contato",
+		"descricao_9": [
+			"Dúvidas e pedidos de informação devem ser encaminhados para a Coordenação de <i>Workshops</i> do CBSoft 2020, Thelma Elita Colanzi (<a href='mailto:thelma@din.uem.br' style='color: #f4b321'>thelma@din.uem.br</a>)."
+		]
+	},
+
+	"local": {
+		"titulo": "Local do Evento",
+		"descricao_1": "O CBSoft 2020 será realizado no <a target= '_blank' href='https://www.wishhotels.co/resort-em-natal/wish-natal-by-gjp/' style='color: #f4b321'>Wish Natal Exclusive Resort</a>, resort com acesso direto à praia e vista para o mar, localizado na Via Costeira Senador Dinarte Mariz. É nessa região onde se situam as acomodações de melhor padrão na região turística de Natal, ladeado pelo segundo maior parque urbano do Brasil, o Parque das Dunas, além de se ter fácil acesso a restaurantes, shoppings e centros comerciais e demais praias da cidade."
+	},
+
+	"sobre-natal": {
+		"titulo": "Sobre Natal",
+		"descricao_1": "Natal, capital e maior cidade do Estado do Rio Grande do Norte, localizado no Nordeste do Brasil, tornou-se um destino brasileiro conhecido pelo mundo, sendo a cidade brasileira mais próxima da Europa e da África por estar localizada na esquina do continente sul-americano. A \"Cidade do Sol\", como é conhecida tanto nacional quanto internacionalmente, possui um clima agradável com temperaturas médias por volta dos 28ºC e um sol brilhante durante todo o ano. Natal está a cerca de seis graus ao sul do Equador, fazendo com que o sol brilhe por cerca de 300 dias por ano, mais do que em qualquer capital brasileira.",
+		"descricao_2": "Fundada em um dia de Natal, aos 25 de dezembro de 1599 (daí o nome, segundo diversos escritores), a cidade do Natal é banhada pelo Oceano Atlântico, combinando clima tropical, belas praias de águas normas, natureza exuberante e quase 900 mil habitantes acolhedores - pouco mais de 1,5 milhão na Região Metropolitana, a quinta maior aglomeração urbana da Região Nordeste. Historicamente, a cidade teve grande importância durante a Segunda Guerra Mundial, servindo de ponto estratégico para as operações dos Aliados (particularmente dos Estados Unidos da América) no conflito, e abrigou a primeira base de foguetes da América do Sul, no Centro de Lançamento da Barreira do Inferno, hoje localizado no município limítrofe de Parnamirim.",
+		"descricao_3": "A cidade recebe milhões de visitantes brasileiros e estrangeiros a cada ano, atraídos pelas belezas naturais da costa, a hospitalidade local e o maior Carnaval fora de época do Brasil, o <i>Carnatal</i>. Natal possui ainda uma das mais modernas e bem localizadas redes hoteleiras do Brasil, além de excelentes restaurantes, <i>pubs</i>, bares, <i>shoppings</i> e diversos outros locais para entretenimento. Isso é justamente reflexo de a economia local ser majoritariamente baseada no setor de serviços, dentre as quais destaca-se o turismo de lazer, tanto nacional quanto internacional, e, mais recentemente, o turismo de negócios, visto que a cidade tem atraído um número cada vez mais significativo de eventos profissionais. Além disso, em 2014, Natal foi uma das doze cidades que sediaram a Copa do Mundo FIFA, cujo projeto do estádio Arena das Dunas destacou-se dentre as cidades-sede.",
+		"descricao_4": "Natal não se resume apenas a praias, natureza exuberante e boa gastronomia. A cidade foi recentemente afiliada à <i>IEEE Smart Cities Initiative</i> como resultado dos avanços expressivos e forte engajamento entre academia e governo local. Isso deu força ao <i>Programa Natal Cidade Inteligente e Humana</i>, formalizado através de um Acordo de Cooperação Técnica entre a Prefeitura Municipal do Natal e a Universidade Federal do Rio Grande do Norte (UFRN). Esse Programa representa um grande projeto político e social em cooperação direta entre academia e população, no intuito de buscar soluções para os problemas enfrentados pela cidade em seu crescimento diário, bem como melhorar a qualidade de vida e bem-estar da população através de paradigmas de Tecnologia da Informação e Comunicação inovadores. Mais ainda, em 2017 foi instituído o <i>Parque Tecnológico Metrópole Digital</i>, um parque tecnológico localizado geograficamente no entorno do Campus Central da UFRN voltado para a Tecnologia da Informação, um projeto que envolve a academia e os setores público e privados como um ambiente propício para a difusão da ciência, tecnologia e inovação, além de contribuir para o desenvolvimento econômico e social da cidade.",
+		"quick-facts": "Alguns rápidos fatos:"
+	},
+
+	"info-viagem": {
+		"titulo": "Informações de Viagem",
+		"descricao_1": "<b>Chegando a Natal de avião.</b> O maior aeroporto no Estado do Rio Grande do Norte é o <a target='_blank' href= 'http://www.natal.aero/' style='color: #f4b321'> Aeroporto Internacional de Natal -- São Gonçalo do Amarante/Governador Aluízio Alves (NAT)</a>. Servindo Natal e sua Região Metropolitana, o aeroporto foi aberto em maio de 2014 e é considerado um dos melhores aeroportos do Brasil de acordo com enquetes recentes. Apesar de Natal não ser um grande hub no Brasil, há voos diretos conectando a cidade a outras cidades brasileiras maiores, como Fortaleza (1h), Recife (50 min), Salvador (1h25), Brasília (2h45), Rio de Janeiro (3h) e São Paulo (3h20). Há também alguns voos internacionais diretos ligando Natal a Lisboa, Portugal, e a Buenos Aires, Argentina, mas devido às conexões nacionais a outras cidades do País, não é difícil chegar a Natal vindo da América do Norte ou da Europa. Todas as maiores companhias aéreas nacionais (Azul, Gol, LATAM) operam atualmente no aeroporto, além da TAP Portugal, companhia aérea portuguesa cujos voos diretos ligam Natal à Europa em um tempo médio de 6h40.",
+		"descricao_2": "<b>Chegando a Natal de carro.</b> A rodovia federal BR-101 é o acesso mais importante ligando Natal a outras cidades do Nordeste (João Pessoa, Recife e Salvador) e ao Sudeste/Sul do Brasil pela costa norte-sul. Para quem vem de cidades como Fortaleza e Teresina, outro acesso comum é a rodovia federal BR-304, que vem do oeste do Rio Grande do Norte. Com relação às capitais dos estados mais próximos, o tempo médio de deslocamento de carro entre Natal e João Pessoa (distante 193 km) é de 2h30, entre Natal e Recife (distante 291 km) é de 4h, e entre Natal e Fortaleza (distante 524 km) é de 7h.",
+		"descricao_3": "<b>Chegando a Natal de ônibus.</b> A principal estação de ônibus do Rio Grande do Norte é a Rodoviária de Natal/Terminal Rodoviário Severino Tomaz da Silveira, no bairro Cidade da Esperança. Existem várias empresas de ônibus realizando rotas dentro do Rio Grande do Norte e de/para todas as maiores cidades do Nordeste, além de outras diversas cidades do País. Com relação às capitais dos estados mais próximos, o tempo médio de deslocamento de ônibus entre Natal e João Pessoa (distante 193 km) é de 3h, entre Natal e Recife (distante 291 km) é de 4h40, e entre Natal e Fortaleza (distante 524 km) é de 8h30."
+	},
+
+	"hospedagem": {
+		"titulo": "Hospedagem",
+		"descricao_1": "De acordo com estudos recentes do Instituto Brasileiro de Geografia e Estatística (IBGE), Natal é a segunda capital brasileira no número de leitos por 100 mil habitantes. A rede hoteleira da cidade é bastante diversificada e é capaz de atender às necessidades de públicos com diferentes requisitos de acomodação, variando desde níveis mais modestos, como albergues e pousadas, a níveis luxuosos, como hoteis e resorts na categoria cinco estrelas. Independentemente do tipo de acomodação, a maior parte dos estabelecimentos concentra-se nas proximidades da Via Costeira e da Praia de Ponta Negra, a principal região turística de Natal e distando não mais que seis quilômetros (aproximadamente dez minutos de carro, no máximo) do Wish Natal. Além dos hoteis, pousadas e albergues, há também opções de flats equipados ou mesmo oferecidas através de plataformas digitais, tais como o Airbnb.",
+		"descricao_2": "O período de realização do CBSoft 2020, no final do mês de setembro, está inserido em uma época considerada de baixa estação em Natal, fazendo com que geralmente haja maior disponibilidade de acomodação e valores de diária mais baixos em comparação a outros meses do ano. A Comissão Organizadora do CBSoft 2020 também envidará esforços para estabelecer negociações com alguns estabelecimentos a fim de obter valores diferenciados com desconto para hóspedes que virão a Natal para participar do evento."
+	},
+
+	"org": {
+		"organizacao": "Organização",
+		"org_local": "Coordenação Geral"
+	}
 }
