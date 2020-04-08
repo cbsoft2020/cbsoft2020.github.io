@@ -37,7 +37,7 @@
 		}
 	],
 	"chairs_sbes_ideas": [{
-			"imagem": "avatar-man.png",
+			"imagem": "marco-tulio.jpg",
 			"nome": "Marco Tulio Valente",
 			"universidade": "UFMG",
 			"lattes": "http://lattes.cnpq.br/5065548216266121",
@@ -52,7 +52,7 @@
 		}
 	],
 	"chairs_sbes_education": [{
-			"imagem": "avatar-man.png",
+			"imagem": "igor.jpg",
 			"nome": "Igor Steinmacher",
 			"universidade": "Northern Arizona University",
 			"lattes": "http://lattes.cnpq.br/5065548216266121",
@@ -67,7 +67,7 @@
 		}
 	],
 	"chairs_sbes_tools": [{
-			"imagem": "avatar-woman.jpg",
+			"imagem": "christina.jpg",
 			"nome": "Christina Chavez",
 			"universidade": "UFBA",
 			"lattes": "http://lattes.cnpq.br/5065548216266121",
@@ -148,7 +148,7 @@
 			"email": "ctlls@cin.ufpe.br"
 		},
 		{
-			"imagem": "avatar-man.png",
+			"imagem": "eduardo.jpg",
 			"nome": "Eduardo Guerra",
 			"universidade": "Libera Università di Bolzano",
 			"lattes": "http://lattes.cnpq.br/5525562330158282",
