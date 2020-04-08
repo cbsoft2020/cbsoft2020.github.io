@@ -384,7 +384,74 @@
 	"sblp": {
 		"titulo": "SBLP 2020<br/>24th Brazilian Symposium on Programming Languages",
 		"subtitulo": "Main page",
-		"descricao_1": "The <b>Brazilian Symposium on Programming Languages (SBLP)</b> is a symposium promoted by the Brazilian Computer Society (SBC) that constitutes a forum for students, researchers, and practitioners to present and discuss ideas and innovations in the design, definition, analysis, implementation, and practical use of programming languages."
+		"descricao_1": "The <b>Brazilian Symposium on Programming Languages (SBLP)</b> is a symposium promoted by the Brazilian Computer Society (SBC) that constitutes a forum for students, researchers, and practitioners to present and discuss ideas and innovations in the design, definition, analysis, implementation, and practical use of programming languages.",
+		"secao_datas": "Important Dates",
+		"deadlines_atividades": [
+			"Paper registration (abstract submission)",
+			"Paper submission",
+			"Notification of acceptance",
+			"Camera-ready"
+		],
+		"deadlines": [
+			"May 31, 2020",
+			"June 7, 2020 (strict)",
+			"July 24, 2020",
+			"August 9, 2020"
+		],
+		"descricao_2": "Papers can be written in Portuguese or English. Submissions in English are strongly encouraged since the proceedings will be indexed in the ACM Digital Library. The acceptance of a paper implies that at least one of its authors will register for the symposium to present it. Papers must be original and not simultaneously submitted to another journal or conference.",
+		"descricao_3": "SBLP 2020 will use a lightweight double-blind review process. The manuscripts should be submitted for review anonymously (i.e., without listing the author's names on the paper) and references to own work should be made in third person. Papers must be submitted electronically (in PDF format) via the <a style='color: #f4b321' href='http://www.easychair.org/conferences/?conf=sblp2020'>Easychair</a> system.",
+		"descricao_4": "The following paper categories can be submitted (page limits include figures, references, and appendices):",
+		"categorias_artigos": [
+			"<b>Full papers:</b> up to 8 pages long in the ACM 2-column conference format (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) available at this <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>.",
+			"<b>Short papers:</b> up to 3 pages in the ACM 2-column conference format. Short papers can discuss new ideas that are at an early stage of development or can report partial results of on-going dissertations or theses."
+		],
+		"secao_topicos": "Topics of Interest",
+		"topicos_sblp": [
+			"Programming paradigms and styles, scripting and domain-specific languages, and support for real-time, service-oriented, multi-threaded, parallel, and distributed programming",
+			"Program generation and transformation",
+			"Formal semantics and theoretical foundations: denotational, operational, algebraic, categorical",
+			"Program analysis and verification, type systems, static analysis, and abstract interpretation",
+			"Programming language design and implementation, programming language environments, compilation, and interpretation techniques"
+		],
+		"secao_publicacao": "Paper Publication",
+		"descricao_5": "SBLP proceedings will be published in ACM Digital Library. As in previous editions, authors of selected regular papers will be invited to submit an extended version of their work to be considered for publication in a journal's special issue. Since 2009, selected papers of each SBLP edition are published in a special issue of <i>Science of Computer Programming</i>, by Elsevier.",
+		"secao_comite": "Organização",
+		"comite": [
+			"Program Committee Chair",
+			"Sergio Medeiros (UFRN, Brazil)",
+			"Program Committee",
+			"Alex Garcia (IME, Brazil)",
+			"Alvaro Moreira (UFRGS, Brazil)",
+			"Anamaria Moreira (UFRJ, Brazil)",
+			"André Murbach Maidl (PUCPR, Brazil)",
+			"Bernhard Scholz (The University of Sydney, Australia)",
+			"Beta Ziliani (Universidad Nacional de Córdoba, Argentina)",
+			"Christiano Braga (UFF, Brazil)",
+			"Cristiano Vasconcellos (UDESC, Brazil)",
+			"Fernando Castor (UFPE, Brazil)",
+			"Fernando Pereira (UFMG, Brazil)",
+			"Francisco Sant'Anna (UERJ, Brazil)",
+			"Hans-Wolfgang Loidl (Heriot-Watt University, United Kingdom)",
+			"Henrique Rebêlo (UFPE, Brazil)",
+			"João Paulo Fernandes (University of Coimbra, Portugal)",
+			"Krishna Nandivada (IIT Madras, India)",
+			"Laure Gonnord (University of Lyon, France)",
+			"Leonardo Reis (UFJF, Brazil)",
+			"Louis-Noel Pouchet (Colorado State University, USA)",
+			"Lucilia Figueiredo (UFOP, Brazil)",
+			"Marisa Bigonha (UFMG, Brazil)",
+			"Martin Musicante (UFRN, Brazil)",
+			"Pavlos Petoumenos (University of Manchester, United Kingdom)",
+			"Renato Cerqueira (IBM Research, Brazil)",
+			"Roberto Ierusalimschy (PUC-Rio, Brazil)",
+			"Rodrigo Ribeiro (UFOP, Brazil)",
+			"Sandro Rigo (UNICAMP, Brazil)",
+			"Sérgio Medeiros (UFRN, Brazil)",
+			"Simon Thompson (University of Kent, United Kingdom)",
+			"Tomofumi Yuki (INRIA, France)"
+		],
+		"secao_contato": "Contact",
+		"descricao_6": "All questions about submissions can be emailed to Sérgio Medeiros (<a style='color: #f4b321' href='mailto:sergiomedeiros@ect.ufrn.br'>sergiomedeiros@ect.ufrn.br</a>)."
 	},
 
 	"sast": {

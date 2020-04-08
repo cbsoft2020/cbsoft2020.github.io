@@ -137,6 +137,20 @@
 		"Software reuse (including technical and non-technical issues)",
 		"Variability management"
 	],
+	"topicos_sblp_pt": [
+		"Paradigmas e estilos de programação, linguagens de <i>scripting</i> e de domínio específico e linguagens para suporte a programação em tempo real, programação orientada a serviços, programação <i>multi-threaded</i>, paralela e distribuída",
+		"Geração e transformação de programas",
+		"Semântica formal e arcabouços teóricos, semântica denotacional, operacional, arcabouços algébricos e categóricos",
+		"Análise e verificação de programas, sistemas de tipos, análise estática e interpretação abstrata",
+		"Projeto e implementação de linguagens, ambientes de suporte, compilação e interpretação"
+	],
+	"topicos_sblp_en": [
+		"Programming paradigms and styles, scripting and domain-specific languages, and support for real-time, service-oriented, multi-threaded, parallel, and distributed programming",
+		"Program generation and transformation",
+		"Formal semantics and theoretical foundations: denotational, operational, algebraic, categorical",
+		"Program analysis and verification, type systems, static analysis, and abstract interpretation",
+		"Programming language design and implementation, programming language environments, compilation, and interpretation techniques"
+	],
 	"topicos_sast_pt": [
 		"Teste de software automatizado: ambientes, ferramentas e relatos sobre automação de testes na indústria",
 		"Teste combinatório e teste aleatório",

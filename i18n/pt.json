@@ -383,7 +383,74 @@
 	"sblp": {
 		"titulo": "SBLP 2020<br/>XXIV Simpósio Brasileiro de Linguagens de Programação",
 		"subtitulo": "Página principal",
-		"descricao_1": "O <b>Simpósio Brasileiro de Linguagens de Programação (SBLP)</b> é um simpósio promovido pela Sociedade Brasileira de Computação (SBC) que se constitui como um fórum para que estudantes, pesquisadores e profissionais apresentem e discutam ideias e inovações no projeto, definição, análise, implementação e uso prático de linguagens de programação."
+		"descricao_1": "O <b>Simpósio Brasileiro de Linguagens de Programação (SBLP)</b> é um simpósio promovido pela Sociedade Brasileira de Computação (SBC) que se constitui como um fórum para que estudantes, pesquisadores e profissionais apresentem e discutam ideias e inovações no projeto, definição, análise, implementação e uso prático de linguagens de programação.",
+		"secao_datas": "Datas Importantes",
+		"deadlines_atividades": [
+			"Registro do artigo (submissão do resumo)",
+			"Submissão do artigo",
+			"Notificação de aceitação",
+			"Envio da versão final"
+		],
+		"deadlines": [
+			"31 de maio de 2020",
+			"7 de junho de 2020 (estrito)",
+			"24 de julho de 2020",
+			"9 de agosto de 2020"
+		],
+		"descricao_2": "Os artigos podem ser submetidos em Português ou Inglês. Submissões em Inglês são fortemente recomendadas uma vez que os anais são indexados na biblioteca digital da ACM. A aceitacão de um artigo implica que pelo menos um de seus autores estejam inscritos no simpósio para apresentar o trabalho. Os artigos devem ser originais e não simultaneamente submetidos a outra conferência ou outro periódico.",
+		"descricao_3": "O SBLP 2020 usará um processo de revisão <i>double-blind</i>. Os artigos devem ser submetidos para revisão anonimamente (i.e., sem listar os nomes dos autores no artigo) e referências para outros trabalhos dos autores devem ser feitas na terceira pessoa. Os artigos devem ser submetidos eletronicamente (em <i>Adobe Portable Document Format</i> - PDF) através do sistema <a style='color: #f4b321' href='http://www.easychair.org/conferences/?conf=sblp2020'>Easychair</a>.",
+		"descricao_4": "As seguintes categorias de artigos podem ser submetidos (limites no número de páginas incluem figuras, referências e apêndices):",
+		"categorias_artigos": [
+			"<b>Artigos completos:</b> até 8 páginas no modelo ACM de 2 colunas (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) disponível neste <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>.",
+			"<b>Artigos curtos:</b> até 3 páginas no modelo ACM de 2 colunas. Artigos curtos podem discutir novas ideias em estágio inicial de desenvolvimento ou relatar resultados parciais de dissertações ou teses."
+		],
+		"secao_topicos": "Tópicos de Interesse",
+		"topicos_sblp": [
+			"Paradigmas e estilos de programação, linguagens de <i>scripting</i> e de domínio específico e linguagens para suporte a programação em tempo real, programação orientada a serviços, programação <i>multi-threaded</i>, paralela e distribuída",
+			"Geração e transformação de programas",
+			"Semântica formal e arcabouços teóricos, semântica denotacional, operacional, arcabouços algébricos e categóricos",
+			"Análise e verificação de programas, sistemas de tipos, análise estática e interpretação abstrata",
+			"Projeto e implementação de linguagens, ambientes de suporte, compilação e interpretação"
+		],
+		"secao_publicacao": "Publicação de Artigos",
+		"descricao_5": "Os anais do SBLP serão publicados na biblioteca digital da ACM. Como em edições anteriores, autores de artigos completos selecionados serão convidados a submeter uma versão estendida do seu trabalho para uma edição especial de um periódico científico. Desde 2009, os artigos selecionados de cada edição do SBLP são publicados em uma edição especial do periódico <i>Science of Computer Programming</i>, da Elsevier.",
+		"secao_comite": "Organização",
+		"comite": [
+			"Coordenador de Comitê de Programa",
+			"Sergio Medeiros (UFRN, Brasil)",
+			"Comitê de Programa",
+			"Alex Garcia (IME, Brasil)",
+			"Alvaro Moreira (UFRGS, Brasil)",
+			"Anamaria Moreira (UFRJ, Brasil)",
+			"André Murbach Maidl (PUCPR, Brasil)",
+			"Bernhard Scholz (The University of Sydney, Austrália)",
+			"Beta Ziliani (Universidad Nacional de Córdoba, Argentina)",
+			"Christiano Braga (UFF, Brasil)",
+			"Cristiano Vasconcellos (UDESC, Brasil)",
+			"Fernando Castor (UFPE, Brasil)",
+			"Fernando Pereira (UFMG, Brasil)",
+			"Francisco Sant'Anna (UERJ, Brasil)",
+			"Hans-Wolfgang Loidl (Heriot-Watt University, Reino Unido)",
+			"Henrique Rebêlo (UFPE, Brasil)",
+			"João Paulo Fernandes (Universidade de Coimbra, Portugal)",
+			"Krishna Nandivada (IIT Madras, Índia)",
+			"Laure Gonnord (Université de Lyon, França)",
+			"Leonardo Reis (UFJF, Brasil)",
+			"Louis-Noel Pouchet (Colorado State University, EUA)",
+			"Lucilia Figueiredo (UFOP, Brasil)",
+			"Marisa Bigonha (UFMG, Brasil)",
+			"Martin Musicante (UFRN, Brasil)",
+			"Pavlos Petoumenos (University of Manchester, Reino Unido)",
+			"Renato Cerqueira (IBM Research, Brasil)",
+			"Roberto Ierusalimschy (PUC-Rio, Brasil)",
+			"Rodrigo Ribeiro (UFOP, Brasil)",
+			"Sandro Rigo (UNICAMP, Brasil)",
+			"Sérgio Medeiros (UFRN, Brasil)",
+			"Simon Thompson (University of Kent, Reino Unido)",
+			"Tomofumi Yuki (INRIA, França)"
+		],
+		"secao_contato": "Contato",
+		"descricao_6": "Quaisquer dúvidas sobre o processo de submissão podem ser enviadas por <i>e-mail</i> para Sérgio Medeiros (<a style='color: #f4b321' href='mailto:sergiomedeiros@ect.ufrn.br'>sergiomedeiros@ect.ufrn.br</a>)."
 	},
 
 	"sast": {
