@@ -1,25 +1,172 @@
 {
-  "organizadores": [
-    {
-      "imagem": "everton.jpg",
-      "nome": "Everton Cavalcante",
-      "universidade": "UFRN",
-      "lattes": "http://lattes.cnpq.br/5065548216266121",
-      "email": "everton@dimap.ufrn.br"
-    },
-    {
-      "imagem": "chico.jpg",
-      "nome": "Francisco Dantas",
-      "universidade": "UERN",
-      "lattes": "http://lattes.cnpq.br/5525562330158282",
-      "email": "fdmneto@gmail.com"
-    },
-    {
-      "imagem": "thais.jpg",
-      "nome": "Thais Batista",
-      "universidade": "UFRN",
-      "lattes": "http://lattes.cnpq.br/5521922960404236",
-      "email": "thaisbatista@gmail.com"
-    }
-  ]
+	"general_chairs": [{
+			"imagem": "everton.jpg",
+			"nome": "Everton Cavalcante",
+			"universidade": "UFRN",
+			"lattes": "http://lattes.cnpq.br/5065548216266121",
+			"email": "everton@dimap.ufrn.br"
+		},
+		{
+			"imagem": "chico.jpg",
+			"nome": "Francisco Dantas",
+			"universidade": "UERN",
+			"lattes": "http://lattes.cnpq.br/5525562330158282",
+			"email": "fdmneto@gmail.com"
+		},
+		{
+			"imagem": "thais.jpg",
+			"nome": "Thais Batista",
+			"universidade": "UFRN",
+			"lattes": "http://lattes.cnpq.br/5521922960404236",
+			"email": "thaisbatista@gmail.com"
+		}
+	],
+	"chairs_sbes_research": [{
+			"imagem": "avatar-woman.jpg",
+			"nome": "Tayana Conte",
+			"universidade": "UFAM",
+			"lattes": "http://lattes.cnpq.br/5065548216266121",
+			"email": "tayanaconte@gmail.com"
+		},
+		{
+			"imagem": "castor.jpg",
+			"nome": "Fernando Castor",
+			"universidade": "UFPE",
+			"lattes": "http://lattes.cnpq.br/5525562330158282",
+			"email": "fjclf@cin.ufpe.br"
+		}
+	],
+	"chairs_sbes_ideas": [{
+			"imagem": "avatar-man.png",
+			"nome": "Marco Tulio Valente",
+			"universidade": "UFMG",
+			"lattes": "http://lattes.cnpq.br/5065548216266121",
+			"email": "mtov@dcc.ufmg.br"
+		},
+		{
+			"imagem": "avatar-man.png",
+			"nome": "Marcio Ribeiro",
+			"universidade": "UFAL",
+			"lattes": "http://lattes.cnpq.br/5525562330158282",
+			"email": "marcio@ic.ufal.br"
+		}
+	],
+	"chairs_sbes_education": [{
+			"imagem": "avatar-man.png",
+			"nome": "Igor Steinmacher",
+			"universidade": "Northern Arizona University",
+			"lattes": "http://lattes.cnpq.br/5065548216266121",
+			"email": "igor.steinmacher@nau.edu"
+		},
+		{
+			"imagem": "rodrigo.jpeg",
+			"nome": "Rodrigo Santos",
+			"universidade": "UNIRIO",
+			"lattes": "http://lattes.cnpq.br/5525562330158282",
+			"email": "rps@uniriotec.br"
+		}
+	],
+	"chairs_sbes_tools": [{
+			"imagem": "avatar-woman.jpg",
+			"nome": "Christina Chavez",
+			"universidade": "UFBA",
+			"lattes": "http://lattes.cnpq.br/5065548216266121",
+			"email": "flach@ufba.br"
+		},
+		{
+			"imagem": "elisa.png",
+			"nome": "Elisa Nakagawa",
+			"universidade": "ICMC-USP",
+			"lattes": "http://lattes.cnpq.br/5525562330158282",
+			"email": "elisa@icmc.usp.br"
+		}
+	],
+	"chairs_sbes_ctic": [{
+			"imagem": "avatar-man.png",
+			"nome": "Eduardo Figueiredo",
+			"universidade": "UFMG",
+			"lattes": "http://lattes.cnpq.br/5065548216266121",
+			"email": "figueiredo@dcc.ufmg.br"
+		},
+		{
+			"imagem": "avatar-woman.jpg",
+			"nome": "Maria Augusta Nelson",
+			"universidade": "PUC-Minas",
+			"lattes": "http://lattes.cnpq.br/5525562330158282",
+			"email": "guta@pucminas.br"
+		}
+	],
+	"chairs_sbes_ctd": [{
+			"imagem": "avatar-woman.jpg",
+			"nome": "Ana Regina Rocha",
+			"universidade": "UFRJ",
+			"lattes": "http://lattes.cnpq.br/5065548216266121",
+			"email": "darocha.anaregina@gmail.com"
+		},
+		{
+			"imagem": "avatar-man.png",
+			"nome": "Gleison Santos",
+			"universidade": "UNIRIO",
+			"lattes": "http://lattes.cnpq.br/5525562330158282",
+			"email": "gleison.santos@gmail.com"
+		}
+	],
+	"chairs_sbcars": [{
+		"imagem": "avatar-man.png",
+		"nome": "Gustavo Pinto",
+		"universidade": "UFPA",
+		"lattes": "http://lattes.cnpq.br/5065548216266121",
+		"email": "gpinto@ufpa.br"
+	}],
+	"chairs_sast": [{
+			"imagem": "wilkerson.jpg",
+			"nome": "Wilkerson Andrade",
+			"universidade": "UFCG",
+			"lattes": "http://lattes.cnpq.br/5065548216266121",
+			"email": "wilkerson@computacao.ufcg.edu.br"
+		},
+		{
+			"imagem": "vania.jpg",
+			"nome": "Vânia Neves",
+			"universidade": "UFF",
+			"lattes": "http://lattes.cnpq.br/5525562330158282",
+			"email": "vania@ic.uff.br"
+		}
+	],
+	"chairs_sblp": [{
+		"imagem": "sergio.jpg",
+		"nome": "Sergio Medeiros",
+		"universidade": "UFRN",
+		"lattes": "http://lattes.cnpq.br/5065548216266121",
+		"email": "sergiomedeiros@ect.ufrn.br"
+	}],
+	"chairs_wtdsoft": [{
+			"imagem": "avatar-woman.jpg",
+			"nome": "Carla Silva",
+			"universidade": "UFPE",
+			"lattes": "http://lattes.cnpq.br/5065548216266121",
+			"email": "ctlls@cin.ufpe.br"
+		},
+		{
+			"imagem": "avatar-man.png",
+			"nome": "Eduardo Guerra",
+			"universidade": "Libera Università di Bolzano",
+			"lattes": "http://lattes.cnpq.br/5525562330158282",
+			"email": "guerraem@gmail.com"
+		}
+	],
+	"chairs_industry": [{
+		"imagem": "jair.jpg",
+		"nome": "Jair Leite",
+		"universidade": "UFRN",
+		"lattes": "http://lattes.cnpq.br/5065548216266121",
+		"email": "jair@dimap.ufrn.br"
+	}],
+	"chairs_workshops": [{
+		"imagem": "thelma.jpg",
+		"nome": "Thelma Colanzi",
+		"universidade": "UEM",
+		"lattes": "http://lattes.cnpq.br/5065548216266121",
+		"email": "thelma.lopes@din.uem.br"
+	}]
 }
