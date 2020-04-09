@@ -19,6 +19,8 @@
 		"trilha_educacao": "Trilha de Educação",
 		"trilha_ideias_inovadoras": "Trilha de Ideias Inovadoras e Resultados Emergentes",
 		"trilha_ferramentas": "Trilha de Ferramentas",
+		"ctic-es": "Concurso de Trabalhos de Iniciação Científica",
+		"ctd-es": "Concurso de Teses e Dissertações",
 		"palestras": "Palestras",
 		"chamada_trabalhos": "Chamada de Trabalhos",
 		"chamada_workshops": "Chamada de Workshops",
@@ -41,9 +43,9 @@
 			"o <a href='sbes.php' style='color: #f4b321'>XXXIV Simpósio Brasileiro de Engenharia de Software (SBES)</a>, o principal evento de Engenharia de Software na América Latina;",
 			"o <a href='sbcars.php' style='color: #f4b321'>XIV Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS)</a>, que agrega tópicos como linhas de produto de software, desenvolvimento de software baseado em componentes, arquiteturas de software e reutilização;",
 			"o <a href='sblp.php' style='color: #f4b321'>XXIV Simpósio Brasileiro de Linguagens de Programação (SBLP)</a>, que possui enfoque no estudo teórico e prático de linguagens de programação, e;",
-			"o <a href='sast.php' style='color: #f4b321'>V Simpósio Brasileiro de Teste de Software Sistemático Automatizado (SAST)</a>, que versa sobre questões relacionadas à sistematização e automação da atividade de teste de software."
+			"o <a href='sast.php' style='color: #f4b321'>V Simpósio Brasileiro de Teste de Software Sistemático e Automatizado (SAST)</a>, que versa sobre questões relacionadas à sistematização e automação da atividade de teste de software."
 		],
-		"descricao_3": "A programação do CBSoft inclui sessões técnicas com apresentações de artigos científicos, palestras proferidas por pesquisadores brasileiros e estrangeiros de renome nacional e internacional, painéis de discussão, workshops, demonstrações de ferramentas, tutoriais e minicursos ministrados por conceituados especialistas em suas respectivas temáticas. Todas essas diversas atividades de interesse da comunidade de Engenharia de Software e de áreas relacionadas ao desenvolvimento de sistemas de software direcionam-se para a difusão do conhecimento e discussão de questões importantes relacionadas à pesquisa, desenvolvimento e inovação, tanto no Brasil quanto no mundo."
+		"descricao_3": "A programação do CBSoft incluirá sessões técnicas com apresentações de artigos científicos, palestras proferidas por pesquisadores brasileiros e estrangeiros de renome nacional e internacional, painéis de discussão, workshops, demonstrações de ferramentas, tutoriais e minicursos ministrados por conceituados especialistas em suas respectivas temáticas. Além disso, haverá também reuniões das Comissões Especiais e dos Comitês Diretivos dos quatro simpósios principais e do próprio CBSoft, visando discutir o andamento das atividades, planejamento e perspectivas para as próximas edições do evento. Todas essas diversas atividades de interesse da comunidade de Engenharia de Software e de áreas relacionadas ao desenvolvimento de sistemas de software direcionam-se para a difusão do conhecimento e discussão de questões importantes relacionadas à pesquisa, desenvolvimento e inovação, tanto no Brasil quanto no mundo."
 	},
 
 	"speakers": {
@@ -311,6 +313,16 @@
 		],
 		"secao_contato": "Contato",
 		"descricao_21b": "Para mais informações, pode-se consultar a página Web do CBSoft 2020 ou entrar em contato com os Coordenadores do Comitê de Programa (<a style='color: #f4b321' href='rps@uniriotec.br'>rps@uniriotec.br</a> e <a style='color: #f4b321' href='igor.steinmacher@nau.edu'>igor.steinmacher@nau.edu</a>). Deve-se utilizar o título &quot;SBES Trilha de Educação: Dúvidas sobre o processo de submissão&quot;."
+	},
+	
+	"ctic-es": {
+		"titulo": "SBES 2020<br/>XXXIV Simpósio Brasileiro de Engenharia de Software",
+		"subtitulo": "Concurso de Trabalhos de Iniciação Científica em Engenharia de Software"
+	},
+	
+	"ctd-es": {
+		"titulo": "SBES 2020<br/>XXXIV Simpósio Brasileiro de Engenharia de Software",
+		"subtitulo": "Concurso de Teses e Dissertações em Engenharia de Software"
 	},
 
 	"sbcars": {
