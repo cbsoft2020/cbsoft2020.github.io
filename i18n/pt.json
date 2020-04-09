@@ -299,11 +299,11 @@
 			"Rodrigo Pereira dos Santos (UNIRIO, Brasil)",
 			"Coordenadores de Comitê de Programa - Trilha de Ferramentas",
 			"Christina von Flach G. Chavez (UFBA, Brasil)",
-			"Elisa Yumi Nakagawa (ICMC/USP, Brasil)",
+			"Elisa Yumi Nakagawa (ICMC-USP, Brasil)",
 			"Comitê Diretivo do SBES",
 			"Fabiano Cutigi Ferrari (UFSCar, Brasil)",
 			"Fernando Castor (UFPE, Brasil)",
-			"Jose Carlos Maldonado (ICMC/USP, Brasil)",
+			"Jose Carlos Maldonado (ICMC-USP, Brasil)",
 			"Márcio Ribeiro (UFAL, Brasil)",
 			"Marco Aurélio Gerosa (Northern Arizona University, EUA)",
 			"Marco Túlio Valente (UFMG, Brasil)",
@@ -314,15 +314,69 @@
 		"secao_contato": "Contato",
 		"descricao_21b": "Para mais informações, pode-se consultar a página Web do CBSoft 2020 ou entrar em contato com os Coordenadores do Comitê de Programa (<a style='color: #f4b321' href='rps@uniriotec.br'>rps@uniriotec.br</a> e <a style='color: #f4b321' href='igor.steinmacher@nau.edu'>igor.steinmacher@nau.edu</a>). Deve-se utilizar o título &quot;SBES Trilha de Educação: Dúvidas sobre o processo de submissão&quot;."
 	},
-	
+
 	"ctic-es": {
 		"titulo": "SBES 2020<br/>XXXIV Simpósio Brasileiro de Engenharia de Software",
 		"subtitulo": "Concurso de Trabalhos de Iniciação Científica em Engenharia de Software"
 	},
-	
+
 	"ctd-es": {
 		"titulo": "SBES 2020<br/>XXXIV Simpósio Brasileiro de Engenharia de Software",
-		"subtitulo": "Concurso de Teses e Dissertações em Engenharia de Software"
+		"subtitulo": "Concurso de Teses e Dissertações em Engenharia de Software",
+		"descricao_1": "O <b>Concurso de Teses e Dissertações em Engenharia de Software (CTD-ES)</b> visa divulgar e premiar as melhores teses de Doutorado e dissertações de Mestrado na área de Engenharia de Software concluídas, defendidas e aprovadas no Brasil no ano de 2019. Serão premiadas as teses e dissertações com contribuição significativa e destacada para a área científica de Engenharia de Software além de relevante impacto para a sociedade e para a indústria de software.",
+		"secao_premiacao": "Premiação",
+		"descricao_2": "Serão premiados até seis trabalhos correspondentes às três melhores teses de Doutorado e às três melhores dissertações de Mestrado. Os trabalhos deverão, obrigatoriamente, ser apresentados durante o XXXIV Simpósio Brasileiro de Engenharia de Software (SBES 2020) pelo estudante.",
+		"secao_publico-alvo": "Público Alvo",
+		"descricao_3": "Podem enviar trabalhos ao CTD-ES doutores e mestres na área de Engenharia de Software que defenderam suas teses ou dissertações, no Brasil, no ano de 2019, ou seja, no período de 1º de janeiro a 31 de dezembro de 2019.",
+		"secao_submissao": "Submissão",
+		"descricao_4": "Os candidatos deverão submeter os trabalhos eletronicamente, pelo sistema <a style='color: #f4b321' href='http://submissoes.sbc.org.br'>JEMS</a>. No momento da submissão deve-se escolher a trilha que for correspondente ao trabalho (dissertação de Mestrado ou tese de doutorado). <b>Será aceita apenas uma submissão, em cada categoria, por orientador principal.</b>",
+		"descricao_5": "Os seguintes documentos deverão ser submetidos, em conjunto:",
+		"documentos_submissao": [
+			"Texto integral da tese ou dissertação, em <i>Adobe Portable Document Format</i> (PDF).",
+			"Artigo resumo do trabalho em <i>Adobe Portable Document Format</i> (PDF) no modelo ACM de 2 colunas (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) disponível neste <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>. As submissões não devem ter mais de 10 páginas, incluindo todas as figuras e referências.",
+			"Uma carta do orientador principal."
+		],
+		"descricao_6": "O conteúdo da carta do orientador principal deve:",
+		"items_carta_orientador": [
+			"Destacar a contribuição do trabalho à Engenharia de Software, os aspectos pelos quais acredita que o candidato merece o prêmio e a lista de artigos (publicados, aceitos e/ou submetidos aguardando avaliação) com a indicação do mais relevante.",
+			"Indicar os subprodutos do trabalho, tais como patentes, programas registrados, programas de domínio público/livre e bancos de dados que o trabalho disponibilize para acesso público (com as respectivas URLs), assim como outras informações consideradas pertinentes.",
+			"Informar o nome do Programa de Pós-graduação, o número de telefone do Coordenador do Programa, a data da defesa da tese/dissertação, título da tese/dissertação, o nome do candidato, os nomes do(s) orientador(es) e dos membros da banca, com endereço de <i>e-mail</i>.",
+			"Indicar se o artigo submetido é (i) original, (ii) já foi aceito/publicado em outro evento ou periódico ou (iii) está em processo de avaliação em outro evento ou periódico. Caso o artigo não seja original, deve-se indicar o veículo de publicação ou no qual está sob processo de revisão."
+		],
+		"descricao_7": "A publicação do artigo nos anais do SBES 2020 obedecerá às seguintes regras:",
+		"publicacao": [
+			"Se o artigo for original, será publicado o artigo completo.",
+			"Se o artigo não for original, ou seja, já tiver sido publicado em outro evento (inclusive no SBES), a versão a ser publicada nos anais do evento será um resumo (1 página) preparado pelos autores (versão indicando a referência completa do evento da outra publicação)."
+		],
+		"secao_selecao": "Seleção",
+		"descricao_8": "Somente serão aceitos trabalhos cujo foco seja Engenharia de Software, em Português ou em Inglês, que expandam ou aprofundem o conhecimento nesta área. Não serão aceitos trabalhos em que a contribuição à Engenharia de Software seja marginal. Será aceito no processo de seleção apenas um trabalho, em cada categoria, indicado pelo orientador principal. Isso implica que os orientadores devem fazer uma primeira seleção e indicar as que considera a melhor tese e/ou dissertação do ano 2019 em que atuou como orientador principal.",
+		"descricao_9": "As teses e dissertações submetidas ao CTD-ES passarão por um processo de avaliação por um comitê composto por profissionais de Instituições de Ensino e Pesquisa com reconhecida atuação na área de Engenharia de Software. Membros do Comitê de Avaliação que foram orientadores de candidatos concorrendo em uma das categorias (Mestrado ou Doutorado) avaliarão trabalhos somente da outra categoria.",
+		"descricao_10": "Serão convidados até três artigos por categoria (Mestrado e Doutorado) para apresentação durante o SBES 2020. O autor que defendeu o trabalho de Mestrado ou Doutorado (e somente ele) deverá fazer a apresentação oral do trabalho, em no máximo 20 minutos, para uma banca, que avaliará a qualidade da apresentação e poderá fazer perguntas. A classificação final do CTD-ES levará em consideração a avaliação do texto completo do trabalho e da apresentação realizada durante o evento.",
+		"secao_datas": "Datas Importantes",
+		"deadlines_atividades": [
+			"Submissão do trabalho (incluindo toda a documentação solicitada)",
+			"Divulgação dos finalistas"
+		],
+		"deadlines": [
+			"11 de maio de 2020",
+			"3 de agosto de 2020"
+		],
+		"secao_comite": "Organização",
+		"comite": [
+			"Coordenadores de Comitê de Programa",
+			"Ana Regina Rocha (COPPE-UFRJ, Brasil)",
+			"Gleison Santos (UNIRIO, Brasil)",
+			"Comitê Diretivo do SBES",
+			"Fabiano Cutigi Ferrari (UFSCar, Brasil)",
+			"Fernando Castor (UFPE, Brasil)",
+			"Jose Carlos Maldonado (ICMC-USP, Brasil)",
+			"Márcio Ribeiro (UFAL, Brasil)",
+			"Marco Aurélio Gerosa (Northern Arizona University, EUA)",
+			"Marco Túlio Valente (UFMG, Brasil)",
+			"Rafael Prikladnicki (PUCRS, Brasil)",
+			"Tayana Conte (UFAM, Brasil)",
+			"Uirá Kulesza (UFRN, Brasil)"
+		]
 	},
 
 	"sbcars": {
