@@ -76,9 +76,62 @@
 		"descricao_2": "The Industry Track aims to discuss the possibilities of academia-industry and academia-government cooperations towards the establishment of conditions and funding to research, development, and innovation, as well as the formation of high-quality human resources in an integrated way. Another perspective is developing free software products and possible impacts in legal concerns and business models. These perspectives foster the technology transfer and the tendency to narrow the generation and effective use of research, development, and innovation results."
 	},
 
-	"workshop-teses-dissertacoes": {
-		"titulo": "Workshop on Theses and Dissertations",
-		"descricao_1": "The CBSoft Workshop on Theses and Dissertations (WTDSoft) is an event dedicated to the presentation and discussion of ongoing Master and PhD works on Software Engineering, programming languages, and software testing."
+	"wtdsoft": {
+		"titulo": "WTDSoft 2020<br/>10th Workshop on Theses and Dissertations",
+		"descricao_1": "The <b>CBSoft's Workshop on Theses and Dissertations (WTDSoft)</b> is dedicated to the presentation and discussion of Master's and PhD work in progress on Software Engineering and Programming Languages. WTDSoft has its origins in the Workshop on Software Engineering Theses and Dissertations (WTES), which was part of SBES from 1996 to 2020. It seeks to promote the integration of SBES, SBLP, SBCARS, and SAST communities aiming at providing a constructive environment for discussions among students with work in progress and researchers.",
+		"secao_eligibilidade_avaliacao": "Eligibility and Evaluation",
+		"descricao_2": "Master's or Doctoral works are eligible for submissions, preferrably:",
+		"criterios_eligibilidade" : [
+			"Doctoral work with a defined proposal (not necessarily approved)",
+			"Master's work with an approved proposal (desirable, but not mandatory) and expected deadline after December 2020",
+			"Works that have not been accepted or presented in other workshops on theses and dissertations"
+		],
+		"descricao_3": "The works will be evaluated and selected by the Program Committee. Each work will receive feedback from the Program Committee with questions and suggestions about its content. These comments should be used by the author in the preparation of the paper's final version. Selected papers will be presented and discussed during WTDSoft, with Program Committee members and invited researchers. Acceptance of the work implies the author's registration in WTDSoft (and also in CBSoft) and his/her presence for the presentation of the work. The presentation may be in Portuguese or English. The author is assumed to be the graduate student responsible for the development of the thesis or dissertation.",
+		"secao_submissao": "Submission Guidelines",
+		"descricao_4": "The paper must follow the Brazilian Computer Society (SBC) template, A4 size, containing a cover page and p to 6 pages of contents for Master's work and 8 pages of contents for Doctoral work (7 and 9 pages, respectively). Word and LaTeX can be found at the SBC webpage, following the Model for Paper Publication available at this <a style='color: #f4b321' href='https://tinyurl.com/h24v37f'>link</a>.",
+		"descricao_5": "The papers must contain a cover page containing only:",
+		"itens_folharosto": [
+			"Title of the work",
+			"Student's name",
+			"Advisor's name(s)",
+			"Level (Master's or PhD)",
+			"Graduate Program",
+			"Student's e-mail address",
+			"Advisor's e-mail address(es)",
+			"Entry year in the Program",
+			"Expected date for final presentation",
+			"Date of approval of the thesis/dissertation proposal (qualification)",
+			"Abstract in Portuguese or English",
+			"Keywords",
+			"Acronym(s) of the related CBSoft symposia (SBES, SBCARS, SBLP, SAST)"
+		],
+		"descricao_6": "The content of the work should start in the second page, describing clearly and objectively:",
+		"itens_conteudo": [
+			"Problem characterization",
+			"Background",
+			"Contributions",
+			"Current state of the work",
+			"Description and evaluation of results",
+			"Comparison with related work"
+		],
+		"descricao_7": "All papers must be written in Portuguese or English and submitted through the <a style='color: #f4b321' href='http://submissoes.sbc.org.br'>JEMS</a>. The final version of the accepted papers should contain an informal letter or message from the advisor acknowledging the submission. The number of pages reported in JEMS refers to content pages, not including the cover page or letter of agreement.",
+		"secao_datas": "Important Dates",
+		"deadlines_atividades": [
+			"Paper submission",
+			"Notification of acceptance",
+			"Camera-ready"
+		],
+		"deadlines": [
+			"June 7, 2020",
+			"July 12, 2020",
+			"July 22, 2020"
+		],
+		"secao_comite": "Organização",
+		"comite": [
+			"Program Committee Chairs",
+			"Carla Silva (UFPE, Brazil)",
+			"Eduardo Guerra (Free University of Bozen-Bolzano, Italy)"
+		]
 	},
 
 	"codigo-conduta": {
@@ -623,9 +676,9 @@
 		"descricao_8": "Pre-approved workshops are automatically accepted since the required information is submitted. Information provided for a pre-approved workshop will be analyzed by the Workshops Evaluation Committee with the goal of providing feedback for future workshop editions. A workshop might lose the pre-approved status due to decreasing submissions number over years or due to any other reason judged by the Workshops Evaluation Committee.",
 		"secao_deadlines": "Important dates",
 		"deadlines": [
-			"Workshop proposal submission: April 13, 2020",
-			"Notification to proponents: April 20, 2020",
-			"Delivery of papers to the CBSoft 2020 General Chairs: August 3, 2020"
+			"Workshop proposal submission: <strike>April 13, 2020</strike> <span style='color: red; font-weight: bold'>April 24, 2020</span>",
+			"Notification to proponents: <strike>April 20, 2020</strike> <span style='color: red; font-weight: bold''>May 4, 2020</span>",
+			"Camera-ready of papers: <strike>August 3, 2020</strike> <span style='color: red; font-weight: bold''>To be defined</span>"
 		],
 		"secao_comite": "Evaluation Committee",
 		"comite": [

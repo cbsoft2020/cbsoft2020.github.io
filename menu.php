@@ -21,7 +21,7 @@
               <a class="dropdown-item" href="trilha-industrial.php" data-i18n="menu.trilha_industria">Trilha da Indústria</a>
               <a class="dropdown-item" href="#" data-i18n="menu.tutoriais">Tutoriais</a>
               <a class="dropdown-item" href="#" data-i18n="menu.minicursos">Minicursos</a>
-              <a class="dropdown-item" href="workshop-teses-dissertacoes.php" data-i18n="menu.wtdsoft">Workshop de Teses e Dissertações</a>
+              <a class="dropdown-item" href="wtdsoft.php" data-i18n="menu.wtdsoft">Workshop de Teses e Dissertações</a>
               <a class="dropdown-item" href="codigo-conduta.php" data-i18n="menu.codigo_conduta">Código de Conduta</a>
               <a class="dropdown-item" href="edicoes-anteriores.php" data-i18n="menu.edicoes_anteriores">Edições Anteriores</a>
             </div>
