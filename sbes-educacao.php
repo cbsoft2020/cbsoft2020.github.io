@@ -95,12 +95,6 @@
 					</div>
 					
 					<br/>
-					<h5 data-i18n="sbes.secao_contato"></h5>
-					<div class="description-one">
-						<p data-i18n="sbes.descricao_21b"></p>
-					</div>
-					
-					<br/>
 					<h5 data-i18n="sbes.secao_comite"></h5>
 					<div class="description-one">
 						<strong><p data-i18n="sbes.comite.10"></p></strong>
