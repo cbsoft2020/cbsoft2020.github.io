@@ -1,18 +1,15 @@
 <nav class="navbar main-nav border-less fixed-top navbar-expand-lg p-0">
     <div class="container-fluid p-0">
-        <!-- logo -->
         <a class="navbar-brand" href="index.php">
           <img src="images/logo_lateral.png" width="100%" alt="logo">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="fa fa-bars"></span>
+        	<span class="fa fa-bars"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav mx-auto">
           <li class="nav-item dropdown active dropdown-slide">
-            <a class="nav-link" href="#"  data-toggle="dropdown">CBSoft 2020
-            </a>
-            <!-- Dropdown list -->
+            <a class="nav-link" href="#"  data-toggle="dropdown">CBSoft 2020</a>
             <div class="dropdown-menu">
               <a class="dropdown-item" href="organizacao.php" data-i18n="menu.organizacao">Organização</a>
               <a class="dropdown-item" href="index.php#org-apoio-patro" data-i18n="menu.patrocinio">Patrocínio</a>
@@ -27,9 +24,7 @@
             </div>
           </li>
           <li class="nav-item dropdown dropdown-slide">
-            <a class="nav-link" href="#" data-toggle="dropdown">SBES
-            </a>
-            <!-- Dropdown list -->
+            <a class="nav-link" href="#" data-toggle="dropdown">SBES</a>
             <div class="dropdown-menu">
               <a class="dropdown-item" href="sbes.php" data-i18n="menu.home_SBES">Página Principal</a>
               <a class="dropdown-item" href="sbes-pesquisa.php" data-i18n="menu.trilha_pesquisa">Trilha de Pesquisa</a>
@@ -42,9 +37,7 @@
             </div>
           </li>
           <li class="nav-item dropdown dropdown-slide">
-              <a class="nav-link" href="#" data-toggle="dropdown">SBCARS
-              </a>
-              <!-- Dropdown list -->
+              <a class="nav-link" href="#" data-toggle="dropdown">SBCARS</a>
               <div class="dropdown-menu">
                 <a class="dropdown-item" href="sbcars.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a>
                 <a class="dropdown-item" href="sbcars.php" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>
@@ -52,9 +45,7 @@
               </div>
           </li>
           <li class="nav-item dropdown dropdown-slide">
-              <a class="nav-link" href="#" data-toggle="dropdown">SBLP
-              </a>
-              <!-- Dropdown list -->
+              <a class="nav-link" href="#" data-toggle="dropdown">SBLP</a>
               <div class="dropdown-menu">
                 <a class="dropdown-item" href="sblp.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a>
                 <a class="dropdown-item" href="sblp.php" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>
@@ -62,9 +53,7 @@
               </div>
           </li>
           <li class="nav-item dropdown dropdown-slide">
-              <a class="nav-link" href="#" data-toggle="dropdown">SAST
-              </a>
-              <!-- Dropdown list -->
+              <a class="nav-link" href="#" data-toggle="dropdown">SAST</a>
               <div class="dropdown-menu">
                 <a class="dropdown-item" href="sast.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a>
                 <a class="dropdown-item" href="sast.php" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>
@@ -72,28 +61,24 @@
               </div>
           </li>
           <li class="nav-item dropdown dropdown-slide">
-              <a class="nav-link" href="#">Workshops
-              </a>
-              <!-- Dropdown list -->
+              <a class="nav-link" href="#">Workshops</a>
               <div class="dropdown-menu">
                   <a class="dropdown-item" href="workshops.php" data-i18n="menu.chamada_workshops">Chamada de Workshops</a>
               </div>
           </li>
+		  <!--
           <li class="nav-item dropdown dropdown-slide">
-              <a class="nav-link" href="#" data-i18n="menu.informacoes">Informações
-              </a>
-              <!-- Dropdown list -->
+              <a class="nav-link" href="#" data-i18n="menu.informacoes">Informações</a>
               <div class="dropdown-menu">
-                  <!-- <a class="dropdown-item" href="local.php" data-i18n="menu.local">Local do Evento</a> -->
-				  <a class="dropdown-item" href="#" data-i18n="menu.local">Local do Evento</a>
-                  <a class="dropdown-item" href="sobre-natal.php" data-i18n="menu.natal">Sobre Natal</a>
+                  <a class="dropdown-item" href="local.php" data-i18n="menu.local">Local do Evento</a>
+				  <a class="dropdown-item" href="sobre-natal.php" data-i18n="menu.natal">Sobre Natal</a>
                   <a class="dropdown-item" href="informacoes-viagem.php" data-i18n="menu.infoViagem">Informações de Viagem</a>
                   <a class="dropdown-item" href="hospedagem.php" data-i18n="menu.hospedagem">Hospedagem</a>
               </div>
           </li>
+		  -->
           <li class="nav-item">
-              <a class="nav-link" href="#" data-i18n="menu.contato">Contato
-              </a>
+              <a class="nav-link" href="#" data-i18n="menu.contato">Contato</a>
           </li>
           <li class="nav-item">
               <form style="margin-right: 5px">
@@ -110,7 +95,7 @@
     </div>
   </nav>
 
-  <!--============================
+<!--============================
 =            Banner            =
 =============================-->
 
