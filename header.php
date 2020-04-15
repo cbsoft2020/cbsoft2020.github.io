@@ -51,5 +51,21 @@
 
   <!-- FAVICON -->
   <link href="images/favicon.png" rel="shortcut icon">
+	
+  <script src="https://code.jquery.com/jquery-1.11.2.min.js"></script>
+	
+  <style type="text/css">
+	  .modal-header {
+		  height: 50px;
+		  background-color: #f4b321;
+	  }
+	  .modal-body p, ol li {
+		  color: black;
+		  line-height: 20px;
+		  font-size: 14.5px;
+		  margin-bottom: 10px;
+		  text-align: justify;
+	  }
+  </style>
 
 </head>

@@ -38,7 +38,7 @@
 		"realizacao": "Promoted by",
 		"copyright": "All rights reserved",
 		"descricao_1": "The Brazilian Conference on Software: Practice and Theory (CBSoft) is an event annually promoted by the Brazilian Computer Society (SBC) aiming at fostering the exchange of experience among researchers and practitioners from industry and academia about the most recent research, tendencies, and theoretical and practical innovations on software. Held since 2010 as an aggregating event of Brazilian symposia promoted by SBC on software, CBSoft has become one of the main conferences of the Brazilian scientific community on Computing.",
-		"descricao_2": "In 2020, the 11th edition of CBSoft will be held in Natal, Rio Grande do Norte. It will integrate four traditional events annualy promoted by the Brazilian community on Software Engineering:",
+		"descricao_2": "In 2020, the 11th edition of CBSoft will be held, for the first time, in a virtual format. It will integrate four traditional events annualy promoted by the Brazilian community on Software Engineering:",
 		"desc_eventos": [
 			"the <a href='sbes.php' style='color: #f4b321'>34th Brazilian Symposium on Software Engineering (SBES)</a>, the premier conference on Software Engineering in Latin America;",
 			"the <a href='sbcars.php' style='color: #f4b321'>14th Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS)</a>, which aggregates topics such as software product lines, component-based software development, software architectures, and reuse;",
@@ -46,6 +46,24 @@
 			"the <a href='sast.php' style='color: #f4b321'>5th Brazilian Symposium on Systematic Automated Software Testing (SAST)</a>, which is about issues related to the systematization and automation of the software testing activity."
 		],
 		"descricao_3": "The CBSoft programme will include technical sessions with presentation of scientific papers, keynotes by nationally and internationally renowned Brazilian and foreign researchers, discussion panels, workshops, tool demonstrations, tutorials, and courses given by experts on their subjects. Furthermore, there will be meetings of the Special Committees and Steering Committees of the four main symposia and of CBSoft itself, aiming at discussing ongoing and planned activities, as well as perspectives for the next editions of the conference. All these activites of interest of the Software Engineering community and fields related to the development of software systems go towards the diffusion of knowledge and discussion of important issues related to research, development, and innovation in both Brazil and the world."
+	},
+
+	"notice": {
+		"title": "Message from CBSoft 2020 General Chairs",
+		"paragraph_1": "Message from CBSoft 2020 General Chairs",
+		"paragraph_2": "We hope that you are well, as well as your families and friends.<br/>We also hope for the rapid recovery of those who may have fallen ill.",
+		"paragraph_3": "We are following the evolution of COVID-19 in the world and in Brazil, where the number of cases has grown every day, together (unfortunately) with the number of deaths. The current scenario is also made of travel restrictions, imposed social isolation, and determinations to be followed in favor of the health of all. Furthermore, there are great uncertainties regarding when the spread of the novel coronavirus (SARS-CoV-2) will cease in Brazil as well as the scale of the impacts of the pandemic in the country, in terms of economy, society, and how to recover from the state of calamity in which we are.",
+		"paragraph_4": "After several discussions and a survey with the community, the CBSoft 2020 Organizing Committee and the CBSoft Steering Committee have reached the following decisions:",
+		"decisions": [
+			"To postpone CBSoft 2020 to October 19-23, 2020",
+			"To reconfigure CBSoft 2020 to a virtual format, rather than holding it in person in Natal",
+			"To reduce registration rates (to be announced soon) and make them compatible with the new format of CBSoft 2020"
+		],
+		"paragraph_5": "We acknowledge that some people may feel frustrated by the decisions, but it is important to highlight that making these decisions was not an easy task. More importantly: our concerns for the health of all prospective CBSoft 2020 attendees as well as prudent actions for the sustainability of the CBSoft series are above all.",
+		"paragraph_6": "A conference of the size and scope of CBSoft has many complexities to consider. Clearly, there will be other logistic issues that we have not yet addressed, as well as other ones that we have not even imagined. Nonetheless, we are highly committed to continue working hard for a successful CBSoft 2020.",
+		"paragraph_7": "Further information will be published soon in the CBSoft 2020 website and social media.",
+		"signature_gc": "<i>Everton Cavalcante, Francisco Dantas, and Thais Batista<br/>CBSoft 2020 General Chairs</i>",
+		"signature_sc": "<i>Ivan Machado<br/>CBSoft Steering Committee Chair</i>"
 	},
 
 	"speakers": {
@@ -81,7 +99,7 @@
 		"descricao_1": "The <b>CBSoft's Workshop on Theses and Dissertations (WTDSoft)</b> is dedicated to the presentation and discussion of Master's and PhD work in progress on Software Engineering and Programming Languages. WTDSoft has its origins in the Workshop on Software Engineering Theses and Dissertations (WTES), which was part of SBES from 1996 to 2020. It seeks to promote the integration of SBES, SBLP, SBCARS, and SAST communities aiming at providing a constructive environment for discussions among students with work in progress and researchers.",
 		"secao_eligibilidade_avaliacao": "Eligibility and Evaluation",
 		"descricao_2": "Master's or Doctoral works are eligible for submissions, preferrably:",
-		"criterios_eligibilidade" : [
+		"criterios_eligibilidade": [
 			"Doctoral work with a defined proposal (not necessarily approved)",
 			"Master's work with an approved proposal (desirable, but not mandatory) and expected deadline after December 2020",
 			"Works that have not been accepted or presented in other workshops on theses and dissertations"
@@ -368,12 +386,12 @@
 		"secao_contato": "Contact",
 		"descricao_21b": "More information is available at the CBSoft 2020 website or by contacting the Program Chairs (<a style='color: #f4b321' href='rps@uniriotec.br'>rps@uniriotec.br</a> e <a style='color: #f4b321' href='igor.steinmacher@nau.edu'>igor.steinmacher@nau.edu</a>). The subject &quot;SBES Education Track: Doubts about the submission process&quot; shall be used."
 	},
-	
+
 	"ctic-es": {
 		"titulo": "SBES 2020<br/>34th Brazilian Symposium on Software Engineering",
 		"subtitulo": "Undergraduate Research on Software Engineering Competition"
 	},
-	
+
 	"ctd-es": {
 		"titulo": "SBES 2020<br/>34th Brazilian Symposium on Software Engineering",
 		"subtitulo": "Thesis and Dissertation on Software Engineering Competition",
