@@ -44,10 +44,10 @@
 				<p data-i18n="notice.paragraph_6"></p>
 				<p data-i18n="notice.paragraph_7"></p>
 				<div style="width: 100%; overflow: hidden; margin-top: 20px">
-					<div style="width: 400px; float: left;">
+					<div style="width: 420px; float: left;">
 						<p data-i18n="notice.signature_gc"></p>
 					</div>
-					<div style="margin-left: 420px">
+					<div style="margin-left: 400px">
 						<p style="text-align: right" data-i18n="notice.signature_sc"></p>
 					</div>
 				</div>
