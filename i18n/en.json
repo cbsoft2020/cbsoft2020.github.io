@@ -181,6 +181,7 @@
 		"descricao_1a": "The Brazilian Symposium on Software Engineering (SBES), annually promoted by the Brazilian Computer Society (SBC), is the premier Software Engineering event in Latin America. SBES is held in conjunction with CBSoft. The SBES Research Track is the main track of the symposium. It publishes solid, well-evaluated contributions to the state-of-the-art in the area of Software Engineering. Papers in this track are reviewed based on originality, relevance, technical soundness, and clarity of presentation. The symposium proceedings will be published in the ACM Digital Library.",
 		"descricao_1b": "The Education Track of the Brazilian Symposium on Software Engineering (SBES), formerly known as FEES - Education in Software Engineering Forum, focuses on the discussion of challenges, good practices, and innovations in teaching Software Engineering. It seeks quality submissions covering curriculum development, empirical studies, best practices, personal or institutional experiences, and conceptual or theoretical work. Papers in this track are reviewed based on their originality, relevance, technical soundness, and clarity of presentation.",
 		"descricao_1c": "The Tools Track is an important part of the Brazilian Symposium on Software Engineering (SBES). The goal of this track is providing a forum for presentation and demonstration of automated solutions that support the process of developing and managing software systems. It consists of both theoretical presentations and practical exhibitions of the tools, creating a great opportunity for the authors to present and discuss their tools with SBES attendees from academia and industry. Academics can present results of their applied research projects in Software Engineering, while industry professionals are also welcome to present commercial or in-house tools that have brought gains in productivity and/or quality to the software development processes.",
+		"descricao_1d": "The Innovative Ideas and Emerging Results Track of the Brazilian Symposium on Software Engineering (SBES) focuses on new and inspiring ideas with promising future results, as well as on research work in progress with preliminary and interesting results. The track has been organized since SBES 2015 and the previous proceedings are available at IEEE (2015) and ACM (2016 to 2019) digital libraries.",
 		"trilha": "Tracks",
 		"trilha_pesquisa": "Research Track",
 		"trilha_pesquisa_short": "Research",
@@ -289,6 +290,37 @@
 			"Technical debt management",
 			"Theoretical foundations and formal methods"
 		],
+		"topicos_sbes_ideias": [
+			"Agent-oriented Software Engineering",
+			"Agile development",
+			"Configuration management and deployment",
+			"Computer Supported Cooperative Work (CSCW) and software engineering",
+			"Experimental Software Engineering",
+			"Industrial applications of Software Engineering",
+			"Mining software repositories",
+			"Mobile application development",
+			"Model-driven software development",
+			"Requirements engineering",
+			"Search-based Software Engineering",
+			"Social aspects of Software Engineering",
+			"Software architecture",
+			"Software dependability",
+			"Software ecosystems and systems-of-systems",
+			"Software Engineering education and training",
+			"Software Engineering for Cloud Computing",
+			"Software Engineering for the World Wide Web",
+			"Software maintenance and evolution",
+			"Software metrics and measurement",
+			"Software modularity",
+			"Software processes",
+			"Software product lines",
+			"Software reengineering",
+			"Software reuse",
+			"Software quality and quality models",
+			"Software verification and validation",
+			"Technical debt management",
+			"Theoretical foundations and formal methods"
+		],
 		"topicos_sbes_educacao": [
 			"New and innovative best practices for Software Engineering education",
 			"Innovative curriculum or course formats",
@@ -322,6 +354,7 @@
 		"descricao_15": "Papers can be submitted in Portuguese or English. Submission in English is strongly encouraged. The acceptance of a paper implies that at least one of its authors will register for the symposium to present it. All submissions must be in Adobe Portable Document Format (PDF) and must comply with the ACM 2-column conference format (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) available at this <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>. They must be no longer than 10 pages, including all figures and references.",
 		"descricao_15b": "Papers can be written in Portuguese or English. Submissions in English are strongly encouraged since the symposium proceedings will be indexed by the ACM's digital library. Title and abstract of all papers mut be in English, even if they are written in Portuguese. Papers submitted to the SBES 2020 Education Track must not have been simultaneously submitted to any other forum (conference or journal) or published elsewhere. At least one author of each accepted paper must be registered at CBSoft and present it in-person, otherwise the paper will not be included in the proceedings.",
 		"descricao_15c": "Authors are invited to submit papers describing automated solutions for diverse aspects and needs related to the topics of interest and themes listed in the <a style='color: #f4b321' href='sbes-pesquisa.php'>Call for Papers of SBES</a>.  Each submission consists of a paper accompanied by a demo video about the tool. Submissions must conform to the following submission and formatting instructions:",
+		"descricao_15d": "Papers can be written in Portuguese or English. Submissions in English are strongly encouraged since the symposium proceedings will be indexed by the ACM's digital library. Submitted papers must not have been simultaneously submitted to any other forum (conference or journal) nor should already been published elsewhere. At least one author of each accepted paper must register for the conference and present the paper in person during the event, otherwise the paper will not be included in the proceedings. All submissions must be in Adobe Portable Document Format (PDF) and comply with the ACM 2-column conference format (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) available at this <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>. Submissions must be no longer than 6 pages, including all figures and references. Papers must be electronically submitted through the <a style='color: #f4b321' href='http://submissoes.sbc.org.br'>JEMS</a> system.",
 		"instrucoes_submissao_ferramentas": [
 			"The paper must be original and not submitted or published in other academic venues.",
 			"The paper should clearly include:",
@@ -343,9 +376,11 @@
 		"descricao_16c1": "Submissions that do not include a paper <b>and</b> a demo video, that are not in compliance with the required submission format, that are out of the scope of the track, or that were submitted or published in any other forum (conference or journal), will be rejected without review. All other papers will be reviewed by at least three Program Committee members.",
 		"descricao_16c2": "During the review process, a rebuttal may be requested. In this case, authors will have access to reviews and may argue and answer questions from the referees before the final acceptance/rejection decision. The rebuttal is limited to a plain text up to 4,000 characters.",
 		"descricao_16c3": "The acceptance of the submission implies in at least one author to register at and attend SBES 2020 to present the paper and the tool in person. Both paper presentation and tool demonstration are mandatory for all accepted tools. Paper presentations and tool demonstrations are traditionally held in two different days during SBES. Tool demonstrations should be live and the demo videos uploaded for submission should <b>not</b> be used.  The format and timing of presentations will be announced later.",
+		"descricao_16d": "All submitted papers should inform after abstract the language in which they are written. Submissions that are not in compliance with the required submission format or that are out of the scope of the symposium will be rejected without reviewing. All other papers will be reviewed by at least three Program Committee members.",
 		"secao_doubleblind": "Double-Blind Submission",
 		"descricao_17": "The SBES 2020 Research Track will follow a double-blind review process. All submitted papers should conceal the identity of the authors. Both author names and affiliations must be omitted. In addition, the following rules should be addressed:",
-		"descricao_17b": "The SBES 2020 Research Track will follow a double-blind review process. All submitted papers should conceal the identity of the authors. Both author names and affiliations must be omitted. In addition, the following rules should be addressed:",
+		"descricao_17b": "The SBES 2020 Education Track will follow a double-blind review process. All submitted papers should conceal the identity of the authors. Both author names and affiliations must be omitted. In addition, the following rules should be addressed:",
+		"descricao_17d": "The SBES 2020 Innovative Ideas and Emerging Results Track will follow a double-blind review process. All submitted papers should conceal the identity of the authors. Both author names and affiliations must be omitted. In addition, the following rules should be addressed:",
 		"guidelines_doubleblind": [
 			"Citations to own related work must be written in the third person. For example, one must write &quot;the previous work of Silva et al.&quot; as opposed to &quot;our previous work.&quot; As a heuristic, occurrences of &quot;we&quot;, &quot;our&quot;, &quot;ours&quot;, &quot;github&quot;, &quot;funding&quot;, etc. should be looked in the paper and removed prior to submitting.",
 			"In the submitted paper, any artifact in a repository or website that allows identifying the authorship should not be mentioned. If any artifact needs to be made available, it should be anonymized in the repository/website.",
@@ -382,9 +417,7 @@
 			"Rafael Prikladnicki (PUCRS, Brazil)",
 			"Tayana Conte (UFAM, Brazil)",
 			"Uirá Kulesza (UFRN, Brazil)"
-		],
-		"secao_contato": "Contact",
-		"descricao_21b": "More information is available at the CBSoft 2020 website or by contacting the Program Chairs (<a style='color: #f4b321' href='rps@uniriotec.br'>rps@uniriotec.br</a> e <a style='color: #f4b321' href='igor.steinmacher@nau.edu'>igor.steinmacher@nau.edu</a>). The subject &quot;SBES Education Track: Doubts about the submission process&quot; shall be used."
+		]
 	},
 
 	"ctic-es": {
