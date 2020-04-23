@@ -609,12 +609,25 @@
 		</div>
 		<div class="row">
 			<div class="col-12">
-				<!-- Title -->
+				<div class="sponsor-title text-center">
+					<h5 data-i18n="sponsors.realizacao">Realização</h5>
+				</div>
+				<div class="block text-center">
+					<ul class="list-inline sponsors-list">
+						<li class="list-inline-item">
+							<div class="image-block text-center">
+								<a href="http://www.sbc.org.br/" target="_blank">
+									<img src="images/sponsors/sbc.png" style="height: 3cm; width: 2cm" alt="sponsors-logo" class="img-fluid">
+								</a>
+							</div>
+						</li>
+					</ul>
+				</div>
+				
 				<div class="sponsor-title text-center">
 					<h5 data-i18n="sponsors.organizadores">Organização</h5>
 				</div>
 				<div class="block text-center">
-					<!-- Sponsors image list -->
 					<ul class="list-inline sponsors-list">
 						<li class="list-inline-item">
 							<div class="image-block text-center">
@@ -653,12 +666,11 @@
 						</li>
 					</ul>
 				</div>
-				<!-- Title -->
+				
 				<div class="sponsor-title text-center">
 					<h5 data-i18n="sponsors.patrocinio">Patrocínio</h5>
 				</div>
 				<div class="block text-center">
-					<!-- Sponsors image list -->
 					<ul class="list-inline sponsors-list">
 						<li class="list-inline-item">
 							<div class="image-block text-center">
