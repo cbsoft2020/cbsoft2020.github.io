@@ -26,7 +26,7 @@
 <section id="main-banner" class="banner bg-banner-one overlay"></section>
 <div class="container">
 	<div class="row">
-		<div class="col-lg-12" style="margin: -340px -30px">
+		<div class="col-lg-12" id="logo-sbc">
 			<p style="margin-bottom: 5px; color: white; font-size: 12px" data-i18n="sponsors.realizacao"></p>
 			<a href="http://www.sbc.org.br/" target="_blank">
 				<img src="images/sponsors/sbc-white.png" style="width: 2cm" alt="sbc-logo" />
