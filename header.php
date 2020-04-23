@@ -76,6 +76,12 @@
 		  	  margin: -315px -90px;
 	  	  }
 	  }
+
+	  @media (min-width: 1920px) {
+		  #logo-sbc {
+			  margin: -290px -150px;
+		  }
+	  }
   </style>
 
 </head>
