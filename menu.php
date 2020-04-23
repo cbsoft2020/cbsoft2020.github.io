@@ -94,19 +94,3 @@
         </div>
     </div>
   </nav>
-
-<!--============================
-=            Banner            =
-=============================-->
-
-<section id="main-banner" class="banner bg-banner-one overlay">
-	<!--
-	<div class="container subsc_but_container">
-		<div class="row subsc_but">
-			<div class="col-lg-12"></div>
-		</div>
-	</div>
-	-->
-</section>
-	
-<!--====  End of Banner  ====-->

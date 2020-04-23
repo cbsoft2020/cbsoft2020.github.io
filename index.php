@@ -10,19 +10,39 @@
 
 
 <!--========================================
-=      Navigation Section and Banner       =
+=      Navigation Section 			       =
 =========================================-->
 
 <?php 
 	include_once ("menu.php");
 ?>
 
-<!--====  End of Navigation Section and Banner====-->
+<!--====  End of Navigation Section ====-->
+	
+<!--============================
+=            Banner            =
+=============================-->
+
+<section id="main-banner" class="banner bg-banner-one overlay"></section>
+<div class="container">
+	<div class="row">
+		<div class="col-lg-12" style="margin: -340px -30px">
+			<p style="margin-bottom: 5px; color: white; font-size: 12px" data-i18n="sponsors.realizacao"></p>
+			<a href="http://www.sbc.org.br/" target="_blank">
+				<img src="images/sponsors/sbc-white.png" style="width: 2cm" alt="sbc-logo" />
+			</a>
+		</div>
+	</div>
+</div>
+	
+<!--====  End of Banner  ====-->
+	
 	
 <!--===========================
 =			Notice			  =
 ============================-->
 
+<!--
 <div id="nota" class="modal fade">
 	<div class="modal-dialog modal-lg">
 		<div class="modal-content">
@@ -55,6 +75,7 @@
 		</div>
 	</div>
 </div>
+-->
 
 <!--===========================
 =            About            =
