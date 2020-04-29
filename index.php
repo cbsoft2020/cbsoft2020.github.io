@@ -42,40 +42,33 @@
 =			Notice			  =
 ============================-->
 
-<!--
 <div id="nota" class="modal fade">
 	<div class="modal-dialog modal-lg">
 		<div class="modal-content">
 			<div class="modal-header">
-				<p class="modal-title" style="font-size: 16px; font-weight: bold; color: white" data-i18n="notice.title"></p>
+				<p class="modal-title" style="font-size: 16px; font-weight: bold; color: white" data-i18n="notice_1.title"></p>
 				<button type="button" class="close" style="color: white" data-dismiss="modal" aria-hidden="true">&times;</button>
 			</div>
 			<div class="modal-body">
-				<p data-i18n="notice.paragraph_1"></p>
-				<p data-i18n="notice.paragraph_2"></p>
-				<p data-i18n="notice.paragraph_3"></p>
-				<p data-i18n="notice.paragraph_4"></p>
-				<ol style="margin-left: -20px">
-					<b><li style="margin-bottom: 5px" data-i18n="notice.decisions.0"></li></b>
-					<b><li style="margin-bottom: 5px" data-i18n="notice.decisions.1"></li></b>
-					<b><li data-i18n="notice.decisions.2"></li></b>
-				</ol>
-				<p data-i18n="notice.paragraph_5"></p>
-				<p data-i18n="notice.paragraph_6"></p>
-				<p data-i18n="notice.paragraph_7"></p>
+				<p data-i18n="notice_1.paragraph_1"></p>
+				<p data-i18n="notice_1.paragraph_2"></p>
+				<p data-i18n="notice_1.paragraph_3"></p>
+				<p data-i18n="notice_1.paragraph_4"></p>
+				<p data-i18n="notice_1.paragraph_5"></p>
 				<div style="width: 100%; overflow: hidden; margin-top: 20px">
 					<div style="width: 420px; float: left;">
-						<p data-i18n="notice.signature_gc"></p>
+						<p data-i18n="notice_1.signature_gc"></p>
 					</div>
+					<!--
 					<div style="margin-left: 400px">
 						<p style="text-align: right" data-i18n="notice.signature_sc"></p>
 					</div>
+					-->
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
--->
 
 <!--===========================
 =            About            =
