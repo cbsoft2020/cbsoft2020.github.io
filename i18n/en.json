@@ -507,10 +507,10 @@
 			"Camera-ready"
 		],
 		"deadlines": [
-			"July 6, 2020",
-			"July 10, 2020",
-			"August 10, 2020",
-			"August 10, 2020"
+			"<strike>July 6, 2020</strike> <span style='color: red; font-weight: bold'>August 10, 2020</span>",
+			"<strike>July 10, 2020</strike> <span style='color: red; font-weight: bold'>August 14, 2020</span>",
+			"<strike>August 10, 2020</strike> <span style='color: red; font-weight: bold'>September 15, 2020</span>",
+			"<strike>August 14, 2020</strike> <span style='color: red; font-weight: bold'>September 18, 2020</span>"
 		],
 		"secao_topicos": "Topics of Interest",
 		"descricao_2": "Submissions related (but not limited to) the following topics will be accepted:",

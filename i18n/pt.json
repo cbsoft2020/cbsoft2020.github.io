@@ -506,10 +506,10 @@
 			"Envio da versão final"
 		],
 		"deadlines": [
-			"6 de julho de 2020",
-			"10 de julho de 2020",
-			"10 de agosto de 2020",
-			"14 de agosto de 2020"
+			"<strike>6 de julho de 2020</strike> <span style='color: red; font-weight: bold'>10 de agosto de 2020</span>",
+			"<strike>10 de julho de 2020</strike> <span style='color: red; font-weight: bold'>14 de agosto de 2020</span>",
+			"<strike>10 de agosto de 2020</strike> <span style='color: red; font-weight: bold'>15 de setembro de 2020</span>",
+			"<strike>14 de agosto de 2020</strike> <span style='color: red; font-weight: bold'>18 de setembro de 2020</span>"
 		],
 		"secao_topicos": "Tópicos de Interesse",
 		"descricao_2": "Serão aceitas submissões relacionadas (mas não limitadas) aos seguintes temas:",
@@ -737,9 +737,9 @@
 		"descricao_8": "Por se tratar de <i>workshop</i> pré-aprovado, o <i>workshop</i> é automaticamente aceito desde que sejam submetidas as informações solicitadas. As informações enviadas na proposta serão analisadas pelo Comitê de Avaliação de <i>Workshops</i> do CBSoft com o objetivo de prover <i>feedback</i> para futuras edições do <i>workshop</i>. Em caso de quedas no número de submissões em anos consecutivos, ou a critério da comissão julgadora, um <i>workshop</i> poderá perder o <i>status</i> de <i>workshop</i> pré-aprovado.",
 		"secao_deadlines": "Datas importantes",
 		"deadlines": [
-			"Prazo de submissão: 13 de abril de 2020",
-			"Notificação aos proponentes: 20 de abril de 2020",
-			"Envio dos artigos à Coordenação Geral do CBSoft 2020: 3 de agosto de 2020"
+			"Prazo de submissão: <strike>13 de abril de 2020</strike> <span style='color: red; font-weight: bold'>24 de abril de 2020</span>",
+			"Notificação aos proponentes: <strike>20 de abril de 2020</strike> <span style='color: red; font-weight: bold''>4 de maio de 2020</span>",
+			"Envio dos artigos à Coordenação Geral do CBSoft 2020: <strike>3 de agosto de 2020</strike> <span style='color: red; font-weight: bold''>A ser definido</span>"
 		],
 		"secao_comite": "Comitê de Avaliação",
 		"comite": [
