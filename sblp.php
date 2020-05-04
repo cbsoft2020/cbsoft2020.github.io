@@ -94,7 +94,8 @@
 						<strong><p data-i18n="sblp.comite.0"></p></strong>
 						<p data-i18n="sblp.comite.1"></p>
 						<strong><p style="margin-top: 10px" data-i18n="sblp.comite.2"></p></strong>
-						<?php for ($i=3; $i < count($data_pc->pc_sblp_en); $i++) { ?>
+						<?php
+							for ($i=3; $i < count($data_pc->pc_sblp_en)+3; $i++) { ?>
 							<p data-i18n="sblp.comite.<?php echo $i; ?>" style="color: black;"></p>
 						<?php }	// for ?>
 					</div>
