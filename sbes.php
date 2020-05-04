@@ -37,10 +37,10 @@
 					<div class="description-one">
 						<p data-i18n="sbes.descricao_2"></p>
 						<ol style="margin-top: 10px">
-							<li data-i18n="sbes.trilhas.0" style="color: black;"></li>
-                            <li data-i18n="sbes.trilhas.1" style="color: black;"></li>
-                            <li data-i18n="sbes.trilhas.2" style="color: black;"></li>
-							<li data-i18n="sbes.trilhas.3" style="color: black;"></li>
+							<li data-i18n="sbes.trilhas.0" style="color: black; font-size: 1rem; line-height: 26px;"></li>
+                            <li data-i18n="sbes.trilhas.1" style="color: black; font-size: 1rem; line-height: 26px;"></li>
+                            <li data-i18n="sbes.trilhas.2" style="color: black; font-size: 1rem; line-height: 26px;"></li>
+							<li data-i18n="sbes.trilhas.3" style="color: black; font-size: 1rem; line-height: 26px;"></li>
 						</ol>
 						<p data-i18n="sbes.descricao_3"></p>
 						<ul style="margin-top: 10px; margin-left: -20px">
@@ -62,22 +62,22 @@
 					<br/>
 					<h5 data-i18n="sbes.secao_datas"></h5>
 					<div class="table-responsive" style="margin-top: 30px">
-						<table class="table table-hover">
+						<table class="table table-hover" id="datas-sbes">
 							<thead style="background-color: #f4b321; color: white">
 								<tr>
-								  	<th scope="col" class="align-middle" width="21%">
+								  	<th scope="col" class="align-middle" width="18.5%">
 										<p data-i18n="sbes.trilha" style="color: white;"></p>
 									</th>
-								  	<th scope="col" class="align-middle">
+								  	<th scope="col" class="align-middle" width="21%">
 										<p data-i18n="sbes.trilha_pesquisa_short" style="color: white;"></p>
 									</th>
 								  	<th scope="col" class="align-middle" width="20%">
 										<p data-i18n="sbes.trilha_ideias_short" style="color: white;"></p>
 									</th>
-								  	<th scope="col" class="align-middle">
+								  	<th scope="col" class="align-middle" width="20%">
 										<p data-i18n="sbes.trilha_educacao_short" style="color: white;"></p>
 									</th>
-									<th scope="col" class="align-middle">
+									<th scope="col" class="align-middle" width="20%">
 										<p data-i18n="sbes.trilha_ferramentas_short" style="color: white;"></p>
 									</th>
 								</tr>

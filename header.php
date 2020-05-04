@@ -82,6 +82,11 @@
 			  margin: -290px -150px;
 		  }
 	  }
+	  
+	  #datas-sbes tr td p span::before {
+		  content: "\A";
+		  white-space: pre;
+	  }
   </style>
 
 </head>
