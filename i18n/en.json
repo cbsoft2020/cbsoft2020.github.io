@@ -650,10 +650,10 @@
 			"Camera-ready"
 		],
 		"deadlines": [
-			"June 28, 2020",
-			"July 6, 2020",
-			"August 6, 2020",
-			"August 13, 2020"
+			"<strike>June 28, 2020</strike> <span style='color: red; font-weight: bold'>August 3, 2020</span>",
+			"<strike>July 6, 2020</strike> <span style='color: red; font-weight: bold'>August 10, 2020</span>",
+			"<strike>August 6, 2020</strike> <span style='color: red; font-weight: bold'>September 10, 2020</span>",
+			"<strike>August 13, 2020</strike> <span style='color: red; font-weight: bold'>September 17, 2020</span>"
 		],
 		"secao_topicos": "Topics of Interest",
 		"descricao_5": "SAST focuses on bringing together researchers and practitioners that have been working on systematic and automated practices, activities, and tools of software testing. The topics covered by the symposium include, but are not limited to, the following:",
@@ -701,7 +701,7 @@
 
 	"workshops": {
 		"titulo": "Workshops",
-		"descricao_1": "CBSoft includes workshops related to the topics of the four symposia that traditionally are part of the programme, SBES, SBCARS, SBLP, and SAST. The goal is providing a forum where academics and practitioners can exchange and discuss their experiences and ideas. Workshops traditionally realized at CBSoft can be promoted to pre-approved workshops..",
+		"descricao_1": "CBSoft includes workshops related to the topics of the four symposia that traditionally are part of the programme, SBES, SBCARS, SBLP, and SAST. The goal is providing a forum where academics and practitioners can exchange and discuss their experiences and ideas.",
 		"secao_informacoes": "General information",
 		"descricao_2": "The definition of the workshops that will be part of CBSoft 2020 will be carried out by evaluating the submitted proposals in response to this Call. Workshop proposals will be evaluated considering:",
 		"criterios": [
@@ -752,7 +752,14 @@
 		"secao_contato": "Contact",
 		"descricao_9": [
 			"Questions should be directed to the CBSoft 2020 Workshop Chair, Thelma Elita Colanzi (<a href='mailto:thelma@din.uem.br' style='color: #f4b321'>thelma@din.uem.br</a>)."
-		]
+		],
+		"vem": "VEM",
+		"vem_nome": "8th Workshop on Software Visualization, Evolution and Maintenance",
+		"mssis": "MSSiS",
+		"mssis_nome": "2nd Workshop on Software-Intensive Systems Modeling and Simulation",
+		"nome": "Name",
+		"data": "Date",
+		"tba": "To be announced"
 	},
 
 	"local": {

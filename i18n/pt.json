@@ -649,10 +649,10 @@
 			"Envio da versão final"
 		],
 		"deadlines": [
-			"28 de junho de 2020",
-			"6 de julho de 2020",
-			"6 de agosto de 2020",
-			"13 de agosto de 2020"
+			"<strike>28 de junho de 2020</strike> <span style='color: red; font-weight: bold'>3 de agosto de 2020</span>",
+			"<strike>6 de julho de 2020</strike> <span style='color: red; font-weight: bold'>10 de agosto de 2020</span>",
+			"<strike>6 de agosto de 2020</strike> <span style='color: red; font-weight: bold'>10 de setembro de 2020</span>",
+			"<strike>13 de agosto de 2020</strike> <span style='color: red; font-weight: bold'>17 de setembro de 2020</span>"
 		],
 		"secao_topicos": "Tópicos de Interesse",
 		"descricao_5": "O SAST promove a discussão harmônica e conjunta entre os profissionais da academia e indústria envolvidos com práticas, atividades e ferramentas relacionadas ao teste de software sistemático e automatizado. Os tópicos cobertos pelo simpósio incluem, mas não se limitam, os seguintes:",
@@ -700,7 +700,7 @@
 
 	"workshops": {
 		"titulo": "Workshops",
-		"descricao_1": "O CBSoft inclui <i>workshops</i> relacionados às temáticas dos quatro simpósios que tradicionalmente integram o evento, SBES, SBCARS, SBLP e SAST. O objetivo é criar um espaço para que membros da academia e da indústria possam trocar e discutir suas experiências e ideias. <i>Workshops</i> tradicionalmente realizados no CBSoft poderão ser promovidos a <i>workshops</i> pré-aprovados.",
+		"descricao_1": "O CBSoft inclui <i>workshops</i> relacionados às temáticas dos quatro simpósios que tradicionalmente integram o evento, SBES, SBCARS, SBLP e SAST. O objetivo é criar um espaço para que membros da academia e da indústria possam trocar e discutir suas experiências e ideias.",
 		"secao_informacoes": "Informações gerais",
 		"descricao_2": "A definição dos <i>workshops</i> que farão parte do CBSoft 2020 será realizada pela análise das propostas submetidas em resposta a esta Chamada. As propostas de <i>workshops</i> submetidas à organização do CBSoft serão avaliadas considerando:",
 		"criterios": [
@@ -751,7 +751,14 @@
 		"secao_contato": "Contato",
 		"descricao_9": [
 			"Dúvidas e pedidos de informação devem ser encaminhados para a Coordenação de <i>Workshops</i> do CBSoft 2020, Thelma Elita Colanzi (<a href='mailto:thelma@din.uem.br' style='color: #f4b321'>thelma@din.uem.br</a>)."
-		]
+		],
+		"vem": "VEM",
+		"vem_nome": "8º Workshop de Visualização, Evolução e Manutenção de Software",
+		"mssis": "MSSiS",
+		"mssis_nome": "II Workshop de Modelagem e Simulação de Sistemas Intensivos em Software",
+		"nome": "Nome",
+		"data": "Data",
+		"tba": "A ser anunciada"
 	},
 
 	"local": {
