@@ -61,9 +61,10 @@
               </div>
           </li>
           <li class="nav-item dropdown dropdown-slide">
-              <a class="nav-link" href="#">Workshops</a>
+              <a class="nav-link" href="workshops.php">Workshops</a>
               <div class="dropdown-menu">
-                  <a class="dropdown-item" href="workshops.php" data-i18n="menu.chamada_workshops">Chamada de Workshops</a>
+				  <a class="dropdown-item" href="#" data-i18n="workshops.mssis">MSSiS</a>
+                  <a class="dropdown-item" href="#" data-i18n="workshops.vem">VEM</a>
               </div>
           </li>
 		  <!--
