@@ -573,14 +573,14 @@
 			"Envio da versão final"
 		],
 		"deadlines": [
-			"31 de maio de 2020",
-			"7 de junho de 2020 (estrito)",
-			"24 de julho de 2020",
-			"9 de agosto de 2020"
+			"<strike>31 de maio de 2020</strike> <span style='color: red; font-weight: bold'>28 de junho de 2020</span>",
+			"<strike>7 de junho de 2020</strike> <span style='color: red; font-weight: bold'>5 de julho de 2020</span>",
+			"<strike>24 de julho de 2020</strike> <span style='color: red; font-weight: bold'>21 de agosto de 2020</span>",
+			"<strike>9 de agosto de 2020</strike> <span style='color: red; font-weight: bold'>6 de setembro de 2020</span>"
 		],
 		"descricao_2": "Os artigos podem ser submetidos em Português ou Inglês. Submissões em Inglês são fortemente recomendadas uma vez que os anais são indexados na biblioteca digital da ACM. A aceitacão de um artigo implica que pelo menos um de seus autores estejam inscritos no simpósio para apresentar o trabalho. Os artigos devem ser originais e não simultaneamente submetidos a outra conferência ou outro periódico.",
-		"descricao_3": "O SBLP 2020 usará um processo de revisão <i>double-blind</i>. Os artigos devem ser submetidos para revisão anonimamente (i.e., sem listar os nomes dos autores no artigo) e referências para outros trabalhos dos autores devem ser feitas na terceira pessoa. Os artigos devem ser submetidos eletronicamente (em <i>Adobe Portable Document Format</i> - PDF) através do sistema <a style='color: #f4b321' href='http://www.easychair.org/conferences/?conf=sblp2020'>Easychair</a>.",
-		"descricao_4": "As seguintes categorias de artigos podem ser submetidos (limites no número de páginas incluem figuras, referências e apêndices):",
+		"descricao_3": "O SBLP 2020 usará um processo de revisão <i>double-blind</i>. Os artigos devem ser submetidos para revisão anonimamente (i.e., sem listar os nomes dos autores no artigo) e referências para outros trabalhos dos autores devem ser feitas na terceira pessoa. Autores que tenham conflito de interesse com um  membro do Comitê de Programa devem preencher este <a style='color: #f4b321' href='https://forms.gle/H2nYcUx14XBjN3MHA'>formulário eletrônico</a>.",
+		"descricao_4": "Os artigos devem ser submetidos eletronicamente (em <i>Adobe Portable Document Format</i> - PDF) através do sistema <a style='color: #f4b321' href='http://www.easychair.org/conferences/?conf=sblp2020'>Easychair</a>. As seguintes categorias de artigos podem ser submetidos (limites no número de páginas incluem figuras, referências e apêndices):",
 		"categorias_artigos": [
 			"<b>Artigos completos:</b> até 8 páginas no modelo ACM de 2 colunas (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) disponível neste <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>.",
 			"<b>Artigos curtos:</b> até 3 páginas no modelo ACM de 2 colunas. Artigos curtos podem discutir novas ideias em estágio inicial de desenvolvimento ou relatar resultados parciais de dissertações ou teses."

@@ -574,14 +574,14 @@
 			"Camera-ready"
 		],
 		"deadlines": [
-			"May 31, 2020",
-			"June 7, 2020 (strict)",
-			"July 24, 2020",
-			"August 9, 2020"
+			"<strike>May 31, 2020</strike> <span style='color: red; font-weight: bold'>June 28, 2020</span>",
+			"<strike>June 7, 2020</strike> <span style='color: red; font-weight: bold'>July 5, 2020</span>",
+			"<strike>July 24, 2020</strike> <span style='color: red; font-weight: bold'>August 21, 2020</span>",
+			"<strike>August 9, 2020</strike> <span style='color: red; font-weight: bold'>September 6, 2020</span>"
 		],
 		"descricao_2": "Papers can be written in Portuguese or English. Submissions in English are strongly encouraged since the proceedings will be indexed in the ACM Digital Library. The acceptance of a paper implies that at least one of its authors will register for the symposium to present it. Papers must be original and not simultaneously submitted to another journal or conference.",
-		"descricao_3": "SBLP 2020 will use a lightweight double-blind review process. The manuscripts should be submitted for review anonymously (i.e., without listing the author's names on the paper) and references to own work should be made in third person. Papers must be submitted electronically (in PDF format) via the <a style='color: #f4b321' href='http://www.easychair.org/conferences/?conf=sblp2020'>Easychair</a> system.",
-		"descricao_4": "The following paper categories can be submitted (page limits include figures, references, and appendices):",
+		"descricao_3": "SBLP 2020 will use a lightweight double-blind review process. The manuscripts should be submitted for review anonymously (i.e., without listing the author's names on the paper) and references to own work should be made in third person. Authors with a conflict of interest with a Program Committee member should fill this <a style='color: #f4b321' href='https://forms.gle/H2nYcUx14XBjN3MHA'>electronic form</a>.",
+		"descricao_4": "Papers must be submitted electronically (in PDF format) via the <a style='color: #f4b321' href='http://www.easychair.org/conferences/?conf=sblp2020'>Easychair</a> system. The following paper categories can be submitted (page limits include figures, references, and appendices):",
 		"categorias_artigos": [
 			"<b>Full papers:</b> up to 8 pages long in the ACM 2-column conference format (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) available at this <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>.",
 			"<b>Short papers:</b> up to 3 pages in the ACM 2-column conference format. Short papers can discuss new ideas that are at an early stage of development or can report partial results of on-going dissertations or theses."
