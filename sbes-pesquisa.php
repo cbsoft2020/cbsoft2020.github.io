@@ -88,6 +88,7 @@
 					<br/>
 					<h5 data-i18n="sbes.secao_journal_first"></h5>
 					<div class="description-one">
+						<p style="margin-bottom: 10px" data-i18n="sbes.descricao_4"></p>
 						<p data-i18n="sbes.descricao_5"></p>
 						<ul style="margin-top: 10px; margin-left: -20px">
 							<li data-i18n="sbes.criterios_journal_first.0" style="color: black;"></li>
