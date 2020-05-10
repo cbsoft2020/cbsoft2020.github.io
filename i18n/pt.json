@@ -458,7 +458,7 @@
 			"Informar o nome do Programa de Pós-graduação, o número de telefone do Coordenador do Programa, a data da defesa da tese/dissertação, título da tese/dissertação, o nome do candidato, os nomes do(s) orientador(es) e dos membros da banca, com endereço de <i>e-mail</i>.",
 			"Indicar se o artigo submetido é (i) original, (ii) já foi aceito/publicado em outro evento ou periódico ou (iii) está em processo de avaliação em outro evento ou periódico. Caso o artigo não seja original, deve-se indicar o veículo de publicação ou no qual está sob processo de revisão."
 		],
-		"descricao_7": "A publicação do artigo nos anais do SBES 2020 obedecerá às seguintes regras:",
+		"descricao_7": "A publicação do artigo nos anais estendidos do SBES 2020 na SBC OpenLib (SOL) obedecerá às seguintes regras:",
 		"publicacao": [
 			"Se o artigo for original, será publicado o artigo completo.",
 			"Se o artigo não for original, ou seja, já tiver sido publicado em outro evento (inclusive no SBES), a versão a ser publicada nos anais do evento será um resumo (1 página) preparado pelos autores (versão indicando a referência completa do evento da outra publicação)."
@@ -473,8 +473,8 @@
 			"Divulgação dos finalistas"
 		],
 		"deadlines": [
-			"11 de maio de 2020",
-			"3 de agosto de 2020"
+			"<strike>11 de maio de 2020</strike> <span style='color: red; font-weight: bold'>15 de junho de 2020</span>",
+			"<strike>3 de agosto de 2020</strike> <span style='color: red; font-weight: bold'>17 de agosto de 2020</span>"
 		],
 		"secao_comite": "Organização",
 		"comite": [

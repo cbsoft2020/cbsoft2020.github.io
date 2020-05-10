@@ -459,7 +459,7 @@
 			"Include the name of the Graduate Program, the Program Coordinator's phone number, the date of the defense, the title of the thesis/dissertation, the names and e-mail addresses of the advisor(s), the names and e-mail addresses of evaluation board members, and the name of the candidate.",
 			"Indicate whether the submitted paper (i) is an original work, (ii) has been accepted or published in other conferences or journals or (iii) is in evaluation in other conferences or journals. If the paper is not original, then the letter must mention the venue where it was published or is under review."
 		],
-		"descricao_7": "The publication of the paper in the SBES 2020 Proceedings will follow these rules:",
+		"descricao_7": "The publication of the paper in the SBES 2020 Companion Proceedings at SBC OpenLib (SOL) will follow these rules:",
 		"publicacao": [
 			"If the paper is original, the full paper will be included in the proceedings.",
 			"If the paper is not original, i.e., the paper has already been published in another venue (including SBES), an 1-page extended abstract will be included in the proceedings. The extended abstract will be provided by the authors and must include the full reference of the paper submitted to CTD-ES."
@@ -474,8 +474,8 @@
 			"Finalists announcement"
 		],
 		"deadlines": [
-			"May 11, 2020",
-			"August 3, 2020"
+			"<strike>May 11, 2020</strike> <span style='color: red; font-weight: bold'>June 15, 2020</span>",
+			"<strike>August 3, 2020</strike> <span style='color: red; font-weight: bold'>August 17, 2020</span>"
 		],
 		"secao_comite": "Organization",
 		"comite": [
