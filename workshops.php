@@ -32,6 +32,71 @@
 						<table class="table table-hover">
 							<thead style="background-color: #f4b321; color: white">
 								<tr>
+								  	<th scope="col" class="align-middle" width="25%">
+										<p style="color: white;">Workshop</p>
+									</th>
+								  	<th scope="col" class="align-middle">
+										<p data-i18n="workshops.deadlines_atividades.0" style="color: white;"></p>
+									</th>
+									<th scope="col" class="align-middle">
+										<p data-i18n="workshops.deadlines_atividades.1" style="color: white;"></p>
+									</th>
+									<th scope="col" class="align-middle">
+										<p data-i18n="workshops.deadlines_atividades.2" style="color: white;"></p>
+									</th>
+									<th scope="col" class="align-middle">
+										<p data-i18n="workshops.deadlines_atividades.3" style="color: white;"></p>
+									</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>
+										<a href="#" target="_blank"><p data-i18n="workshops.vem" style="color: #f4b321"></p></a>
+										<br/><p style="margin-top: -20px; color: black" data-i18n="workshops.vem_nome"></p>
+									</td>
+									<td>
+										<p style="color: black" data-i18n="workshops.tba"></p>
+									</td>
+									<td>
+										<p style="color: black" data-i18n="workshops.tba"></p>
+									</td>
+									<td>
+										<p style="color: black" data-i18n="workshops.tba"></p>
+									</td>
+									<td>
+										<p style="color: black" data-i18n="workshops.tba"></p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<a href="https://ww2.inf.ufg.br/mssis/" target="_blank">
+											<p data-i18n="workshops.mssis" style="color: #f4b321"></p>
+										</a>
+										<br/><p style="margin-top: -20px; color: black" data-i18n="workshops.mssis_nome"></p>
+									</td>
+									<td>
+										<p style="color: black" data-i18n="workshops.deadlines_mssis.0"></p>
+									</td>
+									<td>
+										<p style="color: black" data-i18n="workshops.deadlines_mssis.1"></p>
+									</td>
+									<td>
+										<p style="color: black" data-i18n="workshops.deadlines_mssis.2"></p>
+									</td>
+									<td>
+										<p style="color: black" data-i18n="workshops.tba"></p>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+					
+					<!--
+					<div class="table-responsive" style="margin-top: 30px">
+						<table class="table table-hover">
+							<thead style="background-color: #f4b321; color: white">
+								<tr>
 								  	<th scope="col" class="align-middle" colspan="2">
 										<p data-i18n="workshops.nome" style="color: white;"></p>
 									</th>
@@ -60,6 +125,8 @@
 							</tbody>
 						</table>
 					</div>
+					-->
+
 					<!--
 					<h5 data-i18n="workshops.secao_informacoes"></h5>
 					<div class="description-one">

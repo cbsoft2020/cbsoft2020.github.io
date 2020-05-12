@@ -757,9 +757,25 @@
 		"vem_nome": "8th Workshop on Software Visualization, Evolution and Maintenance",
 		"mssis": "MSSiS",
 		"mssis_nome": "2nd Workshop on Software-Intensive Systems Modeling and Simulation",
-		"nome": "Name",
-		"data": "Date",
-		"tba": "To be announced"
+		"tba": "To be announced",
+		"deadlines_atividades": [
+			"Paper submission",
+			"Notification of acceptance",
+			"Camera-ready",
+			"Date"
+		],
+		"deadlines_vem": [
+			"",
+			"",
+			"",
+			""
+		],
+		"deadlines_mssis": [
+			"August 3, 2020",
+			"September 5, 2020",
+			"September 14, 2020",
+			""
+		]
 	},
 
 	"local": {
