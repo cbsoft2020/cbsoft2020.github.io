@@ -91,41 +91,6 @@
 							</tbody>
 						</table>
 					</div>
-					
-					<!--
-					<div class="table-responsive" style="margin-top: 30px">
-						<table class="table table-hover">
-							<thead style="background-color: #f4b321; color: white">
-								<tr>
-								  	<th scope="col" class="align-middle" colspan="2">
-										<p data-i18n="workshops.nome" style="color: white;"></p>
-									</th>
-								  	<th scope="col" class="align-middle">
-										<p data-i18n="workshops.data" style="color: white;"></p>
-									</th>
-								</tr>
-							</thead>
-							<tbody>
-								<tr>
-									<td>
-										<a href="#" target="_blank">
-											<p data-i18n="workshops.vem" style="color: #f4b321"></p></td>
-										</a>
-									<td><p data-i18n="workshops.vem_nome" style="color: black;"></p></td>
-									<td><p data-i18n="workshops.tba" style="color: black;"></p></td>
-								</tr>
-								<tr>
-									<td>
-										<a href="#" target="_blank">
-											<p data-i18n="workshops.mssis" style="color: #f4b321"></p></td>
-										</a>
-									<td><p data-i18n="workshops.mssis_nome" style="color: black;"></p></td>
-									<td><p data-i18n="workshops.tba" style="color: black;"></p></td>
-								</tr>
-							</tbody>
-						</table>
-					</div>
-					-->
 
 					<!--
 					<h5 data-i18n="workshops.secao_informacoes"></h5>
