@@ -52,24 +52,6 @@
 							<tbody>
 								<tr>
 									<td>
-										<a href="#" target="_blank"><p data-i18n="workshops.vem" style="color: #f4b321"></p></a>
-										<br/><p style="margin-top: -20px; color: black" data-i18n="workshops.vem_nome"></p>
-									</td>
-									<td>
-										<p style="color: black" data-i18n="workshops.tba"></p>
-									</td>
-									<td>
-										<p style="color: black" data-i18n="workshops.tba"></p>
-									</td>
-									<td>
-										<p style="color: black" data-i18n="workshops.tba"></p>
-									</td>
-									<td>
-										<p style="color: black" data-i18n="workshops.tba"></p>
-									</td>
-								</tr>
-								<tr>
-									<td>
 										<a href="https://ww2.inf.ufg.br/mssis/" target="_blank">
 											<p data-i18n="workshops.mssis" style="color: #f4b321"></p>
 										</a>
@@ -83,6 +65,24 @@
 									</td>
 									<td>
 										<p style="color: black" data-i18n="workshops.deadlines_mssis.2"></p>
+									</td>
+									<td>
+										<p style="color: black" data-i18n="workshops.tba"></p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<a href="#" target="_blank"><p data-i18n="workshops.vem" style="color: #f4b321"></p></a>
+										<br/><p style="margin-top: -20px; color: black" data-i18n="workshops.vem_nome"></p>
+									</td>
+									<td>
+										<p style="color: black" data-i18n="workshops.tba"></p>
+									</td>
+									<td>
+										<p style="color: black" data-i18n="workshops.tba"></p>
+									</td>
+									<td>
+										<p style="color: black" data-i18n="workshops.tba"></p>
 									</td>
 									<td>
 										<p style="color: black" data-i18n="workshops.tba"></p>
