@@ -151,9 +151,9 @@
 			"Envio da versão final"
 		],
 		"deadlines": [
-			"7 de junho de 2020",
-			"12 de julho de 2020",
-			"22 de julho de 2020"
+			"<strike>7 de junho de 2020</strike> <span style='color: red; font-weight: bold'>6 de julho de 2020</span>",
+			"<strike>12 de julho de 2020</strike> <span style='color: red; font-weight: bold'>10 de agosto de 2020</span>",
+			"<strike>22 de julho de 2020</strike> <span style='color: red; font-weight: bold'>1º de setembro de 2020</span>"
 		],
 		"secao_comite": "Organização",
 		"comite": [

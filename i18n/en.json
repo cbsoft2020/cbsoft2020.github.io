@@ -151,9 +151,9 @@
 			"Camera-ready"
 		],
 		"deadlines": [
-			"June 7, 2020",
-			"July 12, 2020",
-			"July 22, 2020"
+			"<strike>June 7, 2020</strike> <span style='color: red; font-weight: bold'>July 6, 2020</span>",
+			"<strike>July 12, 2020</strike> <span style='color: red; font-weight: bold'>August 10, 2020</span>",
+			"<strike>July 22, 2020</strike> <span style='color: red; font-weight: bold'>September 1, 2020</span>"
 		],
 		"secao_comite": "Organização",
 		"comite": [
