@@ -82,18 +82,18 @@
 		}
 	],
 	"chairs_sbes_ctic": [{
-			"imagem": "avatar-man.png",
-			"nome": "Eduardo Figueiredo",
-			"universidade": "UFMG",
-			"lattes": "http://lattes.cnpq.br/1265706528850746",
-			"email": "figueiredo@dcc.ufmg.br"
-		},
-		{
 			"imagem": "avatar-woman.jpg",
 			"nome": "Maria Augusta Nelson",
 			"universidade": "PUC-Minas",
 			"lattes": "http://lattes.cnpq.br/5546348474330622",
 			"email": "guta@pucminas.br"
+		},
+		{
+			"imagem": "avatar-man.png",
+			"nome": "Eduardo Figueiredo",
+			"universidade": "UFMG",
+			"lattes": "http://lattes.cnpq.br/1265706528850746",
+			"email": "figueiredo@dcc.ufmg.br"
 		}
 	],
 	"chairs_sbes_ctd": [{
