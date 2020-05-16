@@ -39,9 +39,9 @@
 	
 	
 <!--===========================
-=			Notice			  =
+=			Notices			  =
 ============================-->
-
+<!--
 <div id="nota" class="modal fade">
 	<div class="modal-dialog modal-lg">
 		<div class="modal-content">
@@ -59,11 +59,41 @@
 					<div style="width: 420px; float: left;">
 						<p data-i18n="notice_1.signature_gc"></p>
 					</div>
-					<!--
-					<div style="margin-left: 400px">
-						<p style="text-align: right" data-i18n="notice.signature_sc"></p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+-->
+	
+<div id="nota" class="modal fade">
+	<div class="modal-dialog modal-lg">
+		<div class="modal-content">
+			<div class="modal-header">
+				<p class="modal-title" style="font-size: 16px; font-weight: bold; color: white" data-i18n="notice_2.title"></p>
+				<button type="button" class="close" style="color: white" data-dismiss="modal" aria-hidden="true">&times;</button>
+			</div>
+			<div class="modal-body">
+				<p data-i18n="notice_2.paragraph_1"></p>
+				<p data-i18n="notice_2.paragraph_2"></p>
+				<p data-i18n="notice_2.paragraph_3"></p>
+				<p data-i18n="notice_2.paragraph_4"></p>
+				<ul style="margin-left: -20px">
+					<li data-i18n="notice_2.decisions.0" style="color: black; font-weight: bold; font-size: 14px; line-height: 22px"></li>
+					<li data-i18n="notice_2.decisions.1" style="color: black; font-weight: bold; font-size: 14px; line-height: 22px"></li>
+					<li data-i18n="notice_2.decisions.2" style="color: black; font-weight: bold; font-size: 14px; line-height: 22px"></li>
+				</ul>
+				<p data-i18n="notice_2.paragraph_5"></p>
+				<p data-i18n="notice_2.paragraph_6"></p>
+				<p data-i18n="notice_2.paragraph_7"></p>
+				<p data-i18n="notice_2.paragraph_8"></p>
+				<div style="width: 100%; overflow: hidden; margin-top: 20px">
+					<div style="width: 420px; float: left;">
+						<p data-i18n="notice_2.signature_gc"></p>
 					</div>
-					-->
+					<div style="margin-left: 400px">
+						<p style="text-align: right" data-i18n="notice_2.signature_sc"></p>
+					</div>
 				</div>
 			</div>
 		</div>
