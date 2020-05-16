@@ -444,11 +444,11 @@
 		"secao_publico-alvo": "Público Alvo",
 		"descricao_3": "Podem enviar trabalhos ao CTD-ES doutores e mestres na área de Engenharia de Software que defenderam suas teses ou dissertações, no Brasil, no ano de 2019, ou seja, no período de 1º de janeiro a 31 de dezembro de 2019.",
 		"secao_submissao": "Submissão",
-		"descricao_4": "Os candidatos deverão submeter os trabalhos eletronicamente, pelo sistema <a style='color: #f4b321' href='https://jems.sbc.org.br/home.cgi?c=3598'>JEMS</a>. No momento da submissão deve-se escolher a trilha que for correspondente ao trabalho (dissertação de Mestrado ou tese de doutorado). <b>Será aceita apenas uma submissão, em cada categoria, por orientador principal.</b>",
+		"descricao_4": "Os candidatos deverão submeter os trabalhos eletronicamente, pelo sistema <a style='color: #f4b321' href='https://jems.sbc.org.br/home.cgi?c=3598'>JEMS</a>. No momento da submissão deve-se escolher a trilha que for correspondente ao trabalho (dissertação de Mestrado ou tese de Doutorado). <b>Será aceita apenas uma submissão, em cada categoria, por orientador principal.</b>",
 		"descricao_5": "Os seguintes documentos deverão ser submetidos, em conjunto:",
 		"documentos_submissao": [
 			"Texto integral da tese ou dissertação, em <i>Adobe Portable Document Format</i> (PDF).",
-			"Artigo resumo do trabalho em <i>Adobe Portable Document Format</i> (PDF) no modelo ACM de 2 colunas (<code style='background-color: #ffffff; color: #000000; padding: 0;'>ACM_SigConf</code>) disponível neste <a style='color: #f4b321' href='http://www.acm.org/publications/proceedings-template'>link</a>. As submissões não devem ter mais de 10 páginas, incluindo todas as figuras e referências.",
+			"Artigo resumo do trabalho em <i>Adobe Portable Document Format</i> (PDF) no Modelo para Publicação de Artigos da SBC disponível neste <a style='color: #f4b321' href='http://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros'>link</a>. As submissões não devem ter mais de 15 páginas, incluindo todas as figuras e referências. Os artigos necessitam ter resumo em Português e em Inglês.",
 			"Uma carta do orientador principal."
 		],
 		"descricao_6": "O conteúdo da carta do orientador principal deve:",
@@ -461,7 +461,7 @@
 		"descricao_7": "A publicação do artigo nos anais estendidos do SBES 2020 na SBC OpenLib (SOL) obedecerá às seguintes regras:",
 		"publicacao": [
 			"Se o artigo for original, será publicado o artigo completo.",
-			"Se o artigo não for original, ou seja, já tiver sido publicado em outro evento (inclusive no SBES), a versão a ser publicada nos anais do evento será um resumo (1 página) preparado pelos autores (versão indicando a referência completa do evento da outra publicação)."
+			"Se o artigo não for original, ou seja, já tiver sido publicado em outro evento (inclusive no SBES), a versão a ser publicada nos anais estendidos do evento será um resumo de 2 páginas no Modelo para Publicação de Artigos da SBC preparado pelos autores, indicando a referência completa do evento da outra publicação. O artigo deve incluir um resumo em Português e em Inglês."
 		],
 		"secao_selecao": "Seleção",
 		"descricao_8": "Somente serão aceitos trabalhos cujo foco seja Engenharia de Software, em Português ou em Inglês, que expandam ou aprofundem o conhecimento nesta área. Não serão aceitos trabalhos em que a contribuição à Engenharia de Software seja marginal. Será aceito no processo de seleção apenas um trabalho, em cada categoria, indicado pelo orientador principal. Isso implica que os orientadores devem fazer uma primeira seleção e indicar as que considera a melhor tese e/ou dissertação do ano 2019 em que atuou como orientador principal.",
