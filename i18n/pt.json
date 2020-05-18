@@ -61,9 +61,8 @@
 	"notice_2": {
 		"title": "Mensagem da Coordenação Geral do CBSoft 2020",
 		"paragraph_1": "Prezado(a) congressista,",
-		"paragraph_2": "Esperamos que você esteja bem, assim como sua famílias e amigos.<br/>Também esperamos pelo rápido restabelecimento daqueles que porventura adoeceram.",
 		"paragraph_3": "Temos acompanhado a evolução da COVID-19 no mundo e no Brasil, onde o número de casos tem crescido a cada dia, juntamente (infelizmente) com o número de óbitos. O cenário atual constitui-se ainda de restrições de viagem, isolamento social e outras determinações a serem seguidas em prol da saúde de todos. Além disso, há grandes incertezas com relação a quando a disseminação do novo coronavírus (SARS-CoV-2) cessará no Brasil, bem como a escala dos impactos da pandemia no País, em termos de economia, sociedade e como será a recuperação do estado de calamidade no qual nos encontramos.",
-		"paragraph_4": "Diante do exposto, o Comitê Organizador do CBSoft 2020 e o Comitê Diretivo do CBSoft, com apoio das Comissões Especiais em Engenharia de Software (CE-ES) e em Linguagem de Programação (CE-LP) da Sociedade Brasileira de Computação (SBC) após várias discussões e consulta à comunidade, tomaram as seguintes decisões:",
+		"paragraph_4": "Dessa forma, a Coordenação Geral do CBSoft 2020 e o Comitê Diretivo do CBSoft, com apoio das Comissões Especiais em Engenharia de Software (CE-ES) e em Linguagem de Programação (CE-LP) da Sociedade Brasileira de Computação (SBC), após várias discussões e consulta à comunidade, tomaram as seguintes decisões:",
 		"decisions": [
 			"Adiar o CBSoft 2020 para o período de 19 a 23 de outubro de 2020",
 			"Reconfigurar o CBSoft 2020 para um formato totalmente virtual, ao invés de realizá-lo presencialmente em Natal-RN",
@@ -71,8 +70,8 @@
 		],
 		"paragraph_5": "Nós reconhecemos que algumas pessoas podem se sentir frustradas pelas decisões tomadas, mas é importante destacar que tomar essas decisões não foi uma tarefa fácil. Mais importante: nossas preocupações quanto à saúde de todos os potenciais participantes do CBSoft 2020 bem como ações prudentes para a sustentabilidade do CBSoft em si estão acima de tudo.",
 		"paragraph_6": "Um congresso do tamanho e escopo do CBSoft possui muitas complexidades a serem consideradas. Claramente, haverá outras questões logísticas que ainda não foram tratadas, bem como outras que sequer foram imaginadas. Ainda assim, estamos altamente comprometidos a continuar trabalhando arduamente para o sucesso do CBSoft 2020.",
-		"paragraph_7": "Continue trabalhando em suas pesquisas e na elaboração de artigos. Esperamos pela submissão do seu trabalho para um dos eventos do CBSoft, um dos principais congressos na área de Engenharia de Software no Brasil, composto por simpósios extremamente bem qualificados.",
-		"paragraph_8": "Cuide-se, #FiqueEmCasa e submeta seu trabalho ao CBSoft 2020.",
+		"paragraph_7": "Continue trabalhando em suas pesquisas e na elaboração de artigos e submeta seu trabalho a um altamente bem qualificados eventos do CBSoft.",
+		"paragraph_8": "Cuide-se e #FiqueEmCasa.",
 		"signature_gc": "<i>Everton Cavalcante, Francisco Dantas e Thais Batista<br/>Coordenadores Gerais do CBSoft 2020</i>",
 		"signature_sc": "<i>Ivan Machado<br/>Presidente do Comitê Diretivo do CBSoft</i>"
 	},

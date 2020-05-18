@@ -61,9 +61,8 @@
 	"notice_2": {
 		"title": "Message from CBSoft 2020 General Chairs",
 		"paragraph_1": "Dear attendee,",
-		"paragraph_2": "We hope that you are well, as well as your families and friends.<br/>We also hope for the rapid recovery of those who may have fallen ill.",
 		"paragraph_3": "We are following the evolution of COVID-19 in the world and in Brazil, where the number of cases has grown every day, together (unfortunately) with the number of deaths. The current scenario is also made of travel restrictions, imposed social isolation, and determinations to be followed in favor of the health of all. Furthermore, there are great uncertainties regarding when the spread of the novel coronavirus (SARS-CoV-2) will cease in Brazil as well as the scale of the impacts of the pandemic in the country, in terms of economy, society, and how to recover from the state of calamity in which we are.",
-		"paragraph_4": "After several discussions and a survey with the community, the CBSoft 2020 Organizing Committee and the CBSoft Steering Committee, supported by the Special Committees on Software Engineering (CE-ES) and Programming Languages (CE-LP) of the Brazilian Computer Society (SBC), have reached the following decisions:",
+		"paragraph_4": "After several discussions and a survey with the community, the CBSoft 2020 General Chairs and the CBSoft Steering Committee, supported by the Special Committees on Software Engineering (CE-ES) and Programming Languages (CE-LP) of the Brazilian Computer Society (SBC), have reached the following decisions:",
 		"decisions": [
 			"To postpone CBSoft 2020 to October 19-23, 2020",
 			"To reconfigure CBSoft 2020 completely to a virtual format, rather than holding it in person in Natal, Brazil",
@@ -71,8 +70,8 @@
 		],
 		"paragraph_5": "We acknowledge that some people may feel frustrated by the decisions, but it is important to highlight that making these decisions was not an easy task. More importantly: our concerns for the health of all prospective CBSoft 2020 attendees as well as prudent actions for the sustainability of the CBSoft series are above all.",
 		"paragraph_6": "A conference of the size and scope of CBSoft has many complexities to consider. Clearly, there will be other logistic issues that we have not yet addressed, as well as other ones that we have not even imagined. Nonetheless, we are highly committed to continue working hard for a successful CBSoft 2020.",
-		"paragraph_7": "Continue working on your research and preparing papers. We hope for the submission of your work to one of the CBSoft events, one of the main conferences on Software Engineering in Brazil, composed of extremely well-qualified symposia.",
-		"paragraph_8": "Stay safe, #StayHome, and submit your work to CBSoft 2020.",
+		"paragraph_7": "Continue working on your research, preparing papers, and submit your work to one of the well-qualified CBSoft events.",
+		"paragraph_8": "Stay safe and #StayHome.",
 		"signature_gc": "<i>Everton Cavalcante, Francisco Dantas, and Thais Batista<br/>CBSoft 2020 General Chairs</i>",
 		"signature_sc": "<i>Ivan Machado<br/>CBSoft Steering Committee Chair</i>"
 	},

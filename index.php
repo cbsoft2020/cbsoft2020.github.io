@@ -75,7 +75,6 @@
 			</div>
 			<div class="modal-body">
 				<p data-i18n="notice_2.paragraph_1"></p>
-				<p data-i18n="notice_2.paragraph_2"></p>
 				<p data-i18n="notice_2.paragraph_3"></p>
 				<p data-i18n="notice_2.paragraph_4"></p>
 				<ul style="margin-left: -20px">
