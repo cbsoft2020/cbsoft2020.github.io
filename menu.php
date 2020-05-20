@@ -12,7 +12,7 @@
             <a class="nav-link" href="#"  data-toggle="dropdown">CBSoft 2020</a>
             <div class="dropdown-menu">
               <a class="dropdown-item" href="organizacao.php" data-i18n="menu.organizacao">Organização</a>
-              <a class="dropdown-item" href="index.php#org-apoio-patro" data-i18n="menu.patrocinio">Patrocínio</a>
+              <a class="dropdown-item" href="patrocinio.php" data-i18n="menu.patrocinio">Patrocínio</a>
               <a class="dropdown-item" href="index.php#programacao" data-i18n="menu.programacao">Programação</a>
               <a class="dropdown-item" href="#" data-i18n="menu.anais">Anais</a>
               <a class="dropdown-item" href="trilha-industrial.php" data-i18n="menu.trilha_industria">Trilha da Indústria</a>
