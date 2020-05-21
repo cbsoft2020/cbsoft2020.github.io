@@ -32,6 +32,12 @@
 				<img src="images/sponsors/sbc-white.png" style="width: 2cm" alt="sbc-logo" />
 			</a>
 		</div>
+		<div class="col-lg-12" align="center" style="margin-top: -120px">
+			<a href="mensagem-chairs.php" class="btn btn-main-md">
+				<span data-i18n="about.announcement_1"></span>
+				<span data-i18n="about.announcement_2"></span>
+			</a>
+		</div>
 	</div>
 </div>
 	
@@ -64,7 +70,7 @@
 		</div>
 	</div>
 </div>
--->
+
 	
 <div id="nota" class="modal fade">
 	<div class="modal-dialog modal-lg">
@@ -98,6 +104,7 @@
 		</div>
 	</div>
 </div>
+-->
 
 <!--===========================
 =            About            =
@@ -111,6 +118,17 @@
 					<img class="img-fluid" src="images/icone_03.png" alt="">
 				</div>
 			</div>
+			
+			<div id="announcement" class="col-lg-8 col-md-6 align-self-center">
+				<div class="content-block">
+					<div class="description-one">
+						<h4 data-i18n="about.announcement_1"></h4>
+						<a href="mensagem-chairs.php"><h4 style="color: #f4b321" data-i18n="about.announcement_2"></h4></a>
+					</div>
+				</div>
+			</div>
+			
+			<br/>
 			<div class="col-lg-8 col-md-6 align-self-center">
 				<div class="content-block">
 					<h2 data-i18n="about.sobre"></h2>
