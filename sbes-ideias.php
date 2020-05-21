@@ -7,6 +7,10 @@
 	$file = "conteudo/topicos.json";
     $info = file_get_contents($file);
     $data = json_decode($info);
+	
+	$file_pc = "conteudo/pc.json";
+    $info_pc = file_get_contents($file_pc);
+    $data_pc = json_decode($info_pc);
 ?>
 
 <body class="body-wrapper">
@@ -99,7 +103,12 @@
 					<div class="description-one">
 						<strong><p data-i18n="sbes.comite.7"></p></strong>
 						<p data-i18n="sbes.comite.8"></p>
-						<p data-i18n="sbes.comite.9"></p><br/>
+						<p data-i18n="sbes.comite.9"></p>
+						<strong><p style="margin-top: 10px" data-i18n="sbes.pc"></p></strong>
+						<?php
+							for ($i=0; $i < count($data_pc->pc_sbes_ideias_en); $i++) { ?>
+							<p data-i18n="sbes.comite_ideias.<?php echo $i; ?>" style="color: black;"></p>
+						<?php }	// for ?>
 					</div>
 				</div>
 			</div>
