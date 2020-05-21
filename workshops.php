@@ -72,7 +72,9 @@
 								</tr>
 								<tr>
 									<td>
-										<a href="#" target="_blank"><p data-i18n="workshops.vem" style="color: #f4b321"></p></a>
+										<a href="https://vem2020.github.io/vem2020/" target="_blank">
+											<p data-i18n="workshops.vem" style="color: #f4b321"></p>
+										</a>
 										<br/><p style="margin-top: -20px; color: black" data-i18n="workshops.vem_nome"></p>
 									</td>
 									<td>

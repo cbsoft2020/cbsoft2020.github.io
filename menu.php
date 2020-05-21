@@ -64,7 +64,7 @@
               <a class="nav-link" href="workshops.php">Workshops</a>
               <div class="dropdown-menu">
 				  <a class="dropdown-item" href="https://ww2.inf.ufg.br/mssis/" target="_blank" data-i18n="workshops.mssis">MSSiS</a>
-                  <a class="dropdown-item" href="#" data-i18n="workshops.vem">VEM</a>
+                  <a class="dropdown-item" href="https://vem2020.github.io/vem2020/" target="_blank" data-i18n="workshops.vem">VEM</a>
               </div>
           </li>
 		  <!--
