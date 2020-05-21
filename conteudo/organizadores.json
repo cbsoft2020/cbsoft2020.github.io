@@ -89,7 +89,7 @@
 			"email": "guta@pucminas.br"
 		},
 		{
-			"imagem": "avatar-man.png",
+			"imagem": "eduardo-figueiredo.jpg",
 			"nome": "Eduardo Figueiredo",
 			"universidade": "UFMG",
 			"lattes": "http://lattes.cnpq.br/1265706528850746",
@@ -134,12 +134,20 @@
 		}
 	],
 	"chairs_sblp": [{
-		"imagem": "sergio.jpg",
-		"nome": "Sergio Medeiros",
-		"universidade": "UFRN",
-		"lattes": "http://lattes.cnpq.br/0310395336626784",
-		"email": "sergiomedeiros@ect.ufrn.br"
-	}],
+			"imagem": "sergio.jpg",
+			"nome": "Sergio Medeiros",
+			"universidade": "UFRN",
+			"lattes": "http://lattes.cnpq.br/0310395336626784",
+			"email": "sergiomedeiros@ect.ufrn.br"
+		},
+		{
+			"imagem": "avatar-man.png",
+			"nome": "Francisco Sant'anna",
+			"universidade": "UERJ",
+			"lattes": "http://lattes.cnpq.br/0077491494754494",
+			"email": "francisco@ime.uerj.br"
+		}
+	],
 	"chairs_wtdsoft": [{
 			"imagem": "carla.jpg",
 			"nome": "Carla Silva",
