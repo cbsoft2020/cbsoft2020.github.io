@@ -192,7 +192,7 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="sponsor-title text-center">
-					<h5 style="margin-bottom: 25px">SBES 2020 &ndash; <span data-i18n="ctic-es.subtitulo"></span></h5>
+					<h5 style="margin-bottom: 25px"><span data-i18n="ctic-es.subtitulo"></span></h5>
 				</div>
 			</div>
 		</div>
@@ -223,7 +223,7 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="sponsor-title text-center">
-					<h5 style="margin-bottom: 25px">SBES 2020 &ndash; <span data-i18n="ctd-es.subtitulo"></span></h5>
+					<h5 style="margin-bottom: 25px"><span data-i18n="ctd-es.subtitulo"></span></h5>
 				</div>
 			</div>
 		</div>
