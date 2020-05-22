@@ -49,7 +49,7 @@
 		"announcement_1": "O CBSoft 2020 será virtual. Para maiores informações, clique",
 		"announcement_2": "aqui."
 	},
-	
+
 	"notice_1": {
 		"title": "Mensagem da Coordenação Geral do CBSoft 2020",
 		"paragraph_1": "Prezado(a) congressista,",
@@ -917,5 +917,34 @@
 	"org": {
 		"organizacao": "Organização",
 		"org_local": "Coordenação Geral"
+	},
+
+	"contato": {
+		"titulo": "Entre em contato",
+		"nome": "Seu nome",
+		"email": "Seu endereço de e-mail",
+		"assunto": "Sobre o que você deseja falar?",
+		"opcao-default": "Escolha uma opção",
+		"mensagem": "Escreva sua mensagem",
+		"send": "Enviar",
+		"topicos": [
+			"Dúvidas/Solicitações gerais",
+			"Inscrições",
+			"SBES - Trilha de Pesquisa",
+			"SBES - Trilha de Ideias Inovadoras e Resultados Emergentes",
+			"SBES - Trilha de Educação",
+			"SBES - Trilha de Ferramentas",
+			"SBES - CTIC-ES",
+			"SBES - CTD-ES",
+			"SBCARS",
+			"SBLP",
+			"SAST",
+			"WTDSoft",
+			"Trilha da Indústria",
+			"Workshops - MSSIS",
+			"Worskhops - VEM"
+		],
+		"success": "Sua mensagem foi enviada com sucesso.",
+		"error": "Sua mensagem não pôde ser enviada. Por favor, tente novamente."
 	}
 }

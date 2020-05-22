@@ -93,6 +93,14 @@
 		  content: "\A";
 		  white-space: pre;
 	  }
+	  
+	  label {
+		  margin-bottom: 5px;
+	  }
+	  
+	  input, textarea {
+		  font-family: 'FontAwesome', 'Gotham', sans-serif; 
+	  }
   </style>
 
 </head>

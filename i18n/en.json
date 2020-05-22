@@ -49,7 +49,7 @@
 		"announcement_1": "CBSoft 2020 will be a virtual conference. For details, click",
 		"announcement_2": "here."
 	},
-	
+
 	"notice_1": {
 		"title": "Message from CBSoft 2020 General Chairs",
 		"paragraph_1": "Dear attendee,",
@@ -918,5 +918,34 @@
 	"org": {
 		"organizacao": "Organization",
 		"org_local": "General Chairs"
+	},
+
+	"contato": {
+		"titulo": "Get in touch",
+		"nome": "Your name",
+		"email": "Your e-mail address",
+		"assunto": "What do you want to talk about?",
+		"opcao-default": "Choose an option",
+		"mensagem": "Write down your message",
+		"send": "Send",
+		"topicos": [
+			"General requests",
+			"Registration",
+			"SBES - Research Track",
+			"SBES - Innovative Ideas and Emerging Results Track",
+			"SBES - Education Track",
+			"SBES - Tools Track",
+			"SBES - CTIC-ES",
+			"SBES - CTD-ES",
+			"SBCARS",
+			"SBLP",
+			"SAST",
+			"WTDSoft",
+			"Industry Track",
+			"Workshops - MSSIS",
+			"Worskhops - VEM"
+		],
+		"success": "Your message has been successfully sent.",
+		"error": "Your message could not be sent. Please try again."
 	}
 }
