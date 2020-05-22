@@ -17,12 +17,9 @@
 		var div_error = document.getElementById("erro");
 
 		if (success === "true") {
-			div_error.style.display = "none";
+			div_success.style.display = "block";
 		} else if (success === "false") {
-			div_success.style.display = "none";
-		} else {
-			div_success.style.display = "none";
-			div_error.style.display = "none";
+			div_error.style.display = "block";
 		}
 	}
 </script>
@@ -66,13 +63,13 @@
 <section class="section about">
 	<div class="container">
 		<br/>
-		<div class="alert alert-success alert-dismissible fade show" role="alert" id="sucesso" style="text-align: center">
+		<div class="alert alert-success alert-dismissible fade show" role="alert" id="sucesso" style="text-align: center; display: none">
 			<span data-i18n="contato.success"></span>
 		  	<button type="button" class="close" data-dismiss="alert" aria-label="Close">
 				<span aria-hidden="true">&times;</span>
 		  	</button>
 		</div>
-		<div class="alert alert-danger alert-dismissible fade show" role="alert" id="erro" style="text-align: center">
+		<div class="alert alert-danger alert-dismissible fade show" role="alert" id="erro" style="text-align: center; display: none">
 			<span data-i18n="contato.error"></span>
 		  	<button type="button" class="close" data-dismiss="alert" aria-label="Close">
 				<span aria-hidden="true">&times;</span>

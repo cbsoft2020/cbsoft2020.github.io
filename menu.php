@@ -79,7 +79,7 @@
           </li>
 		  -->
           <li class="nav-item">
-              <a class="nav-link" href="#" data-i18n="menu.contato">Contato</a>
+              <a class="nav-link" href="contato.php" data-i18n="menu.contato">Contato</a>
           </li>
           <li class="nav-item">
               <form style="margin-right: 5px">
