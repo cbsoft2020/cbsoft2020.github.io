@@ -21,6 +21,11 @@ function getChairs($topico) {
 	unset($data->general_chairs[1]);
 	unset($data->general_chairs[2]);
 	
+	// Mudanças de contato para VEM 2020
+	$data->general_chairs[0]->nome = "VEM 2020";
+	$data->general_chairs[0]->email = "cbsoft.vem2020@gmail.com";
+	unset($data->chairs_vem[1]);
+	
 	switch ($topico) {
 		case "geral":
 			return $data->general_chairs;
