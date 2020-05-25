@@ -435,6 +435,50 @@
                 </div>
 			<?php } //foreach ?>
 		</div>
+		<div class="row justify-content-center">
+			<?php foreach($data->chairs_mssis as $org) { ?>
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="speaker-item">
+                        <div class="image">
+                            <img src="images/organizadores/<?php echo $org->imagem;?>" alt="speaker" class="img-fluid">
+                            <div class="primary-overlay"></div>
+                            <div class="socials">
+                                <ul class="list-inline">
+                                    <li class="list-inline-item"><a href="<?php echo $org->lattes;?>"><img src="images/icon/lattes-2.png" style="padding-top: 8px;" width="40px" height="40px"></i></a></li>
+                                    <li class="list-inline-item"><a href="mailto:<?php echo $org->email;?>"><i class="fa fa-envelope "></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="content text-center">
+                            <p style="font-size: 18px"><?php echo $org->nome;?></p>
+                            <p style="font-size: 14px"><?php echo $org->universidade;?></p>
+                        </div>
+                    </div>
+                </div>
+			<?php } //foreach ?>
+		</div>
+		<div class="row justify-content-center">
+			<?php foreach($data->chairs_vem as $org) { ?>
+                <div class="col-lg-3 col-md-4 col-sm-6">
+                    <div class="speaker-item">
+                        <div class="image">
+                            <img src="images/organizadores/<?php echo $org->imagem;?>" alt="speaker" class="img-fluid">
+                            <div class="primary-overlay"></div>
+                            <div class="socials">
+                                <ul class="list-inline">
+                                    <li class="list-inline-item"><a href="<?php echo $org->lattes;?>"><img src="images/icon/lattes-2.png" style="padding-top: 8px;" width="40px" height="40px"></i></a></li>
+                                    <li class="list-inline-item"><a href="mailto:<?php echo $org->email;?>"><i class="fa fa-envelope "></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="content text-center">
+                            <p style="font-size: 18px"><?php echo $org->nome;?></p>
+                            <p style="font-size: 14px"><?php echo $org->universidade;?></p>
+                        </div>
+                    </div>
+                </div>
+			<?php } //foreach ?>
+		</div>
 	</div>
 </section>
 
