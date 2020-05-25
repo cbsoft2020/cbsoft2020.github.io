@@ -440,7 +440,7 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="sponsor-title text-center">
-					<h5 style="margin-bottom: 25px" data-i18n="workshops.mssis"></h5>
+					<h5 style="margin-bottom: 25px">II MSSiS</h5>
 				</div>
 			</div>
 		</div>
@@ -471,7 +471,7 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="sponsor-title text-center">
-					<h5 style="margin-bottom: 25px" data-i18n="workshops.vem"></h5>
+					<h5 style="margin-bottom: 25px">VEM 2020</h5>
 				</div>
 			</div>
 		</div>
