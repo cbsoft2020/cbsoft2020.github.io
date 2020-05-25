@@ -435,6 +435,15 @@
                 </div>
 			<?php } //foreach ?>
 		</div>
+
+		<br/>
+		<div class="row">
+			<div class="col-12">
+				<div class="sponsor-title text-center">
+					<h5 style="margin-bottom: 25px" data-i18n="workshops.mssis"></h5>
+				</div>
+			</div>
+		</div>
 		<div class="row justify-content-center">
 			<?php foreach($data->chairs_mssis as $org) { ?>
                 <div class="col-lg-3 col-md-4 col-sm-6">
@@ -456,6 +465,15 @@
                     </div>
                 </div>
 			<?php } //foreach ?>
+		</div>
+
+		<br/>
+		<div class="row">
+			<div class="col-12">
+				<div class="sponsor-title text-center">
+					<h5 style="margin-bottom: 25px" data-i18n="workshops.vem"></h5>
+				</div>
+			</div>
 		</div>
 		<div class="row justify-content-center">
 			<?php foreach($data->chairs_vem as $org) { ?>
