@@ -176,5 +176,42 @@
 		"universidade": "UEM",
 		"lattes": "http://lattes.cnpq.br/3603496659156120",
 		"email": "thelma.lopes@din.uem.br"
-	}]
+	}],
+	"chairs_mssis": [{
+			"imagem": "avatar-man.png",
+			"nome": "Valdemar Neto",
+			"universidade": "UFG",
+			"lattes": "http://lattes.cnpq.br/9864803557706493",
+			"email": "valdemarneto@ufg.br"
+		},
+		{
+			"imagem": "elisa.png",
+			"nome": "Elisa Nakagawa",
+			"universidade": "ICMC-USP",
+			"lattes": "http://lattes.cnpq.br/7494142007764616",
+			"email": "elisa@icmc.usp.br"
+		},
+		{
+			"imagem": "avatar-man.png",
+			"nome": "Bernard Zeigler",
+			"universidade": "UArizona, Tucson",
+			"lattes": "https://d.lib.ncsu.edu/computer-simulation/videos/bernard-p-zeigler-interviewed-by-richard-e-nance-zeigler/",
+			"email": "zeigler@ece.arizona.edu"
+		}
+	],
+	"chairs_vem": [{
+			"imagem": "avatar-man.png",
+			"nome": "Rafael Durelli",
+			"universidade": "UFLA",
+			"lattes": "http://lattes.cnpq.br/0805947997778420",
+			"email": "rafael.durelli@ufla.br"
+		},
+		{
+			"imagem": "avatar-man.png",
+			"nome": "Lincoln Rocha",
+			"universidade": "UFC",
+			"lattes": "http://lattes.cnpq.br/0656977742590515",
+			"email": "lincoln@dc.ufc.br"
+		}
+	]
 }
