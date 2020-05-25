@@ -99,12 +99,6 @@
 							<p data-i18n="sblp.comite.<?php echo $i; ?>" style="color: black;"></p>
 						<?php }	// for ?>
 					</div>
-					
-					<br/>
-					<h5 data-i18n="sblp.secao_contato"></h5>
-                    <div class="description-one">
-						<p data-i18n="sblp.descricao_6"></p>
-					</div>
 				</div>
 			</div>
 		</div>

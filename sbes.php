@@ -37,10 +37,10 @@
 					<div class="description-one">
 						<p data-i18n="sbes.descricao_2"></p>
 						<ol style="margin-top: 10px">
-							<li data-i18n="sbes.trilhas.0" style="color: black; font-size: 1rem; line-height: 26px;"></li>
-                            <li data-i18n="sbes.trilhas.1" style="color: black; font-size: 1rem; line-height: 26px;"></li>
-                            <li data-i18n="sbes.trilhas.2" style="color: black; font-size: 1rem; line-height: 26px;"></li>
-							<li data-i18n="sbes.trilhas.3" style="color: black; font-size: 1rem; line-height: 26px;"></li>
+							<li data-i18n="sbes.trilhas.0"></li>
+                            <li data-i18n="sbes.trilhas.1"></li>
+                            <li data-i18n="sbes.trilhas.2"></li>
+							<li data-i18n="sbes.trilhas.3"></li>
 						</ol>
 						<p data-i18n="sbes.descricao_3"></p>
 						<ul style="margin-top: 10px; margin-left: -20px">

@@ -15,7 +15,7 @@
               <a class="dropdown-item" href="patrocinio.php" data-i18n="menu.patrocinio">Patrocínio</a>
               <a class="dropdown-item" href="index.php#programacao" data-i18n="menu.programacao">Programação</a>
               <a class="dropdown-item" href="#" data-i18n="menu.anais">Anais</a>
-              <a class="dropdown-item" href="trilha-industrial.php" data-i18n="menu.trilha_industria">Trilha da Indústria</a>
+              <a class="dropdown-item" href="trilha-industria.php" data-i18n="menu.trilha_industria">Trilha da Indústria</a>
               <a class="dropdown-item" href="#" data-i18n="menu.tutoriais">Tutoriais</a>
               <a class="dropdown-item" href="#" data-i18n="menu.minicursos">Minicursos</a>
               <a class="dropdown-item" href="wtdsoft.php" data-i18n="menu.wtdsoft">Workshop de Teses e Dissertações</a>
@@ -24,7 +24,7 @@
             </div>
           </li>
           <li class="nav-item dropdown dropdown-slide">
-            <a class="nav-link" href="#" data-toggle="dropdown">SBES</a>
+            <a class="nav-link" href="sbes.php" data-toggle="dropdown">SBES</a>
             <div class="dropdown-menu">
               <a class="dropdown-item" href="sbes.php" data-i18n="menu.home_SBES">Página Principal</a>
               <a class="dropdown-item" href="sbes-pesquisa.php" data-i18n="menu.trilha_pesquisa">Trilha de Pesquisa</a>
@@ -37,7 +37,7 @@
             </div>
           </li>
           <li class="nav-item dropdown dropdown-slide">
-              <a class="nav-link" href="#" data-toggle="dropdown">SBCARS</a>
+              <a class="nav-link" href="sbcars.php" data-toggle="dropdown">SBCARS</a>
               <div class="dropdown-menu">
                 <a class="dropdown-item" href="sbcars.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a>
                 <a class="dropdown-item" href="sbcars.php" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>
@@ -45,7 +45,7 @@
               </div>
           </li>
           <li class="nav-item dropdown dropdown-slide">
-              <a class="nav-link" href="#" data-toggle="dropdown">SBLP</a>
+              <a class="nav-link" href="sblp.php" data-toggle="dropdown">SBLP</a>
               <div class="dropdown-menu">
                 <a class="dropdown-item" href="sblp.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a>
                 <a class="dropdown-item" href="sblp.php" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>
@@ -53,7 +53,7 @@
               </div>
           </li>
           <li class="nav-item dropdown dropdown-slide">
-              <a class="nav-link" href="#" data-toggle="dropdown">SAST</a>
+              <a class="nav-link" href="sast.php" data-toggle="dropdown">SAST</a>
               <div class="dropdown-menu">
                 <a class="dropdown-item" href="sast.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a>
                 <a class="dropdown-item" href="sast.php" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>

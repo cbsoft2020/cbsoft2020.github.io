@@ -401,7 +401,7 @@
 			"If the submitted paper is a follow up of a previous work, the reference may be anonymized in the submitted paper. For example, &quot;the previous work of Silva et al.&quot; can be adapted to &quot;based on the previous work [X]&quot; and the reference at the end of the paper can be presented as &quot;[X] Anonymous authors. Not presented due to double blind review.&quot;."
 		],
 		"descricao_18": "After the paper acceptance, all the paper information (without anonymization) can be included in the camera-ready version.",
-		"descricao_19": "In case of having any questions about the preparation of the paper following the double-blind rules,an email can be sent to the Program Chairs with the subject &quot;SBES: question about the double-blind rules.&quot;.",
+		"descricao_19": "Any questions about the preparation of the paper following the double-blind rules can be sent to the Program Committee Chairs through this <a href='contato.php' style='color: #f4b321'>page</a>.",
 		"secao_comite": "Organization",
 		"pc": "Program Committee",
 		"comite": [

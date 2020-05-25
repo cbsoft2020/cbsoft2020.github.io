@@ -32,7 +32,7 @@
 						<table class="table table-hover">
 							<thead style="background-color: #f4b321; color: white">
 								<tr>
-								  	<th scope="col" class="align-middle" width="25%">
+								  	<th scope="col" class="align-middle" width="20%">
 										<p style="color: white;">Workshop</p>
 									</th>
 								  	<th scope="col" class="align-middle">
@@ -161,12 +161,6 @@
 						</ul>
 					</div>
 					-->
-					
-					<br/>
-					<h5 data-i18n="workshops.secao_contato"></h5>
-					<div class="description-one">
-						<p data-i18n="workshops.descricao_9"></p>
-					</div>
 				</div>
 			</div>
 		</div>

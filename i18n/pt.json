@@ -400,7 +400,7 @@
 			"Se o trabalho submetido for uma evolução de trabalho anterior, é possível anonimizar a referência no artigo submetido. Por exemplo, &quot;o trabalho anterior de Silva et al.&quot; pode ser adaptado para &quot;baseado no trabalho anterior [X]&quot; e a referência no final do artigo pode ser apresentada como &quot;[X] autores anônimos devido a revisão <i>double-blind</i>&quot;."
 		],
 		"descricao_18": "Após a aceitação do artigo, todas as informações (sem anonimização) poderão ser incluídas na versão final.",
-		"descricao_19": "Em caso de dúvida sobre a preparação do trabalho seguindo as regras de submissão <i>double-blind</i>, pode-se enviar um <i>e-mail</i> para os Coordenadores do Comitê de Programa com o assunto &quot;SBES: Pergunta sobre as regras de double-blind&quot;.",
+		"descricao_19": "Em caso de dúvida sobre a preparação do trabalho seguindo as regras de submissão <i>double-blind</i>, pode-se entrar em contato com os Coordenadores do Comitê de Programa através desta <a href='contato.php' style='color: #f4b321'>página</a>.",
 		"secao_comite": "Organização",
 		"pc": "Comitê de Programa",
 		"comite": [
