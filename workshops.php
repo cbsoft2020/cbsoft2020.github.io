@@ -78,13 +78,13 @@
 										<br/><p style="margin-top: -20px; color: black" data-i18n="workshops.vem_nome"></p>
 									</td>
 									<td>
-										<p style="color: black" data-i18n="workshops.tba"></p>
+										<p style="color: black" data-i18n="workshops.deadlines_vem.0"></p>
 									</td>
 									<td>
-										<p style="color: black" data-i18n="workshops.tba"></p>
+										<p style="color: black" data-i18n="workshops.deadlines_vem.1"></p>
 									</td>
 									<td>
-										<p style="color: black" data-i18n="workshops.tba"></p>
+										<p style="color: black" data-i18n="workshops.deadlines_vem.2"></p>
 									</td>
 									<td>
 										<p style="color: black" data-i18n="workshops.tba"></p>
