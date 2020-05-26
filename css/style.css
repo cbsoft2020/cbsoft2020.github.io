@@ -1076,8 +1076,7 @@ select.form-control:not([size]):not([multiple]) {
 .about ul li {
 	color: black;
 	font-size: 1.0625rem;
-	line-height: 26px; 
-	text-align: left;
+	line-height: 26px;
 }
 
 @media (max-width: 767px) {
