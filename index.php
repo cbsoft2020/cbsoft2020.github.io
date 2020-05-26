@@ -32,7 +32,7 @@
 				<img src="images/sponsors/sbc-white.png" style="width: 2cm" alt="sbc-logo" />
 			</a>
 		</div>
-		<div class="col-lg-12" align="center" style="margin-top: -120px">
+		<div class="col-lg-12" align="center" style="margin-top: -120px" id="announcement-button">
 			<a href="mensagem-chairs.php" class="btn btn-main-md">
 				<span data-i18n="about.announcement_1"></span>
 				<span data-i18n="about.announcement_2"></span>
@@ -119,7 +119,7 @@
 				</div>
 			</div>
 			
-			<div id="announcement" class="col-lg-8 col-md-6 align-self-center" style="margin-bottom: 30px">
+			<div id="announcement" class="col-lg-6 col-md-6 align-self-center" style="margin-bottom: 30px">
 				<div class="content-block">
 					<div class="description-one">
 						<span style="font-size: 1.6875rem; font-weight: bold" data-i18n="about.announcement_1"></span>&nbsp;
