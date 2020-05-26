@@ -119,16 +119,17 @@
 				</div>
 			</div>
 			
-			<div id="announcement" class="col-lg-8 col-md-6 align-self-center">
+			<div id="announcement" class="col-lg-8 col-md-6 align-self-center" style="margin-bottom: 30px">
 				<div class="content-block">
 					<div class="description-one">
-						<h4 data-i18n="about.announcement_1"></h4>
-						<a href="mensagem-chairs.php"><h4 style="color: #f4b321" data-i18n="about.announcement_2"></h4></a>
+						<span style="font-size: 1.6875rem; font-weight: bold" data-i18n="about.announcement_1"></span>&nbsp;
+						<a href="mensagem-chairs.php">
+							<span style="color: #f4b321; font-size: 1.6875rem; font-weight: bold" data-i18n="about.announcement_2"></span>
+						</a>
 					</div>
 				</div>
 			</div>
 			
-			<br/>
 			<div class="col-lg-8 col-md-6 align-self-center">
 				<div class="content-block">
 					<h2 data-i18n="about.sobre"></h2>
