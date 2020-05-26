@@ -101,6 +101,10 @@
 	  input, textarea {
 		  font-family: 'FontAwesome', 'Gotham', sans-serif; 
 	  }
+	  
+	  .affiliation {
+		  text-align: center;
+	  }
   </style>
 
 </head>

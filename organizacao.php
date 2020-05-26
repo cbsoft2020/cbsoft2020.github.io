@@ -56,8 +56,8 @@
                             </div>
                         </div>
                         <div class="content text-center">
-                            <p style="font-size: 18px"><?php echo $org->nome;?></p>
-                            <p style="font-size: 14px"><?php echo $org->universidade;?></p>
+                            <p style="font-size: 18px" class="affiliation"><?php echo $org->nome;?></p>
+                            <p style="font-size: 14px" class="affiliation"><?php echo $org->universidade;?></p>
                         </div>
                     </div>
                 </div>
@@ -87,8 +87,8 @@
                             </div>
                         </div>
                         <div class="content text-center">
-                            <p style="font-size: 18px"><?php echo $org->nome;?></p>
-                            <p style="font-size: 14px"><?php echo $org->universidade;?></p>
+                            <p style="font-size: 18px" class="affiliation"><?php echo $org->nome;?></p>
+                            <p style="font-size: 14px" class="affiliation"><?php echo $org->universidade;?></p>
                         </div>
                     </div>
                 </div>
@@ -118,8 +118,8 @@
                             </div>
                         </div>
                         <div class="content text-center">
-                            <p style="font-size: 18px"><?php echo $org->nome;?></p>
-                            <p style="font-size: 14px"><?php echo $org->universidade;?></p>
+                            <p style="font-size: 18px" class="affiliation"><?php echo $org->nome;?></p>
+                            <p style="font-size: 14px" class="affiliation"><?php echo $org->universidade;?></p>
                         </div>
                     </div>
                 </div>
@@ -149,8 +149,8 @@
                             </div>
                         </div>
                         <div class="content text-center">
-                            <p style="font-size: 18px"><?php echo $org->nome;?></p>
-                            <p style="font-size: 14px"><?php echo $org->universidade;?></p>
+                            <p style="font-size: 18px" class="affiliation"><?php echo $org->nome;?></p>
+                            <p style="font-size: 14px" class="affiliation"><?php echo $org->universidade;?></p>
                         </div>
                     </div>
                 </div>
@@ -180,8 +180,8 @@
                             </div>
                         </div>
                         <div class="content text-center">
-                            <p style="font-size: 18px"><?php echo $org->nome;?></p>
-                            <p style="font-size: 14px"><?php echo $org->universidade;?></p>
+                            <p style="font-size: 18px" class="affiliation"><?php echo $org->nome;?></p>
+                            <p style="font-size: 14px" class="affiliation"><?php echo $org->universidade;?></p>
                         </div>
                     </div>
                 </div>
@@ -242,8 +242,8 @@
                             </div>
                         </div>
                         <div class="content text-center">
-                            <p style="font-size: 18px"><?php echo $org->nome;?></p>
-                            <p style="font-size: 14px"><?php echo $org->universidade;?></p>
+                            <p style="font-size: 18px" class="affiliation"><?php echo $org->nome;?></p>
+                            <p style="font-size: 14px" class="affiliation"><?php echo $org->universidade;?></p>
                         </div>
                     </div>
                 </div>
@@ -273,8 +273,8 @@
                             </div>
                         </div>
                         <div class="content text-center">
-                            <p style="font-size: 18px"><?php echo $org->nome;?></p>
-                            <p style="font-size: 14px"><?php echo $org->universidade;?></p>
+                            <p style="font-size: 18px" class="affiliation"><?php echo $org->nome;?></p>
+                            <p style="font-size: 14px" class="affiliation"><?php echo $org->universidade;?></p>
                         </div>
                     </div>
                 </div>
@@ -304,8 +304,8 @@
                             </div>
                         </div>
                         <div class="content text-center">
-                            <p style="font-size: 18px"><?php echo $org->nome;?></p>
-                            <p style="font-size: 14px"><?php echo $org->universidade;?></p>
+                            <p style="font-size: 18px" class="affiliation"><?php echo $org->nome;?></p>
+                            <p style="font-size: 14px" class="affiliation"><?php echo $org->universidade;?></p>
                         </div>
                     </div>
                 </div>
@@ -335,8 +335,8 @@
                             </div>
                         </div>
                         <div class="content text-center">
-                            <p style="font-size: 18px"><?php echo $org->nome;?></p>
-                            <p style="font-size: 14px"><?php echo $org->universidade;?></p>
+                            <p style="font-size: 18px" class="affiliation"><?php echo $org->nome;?></p>
+                            <p style="font-size: 14px" class="affiliation"><?php echo $org->universidade;?></p>
                         </div>
                     </div>
                 </div>
@@ -366,8 +366,8 @@
                             </div>
                         </div>
                         <div class="content text-center">
-                            <p style="font-size: 18px"><?php echo $org->nome;?></p>
-                            <p style="font-size: 14px"><?php echo $org->universidade;?></p>
+                            <p style="font-size: 18px" class="affiliation"><?php echo $org->nome;?></p>
+                            <p style="font-size: 14px" class="affiliation"><?php echo $org->universidade;?></p>
                         </div>
                     </div>
                 </div>
@@ -397,8 +397,8 @@
                             </div>
                         </div>
                         <div class="content text-center">
-                            <p style="font-size: 18px"><?php echo $org->nome;?></p>
-                            <p style="font-size: 14px"><?php echo $org->universidade;?></p>
+                            <p style="font-size: 18px" class="affiliation"><?php echo $org->nome;?></p>
+                            <p style="font-size: 14px" class="affiliation"><?php echo $org->universidade;?></p>
                         </div>
                     </div>
                 </div>
@@ -428,8 +428,8 @@
                             </div>
                         </div>
                         <div class="content text-center">
-                            <p style="font-size: 18px"><?php echo $org->nome;?></p>
-                            <p style="font-size: 14px"><?php echo $org->universidade;?></p>
+                            <p style="font-size: 18px" class="affiliation"><?php echo $org->nome;?></p>
+                            <p style="font-size: 14px" class="affiliation"><?php echo $org->universidade;?></p>
                         </div>
                     </div>
                 </div>
@@ -459,8 +459,8 @@
                             </div>
                         </div>
                         <div class="content text-center">
-                            <p style="font-size: 18px"><?php echo $org->nome;?></p>
-                            <p style="font-size: 14px"><?php echo $org->universidade;?></p>
+                            <p style="font-size: 18px" class="affiliation"><?php echo $org->nome;?></p>
+                            <p style="font-size: 14px" class="affiliation"><?php echo $org->universidade;?></p>
                         </div>
                     </div>
                 </div>
@@ -490,8 +490,8 @@
                             </div>
                         </div>
                         <div class="content text-center">
-                            <p style="font-size: 18px"><?php echo $org->nome;?></p>
-                            <p style="font-size: 14px"><?php echo $org->universidade;?></p>
+                            <p style="font-size: 18px" class="affiliation"><?php echo $org->nome;?></p>
+                            <p style="font-size: 14px" class="affiliation"><?php echo $org->universidade;?></p>
                         </div>
                     </div>
                 </div>
