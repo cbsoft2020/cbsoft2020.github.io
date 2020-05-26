@@ -1069,8 +1069,7 @@ select.form-control:not([size]):not([multiple]) {
 .about ol li {
 	color: black;
 	font-size: 1.0625rem;
-	line-height: 26px; 
-	text-align: left;
+	line-height: 26px;
 }
 
 .about ul li {
