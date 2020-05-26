@@ -23,6 +23,7 @@
 		<div class="row">
 			<div class="col-lg-12 align-self-center">
 				<div class="content-block">
+					<h2 style="line-height: 50px" data-i18n="trilha-industria.titulo"></h2>
 					<div class="description-one">
 						<p data-i18n="trilha-industria.descricao_1"></p>
 					</div>
