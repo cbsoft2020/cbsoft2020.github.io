@@ -71,7 +71,7 @@
 		  margin: -340px -30px;
 	  }
 	  
-	  @media (min-width: 1020px) {
+	  @media (min-width: 767px) {
 		  #announcement {
 		  	  display: none;
 	  	  }
