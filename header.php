@@ -94,6 +94,11 @@
 		  white-space: pre;
 	  }
 	  
+	  #datas-workshops tr td p span::before {
+		  content: "\A";
+		  white-space: pre;
+	  }
+	  
 	  label {
 		  margin-bottom: 5px;
 	  }

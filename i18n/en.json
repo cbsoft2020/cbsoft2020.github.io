@@ -109,6 +109,7 @@
 
 	"wtdsoft": {
 		"titulo": "WTDSoft 2020<br/>10th Workshop on Theses and Dissertations",
+		"titulo_2": "10th Workshop on Theses and Dissertations",
 		"descricao_1": "The <b>CBSoft's Workshop on Theses and Dissertations (WTDSoft)</b> is dedicated to the presentation and discussion of Master's and PhD work in progress on Software Engineering and Programming Languages. WTDSoft has its origins in the Workshop on Software Engineering Theses and Dissertations (WTES), which was part of SBES from 1996 to 2020. It seeks to promote the integration of SBES, SBLP, SBCARS, and SAST communities aiming at providing a constructive environment for discussions among students with work in progress and researchers.",
 		"secao_eligibilidade_avaliacao": "Eligibility and Evaluation",
 		"descricao_2": "Master's or Doctoral works are eligible for submissions, preferrably:",

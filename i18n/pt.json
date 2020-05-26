@@ -109,6 +109,7 @@
 
 	"wtdsoft": {
 		"titulo": "WTDSoft 2020<br/>X Workshop de Teses e Dissertações",
+		"titulo_2": "X Workshop de Teses e Dissertações",
 		"descricao_1": "O <b>Workshop de Teses e Dissertações do CBSoft (WTDSoft)</b> é um evento dedicado à apresentação e à discussão de trabalhos em andamento de Mestrado e de Doutorado em andamento nas áreas de Engenharia de Software e Linguagens de Programação. O WTDSoft tem sua origem no Workshop de Teses e Dissertações em Engenharia de Software (WTES), evento integrante do SBES de 1996 a 2010, e busca promover a integração das comunidades do SBES, SBLP, SBCARS e SAST de modo a propiciar um ambiente construtivo para discussões entre estudantes com trabalhos em andamento e pesquisadores.",
 		"secao_eligibilidade_avaliacao": "Eligibilidade e Avaliação",
 		"descricao_2": "São elegíveis para submissão trabalhos de Mestrado ou Doutorado, preferencialmente:",

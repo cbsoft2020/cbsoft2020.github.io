@@ -29,7 +29,7 @@
 					</div>
 					
 					<div class="table-responsive" style="margin-top: 30px">
-						<table class="table table-hover">
+						<table class="table table-hover" id="datas-workshops">
 							<thead style="background-color: #f4b321; color: white">
 								<tr>
 								  	<th scope="col" class="align-middle" width="20%">
@@ -53,7 +53,7 @@
 								<tr>
 									<td>
 										<a href="https://ww2.inf.ufg.br/mssis/" target="_blank">
-											<p data-i18n="workshops.mssis" style="color: #f4b321"></p>
+											<p style="color: #f4b321">MSSiS</p>
 										</a>
 										<br/><p style="margin-top: -20px; color: black" data-i18n="workshops.mssis_nome"></p>
 									</td>
@@ -73,7 +73,7 @@
 								<tr>
 									<td>
 										<a href="https://vem2020.github.io/vem2020/" target="_blank">
-											<p data-i18n="workshops.vem" style="color: #f4b321"></p>
+											<p style="color: #f4b321">VEM</p>
 										</a>
 										<br/><p style="margin-top: -20px; color: black" data-i18n="workshops.vem_nome"></p>
 									</td>
@@ -85,6 +85,26 @@
 									</td>
 									<td>
 										<p style="color: black" data-i18n="workshops.deadlines_vem.2"></p>
+									</td>
+									<td>
+										<p style="color: black" data-i18n="workshops.tba"></p>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<a href="wtdsoft.php" target="_blank">
+											<p style="color: #f4b321">WTDSoft</p>
+										</a>
+										<br/><p style="margin-top: -20px; color: black" data-i18n="wtdsoft.titulo_2"></p>
+									</td>
+									<td>
+										<p style="color: black" data-i18n="wtdsoft.deadlines.0"></p>
+									</td>
+									<td>
+										<p style="color: black" data-i18n="wtdsoft.deadlines.1"></p>
+									</td>
+									<td>
+										<p style="color: black" data-i18n="wtdsoft.deadlines.2"></p>
 									</td>
 									<td>
 										<p style="color: black" data-i18n="workshops.tba"></p>
