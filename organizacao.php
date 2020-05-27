@@ -192,7 +192,7 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="sponsor-title text-center">
-					<h5 style="margin-bottom: 25px"><span data-i18n="ctic-es.subtitulo"></span></h5>
+					<h5 style="margin-bottom: 25px">CTIC-ES &ndash; <span data-i18n="ctic-es.subtitulo"></span></h5>
 				</div>
 			</div>
 		</div>
@@ -211,8 +211,8 @@
                             </div>
                         </div>
                         <div class="content text-center">
-                            <p style="font-size: 18px"><?php echo $org->nome;?></p>
-                            <p style="font-size: 14px"><?php echo $org->universidade;?></p>
+                            <p style="font-size: 18px" class="affiliation"><?php echo $org->nome;?></p>
+                            <p style="font-size: 14px" class="affiliation"><?php echo $org->universidade;?></p>
                         </div>
                     </div>
                 </div>
@@ -223,7 +223,7 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="sponsor-title text-center">
-					<h5 style="margin-bottom: 25px"><span data-i18n="ctd-es.subtitulo"></span></h5>
+					<h5 style="margin-bottom: 25px">CTD-ES &ndash; <span data-i18n="ctd-es.subtitulo"></span></h5>
 				</div>
 			</div>
 		</div>
@@ -440,7 +440,7 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="sponsor-title text-center">
-					<h5 style="margin-bottom: 25px">II MSSiS</h5>
+					<h5 style="margin-bottom: 25px">MSSiS 2020</h5>
 				</div>
 			</div>
 		</div>
