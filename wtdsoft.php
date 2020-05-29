@@ -3,6 +3,10 @@
 <!-- HEAD -->
 <?php 
 	include_once ("header.php");
+	
+	$file_pc = "conteudo/pc.json";
+    $info_pc = file_get_contents($file_pc);
+    $data_pc = json_decode($info_pc);
 ?>
 
 <body class="body-wrapper">
@@ -26,6 +30,7 @@
 					<h2 style="line-height: 50px" data-i18n="wtdsoft.titulo"></h2>
 					<div class="description-one">
 						<p data-i18n="wtdsoft.descricao_1"></p>
+						<p style="margin-top: 10px" data-i18n="wtdsoft.descricao_1a"></p>
 					</div>
 					
 					<br/>
@@ -68,6 +73,7 @@
 							<li data-i18n="wtdsoft.itens_conteudo.3" style="color: black;"></li>
 							<li data-i18n="wtdsoft.itens_conteudo.4" style="color: black;"></li>
 							<li data-i18n="wtdsoft.itens_conteudo.5" style="color: black;"></li>
+							<li data-i18n="wtdsoft.itens_conteudo.6" style="color: black;"></li>
 						</ul>
 						<p data-i18n="wtdsoft.descricao_7"></p>
 					</div>
@@ -97,6 +103,11 @@
 						<strong><p data-i18n="wtdsoft.comite.0"></p></strong>
 						<p data-i18n="wtdsoft.comite.1"></p>
 						<p data-i18n="wtdsoft.comite.2"></p>
+						<strong><p style="margin-top: 10px" data-i18n="wtdsoft.comite.3"></p></strong>
+						<?php
+							for ($i=4; $i < count($data_pc->pc_wtdsoft_en)+4; $i++) { ?>
+							<p data-i18n="wtdsoft.comite.<?php echo $i; ?>" style="color: black;"></p>
+						<?php }	// for ?>
 					</div>
 				</div>
 			</div>
