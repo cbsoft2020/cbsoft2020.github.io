@@ -280,8 +280,8 @@
 			"Submissão de artigo e vídeo"
 		],
 		"deadlines_pesquisa": [
-			"<strike>4 de maio de 2020</strike> <span style='color: red; font-weight: bold'>1º de junho de 2020</span>",
-			"<strike>11 de maio de 2020</strike> <span style='color: red; font-weight: bold'>8 de junho de 2020</span>",
+			"<strike>4 de maio de 2020</strike> <span style='text-decoration: line-through'>1º de junho de 2020</span> <span style='color: red; font-weight: bold'>8 de junho de 2020</span>",
+			"<strike>11 de maio de 2020</strike> <span style='text-decoration: line-through'>8 de junho de 2020</span> <span style='color: red; font-weight: bold'>15 de junho de 2020</span>",
 			"<strike>15 a 20 de junho de 2020</strike> <span style='color: red; font-weight: bold'>20 a 26 de julho de 2020</span>",
 			"<strike>3 de julho de 2020</strike> <span style='color: red; font-weight: bold'>6 de agosto de 2020</span>",
 			"<strike>17 de julho de 2020</strike> <span style='color: red; font-weight: bold'>20 de agosto de 2020</span>"

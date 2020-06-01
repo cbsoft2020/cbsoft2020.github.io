@@ -65,10 +65,10 @@
 						<table class="table table-hover" id="datas-sbes">
 							<thead style="background-color: #f4b321; color: white">
 								<tr>
-								  	<th scope="col" class="align-middle" width="18.5%">
+								  	<th scope="col" class="align-middle" width="19%">
 										<p data-i18n="sbes.trilha" style="color: white;"></p>
 									</th>
-								  	<th scope="col" class="align-middle" width="21%">
+								  	<th scope="col" class="align-middle" width="20%">
 										<p data-i18n="sbes.trilha_pesquisa_short" style="color: white;"></p>
 									</th>
 								  	<th scope="col" class="align-middle" width="20%">

@@ -280,8 +280,8 @@
 			"Paper submission and video upload"
 		],
 		"deadlines_pesquisa": [
-			"<strike>May 4, 2020</strike> <span style='color: red; font-weight: bold'>June 1, 2020</span>",
-			"<strike>May 11, 2020</strike> <span style='color: red; font-weight: bold'>June 8, 2020</span>",
+			"<strike>May 4, 2020</strike> <span style='text-decoration: line-through'>June 1, 2020</span> <span style='color: red; font-weight: bold'>June 8, 2020</span>",
+			"<strike>May 11, 2020</strike> <span style='text-decoration: line-through'>June 8, 2020</span> <span style='color: red; font-weight: bold'>June 15, 2020</span>",
 			"<strike>June 15-20, 2020</strike> <span style='color: red; font-weight: bold'>July 20-26, 2020</span>",
 			"<strike>July 3, 2020</strike> <span style='color: red; font-weight: bold'>August 6, 2020</span>",
 			"<strike>July 17, 2020</strike> <span style='color: red; font-weight: bold'>August 20, 2020</span>"
