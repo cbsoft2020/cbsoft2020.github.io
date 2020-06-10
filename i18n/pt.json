@@ -111,7 +111,7 @@
 		"titulo": "WTDSoft 2020<br/>X Workshop de Teses e Dissertações",
 		"titulo_2": "X Workshop de Teses e Dissertações",
 		"descricao_1": "O <b>Workshop de Teses e Dissertações do CBSoft (WTDSoft)</b> é um evento permanente associado ao CBSoft, dedicado à apresentação e à discussão de trabalhos de Mestrado e Doutorado em andamento nas áreas de Engenharia de Software e Linguagens de Programação. O WTDSoft tem sua origem no Workshop de Teses e Dissertações em Engenharia de Software (WTES), evento integrante do SBES de 1996 a 2010. O WTDSoft busca promover a integração das comunidades do Simpósio Brasileiro de Engenharia de Software (SBES), Simpósio Brasileiro de Linguagens de Programação (SBLP), Simpósio Brasileiro de Componentes, Arquiteturas e Reuso de Software (SBCARS) e Simpósio Brasileiro de Teste de Software Sistemático e Automatizado (SAST) de modo a propiciar um ambiente construtivo para discussões entre estudantes com trabalhos em andamento e pesquisadores nas áreas de Engenharia de Software e Linguagens de Programação.",
-		"secao_eligibilidade_avaliacao": "Eligibilidade e Avaliação",
+		"secao_eligibilidade_avaliacao": "Elegibilidade e Avaliação",
 		"descricao_2": "São elegíveis para submissão trabalhos de Mestrado ou Doutorado, preferencialmente:",
 		"criterios_eligibilidade": [
 			"Trabalhos de Doutorado com proposta definida (não necessariamente aprovada)",
@@ -194,7 +194,7 @@
 			"Henrique Rebêlo (UFPE, Brasil)",
 			"Hermano Moura (UFPE, Brasil)",
 			"Igor Wiese (UFTPR, Brasil)",
-			"João Pimentel (UFPE, Brasil)",
+			"João Pimentel (UFRPE, Brasil)",
 			"João Arthur Brunet Monteiro (UFCG, Brasil)",
 			"Johnny Marques (ITA, Brasil)",
 			"José David (UFSJ, Brasil)",
