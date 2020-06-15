@@ -796,7 +796,7 @@
 		"descricao_5": "Os seguintes documentos deverão ser submetidos, em conjunto:",
 		"documentos_submissao": [
 			"Texto integral da tese ou dissertação, em <i>Adobe Portable Document Format</i> (PDF).",
-			"Artigo resumo do trabalho em <i>Adobe Portable Document Format</i> (PDF) no Modelo para Publicação de Artigos da SBC disponível neste <a style='color: #f4b321' href='http://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros'>link</a>. As submissões não devem ter mais de 15 páginas, incluindo todas as figuras e referências. Os artigos necessitam ter resumo em Português e em Inglês.",
+			"Artigo resumo do trabalho, que pode ser original ou já ter sido publicado ou aceito para publicação. Caso o artigo seja original, este deve ter tamanho de até 15 páginas, incluindo todas as figuras e referências. O artigo deve estar em <i>Adobe Portable Document Format</i> (PDF) e em conformidade com o Modelo para Publicação de Artigos da SBC disponível neste <a style='color: #f4b321' href='http://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros'>link</a>. Os artigos necessitam ter resumo em Português e em Inglês. Caso o artigo já tenha sido publicado ou aceito para publicação, deve ser enviado o artigo original, em PDF.",
 			"Uma carta do orientador principal."
 		],
 		"descricao_6": "O conteúdo da carta do orientador principal deve:",
@@ -821,7 +821,7 @@
 			"Divulgação dos finalistas"
 		],
 		"deadlines": [
-			"<strike>11 de maio de 2020</strike> <span style='color: red; font-weight: bold'>15 de junho de 2020</span>",
+			"<strike>11 de maio de 2020</strike> <strike>15 de junho de 2020</strike> <span style='color: red; font-weight: bold'>22 de junho de 2020</span>",
 			"<strike>3 de agosto de 2020</strike> <span style='color: red; font-weight: bold'>17 de agosto de 2020</span>"
 		],
 		"secao_comite": "Organização",

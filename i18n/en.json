@@ -745,7 +745,7 @@
 		"secao_selecao_premiacao": "Selection and Award",
 		"descricao_5": "For paper selection, each paper will be reviewed by at least three experts and three papers will be selected for presentation at CTIC-ES. For award purposes, the quality of the oral presentation will be also evaluated. Therefore, papers not presented at CTIC-ES will not compete for the award. The three best papers will be awarded during the conference. At least one author of each paper must mandatorily be registered at CBSoft 2020 to enable the paper publication in the proceedings. The CTIC-ES awards will be held during CBSoft 2020.",
 		"secao_submissao": "Paper submission",
-		"descricao_6": "The paper must contain at most 10 pages. Only papers in the PDF format using the SBC's Template for Paper Publication (available at this <a style='color: #f4b321' href='http://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros'>link</a>) will be accepted. The paper submission will be exclusively electronic through the <a style='color: #f4b321' href='https://jems.sbc.org.br/home.cgi?c=3597'>JEMS</a> system.",
+		"descricao_6": "The paper must contain at most 10 pages. Only papers in PDF using the SBC's Template for Paper Publication (available at this <a style='color: #f4b321' href='http://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros'>link</a>) will be accepted. The paper submission will be exclusively electronic through the <a style='color: #f4b321' href='https://jems.sbc.org.br/home.cgi?c=3597'>JEMS</a> system.",
 		"secao_datas": "Important Dates",
 		"deadlines_atividades": [
 			"Paper submission",
@@ -797,8 +797,8 @@
 		"descricao_5": "The following documents should be submitted together:",
 		"documentos_submissao": [
 			"The full text of the thesis, in PDF.",
-			"A paper of the thesis in PDF, using the SBC's Template for Paper Publication available at this <a style='color: #f4b321' href='http://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros'>link</a>. The paper should not exceed 15 pages, including all figures and references.",
-			"A letter issued by the main advisor. Papers need an abstract in Portuguese and in English."
+			"A paper summarizing the thesis, which can be an original work or might have been published or accepted for publication. If the paper is original, then it must be up 15 pages long, including all figures and references. The paper must be in PDF and conform to the SBC's Template for Paper Publication available at this <a style='color: #f4b321' href='http://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros'>link</a>. Papers need an abstract both in Portuguese and English. If the paper have already been published or accepted for publication, the original paper in PDF must be sent.",
+			"A letter issued by the main advisor."
 		],
 		"descricao_6": "The letter issued by the main advisor must:",
 		"items_carta_orientador": [
@@ -822,7 +822,7 @@
 			"Finalists announcement"
 		],
 		"deadlines": [
-			"<strike>May 11, 2020</strike> <span style='color: red; font-weight: bold'>June 15, 2020</span>",
+			"<strike>May 11, 2020</strike> <strike>June 15, 2020</strike> <span style='color: red; font-weight: bold'>June 22, 2020</span>",
 			"<strike>August 3, 2020</strike> <span style='color: red; font-weight: bold'>August 17, 2020</span>"
 		],
 		"secao_comite": "Organization",
