@@ -80,9 +80,11 @@
                     </div>
                 </li>
                 -->
+				<!--
                 <li class="nav-item">
-                    <a class="nav-link" href="#" data-i18n="menu.contato">Contato</a>
+                    <a class="nav-link" href="contato.php" data-i18n="menu.contato">Contato</a>
                 </li>
+				-->
                 <li class="nav-item">
                     <form style="margin-right: 5px">
                         <input id="toggleImage" type="image" name="lang" value="pt" src="images/icon/en.png" onclick="toggleImage(this); return false;" 
