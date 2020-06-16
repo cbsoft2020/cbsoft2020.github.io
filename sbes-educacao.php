@@ -81,7 +81,7 @@
 					<h5 data-i18n="sbes.secao_guidelines"></h5>
 					<div class="description-one">
 						<p style="margin-bottom: 10px" data-i18n="sbes.descricao_15"></p>
-						<p data-i18n="sbes.descricao_16"></p>
+						<p data-i18n="sbes.descricao_16a"></p>
 					</div>
 					
 					<br/>
