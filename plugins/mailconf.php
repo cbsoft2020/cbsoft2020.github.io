@@ -1,6 +1,6 @@
 <?php
 	// Funções auxiliares
-	include_once("../functions.php");
+	include_once("functions.php");
 
 	// Valores enviado via POST a partir do formulário de contato
 	$nome = $_POST["nome"];

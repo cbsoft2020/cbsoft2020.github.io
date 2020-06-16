@@ -11,7 +11,7 @@ require 'phpmailer/src/SMTP.php';
 // Função que retorna os coordenadores e seus dados em função do tópico escolhido
 function getChairs($topico) {
 	// Carregando os dados dos organizadores
-    $file = "../../conteudo/organizadores.json";
+    $file = "../conteudo/organizadores.json";
     $info = file_get_contents($file);
     $data = json_decode($info);
 	
@@ -130,7 +130,10 @@ function sendEmail($nome, $email, $assunto, $mensagem, $destinatarios) {
 		$mail->Password   = "cb50f72020";				// Senha
 		
 		// Remetente e destinatários
-		$mail->SetFrom($email, $nome);
+		$mail->From = $email;
+		$mail->FromName = $nome;
+		$mail->Sender = $email;
+		$mail->addCustomHeader($nome, $email);
 		foreach ($destinatarios as $destinatario) {
 			$mail->AddAddress($destinatario[1], $destinatario[0]);		// Destinatário	
 		}

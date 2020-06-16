@@ -86,7 +86,7 @@
 			</div>
 		</div>
 		
-		<form action="plugins/phpmailer/mailconf.php" method="post" class="row">
+		<form action="plugins/mailconf.php" method="post" class="row">
 			<div class="col-md-6 form-group">
 				<label for="nome"><span data-i18n="contato.nome"></span></label>
 				<input type="text" class="form-control main" name="nome" id="nome" placeholder="&#xf007" required />
