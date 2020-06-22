@@ -3,6 +3,10 @@
 <!-- HEAD -->
 <?php 
 	include_once ("header.php");
+	
+	$file_pc = "conteudo/pc.json";
+    $info_pc = file_get_contents($file_pc);
+    $data_pc = json_decode($info_pc);
 ?>
 
 <body class="body-wrapper">
@@ -82,7 +86,12 @@
 						<p style="margin-bottom: 10px" data-i18n="sbes.descricao_16c"></p>
 						<p style="margin-bottom: 10px" data-i18n="sbes.descricao_16c1"></p>
 						<p style="margin-bottom: 10px" data-i18n="sbes.descricao_16c2"></p>
-						<p style="margin-bottom: 10px" data-i18n="sbes.descricao_16c3"></p>
+					</div>
+					
+					<br/>
+					<h5 data-i18n="sbes.secao_informacoes"></h5>
+					<div class="description-one">
+						<p style="margin-bottom: 10px" data-i18n="sbes.descricao_20"></p>
 					</div>
 					
 					<br/>
@@ -96,7 +105,12 @@
 					<div class="description-one">
 						<strong><p data-i18n="sbes.comite.13"></p></strong>
 						<p data-i18n="sbes.comite.14"></p>
-						<p data-i18n="sbes.comite.15"></p><br/>
+						<p data-i18n="sbes.comite.15"></p>
+						<strong><p style="margin-top: 10px" data-i18n="sbes.pc"></p></strong>
+						<?php
+							for ($i=0; $i < count($data_pc->pc_sbes_ferramentas_en); $i++) { ?>
+							<p data-i18n="sbes.comite_ferramentas.<?php echo $i; ?>" style="color: black;"></p>
+						<?php }	// for ?>
 					</div>
 				</div>
 			</div>
