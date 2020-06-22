@@ -103,8 +103,80 @@
 
 	"trilha-industria": {
 		"titulo": "Trilha da Indústria",
-		"descricao_1": "A Trilha da Indústria do CBSoft é uma oportunidade em que profissionais da indústria e do Governo compartilham seu conhecimento e suas experiências com o público. Essa é também uma ótima oportunidade para estabelecer cooperações entre profissionais e empresas, bem como estimular a interação entre academia e indústria. A perspectiva de cooperação academia-empresa tem sido um dos requisitos de editais de chamadas a projetos, como os do Programa dos Institutos Nacionais de Ciência e Tecnologia (INCTs), operacionalizado pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq).",
-		"descricao_2": "São objetivos da Trilha da Indústria discutir as possibilidades de cooperação academia-indústria e academia-governo com vistas ao estabelecimento de condições e financiamentos para a pesquisa, desenvolvimento e inovação, bem como para a formação de recursos humanos de qualidade de forma integrada. Uma outra perspectiva é o desenvolvimento de produtos de software livre e possíveis impactos em aspectos legais e em modelos de negócio. Essas perspectivas favorecem a transferência tecnológica e a tendência de estreitar a geração e o uso efetivo de resultados de pesquisa, desenvolvimento e inovação."
+		"descricao_1": "A Trilha da Indústria do CBSoft 2020 segue a tradição dos anos anteriores como uma oportunidade de fomentar a cooperação academia-indústria-governo de com palestras, artigos e discussões. Ela visa reunir profissionais dos três setores para compartilhar seus conhecimentos e suas experiências com o público.",
+		"descricao_2": "A Trilha da Indústria oferece uma excelente oportunidade para estabelecer cooperações entre pesquisadores e profissionais, bem como para estimular a pesquisa, o desenvolvimento e a inovação com possível transferência de tecnologias. Além disso, essa interação ajuda a direcionar a formação de recursos humanos de qualidade de forma integrada tanto na Graduação como na Pós-Graduação.",
+		"secao_submissao": "Submissão de Trabalhos",
+		"descricao_3": "A Trilha da Indústria está aberta a pesquisadores e profissionais da indústria (empresas públicas e privadas) que queiram compartilhar seus conhecimentos teóricos e tecnológicos e conjuntamente identificar possibilidades e mecanismos de estabelecimento de redes de colaboração e de pesquisa na relação academia-empresa. Experiências práticas com desenvolvimento de plataformas, sistemas, ferramentas, aplicativos e produtos de software livre são de interesse da comunidade. O evento está aberto a submissão de trabalhos que descrevam desafios de interesse da indústria (problemas abertos) e soluções aplicáveis na indústria.",
+		"descricao_4": "Exemplos de tópicos relevantes incluem (mas não se limitam a):",
+		"topicos": [
+			"Arquitetura de software e arquitetura orientada a serviço (SOA)",
+			"<i>Business Intelligence</i>",
+			"Cibersegurança e software",
+			"Computação em Nuvem",
+			"Desempenho e disponibilidade de software",
+			"Desenvolvimento com equipes distribuídas",
+			"Engenharia de Requisitos",
+			"Engenharia de Software de Inteligência Artificial",
+			"Experiência do usuário e usabilidade",
+			"Gerência de projetos de software",
+			"Gerenciamento e modelagem de processos de negócio (BPM)",
+			"Integração contínua",
+			"Inteligência Artificial aplicada",
+			"Linhas de produto de software e reuso",
+			"Metodologias ágeis",
+			"Software para agronegócio",
+			"Software para cidades inteligentes",
+			"Software para educação",
+			"Software para Internet das Coisas (IoT)",
+			"Software para saúde",
+			"Técnicas de programação e padrões de projeto",
+			"Tecnologias e <i>frameworks</i> para desenvolvimento de sistemas",
+			"Testes e qualidade de software",
+			"Virtualização"
+		],
+		"secao_datas": "Datas Importantes",
+		"deadlines_atividades": [
+			"Submissão da proposta",
+			"Divulgação dos resultados",
+			"Envio do texto para publicação nos anais",
+			"Envio da apresentação ou vídeo"
+		],
+		"deadlines": [
+			"20 de julho de 2020",
+			"15 de agosto de 2020",
+			"24 de agosto de 2020",
+			"10 de outubro de 2020"
+		],
+		"secao_informacoes": "Informações Importantes",
+		"descricao_5": "Os trabalhos serão revisados e selecionados pelo Comitê Técnico da Trilha da Indústria do CBSoft 2020. Os trabalhos serão publicados como resumos estendidos nos anais estendidos do CBSoft 2020 na SBC OpenLibrary (SOL).",
+		"descricao_6": "Os apresentadores dos trabalhos selecionados deverão fazer sua inscrição no CBSoft 2020 para participarem do evento de forma <i>on-line</i>. Pelo menos um autor de cada trabalho selecionado deverá fazer sua inscrição no CBSoft 2020 para participar do evento. Os apresentadores dos trabalhos deverão ter acesso a plataformas virtuais de apresentações <i>on-line</i> (ainda a definir) ou colocar um vídeo no YouTube. As apresentações poderão ainda ser disponibilizadas em plataformas digitais.",
+		"secao_guidelines": "Preparando a Submissão",
+		"descricao_7": "Os autores deverão preparar um documento com uma folha de rosto e 3 páginas complementares em formato <i>Adobe Portable Document File</i> (PDF) utilizando o Modelo para Publicação de Artigos da SBC disponível neste <a style='color: #f4b321' href='http://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros'>link</a>. A submissão dos trabalhos será exclusivamente eletrônica, através do sistema <a style='color: #f4b321' href='https://jems.sbc.org.br/home.cgi?c=3603'>JEMS</a>.",
+		"descricao_8": "Folha de Rosto (1 página)",
+		"itens_folha_rosto": [
+			"<b>Título:</b> título claro, conciso e que capture a essência do trabalho",
+			"<b>Autores:</b> nome(s) do(s) autor(es), organização à qual está(ão) vinculado(s), <i>e-mail</i> de contato",
+			"<b>Audiência:</b> tipo de profissional que mais se beneficiaria da apresentação, por exemplo, desenvolvedores mais ou menos experientes, gerentes de projeto, analistas de requisitos, arquitetos de software, testadores, analistas de suporte, professores, pesquisadores, etc., além de possibilidades de cooperação academia-empresa",
+			"<b>Breve biografia dos autores:</b> para cada autor, formação, experiência profissional, afiliação atual e URL da página com informações profissionais (se existir), além de qual autor será o apresentador do trabalho (opcional)"
+		],
+		"descricao_9": "Resumo estendido (até 3 páginas)",
+		"itens_resumo": [
+			"Deve-se deixar clara a relevância do desafio abordado ou a contribuição da solução proposta para a indústria. Deve ser descrito o contexto do problema e destacada a sua importância. O problema pode ser de tecnologia, de aplicação ou de desenvolvimento.",
+			"Se o trabalho apresentar <b>um desafio em busca de uma solução</b>, deve ser destacado o impacto e os benefícios esperados.",
+			"Se o trabalho apresentar <b>uma solução para a indústria</b>, deve ser mostrado como o problema pode ser aplicado e os benefícios que ele pode trazer. Devem ainda ser destacados a estratégia, a metodologia e as tecnologias utilizadas, os resultados alcançados e as lições aprendidas. Por fim, devem ser informados os benefícios e os conhecimentos principais que os participantes irão obter."
+		],
+		"secao_avaliacao": "Critérios de Avaliação",
+		"descricao_10": "Os trabalhos serão selecionados de acordo com os seguintes critérios:",
+		"criterios_avaliacao": [
+			"relevância, impacto e benefícios para a indústria de software",
+			"qualidade na escrita, adequação ao modelo estabelecido e respeito ao número de páginas",
+			"para os trabalhos que discorrem sobre desafios, clareza na descrição do problema, incluindo motivação, contexto e dificuldades conhecidas",
+			"Para os trabalhos que discorrem sobre soluções para a indústria, descrição da aplicabilidade da solução e indicadores de sucesso (por exemplo, prova de conceito, protótipo, etc.)"
+		],
+		"secao_comite": "Comitê Técnico",
+		"comite": [
+			"Em definição"
+		]
 	},
 
 	"wtdsoft": {

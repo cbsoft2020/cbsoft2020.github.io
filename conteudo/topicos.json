@@ -262,5 +262,31 @@
         "Teste e verificação de software",
         "Gestão de dívida técnica",
         "Fundamentos teóricos e métodos formais"
-    ]
+    ],
+	"topicos_industria_pt": [
+		"Arquitetura de software e arquitetura orientada a serviço (SOA)",
+        "<i>Business Intelligence</i>",
+        "Cibersegurança e software",
+        "Computação em Nuvem",
+		"Desempenho e disponibilidade de software",
+        "Desenvolvimento com equipes distribuídas",
+        "Engenharia de Requisitos",
+        "Engenharia de Software de Inteligência Artificial",
+        "Experiência do usuário e usabilidade",
+        "Gerência de projetos de software",
+		"Gerenciamento e modelagem de processos de negócio (BPM)",
+        "Integração contínua",
+        "Inteligência Artificial aplicada",
+        "Linhas de produto de software e reuso",
+        "Metodologias ágeis",
+		"Software para agronegócio",
+		"Software para cidades inteligentes",
+        "Software para educação",
+		"Software para Internet das Coisas (IoT)",
+        "Software para saúde",
+        "Técnicas de programação e padrões de projeto",
+        "Tecnologias e <i>frameworks</i> para desenvolvimento de sistemas",
+        "Testes e qualidade de software",
+		"Virtualização"
+	]
 }

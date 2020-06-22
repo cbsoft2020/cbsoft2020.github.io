@@ -103,8 +103,80 @@
 
 	"trilha-industria": {
 		"titulo": "Industry Track",
-		"descricao_1": "The CBSoft Industry Track is an opportunity for industry and government practitioners to share their knowledge and experience with the attendees. This is also a great opportunity to establish cooperations between practitioners and companies, as well as stimulate the interaction between academia and industry. The perspective of academia-industry cooperation has been one of the requirements of project calls, such as those of the Brazilian National Institutes of Science and Technology Program (INCTs), operated by the Brazilian National Council for Scientific and Technological Development (CNPq).",
-		"descricao_2": "The Industry Track aims to discuss the possibilities of academia-industry and academia-government cooperations towards the establishment of conditions and funding to research, development, and innovation, as well as the formation of high-quality human resources in an integrated way. Another perspective is developing free software products and possible impacts in legal concerns and business models. These perspectives foster the technology transfer and the tendency to narrow the generation and effective use of research, development, and innovation results."
+		"descricao_1": "The CBSoft 2020 Industry Track follows the tradition of previous years as an opportunity to foster academia-industry-government cooperation with keynotes, papers, and discussions. It aims to bring together professionals from the three sectors to share their knowledge and experiences with the public.",
+		"descricao_2": "The Industry Track offers an excellent opportunity to establish cooperation between researchers and professionals, as well as to stimulate research, development, and innovation to go to industry. In addition, the cooperation helps to drive the quality of human resources formation in both undergraduate and graduate courses.",
+		"secao_submissao": "Submissions",
+		"descricao_3": "The Industry Track is open to researchers and industry professionals (public and private companies) who want to share their theoretical and technological knowledge and jointly identify possibilities for establishing collaboration and research networks. Practical experiences with the development of platforms, systems, tools, applications, and free software products are of interest to the community. The Track is open to submissions of proposals that describe challenges required by industry (open problems) and industry-applicable solutions.",
+		"descricao_4": "Examples of relevant topics of interest include (but are not limited to):",
+		"topicos": [
+			"Software architecture and service-oriented architecture (SOA)",
+			"Business Intelligence",
+			"Cybersecurity and software",
+			"Cloud computing",
+			"Software performance and availability",
+			"Development with distributed teams",
+			"Requirements Engineering",
+			"Artificial Intelligence Software Engineering",
+			"User experience and usability",
+			"Software project management",
+			"Business Process Management and Modeling (BPM)",
+			"Continuous integration",
+			"Applied Artificial Intelligence",
+			"Software product lines and reuse",
+			"Agile methodologies",
+			"Software for agriculture",
+			"Software for smart cities",
+			"Education software",
+			"Software for the Internet of Things (IoT)",
+			"Software for healthcare",
+			"Programming techniques and design patterns",
+			"Technologies and frameworks for system development",
+			"Software testing and quality",
+			"Virtualization"
+		],
+		"secao_datas": "Important Dates",
+		"deadlines_atividades": [
+			"Proposal submission",
+			"Notification of results",
+			"Text submission for publication in the proceedings",
+			"Presentation or video submission"
+		],
+		"deadlines": [
+			"July 20, 2020",
+			"August 15, 2020",
+			"August 24, 2020",
+			"October 10, 2020"
+		],
+		"secao_informacoes": "Important Information",
+		"descricao_5": "Proposals will be reviewed and selected by the CBSoft 2020 Industry Track Technical Committee. The selected proposals will be published as extended abstracts in the CBSoft 2020 companion proceedings at SBC OpenLibrary (SOL).",
+		"descricao_6": "Presenters of selected proposals must register for CBSoft 2020 and attend the conference on-line. At least one author of each selected proposal must register for CBSoft 2020. Presenters must have access to virtual on-line presentation platforms (pending definition) or post a video on YouTube. Presentations can be also available at digital platforms.",
+		"secao_guidelines": "Preparing the Submission",
+		"descricao_7": "Authors must prepare a document with a cover page and 3 additional pages in PDF by using the SBC's Template for Paper Publication available at this <a style='color: #f4b321' href='http://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros'>link</a>. The submission of proposals will be exclusively electronic through the <a style='color: #f4b321' href='https://jems.sbc.org.br/home.cgi?c=3603'>JEMS</a> system.",
+		"descricao_8": "Cover page (1 page)",
+		"itens_folha_rosto": [
+			"<b>Title:</b> a clear, concise title that captures the essence of the work",
+			"<b>Authors:</b> authors' name(s), affiliation, and contact e-mail",
+			"<b>Audience:</b> what type of professional would benefit most from the presentation, e.g., developers, project managers, requirements analysts, software architects, testers, support analysts, teachers, researchers, etc., besides possibilities of academia-company cooperation",
+			"<b>Authors' short bio:</b> for each author, background, professional experience, current affiliation, and URL to a page with professional information (if available), besides the author who will present the work (optional)"
+		],
+		"descricao_9": "Extended abstract (up to 3 pages)",
+		"itens_resumo": [
+			"The relevance of the addressed challenge or the contribution of the proposed solution to industry must be clear. The problem context must be described and its importance must be highlighted. The problem may be related to technology, application, or development.",
+			"If the proposal presents <b>a challenge seeking for a solution</b>, then it must highlight the impact and expected benefits.",
+			"If the proposal presents <b>a solution for the industry</b>, then it must show how the problem can be applied and the benefits that it can bring. Strategy, used methodology and technologies, achieved results, and lessons learned must also be highlighted. Finally, it must provide the benefits and knowledge to participants."
+		],
+		"secao_avaliacao": "Evaluation Criteria",
+		"descricao_10": "Proposals will be selected according to the following criteria:",
+		"criterios_avaliacao": [
+			"relevance, impact, and benefits for software industry",
+			"writing quality, adequacy to the established template, and fulfillment of the number of pages",
+			"for proposals discussing challenges, clarity in describing the problem, including motivation, context, and known difficulties",
+			"for proposals discussing solutions for industry, description of the solution's applicability and success indicators (e.g., proof-of-concept, prototype, etc.)"
+		],
+		"secao_comite": "Technical Committee",
+		"comite": [
+			"To be defined"
+		]
 	},
 
 	"wtdsoft": {
