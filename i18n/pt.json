@@ -359,22 +359,22 @@
 			"<strike>17 de julho de 2020</strike> <span style='color: red; font-weight: bold'>20 de agosto de 2020</span>"
 		],
 		"deadlines_ideias": [
-			"<strike>1º de junho de 2020</strike> <span style='color: red; font-weight: bold'>29 de junho de 2020</span>",
-			"<strike>8 de junho de 2020</strike> <span style='color: red; font-weight: bold'>7 de julho de 2020</span>",
+			"<strike>1º de junho de 2020</strike> <strike>29 de junho de 2020</strike> <span style='color: red; font-weight: bold'>6 de julho 2020</span>",
+			"<strike>8 de junho de 2020</strike> <strike>7 de julho de 2020</strike> <span style='color: red; font-weight: bold'>13 de julho de 2020</span>",
 			"<strike>6 a 10 de julho de 2020</strike> <span style='color: red; font-weight: bold'>3 a 7 de agosto de 2020</span>",
 			"<strike>17 de julho de 2020</strike> <span style='color: red; font-weight: bold'>14 de agosto de 2020</span>",
 			"<strike>7 de agosto de 2020</strike> <span style='color: red; font-weight: bold'>24 de agosto de 2020</span>"
 		],
 		"deadlines_educacao": [
-			"<strike>1º de junho de 2020</strike> <span style='color: red; font-weight: bold'>29 de junho de 2020</span>",
-			"<strike>8 de junho de 2020</strike> <span style='color: red; font-weight: bold'>7 de julho de 2020</span>",
+			"<strike>1º de junho de 2020</strike> <strike>29 de junho de 2020</strike> <span style='color: red; font-weight: bold'>6 de julho 2020</span>",
+			"<strike>8 de junho de 2020</strike> <strike>7 de julho de 2020</strike> <span style='color: red; font-weight: bold'>13 de julho de 2020</span>",
 			"<strike>6 a 10 de julho de 2020</strike> <span style='color: red; font-weight: bold'>3 a 7 de agosto de 2020</span>",
 			"<strike>17 de julho de 2020</strike> <span style='color: red; font-weight: bold'>14 de agosto de 2020</span>",
 			"<strike>7 de agosto de 2020</strike> <span style='color: red; font-weight: bold'>24 de agosto de 2020</span>"
 		],
 		"deadlines_ferramentas": [
-			"<strike>1º de junho de 2020</strike> <span style='color: red; font-weight: bold'>29 de junho de 2020</span>",
-			"<strike>8 de junho de 2020</strike> <span style='color: red; font-weight: bold'>7 de julho de 2020</span>",
+			"<strike>1º de junho de 2020</strike> <strike>29 de junho de 2020</strike> <span style='color: red; font-weight: bold'>6 de julho 2020</span>",
+			"<strike>8 de junho de 2020</strike> <strike>7 de julho de 2020</strike> <span style='color: red; font-weight: bold'>13 de julho de 2020</span>",
 			"<strike>6 a 10 de julho de 2020</strike> <span style='color: red; font-weight: bold'>3 a 7 de agosto de 2020</span>",
 			"<strike>17 de julho de 2020</strike> <span style='color: red; font-weight: bold'>14 de agosto de 2020</span>",
 			"<strike>7 de agosto de 2020</strike> <span style='color: red; font-weight: bold'>24 de agosto de 2020</span>"

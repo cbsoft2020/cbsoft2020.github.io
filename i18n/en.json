@@ -359,22 +359,22 @@
 			"<strike>July 17, 2020</strike> <span style='color: red; font-weight: bold'>August 20, 2020</span>"
 		],
 		"deadlines_ideias": [
-			"<strike>June 1, 2020</strike> <span style='color: red; font-weight: bold'>June 29, 2020</span>",
-			"<strike>June 8, 2020</strike> <span style='color: red; font-weight: bold'>July 7, 2020</span>",
+			"<strike>June 1, 2020</strike> <strike>June 29, 2020</strike> <span style='color: red; font-weight: bold'>July 6, 2020</span>",
+			"<strike>June 8, 2020</strike> <strike>July 7, 2020</strike> <span style='color: red; font-weight: bold'>July 13, 2020</span>",
 			"<strike>July 6-10, 2020</strike> <span style='color: red; font-weight: bold'>August 3-7, 2020</span>",
 			"<strike>July 17, 2020</strike> <span style='color: red; font-weight: bold'>August 14, 2020</span>",
 			"<strike>August 7, 2020</strike> <span style='color: red; font-weight: bold'>August 24, 2020</span>"
 		],
 		"deadlines_educacao": [
-			"<strike>June 1, 2020</strike> <span style='color: red; font-weight: bold'>June 29, 2020</span>",
-			"<strike>June 8, 2020</strike> <span style='color: red; font-weight: bold'>July 7, 2020</span>",
+			"<strike>June 1, 2020</strike> <strike>June 29, 2020</strike> <span style='color: red; font-weight: bold'>July 6, 2020</span>",
+			"<strike>June 8, 2020</strike> <strike>July 7, 2020</strike> <span style='color: red; font-weight: bold'>July 13, 2020</span>",
 			"<strike>July 6-10, 2020</strike> <span style='color: red; font-weight: bold'>August 3-7, 2020</span>",
 			"<strike>July 17, 2020</strike> <span style='color: red; font-weight: bold'>August 14, 2020</span>",
 			"<strike>August 7, 2020</strike> <span style='color: red; font-weight: bold'>August 24, 2020</span>"
 		],
 		"deadlines_ferramentas": [
-			"<strike>June 1, 2020</strike> <span style='color: red; font-weight: bold'>June 29, 2020</span>",
-			"<strike>June 8, 2020</strike> <span style='color: red; font-weight: bold'>July 7, 2020</span>",
+			"<strike>June 1, 2020</strike> <strike>June 29, 2020</strike> <span style='color: red; font-weight: bold'>July 6, 2020</span>",
+			"<strike>June 8, 2020</strike> <strike>July 7, 2020</strike> <span style='color: red; font-weight: bold'>July 13, 2020</span>",
 			"<strike>July 6-10, 2020</strike> <span style='color: red; font-weight: bold'>August 3-7, 2020</span>",
 			"<strike>July 17, 2020</strike> <span style='color: red; font-weight: bold'>August 14, 2020</span>",
 			"<strike>August 7, 2020</strike> <span style='color: red; font-weight: bold'>August 24, 2020</span>"
