@@ -80,14 +80,15 @@
 					<br/>
 					<h5 data-i18n="sbes.secao_guidelines"></h5>
 					<div class="description-one">
-						<p style="margin-bottom: 10px" data-i18n="sbes.descricao_15"></p>
-						<p data-i18n="sbes.descricao_16a"></p>
+						<p style="margin-bottom: 10px" data-i18n="sbes.descricao_15b"></p>
+						<p style="margin-bottom: 10px" data-i18n="sbes.descricao_16b"></p>
+						<p data-i18n="sbes.descricao_16b1"></p>
 					</div>
 					
 					<br/>
 					<h5 data-i18n="sbes.secao_doubleblind"></h5>
 					<div class="description-one">
-						<p style="margin-bottom: 10px" data-i18n="sbes.descricao_17"></p>
+						<p style="margin-bottom: 10px" data-i18n="sbes.descricao_17b"></p>
 						<ul style="margin-top: 10px; margin-left: -20px">
 							<li data-i18n="sbes.guidelines_doubleblind.0" style="color: black;"></li>
                             <li data-i18n="sbes.guidelines_doubleblind.1" style="color: black;"></li>
