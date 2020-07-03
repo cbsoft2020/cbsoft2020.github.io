@@ -1277,6 +1277,11 @@
 		"organizacao": "Organização",
 		"org_local": "Coordenação Geral"
 	},
+	
+	"speakers": {
+		"title": "Palestrantes",
+		"bio": "Biografia:"
+	},
 
 	"contato": {
 		"titulo": "Entre em contato",

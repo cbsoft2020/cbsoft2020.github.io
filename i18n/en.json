@@ -1279,6 +1279,11 @@
 		"organizacao": "Organization",
 		"org_local": "General Chairs"
 	},
+	
+	"speakers": {
+		"title": "Speakers",
+		"bio": "Short bio:"
+	},
 
 	"contato": {
 		"titulo": "Get in touch",

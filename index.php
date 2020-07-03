@@ -1,3 +1,10 @@
+<?php
+    // Carregando os dados dos palestrantes
+    $file = "conteudo/palestrantes.json";
+    $info = file_get_contents($file);
+    $data = json_decode($info);
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -161,7 +168,6 @@
 <!--==============================
 =            Speakers            =
 ===============================-->
-<!--
 <section class="section speakers bg-speaker overlay-lighter">
 	<div class="container">
 		<div class="row">
@@ -171,146 +177,31 @@
 				</div>
 			</div>
 		</div>
-		<div class="row">
-			<div class="col-lg-3 col-md-4 col-sm-6">
-				<div class="speaker-item">
-					<div class="image">
-						<img src="images/speakers/speaker-one.jpg" alt="speaker" class="img-fluid">
-						<div class="primary-overlay"></div>
-						<div class="socials">
-							<ul class="list-inline">
-								<li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
-							</ul>
+		<div class="row justify-content-center">
+			<?php foreach($data->speakers as $speaker) { ?>
+				<div class="col-lg-3 col-md-4 col-sm-6">
+					<div class="speaker-item">
+						<div class="image">
+							<img src="images/speakers/<?php echo $speaker->image;?>" alt="speaker" class="img-fluid">
+							<div class="primary-overlay"></div>
+							<div class="socials">
+								<ul class="list-inline">
+									<li class="list-inline-item">
+										<a href="palestrante.php?id=<?php echo $speaker->id;?>"><i class="fa fa-info-circle"></i></a>
+									</li>
+								</ul>
+							</div>
 						</div>
-					</div>
-					<div class="content text-center">
-						<h4><a href="single-speaker.html">Johnathan Franco</a></h4>
-						<p>Project Manager</p>
+						<div class="content text-center">
+                           	<h4 style="font-size: 18px"><a href="http://rayb.info/"><?php echo $speaker->name;?></a></h4>
+                            <p style="font-size: 14px" class="affiliation"><?php echo $speaker->institution;?></p>
+                        </div>
 					</div>
 				</div>
-			</div>
-			<div class="col-lg-3 col-md-4 col-sm-6">
-				<div class="speaker-item">
-					<div class="image">
-						<img src="images/speakers/speaker-two.jpg" alt="speaker" class="img-fluid">
-						<div class="primary-overlay"></div>
-						<div class="socials">
-							<ul class="list-inline">
-								<li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="content text-center">
-						<h4><a href="single-speaker.html">Johnathan Franco</a></h4>
-						<p>Project Manager</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-3 col-md-4 col-sm-6">
-				<div class="speaker-item">
-					<div class="image">
-						<img src="images/speakers/speaker-three.jpg" alt="speaker" class="img-fluid">
-						<div class="primary-overlay"></div>
-						<div class="socials">
-							<ul class="list-inline">
-								<li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="content text-center">
-						<h4><a href="single-speaker.html">Johnathan Franco</a></h4>
-						<p>Project Manager</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-3 col-md-4 col-sm-6">
-				<div class="speaker-item">
-					<div class="image">
-						<img src="images/speakers/speaker-four.jpg" alt="speaker" class="img-fluid">
-						<div class="primary-overlay"></div>
-						<div class="socials">
-							<ul class="list-inline">
-								<li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="content text-center">
-						<h4><a href="single-speaker.html">Johnathan Franco</a></h4>
-						<p>Project Manager</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-3 col-md-4 col-sm-6">
-				<div class="speaker-item">
-					<div class="image">
-						<img src="images/speakers/speaker-five.jpg" alt="speaker" class="img-fluid">
-						<div class="primary-overlay"></div>
-						<div class="socials">
-							<ul class="list-inline">
-								<li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="content text-center">
-						<h4><a href="single-speaker.html">Johnathan Franco</a></h4>
-						<p>Project Manager</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-3 col-md-4 col-sm-6">
-				<div class="speaker-item">
-					<div class="image">
-						<img src="images/speakers/speaker-six.jpg" alt="speaker" class="img-fluid">
-						<div class="primary-overlay"></div>
-						<div class="socials">
-							<ul class="list-inline">
-								<li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="content text-center">
-						<h4><a href="single-speaker.html">Johnathan Franco</a></h4>
-						<p>Project Manager</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-3 col-md-4 col-sm-6">
-				<div class="speaker-item">
-					<div class="image">
-						<img src="images/speakers/speaker-five.jpg" alt="speaker" class="img-fluid">
-						<div class="primary-overlay"></div>
-						<div class="socials">
-							<ul class="list-inline">
-								<li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="content text-center">
-						<h4><a href="single-speaker.html">Johnathan Franco</a></h4>
-						<p>Project Manager</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-3 col-md-4 col-sm-6">
-				<div class="speaker-item">
-					<div class="image">
-						<img src="images/speakers/speaker-six.jpg" alt="speaker" class="img-fluid">
-						<div class="primary-overlay"></div>
-						<div class="socials">
-							<ul class="list-inline">
-								<li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="content text-center">
-						<h4><a href="single-speaker.html">Johnathan Franco</a></h4>
-						<p>Project Manager</p>
-					</div>
-				</div>
-			</div>
+			<?php } // foreach ?>
 		</div>
 	</div>
-</section> -->
+</section>
 
 <!--====  End of Speakers  ====-->
 

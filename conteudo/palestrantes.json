@@ -1,0 +1,13 @@
+{
+	"speakers": [{
+		"id": "rayb",
+		"image": "rayb.jpg",
+		"name": "Baishakhi Ray",
+		"institution": "Columbia University",
+		"webpage": "http://rayb.info",
+		"email": "rayb@cs.columbia.edu",
+		"title": "Systematic Software Testing for Deep Learning Applications",
+		"abstract": "We are now seeing a paradigm shift in software development, where decision making is increasingly shifting from hand-coded program logic to Deep Learning (DL) - popular applications of Speech Processing, Image Recognition, Robotics, Go game, etc. are using DL as their core components. Deep Neural Network (DNN), a widely used architecture of DL, is the key behind such progress. With such spectacular progress, they are also increasingly being used in safety-critical systems such as autonomous cars, medical diagnosis, malware detection, and aircraft collision avoidance systems. Such wide adoption of DL techniques comes with concerns about the reliability of these systems, as several erroneous behaviors have already been reported. Thus, it has become crucial to rigorously test these DL applications with realistic corner cases to ensure high reliability. However, due to the fundamental architectural differences between DNN and traditional software, existing software testing techniques do not apply to them in any obvious way. In fact, companies such as Google, Tesla, etc. are increasingly facing all the traditional software testing challenges to ensure reliable and safe DL applications. This talk will address how to systematically test Deep Learning applications.",
+		"bio": "Baishakhi Ray is an Assistant Professor in the Department of Computer Science, Columbia University, NY, USA. She has received her Ph.D. degree from the University of Texas, Austin. Baishakhi's research interest is in the intersection of Software Engineering and Machine Learning. Baishakhi has received Best Paper awards at FASE 2020, FSE 2017, MSR 2017, IEEE Symposium on Security and Privacy (Oakland), 2014. Her research has also been published in CACM Research Highlights and has been widely covered in trade media. She is a recipient of the NSF CAREER award, VMware Early Career Faculty Award, and IBM Faculty Award."
+	}]
+}
