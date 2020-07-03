@@ -15,8 +15,6 @@
                         <a class="dropdown-item" href="patrocinio.php" data-i18n="menu.patrocinio">Patrocínio</a>
                         <a class="dropdown-item" href="index.php#programacao" data-i18n="menu.programacao">Programação</a>
                         <a class="dropdown-item" href="#" data-i18n="menu.anais">Anais</a>
-                        <a class="dropdown-item" href="#" data-i18n="menu.tutoriais">Tutoriais</a>
-                        <a class="dropdown-item" href="#" data-i18n="menu.minicursos">Minicursos</a>
                         <a class="dropdown-item" href="codigo-conduta.php" data-i18n="menu.codigo_conduta">Código de Conduta</a>
                         <a class="dropdown-item" href="edicoes-anteriores.php" data-i18n="menu.edicoes_anteriores">Edições Anteriores</a>
                     </div>
