@@ -43,7 +43,7 @@
 	
 <section class="section about">
 	<div class="container">
-		<div class="row" style="margin-top: 50px; margin-bottom: -250px">
+		<div class="row" style="margin-top: 50px; margin-bottom: -300px">
 			<div class="col-lg-12 align-self-center">
 				<div class="content-block">
 					<h2 data-i18n="<?php echo $evento;?>.titulo"></h2>

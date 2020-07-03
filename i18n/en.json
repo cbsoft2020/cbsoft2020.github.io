@@ -1284,6 +1284,11 @@
 		"title": "Speakers",
 		"bio": "Short bio:"
 	},
+	
+	"error": {
+		"page_not_found": "Page not found.",
+		"main_page": "Go to main page"
+	},
 
 	"contato": {
 		"titulo": "Get in touch",

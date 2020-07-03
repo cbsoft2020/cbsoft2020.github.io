@@ -1282,6 +1282,11 @@
 		"title": "Palestrantes",
 		"bio": "Biografia:"
 	},
+	
+	"error": {
+		"page_not_found": "Página não encontrada.",
+		"main_page": "Ir para a página principal"
+	},
 
 	"contato": {
 		"titulo": "Entre em contato",
