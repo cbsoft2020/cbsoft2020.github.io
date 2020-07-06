@@ -222,14 +222,16 @@
 		"descricao_7": "Todos os artigos devem ser escritos em Português ou Inglês e submetidos através do sistema <a style='color: #f4b321' href='https://jems.sbc.org.br/home.cgi?c=3602'>JEMS</a>. A versão final dos artigos aceitos deverá conter uma carta ou mensagem informal do orientador dando ciência e concordância com a submissão. O número páginas informado no JEMS refere-se somente a páginas de conteúdo, sem contar folha de rosto ou carta de concordância.",
 		"secao_datas": "Datas Importantes",
 		"deadlines_atividades": [
+			"Registro do artigo (submissão do resumo)",
 			"Submissão do artigo",
 			"Notificação de aceitação",
 			"Envio da versão final"
 		],
 		"deadlines": [
-			"<strike>7 de junho de 2020</strike> <span style='color: red; font-weight: bold'>6 de julho de 2020</span>",
-			"<strike>12 de julho de 2020</strike> <span style='color: red; font-weight: bold'>10 de agosto de 2020</span>",
-			"<strike>22 de julho de 2020</strike> <span style='color: red; font-weight: bold'>1º de setembro de 2020</span>"
+			"13 de julho de 2020",
+			"<strike>7 de junho de 2020</strike> <strike>6 de julho de 2020</strike> <span style='color: red; font-weight: bold'>16 de julho de 2020</span>",
+			"<strike>12 de julho de 2020</strike> <strike>10 de agosto de 2020</strike> <span style='color: red; font-weight: bold'>17 de agosto de 2020</span>",
+			"<strike>22 de julho de 2020</strike> <strike>1º de setembro de 2020</strike> <span style='color: red; font-weight: bold'>8 de setembro de 2020</span>"
 		],
 		"secao_comite": "Organização",
 		"comite": [
