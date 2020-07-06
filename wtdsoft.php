@@ -94,6 +94,10 @@
 								<span data-i18n="wtdsoft.deadlines_atividades.2" style="color: black;"></span>:
 								<span data-i18n="wtdsoft.deadlines.2" style="color: black;"></span>
 							</li>
+							<li>
+								<span data-i18n="wtdsoft.deadlines_atividades.3" style="color: black;"></span>:
+								<span data-i18n="wtdsoft.deadlines.3" style="color: black;"></span>
+							</li>
 						</ul>
 					</div>
 					
