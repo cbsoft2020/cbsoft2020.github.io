@@ -67,7 +67,7 @@
 										<p style="color: black" data-i18n="workshops.deadlines_mssis.2"></p>
 									</td>
 									<td>
-										<p style="color: black" data-i18n="workshops.tba"></p>
+										<p style="color: black" data-i18n="workshops.deadlines_mssis.3"></p>
 									</td>
 								</tr>
 								<tr>
@@ -87,7 +87,7 @@
 										<p style="color: black" data-i18n="workshops.deadlines_vem.2"></p>
 									</td>
 									<td>
-										<p style="color: black" data-i18n="workshops.tba"></p>
+										<p style="color: black" data-i18n="workshops.deadlines_vem.3"></p>
 									</td>
 								</tr>
 								<tr>
@@ -107,7 +107,7 @@
 										<p style="color: black" data-i18n="wtdsoft.deadlines.2"></p>
 									</td>
 									<td>
-										<p style="color: black" data-i18n="workshops.tba"></p>
+										<p style="color: black" data-i18n="workshops.deadlines_vem.3"></p>
 									</td>
 								</tr>
 							</tbody>
