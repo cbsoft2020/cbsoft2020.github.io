@@ -32,19 +32,19 @@
 						<table class="table table-hover" id="datas-workshops">
 							<thead style="background-color: #f4b321; color: white">
 								<tr>
-								  	<th scope="col" class="align-middle" width="20%">
+								  	<th scope="col" class="align-middle" width="18%">
 										<p style="color: white;">Workshop</p>
 									</th>
-								  	<th scope="col" class="align-middle">
+								  	<th scope="col" class="align-middle" width="19%">
 										<p data-i18n="workshops.deadlines_atividades.0" style="color: white;"></p>
 									</th>
-									<th scope="col" class="align-middle">
+									<th scope="col" class="align-middle" width="22%">
 										<p data-i18n="workshops.deadlines_atividades.1" style="color: white;"></p>
 									</th>
-									<th scope="col" class="align-middle">
+									<th scope="col" class="align-middle" width="21%">
 										<p data-i18n="workshops.deadlines_atividades.2" style="color: white;"></p>
 									</th>
-									<th scope="col" class="align-middle">
+									<th scope="col" class="align-middle" width="20%">
 										<p data-i18n="workshops.deadlines_atividades.3" style="color: white;"></p>
 									</th>
 								</tr>
