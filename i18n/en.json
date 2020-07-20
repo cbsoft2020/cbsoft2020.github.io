@@ -142,9 +142,9 @@
 			"Presentation or video submission"
 		],
 		"deadlines": [
-			"July 20, 2020",
-			"August 15, 2020",
-			"August 24, 2020",
+			"<strike>July 20, 2020</strike> <span style='color: red; font-weight: bold'>August 3, 2020</span>",
+			"<strike>August 15, 2020</strike> <span style='color: red; font-weight: bold'>August 20, 2020</span>",
+			"<strike>August 24, 2020</strike> <span style='color: red; font-weight: bold'>August 31, 2020</span>",
 			"October 10, 2020"
 		],
 		"secao_informacoes": "Important Information",
