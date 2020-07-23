@@ -1317,6 +1317,14 @@
 			"19 de outubro de 2020"
 		]
 	},
+	
+	"vem": {
+		"titulo": "VEM 2020<br/>8º Workshop de Visualização, Evolução e Manutenção de Software"
+	},
+	
+	"mssis": {
+		"titulo": "MSSiS 2020<br/>II Workshop de Modelagem e Simulação de Sistemas Intensivos em Software"
+	},
 
 	"local": {
 		"titulo": "Local do Evento",

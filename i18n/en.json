@@ -1319,6 +1319,14 @@
 			"October 19, 2020"
 		]
 	},
+	
+	"vem": {
+		"titulo": "VEM 2020<br/>8th Workshop on Software Visualization, Evolution and Maintenance"
+	},
+	
+	"mssis": {
+		"titulo": "MSSiS 2020<br/>2nd Workshop on Software-Intensive Systems Modeling and Simulation"
+	},
 
 	"local": {
 		"titulo": "Venue",

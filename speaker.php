@@ -1,9 +1,9 @@
-<section class="section single-speaker">
+<section class="section single-speaker" style="margin-top: 100px">
 	<div class="container">
 		<div class="block">
 			<div class="row">
 				<div class="col-lg-5 col-md-6 align-self-md-top">
-					<div class="image-block">
+					<div class="image-block" style="border-width: 0px">
 						<img src="images/speakers/<?php echo $speaker->image;?>" class="img-fluid" alt="speaker">
 					</div>
 				</div>
@@ -37,7 +37,7 @@
 								</li>
 								<li class="list-inline-item">
 									<?php if (strcmp($speaker->email, "#") != 0) 
-										echo "<a href='mailto:<?php echo $speaker->email;?>'><i class='fa fa-envelope'></i></a>";
+										echo "<a href='mailto:$speaker->email'><i class='fa fa-envelope'></i></a>";
 									?>
 								</li>
 							</ul>
