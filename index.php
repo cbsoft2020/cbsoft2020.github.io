@@ -182,7 +182,9 @@
 				<div class="col-lg-3 col-md-4 col-sm-6">
 					<div class="speaker-item">
 						<div class="image" style="position: relative !important;">
-							<div class="tag-event"><?php echo strtoupper($speaker->event);?></div>
+							<div class="tag-event">
+								<span data-i18n="events.<?php echo $speaker->id_event;?>"></span>
+							</div>
 							<img src="images/speakers/<?php echo $speaker->image;?>" alt="speaker" class="img-fluid">
 							<div class="primary-overlay"></div>
 							<div class="socials">
@@ -194,7 +196,7 @@
 							</div>
 						</div>
 						<div class="content text-center">
-                           	<h4 style="font-size: 18px"><a href="http://rayb.info/"><?php echo $speaker->name;?></a></h4>
+                           	<h4 style="font-size: 18px"><a href="<?php echo $speaker->webpage;?>"><?php echo $speaker->name;?></a></h4>
                             <p style="font-size: 14px" class="affiliation"><?php echo $speaker->institution;?></p>
                         </div>
 					</div>
