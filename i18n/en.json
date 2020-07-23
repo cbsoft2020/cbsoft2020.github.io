@@ -32,6 +32,19 @@
 		"hospedagem": "Accommodation",
 		"contato": "Contact"
 	},
+	
+	"events": {
+		"sbes": "SBES",
+		"ctic-es": "CTIC-ES",
+		"ctd-es": "CTD-ES",
+		"sbcars": "SBCARS",
+		"sblp": "SBLP",
+		"sast": "SAST",
+		"trilha-industria": "Industry Track",
+		"wtdsoft": "WTDSoft",
+		"vem": "VEM",
+		"mssis": "MSSiS"
+	},
 
 	"about": {
 		"sobre": "About CBSoft",

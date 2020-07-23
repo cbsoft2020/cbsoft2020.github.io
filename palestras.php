@@ -1,9 +1,4 @@
 <?php
-	// Carregando os dados dos palestrantes
-    $file = "conteudo/palestrantes.json";
-    $info = file_get_contents($file);
-    $data = json_decode($info);
-
 	// Evento
 	$evento = $_GET['evento'];
 
@@ -16,10 +11,15 @@
 		exit;
 	}
 
+	// Carregando os dados dos palestrantes
+    $file = "conteudo/palestrantes.json";
+    $info = file_get_contents($file);
+    $data = json_decode($info);
+
 	// Palestrantes do evento em questao
 	$speakers = array();
 	foreach($data->speakers as $s) {
-		if (strcmp($s->event, $evento) == 0) {
+		if (strcmp($s->id_event, $evento) == 0) {
 			array_push($speakers, $s->id);
 		}
 	}
@@ -48,7 +48,7 @@
 	
 <section class="section about">
 	<div class="container">
-		<div class="row" style="margin-top: 50px; margin-bottom: -300px">
+		<div class="row" style="margin-top: 50px; margin-bottom: -180px">
 			<div class="col-lg-12 align-self-center">
 				<div class="content-block">
 					<h2 data-i18n="<?php echo $evento;?>.titulo"></h2>

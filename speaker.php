@@ -1,5 +1,4 @@
 <section class="section single-speaker">
-	<div style="height: 100px"></div>
 	<div class="container">
 		<div class="block">
 			<div class="row">
@@ -27,10 +26,19 @@
 						<div class="social-profiles">
 							<ul class="list-inline social-list">
 								<li class="list-inline-item">
-									<a href="<?php echo $speaker->webpage;?>"><i class="fa fa-globe"></i></a>
+									<a href="<?php echo $speaker->webpage;?>">
+										<?php 
+											if (strstr($speaker->webpage, 'linkedin'))
+												echo '<i class="fa fa-linkedin"></i>';
+											else
+												echo '<i class="fa fa-globe"></i>';
+										?>
+									</a>
 								</li>
 								<li class="list-inline-item">
-									<a href="mailto:<?php echo $speaker->email;?>"><i class="fa fa-envelope "></i></a>
+									<?php if (strcmp($speaker->email, "#") != 0) 
+										echo "<a href='mailto:<?php echo $speaker->email;?>'><i class='fa fa-envelope'></i></a>";
+									?>
 								</li>
 							</ul>
 						</div>
