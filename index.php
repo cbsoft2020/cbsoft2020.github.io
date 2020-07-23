@@ -181,7 +181,8 @@
 			<?php foreach($data->speakers as $speaker) { ?>
 				<div class="col-lg-3 col-md-4 col-sm-6">
 					<div class="speaker-item">
-						<div class="image">
+						<div class="image" style="position: relative !important;">
+							<div class="tag-event"><?php echo strtoupper($speaker->event);?></div>
 							<img src="images/speakers/<?php echo $speaker->image;?>" alt="speaker" class="img-fluid">
 							<div class="primary-overlay"></div>
 							<div class="socials">

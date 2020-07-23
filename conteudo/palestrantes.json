@@ -1,6 +1,7 @@
 {
 	"speakers": [{
 		"id": "rayb",
+		"event": "sast",
 		"image": "rayb.jpg",
 		"name": "Baishakhi Ray",
 		"institution": "Columbia University",

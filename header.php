@@ -116,6 +116,20 @@
 	  .affiliation {
 		  text-align: center;
 	  }
+	  
+	  .tag-event {
+		  float: left;
+		  position: absolute;
+		  left: 0px;
+		  bottom: 0px;
+		  z-index: 1000;
+		  background-color: #f4b321;
+		  padding: 5px;
+		  color: #ffffff;
+		  font-weight: bold;
+		  width: 100%;
+		  text-align: center;
+    }
   </style>
 
 </head>

@@ -1,4 +1,9 @@
 <?php
+	// Carregando os dados dos palestrantes
+    $file = "conteudo/palestrantes.json";
+    $info = file_get_contents($file);
+    $data = json_decode($info);
+
 	// Evento
 	$evento = $_GET['evento'];
 
@@ -12,11 +17,11 @@
 	}
 
 	// Palestrantes do evento em questao
-	$speakers = null;
-	switch ($evento) {
-		case "sast":
-			$speakers = array("rayb");
-			break;
+	$speakers = array();
+	foreach($data->speakers as $s) {
+		if (strcmp($s->event, $evento) == 0) {
+			array_push($speakers, $s->id);
+		}
 	}
 ?>
 
@@ -59,12 +64,7 @@
 =========================================-->
 	
 <?php 
-	// Carregando os dados dos palestrantes
-    $file = "conteudo/palestrantes.json";
-    $info = file_get_contents($file);
-    $data = json_decode($info);
-	
-	$speaker = null;
+	//$speaker = null;
 	for ($i=0; $i < count($speakers); $i++) {
 		foreach($data->speakers as $s) {
 			if (strcmp($s->id, $speakers[$i]) == 0) {
