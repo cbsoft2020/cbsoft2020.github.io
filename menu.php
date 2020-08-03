@@ -29,7 +29,7 @@
                         <a class="dropdown-item" href="sbes-ferramentas.php" data-i18n="menu.trilha_ferramentas">Trilha de Ferramentas</a>
                         <a class="dropdown-item" href="sbes-ctic.php" data-i18n="menu.ctic-es">Concurso de Trabalhos de Iniciação Científica</a>
                         <a class="dropdown-item" href="sbes-ctd.php" data-i18n="menu.ctd-es">Concurso de Teses e Dissertações</a>
-                        <a class="dropdown-item" href="sbes.php" data-i18n="menu.palestras">Palestras</a>
+                        <a class="dropdown-item" href="palestras.php?evento=sbes" data-i18n="menu.palestras">Palestras</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown dropdown-slide">
