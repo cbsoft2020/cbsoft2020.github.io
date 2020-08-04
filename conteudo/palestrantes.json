@@ -1,6 +1,18 @@
 {
 	"speakers": [
 	{
+		"id": "ana-regina",
+		"id_event": "sbes",
+		"image": "ana-regina.png",
+		"name": "Ana Regina Rocha",
+		"institution": "Universidade Federal do Rio de Janeiro",
+		"webpage": "https://www.cos.ufrj.br/index.php/pt-BR/pessoas/details/18/1002-darocha",
+		"email": "darocha.anaregina@gmail.com",
+		"title": "Retorno do Investimento em Qualidade de Software",
+		"abstract": "Esta palestra discutirá os benefícios da melhoria de processos para a qualidade dos produtos de software e o sucesso das organizações. Nesse contexto, serão apresentados dois modelos de melhoria de processos de software (CMMI-DEV v2.0 e MR-MPS-SW:2020) e um modelo para qualidade de produtos de software (QPS). Por fim será apresentada uma abordagem para orientação dos programas de melhoria às necessidades de cada organização e ao retorno do investimento.",
+		"bio": "Ana Regina Rocha é professora titular da COPPE/UFRJ. Tem Doutorado e Mestrado pela PUC-Rio. Orientou 30 teses de Doutorado e 101 dissertações de Mestrado. Foi Board Member do International Institute for Software Technology da United Nations University (1994-1997). Foi pesquisador homenageado da CEES em 2009. Em 2010 recebeu o prêmio Change Agent Awards do Anita Borg Institute. Participou da definição do Programa TI Maior do MCTI (2012). Coordenou a equipe que definiu o Modelo MPS-SW, que já teve mais de 700 avaliações em empresas brasileiras e latino-americanas. Mais recentemente, coordenou a equipe que definiu o modelo QPS para qualidade de produtos de software. Participou de projetos de qualidade de software em várias organizações entre elas CERN, TSE, Banco Central, Petrobrás, Centro de Computação da Aeronáutica, Casnav, PREVI, Fiocruz. As principais áreas de interesse são processos de software, qualidade de produtos de software e Engenharia de Software para start-ups."
+	},
+	{
 		"id": "baishakhi",
 		"id_event": "sast",
 		"image": "rayb.jpg",
