@@ -1,4 +1,4 @@
-<section class="section single-speaker" style="margin-top: 100px">
+<section class="section single-speaker" style="margin-top: 100px; margin-bottom: -250px">
 	<div class="container">
 		<div class="block">
 			<div class="row">

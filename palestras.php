@@ -73,6 +73,9 @@
 			}
 		}
 		include("speaker.php");
+		if ($i == count($speakers)-1) {
+			echo '<div style="margin-top: 250px"></div>';
+		}
 	}
  ?>	
 

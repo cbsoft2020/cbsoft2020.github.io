@@ -2417,7 +2417,7 @@ select.form-control:not([size]):not([multiple]) {
 
 .single-speaker .block {
   padding-bottom: 70px;
-  border-bottom: 1px solid #e5e5e5;
+  /* border-bottom: 1px solid #e5e5e5; */
 }
 
 .single-speaker .block .image-block {
