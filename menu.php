@@ -11,6 +11,7 @@
                 <li class="nav-item dropdown active dropdown-slide">
                     <a class="nav-link" href="#"  data-toggle="dropdown">CBSoft 2020</a>
                     <div class="dropdown-menu">
+						<a class="dropdown-item" href="#speakers" data-i18n="menu.palestrantes">Palestrantes</a>
                         <a class="dropdown-item" href="organizacao.php" data-i18n="menu.organizacao">Organização</a>
                         <a class="dropdown-item" href="patrocinio.php" data-i18n="menu.patrocinio">Patrocínio</a>
                         <a class="dropdown-item" href="index.php#programacao" data-i18n="menu.programacao">Programação</a>

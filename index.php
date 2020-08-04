@@ -168,7 +168,7 @@
 <!--==============================
 =            Speakers            =
 ===============================-->
-<section class="section speakers bg-speaker overlay-lighter">
+<section class="section speakers bg-speaker overlay-lighter" id="speakers">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
@@ -197,7 +197,7 @@
 						</div>
 						<div class="content text-center">
                            	<h4 style="font-size: 18px"><a href="<?php echo $speaker->webpage;?>"><?php echo $speaker->name;?></a></h4>
-                            <p style="font-size: 12px" class="affiliation"><?php echo $speaker->institution;?></p>
+                            <p style="font-size: 12px; line-height: 14px" class="affiliation"><?php echo $speaker->institution;?></p>
                         </div>
 					</div>
 				</div>
