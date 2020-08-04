@@ -38,7 +38,7 @@
                     <div class="dropdown-menu">
                         <a class="dropdown-item" href="sbcars.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a>
                         <a class="dropdown-item" href="sbcars.php" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>
-                        <a class="dropdown-item" href="sbcars.php" data-i18n="menu.palestras">Palestras</a>
+                        <a class="dropdown-item" href="palestras.php?evento=sbcars" data-i18n="menu.palestras">Palestras</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown dropdown-slide">
