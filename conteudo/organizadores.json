@@ -3,21 +3,21 @@
 			"imagem": "everton.jpg",
 			"nome": "Everton Cavalcante",
 			"universidade": "UFRN",
-			"lattes": "http://lattes.cnpq.br/5065548216266121",
+			"link": "http://lattes.cnpq.br/5065548216266121",
 			"email": "everton@dimap.ufrn.br"
 		},
 		{
 			"imagem": "chico.jpg",
 			"nome": "Francisco Dantas",
 			"universidade": "UERN",
-			"lattes": "http://lattes.cnpq.br/5525562330158282",
+			"link": "http://lattes.cnpq.br/5525562330158282",
 			"email": "fdmneto@gmail.com"
 		},
 		{
 			"imagem": "thais.jpg",
 			"nome": "Thais Batista",
 			"universidade": "UFRN",
-			"lattes": "http://lattes.cnpq.br/5521922960404236",
+			"link": "http://lattes.cnpq.br/5521922960404236",
 			"email": "thaisbatista@gmail.com"
 		}
 	],
@@ -25,14 +25,14 @@
 			"imagem": "tayana.png",
 			"nome": "Tayana Conte",
 			"universidade": "UFAM",
-			"lattes": "http://lattes.cnpq.br/6682919653508224",
+			"link": "http://lattes.cnpq.br/6682919653508224",
 			"email": "tayanaconte@gmail.com"
 		},
 		{
 			"imagem": "castor.jpg",
 			"nome": "Fernando Castor",
 			"universidade": "UFPE",
-			"lattes": "http://lattes.cnpq.br/7310046838140771",
+			"link": "http://lattes.cnpq.br/7310046838140771",
 			"email": "fjclf@cin.ufpe.br"
 		}
 	],
@@ -40,14 +40,14 @@
 			"imagem": "marco-tulio.jpg",
 			"nome": "Marco Tulio Valente",
 			"universidade": "UFMG",
-			"lattes": "http://lattes.cnpq.br/2147157840592913",
+			"link": "http://lattes.cnpq.br/2147157840592913",
 			"email": "mtov@dcc.ufmg.br"
 		},
 		{
 			"imagem": "marcio.jpg",
 			"nome": "Marcio Ribeiro",
 			"universidade": "UFAL",
-			"lattes": "http://lattes.cnpq.br/9300936571715992",
+			"link": "http://lattes.cnpq.br/9300936571715992",
 			"email": "marcio@ic.ufal.br"
 		}
 	],
@@ -55,14 +55,14 @@
 			"imagem": "igor.jpg",
 			"nome": "Igor Steinmacher",
 			"universidade": "Northern Arizona University",
-			"lattes": "http://lattes.cnpq.br/5529725593221391",
+			"link": "http://lattes.cnpq.br/5529725593221391",
 			"email": "igor.steinmacher@nau.edu"
 		},
 		{
 			"imagem": "rodrigo.jpeg",
 			"nome": "Rodrigo Santos",
 			"universidade": "UNIRIO",
-			"lattes": "http://lattes.cnpq.br/8613736894676086",
+			"link": "http://lattes.cnpq.br/8613736894676086",
 			"email": "rps@uniriotec.br"
 		}
 	],
@@ -70,44 +70,44 @@
 			"imagem": "christina.jpg",
 			"nome": "Christina Chavez",
 			"universidade": "UFBA",
-			"lattes": "http://lattes.cnpq.br/1827829018668226",
+			"link": "http://lattes.cnpq.br/1827829018668226",
 			"email": "flach@ufba.br"
 		},
 		{
 			"imagem": "elisa.png",
 			"nome": "Elisa Nakagawa",
 			"universidade": "ICMC-USP",
-			"lattes": "http://lattes.cnpq.br/7494142007764616",
+			"link": "http://lattes.cnpq.br/7494142007764616",
 			"email": "elisa@icmc.usp.br"
 		}
 	],
 	"chairs_sbes_ctic": [{
 			"imagem": "guta.jpg",
-			"nome": "Mª Augusta Nelson",
+			"nome": "Maria Augusta Nelson",
 			"universidade": "PUC-Minas",
-			"lattes": "http://lattes.cnpq.br/5546348474330622",
+			"link": "http://lattes.cnpq.br/5546348474330622",
 			"email": "guta@pucminas.br"
 		},
 		{
 			"imagem": "eduardo-figueiredo.jpg",
 			"nome": "Eduardo Figueiredo",
 			"universidade": "UFMG",
-			"lattes": "http://lattes.cnpq.br/1265706528850746",
+			"link": "http://lattes.cnpq.br/1265706528850746",
 			"email": "figueiredo@dcc.ufmg.br"
 		}
 	],
 	"chairs_sbes_ctd": [{
-			"imagem": "avatar-woman.jpg",
+			"imagem": "ana-regina.png",
 			"nome": "Ana Regina Rocha",
 			"universidade": "UFRJ",
-			"lattes": "http://lattes.cnpq.br/6344175997146758",
+			"link": "http://lattes.cnpq.br/6344175997146758",
 			"email": "darocha.anaregina@gmail.com"
 		},
 		{
 			"imagem": "gleison.jpg",
 			"nome": "Gleison Santos",
 			"universidade": "UNIRIO",
-			"lattes": "http://lattes.cnpq.br/4616202382103338",
+			"link": "http://lattes.cnpq.br/4616202382103338",
 			"email": "gleison.santos@gmail.com"
 		}
 	],
@@ -115,21 +115,21 @@
 		"imagem": "gustavo.png",
 		"nome": "Gustavo Pinto",
 		"universidade": "UFPA",
-		"lattes": "http://lattes.cnpq.br/1631238943341152",
+		"link": "http://lattes.cnpq.br/1631238943341152",
 		"email": "gpinto@ufpa.br"
 	}],
 	"chairs_sast": [{
 			"imagem": "wilkerson.jpg",
 			"nome": "Wilkerson Andrade",
 			"universidade": "UFCG",
-			"lattes": "http://lattes.cnpq.br/3697205933296303",
+			"link": "http://lattes.cnpq.br/3697205933296303",
 			"email": "wilkerson@computacao.ufcg.edu.br"
 		},
 		{
 			"imagem": "vania.jpg",
 			"nome": "Vânia Neves",
 			"universidade": "UFF",
-			"lattes": "http://lattes.cnpq.br/1527901631481888",
+			"link": "http://lattes.cnpq.br/1527901631481888",
 			"email": "vania@ic.uff.br"
 		}
 	],
@@ -137,14 +137,14 @@
 			"imagem": "sergio.jpg",
 			"nome": "Sergio Medeiros",
 			"universidade": "UFRN",
-			"lattes": "http://lattes.cnpq.br/0310395336626784",
+			"link": "http://lattes.cnpq.br/0310395336626784",
 			"email": "sergiomedeiros@ect.ufrn.br"
 		},
 		{
 			"imagem": "avatar-man.png",
 			"nome": "Francisco Sant'anna",
 			"universidade": "UERJ",
-			"lattes": "http://lattes.cnpq.br/0077491494754494",
+			"link": "http://lattes.cnpq.br/0077491494754494",
 			"email": "francisco@ime.uerj.br"
 		}
 	],
@@ -152,14 +152,14 @@
 			"imagem": "carla.jpg",
 			"nome": "Carla Silva",
 			"universidade": "UFPE",
-			"lattes": "http://lattes.cnpq.br/0581226769296441",
+			"link": "http://lattes.cnpq.br/0581226769296441",
 			"email": "ctlls@cin.ufpe.br"
 		},
 		{
 			"imagem": "eduardo.jpg",
 			"nome": "Eduardo Guerra",
 			"universidade": "Libera Università di Bolzano",
-			"lattes": "http://lattes.cnpq.br/3413978291577451",
+			"link": "http://lattes.cnpq.br/3413978291577451",
 			"email": "guerraem@gmail.com"
 		}
 	],
@@ -167,35 +167,35 @@
 		"imagem": "jair.jpg",
 		"nome": "Jair Leite",
 		"universidade": "UFRN",
-		"lattes": "http://lattes.cnpq.br/8133660776746187",
+		"link": "http://lattes.cnpq.br/8133660776746187",
 		"email": "jair@dimap.ufrn.br"
 	}],
 	"chairs_workshops": [{
 		"imagem": "thelma.jpg",
 		"nome": "Thelma Colanzi",
 		"universidade": "UEM",
-		"lattes": "http://lattes.cnpq.br/3603496659156120",
+		"link": "http://lattes.cnpq.br/3603496659156120",
 		"email": "thelma.lopes@din.uem.br"
 	}],
 	"chairs_mssis": [{
 			"imagem": "valdemar.jpg",
 			"nome": "Valdemar G. Neto",
 			"universidade": "UFG",
-			"lattes": "http://lattes.cnpq.br/9864803557706493",
+			"link": "http://lattes.cnpq.br/9864803557706493",
 			"email": "valdemarneto@ufg.br"
 		},
 		{
 			"imagem": "elisa.png",
 			"nome": "Elisa Nakagawa",
 			"universidade": "ICMC-USP",
-			"lattes": "http://lattes.cnpq.br/7494142007764616",
+			"link": "http://lattes.cnpq.br/7494142007764616",
 			"email": "elisa@icmc.usp.br"
 		},
 		{
 			"imagem": "bernard.jpg",
 			"nome": "Bernard Zeigler",
 			"universidade": "University of Arizona, Tucson",
-			"lattes": "https://d.lib.ncsu.edu/computer-simulation/videos/bernard-p-zeigler-interviewed-by-richard-e-nance-zeigler/",
+			"link": "https://d.lib.ncsu.edu/computer-simulation/videos/bernard-p-zeigler-interviewed-by-richard-e-nance-zeigler/",
 			"email": "zeigler@ece.arizona.edu"
 		}
 	],
@@ -203,15 +203,38 @@
 			"imagem": "rafael-durelli.png",
 			"nome": "Rafael Durelli",
 			"universidade": "UFLA",
-			"lattes": "http://lattes.cnpq.br/0805947997778420",
+			"link": "http://lattes.cnpq.br/0805947997778420",
 			"email": "rafael.durelli@ufla.br"
 		},
 		{
 			"imagem": "lincoln.jpeg",
 			"nome": "Lincoln Rocha",
 			"universidade": "UFC",
-			"lattes": "http://lattes.cnpq.br/0656977742590515",
+			"link": "http://lattes.cnpq.br/0656977742590515",
 			"email": "lincoln@dc.ufc.br"
+		}
+	],
+	"proceedings_chair": [{
+			"imagem": "marcel.jpg",
+			"nome": "Marcel Oliveira",
+			"universidade": "UFRN",
+			"link": "http://lattes.cnpq.br/1756952696097255",
+			"email": "marcel@dimap.ufrn.br"
+		}
+	],
+	"chairs_communication": [{
+			"imagem": "priscila.png",
+			"nome": "Priscila Kruger",
+			"universidade": "",
+			"link": "http://kruger.myportfolio.com/",
+			"email": "priscilahbk@gmail.com"
+		},
+		{
+			"imagem": "carol.png",
+			"nome": "Caroline Bittencourt",
+			"universidade": "",
+			"link": "https://carolbitt.myportfolio.com/",
+			"email": "carolbltcruz@gmail.com"
 		}
 	]
 }

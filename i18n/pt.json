@@ -1374,7 +1374,9 @@
 
 	"org": {
 		"organizacao": "Organização",
-		"org_local": "Coordenação Geral"
+		"org_local": "Coordenação Geral",
+		"proceedings": "Anais",
+		"communication": "Comunicação"
 	},
 	
 	"speakers": {

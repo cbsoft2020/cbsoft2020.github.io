@@ -1376,7 +1376,9 @@
 
 	"org": {
 		"organizacao": "Organization",
-		"org_local": "General Chairs"
+		"org_local": "General Chairs",
+		"proceedings": "Proceedings Chair",
+		"communication": "Communication Co-chairs"
 	},
 	
 	"speakers": {
