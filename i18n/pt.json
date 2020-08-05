@@ -1312,9 +1312,9 @@
 			"19 de outubro de 2020"
 		],
 		"deadlines_mssis": [
-			"3 de agosto de 2020",
-			"5 de setembro de 2020",
-			"14 de setembro de 2020",
+			"<strike>3 de agosto de 2020</strike> <span style='color: red; font-weight: bold'>14 de agosto de 2020</span>",
+			"<strike>5 de setembro de 2020</strike> <span style='color: red; font-weight: bold'>15 de setembro de 2020</span>",
+			"<strike>14 de setembro de 2020</strike> <span style='color: red; font-weight: bold'>18 de setembro de 2020</span>",
 			"19 de outubro de 2020"
 		]
 	},
