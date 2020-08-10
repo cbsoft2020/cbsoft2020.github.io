@@ -9,7 +9,7 @@
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav mx-auto">
                 <li class="nav-item dropdown active dropdown-slide">
-                    <a class="nav-link" href="#"  data-toggle="dropdown">CBSoft 2020</a>
+                    <a class="nav-link" href="#" data-toggle="dropdown">CBSoft 2020</a>
                     <div class="dropdown-menu">
 						<a class="dropdown-item" href="#speakers" data-i18n="menu.palestrantes">Palestrantes</a>
                         <a class="dropdown-item" href="organizacao.php" data-i18n="menu.organizacao">Organização</a>
@@ -20,19 +20,56 @@
                         <a class="dropdown-item" href="edicoes-anteriores.php" data-i18n="menu.edicoes_anteriores">Edições Anteriores</a>
                     </div>
                 </li>
-                <li class="nav-item dropdown dropdown-slide">
-                    <a class="nav-link" href="sbes.php" data-toggle="dropdown">SBES</a>
-                    <div class="dropdown-menu">
-                        <a class="dropdown-item" href="sbes.php" data-i18n="menu.home_SBES">Página Principal</a>
-                        <a class="dropdown-item" href="sbes-pesquisa.php" data-i18n="menu.trilha_pesquisa">Trilha de Pesquisa</a>
-                        <a class="dropdown-item" href="sbes-ideias.php" data-i18n="menu.trilha_ideias_inovadoras">Trilha de Ideias Inovadoras e Resultados Emergentes</a>
-                        <a class="dropdown-item" href="sbes-educacao.php" data-i18n="menu.trilha_educacao">Trilha de Educação</a>
-                        <a class="dropdown-item" href="sbes-ferramentas.php" data-i18n="menu.trilha_ferramentas">Trilha de Ferramentas</a>
-                        <a class="dropdown-item" href="sbes-ctic.php" data-i18n="menu.ctic-es">Concurso de Trabalhos de Iniciação Científica</a>
-                        <a class="dropdown-item" href="sbes-ctd.php" data-i18n="menu.ctd-es">Concurso de Teses e Dissertações</a>
-                        <a class="dropdown-item" href="palestras.php?evento=sbes" data-i18n="menu.palestras">Palestras</a>
-                    </div>
-                </li>
+				<li class="nav-item dropdown">
+					<a class="nav-link" href="sbes.php" data-toggle="dropdown">SBES</a>
+					<ul class="dropdown-menu">
+						<li class="dropdown-submenu dropdown-slide">
+							<a class="dropdown-item" href="#" style="font-size: 15px" data-toggle="dropdown" data-i18n="menu.trilha_pesquisa">Trilha de Pesquisa</a>
+							<ul class="dropdown-menu">
+								<li><a class="dropdown-item" href="sbes-pesquisa.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a></li>
+								<li><a class="dropdown-item" href="#" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a></li>
+							</ul>
+						</li>
+						<li class="dropdown-submenu dropdown-slide">
+							<a class="dropdown-item" href="#" style="font-size: 15px" data-toggle="dropdown" data-i18n="menu.trilha_ideias_inovadoras">Trilha de Ideias Inovadoras e Resultados Emergentes</a>
+							<ul class="dropdown-menu">
+								<li><a class="dropdown-item" href="sbes-ideias.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a></li>
+								<li><a class="dropdown-item" href="#" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a></li>
+							</ul>
+						</li>
+						<li class="dropdown-submenu dropdown-slide">
+							<a class="dropdown-item" href="#" style="font-size: 15px" data-toggle="dropdown" data-i18n="menu.trilha_educacao">Trilha de Educação</a>
+							<ul class="dropdown-menu">
+								<li><a class="dropdown-item" href="sbes-educacao.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a></li>
+								<li><a class="dropdown-item" href="#" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a></li>
+							</ul>
+						</li>
+						<li class="dropdown-submenu dropdown-slide">
+							<a class="dropdown-item" href="#" style="font-size: 15px" data-toggle="dropdown" data-i18n="menu.trilha_ferramentas">Trilha de Ferramentas</a>
+							<ul class="dropdown-menu">
+								<li><a class="dropdown-item" href="sbes-ferramentas.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a></li>
+								<li><a class="dropdown-item" href="#" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a></li>
+							</ul>
+						</li>
+						<li class="dropdown-submenu dropdown-slide">
+							<a class="dropdown-item" href="#" style="font-size: 15px" data-toggle="dropdown" data-i18n="menu.ctic-es">Concurso de Trabalhos de Iniciação Científica</a>
+							<ul class="dropdown-menu">
+								<li><a class="dropdown-item" href="sbes-ctic.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a></li>
+								<li><a class="dropdown-item" href="#" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a></li>
+							</ul>
+						</li>
+						<li class="dropdown-submenu dropdown-slide">
+							<a class="dropdown-item" href="#" style="font-size: 15px" data-toggle="dropdown" data-i18n="menu.ctd-es">Concurso de Teses e Dissertações</a>
+							<ul class="dropdown-menu">
+								<li><a class="dropdown-item" href="sbes-ctd.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a></li>
+								<li><a class="dropdown-item" href="#" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a></li>
+							</ul>
+						</li>
+						<li class="dropdown-submenu dropdown-slide">
+							<a class="dropdown-item" href="palestras.php?evento=sbes" style="font-size: 15px" data-toggle="dropdown" data-i18n="menu.palestras">Palestras</a>
+						</li>
+					</ul>
+				</li>
                 <li class="nav-item dropdown dropdown-slide">
                     <a class="nav-link" href="sbcars.php" data-toggle="dropdown">SBCARS</a>
                     <div class="dropdown-menu">
