@@ -83,6 +83,19 @@
 						</p>
 					<?php } ?>
 					</div>
+					
+					<?php if (count($short_papers) != 0) { ?>
+					<br />
+					<strong><span style="font-size: 20px; font-weight: bold" data-i18n="menu.short_papers"></span></strong>
+					<div class="description-one" style="margin-top: 20px">
+						<?php for ($i=0; $i < count($short_papers); $i++) { ?>
+							<p style="line-height: 22px; margin-bottom: 20px">
+								<span style="font-size: 17px"><?php echo $short_papers[$i]->title; ?><br/>
+								<span style="font-size: 14px"><?php echo $short_papers[$i]->authors; ?></span>
+							</p>
+						<?php } ?>
+					</div>
+					<?php } ?>
 				</div>
 			</div>
 		</div>
