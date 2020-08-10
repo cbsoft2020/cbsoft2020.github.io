@@ -29,8 +29,9 @@
 		}
 	}
 
+	$evento_short = null;
 	if (strstr($evento, 'sbes')) {
-		$evento = 'sbes';
+		$evento_short = 'sbes';
 	}
 ?>
 
@@ -60,15 +61,26 @@
 		<div class="row" style="margin-top: 50px">
 			<div class="col-lg-12 align-self-center">
 				<div class="content-block">
-					<h2 data-i18n="<?php echo $evento;?>.titulo"></h2>
-					<h4 data-i18n="menu.artigos_aceitos"></h4>
+					<h2 style="line-height: 50px" data-i18n="<?php echo $evento_short;?>.titulo"></h2>
+					<h4 style="line-height: 50px">
+						<span data-i18n="menu.artigos_aceitos"></span>
+						<?php 
+							$pos = strpos($evento, '-');
+							if ($pos !== false) {
+								$evento = str_replace('-', '.trilha_', $evento);
+								echo " &ndash; <span data-i18n='$evento'></span>";
+							}
+						?>
+					</h4>
 					
 					<br/>
-					<strong><span style="font-size: 18px" data-i18n="menu.full_papers"></span></strong>
-					<div class="description-one">
+					<strong><span style="font-size: 20px; font-weight: bold" data-i18n="menu.full_papers"></span></strong>
+					<div class="description-one" style="margin-top: 20px">
 					<?php for ($i=0; $i < count($full_papers); $i++) { ?>
-						<p style="font-size: 16px; margin-top: 10px; font-style: italic"><?php echo $full_papers[$i]->title; ?></p>
-						<p style="font-size: 14px; margin-top: -5px"><?php echo $full_papers[$i]->authors; ?></p>
+						<p style="line-height: 22px; margin-bottom: 20px">
+							<span style="font-size: 17px"><?php echo $full_papers[$i]->title; ?><br/>
+							<span style="font-size: 14px"><?php echo $full_papers[$i]->authors; ?></span>
+						</p>
 					<?php } ?>
 					</div>
 				</div>

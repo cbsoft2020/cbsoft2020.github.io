@@ -130,6 +130,15 @@
 		  width: 100%;
 		  text-align: center;
     }
+	
+	.menu-sbes {
+		  font-size: 15px;
+	}
+	  
+	.dropdown .dropdown-menu .dropdown-item:hover {
+		  background: #fff !important;
+  		  color: #f4b321 !important;
+	 }
   </style>
 
 </head>
