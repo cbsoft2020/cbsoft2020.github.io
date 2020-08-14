@@ -62,7 +62,7 @@
 							<a class="dropdown-item menu-sbes" href="#" data-toggle="dropdown" data-i18n="menu.ctd-es">Concurso de Teses e Dissertações</a>
 							<ul class="dropdown-menu dropdown-menu-right">
 								<li><a class="dropdown-item menu-sbes" href="sbes-ctd.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a></li>
-								<li><a class="dropdown-item menu-sbes" href="#" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a></li>
+								<li><a class="dropdown-item menu-sbes" href="artigos.php?evento=ctd-es" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a></li>
 							</ul>
 						</li>
 						<li class="dropdown-submenu">

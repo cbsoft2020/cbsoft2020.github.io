@@ -24,7 +24,6 @@
 			<div class="col-lg-12 align-self-center">
 				<div class="content-block">
                     <h2 data-i18n="ctd-es.titulo"></h2>
-					<h4 data-i18n="ctd-es.subtitulo"></h4>
 					
 					<br/>
 					<div class="description-one">

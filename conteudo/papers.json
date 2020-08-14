@@ -293,5 +293,47 @@
 		"title": "Um Framework Conceitual para APIs Conversacionais",
 		"authors": "Joao Antonio Bastos, Rafael de Mello, Alessandro Garcia",
 		"category": "short"
+	},
+	{
+		"id_event": "ctd-es",
+		"title": "DevGo: Um Modelo para Governança de Desenvolvedores em Ecossistema de Software Móvel a partir de Developer Relations",
+		"author": "Awdren Fontão (UFMS)",
+		"advisors": "Arilo Dias Neto (UFAM), Rodrigo Santos (UNIRIO)",
+		"category": "phd"
+	},
+	{
+		"id_event": "ctd-es",
+		"title": "Feature Interactions in Highly Configurable Systems: A Dynamic Analysis Approach with Varxplorer",
+		"author": "Larissa Rocha Soares (UFBA)",
+		"advisors": "Eduardo Almeida (CESAR/RiSE), Ivan Machado (UFBA), Christian Kästner (Carnegie Mellon University)",
+		"category": "phd"
+	},
+	{
+		"id_event": "ctd-es",
+		"title": "Supporting Creation of New iStar Extensions through a Process",
+		"author": "Enyo Gonçalves",
+		"advisors": "Jaelson Castro (UFPE), João Araújo (Universidade NOVA de Lisboa)",
+		"category": "phd"
+	},
+	{
+		"id_event": "ctd-es",
+		"title": "Automatically Fixing Static Analysis Tools Violations",
+		"author": "Diego Marcilio (Università della Svizzera italiana)",
+		"advisors": "Rodrigo Bonifacio (UnB)",
+		"category": "master"
+	},
+	{
+		"id_event": "ctd-es",
+		"title": "On the Characterization, Detection and Impact of Batch Refactoring in Practice",
+		"author": "Ana Bibiano (PUC-Rio)",
+		"advisors": "Alessandro Garcia (PUC-Rio)",
+		"category": "master"
+	},
+	{
+		"id_event": "ctd-es",
+		"title": "ScenarIoT: Support for Scenario Specification of Internet of Things-based Software Systems",
+		"author": "Valéria da Silva (UFRJ)",
+		"advisors": "Guilherme Travassos (COPPE/UFRJ)",
+		"category": "master"
 	}
 ]}

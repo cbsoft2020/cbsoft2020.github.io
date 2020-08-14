@@ -995,7 +995,13 @@
 			"Rafael Prikladnicki (PUCRS, Brazil)",
 			"Tayana Conte (UFAM, Brazil)",
 			"Uirá Kulesza (UFRN, Brazil)"
-		]
+		],
+		"categorias_selected": [
+			"Selected Doctoral theses (in alphabetical order)",
+			"Selected Master theses (in alphabetical order)"
+		],
+		"autor": "Author: ",
+		"orientador": "Advisor(s): "
 	},
 
 	"sbcars": {

@@ -852,8 +852,7 @@
 	},
 
 	"ctic-es": {
-		"titulo": "SBES 2020<br/>XXXIV Simpósio Brasileiro de Engenharia de Software",
-		"subtitulo": "Concurso de Trabalhos de Iniciação Científica em Engenharia de Software",
+		"titulo": "CTIC-ES<br/>Concurso de Trabalhos de Iniciação Científica em Engenharia de Software",
 		"descricao_1": "O primeiro <b>Concurso de Trabalhos de Iniciação Científica em Engenharia de Software (CTIC-ES)</b> é um evento criado para promover a discussão sobre trabalhos de pesquisas em Engenharia de Software feitos na Graduação. Além disso, o concurso busca a integração entre pesquisadores e futuros pesquisadores durante o Congresso Brasileiro de Software (CBSoft 2020). O CTIC-ES seleciona excelentes trabalhos desenvolvidos por estudantes de Graduação, que são premiados e publicados nos anais do CBSoft. Assim, o CTIC-ES tem como objetivo incentivar estudantes de todos os cursos de Graduação em Computação e áreas afins a produzirem textos científicos originais sobre trabalhos realizados por eles em temas relacionados à Engenharia de Software.",
 		"secao_topicos": "Tópicos de Interesse",
 		"descricao_2": "Serão aceitas submissões de trabalhos desenvolvidos por estudantes de Graduação relacionados (mas não limitadas) aos seguintes temas:",
@@ -938,8 +937,7 @@
 	},
 
 	"ctd-es": {
-		"titulo": "SBES 2020<br/>XXXIV Simpósio Brasileiro de Engenharia de Software",
-		"subtitulo": "Concurso de Teses e Dissertações em Engenharia de Software",
+		"titulo": "CTD-ES<br/>Concurso de Teses e Dissertações em Engenharia de Software",
 		"descricao_1": "O <b>Concurso de Teses e Dissertações em Engenharia de Software (CTD-ES)</b> visa divulgar e premiar as melhores teses de Doutorado e dissertações de Mestrado na área de Engenharia de Software concluídas, defendidas e aprovadas no Brasil no ano de 2019. Serão premiadas as teses e dissertações com contribuição significativa e destacada para a área científica de Engenharia de Software além de relevante impacto para a sociedade e para a indústria de software.",
 		"secao_premiacao": "Premiação",
 		"descricao_2": "Serão premiados até seis trabalhos correspondentes às três melhores teses de Doutorado e às três melhores dissertações de Mestrado. Os trabalhos deverão, obrigatoriamente, ser apresentados durante o XXXIV Simpósio Brasileiro de Engenharia de Software (SBES 2020) pelo estudante.",
@@ -993,7 +991,13 @@
 			"Rafael Prikladnicki (PUCRS, Brasil)",
 			"Tayana Conte (UFAM, Brasil)",
 			"Uirá Kulesza (UFRN, Brasil)"
-		]
+		],
+		"categorias_selected": [
+			"Teses de Doutorado selecionadas (em ordem alfabética)",
+			"Dissertações de Mestrado selecionadas (em ordem alfabética)"
+		],
+		"autor": "Autor: ",
+		"orientador": "Orientador(es): "
 	},
 
 	"sbcars": {

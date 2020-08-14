@@ -19,20 +19,32 @@
 	// Artigos do evento em questão
 	$full_papers = array();
 	$short_papers = array();
+	$msc_ctd = array();
+	$phd_ctd = array();
+	$ug_ctic = array();
 	foreach($data->papers as $p) {
 		if (strcmp($p->id_event, $evento) == 0) {
-			if (strcmp($p->category, "short") == 0) {
-				array_push($short_papers, $p);
-			} else {
-				array_push($full_papers, $p);
+			switch ($p->category) {
+				case "short":
+					array_push($short_papers, $p);
+					break;
+				case "full":
+					array_push($full_papers, $p);
+					break;
+				case "master":
+					array_push($msc_ctd, $p);
+					break;
+				case "phd":
+					array_push($phd_ctd, $p);
+					break;
+				case "ug":
+					array_push($ug_ctic, $p);
+					break;
 			}
 		}
 	}
 
-	$evento_short = null;
-	if (strstr($evento, 'sbes')) {
-		$evento_short = 'sbes';
-	}
+	$evento_short = strstr($evento, 'sbes') ? 'sbes' : $evento;
 ?>
 
 <!DOCTYPE html>
@@ -63,26 +75,30 @@
 				<div class="content-block">
 					<h2 style="line-height: 50px" data-i18n="<?php echo $evento_short;?>.titulo"></h2>
 					<h4 style="line-height: 50px">
-						<span data-i18n="menu.artigos_aceitos"></span>
-						<?php 
-							$pos = strpos($evento, '-');
-							if ($pos !== false) {
-								$evento = str_replace('-', '.trilha_', $evento);
-								echo " &ndash; <span data-i18n='$evento'></span>";
+					<?php 
+							echo "<span data-i18n='menu.artigos_aceitos'></span>";
+							if (strstr($evento_short, 'sbes')) {
+								$pos = strpos($evento, '-');
+								if ($pos !== false) {
+									$evento = str_replace('-', '.trilha_', $evento);
+									echo " &ndash; <span data-i18n='$evento'></span>";
+								}
 							}
 						?>
 					</h4>
 					
-					<br/>
-					<strong><span style="font-size: 20px; font-weight: bold" data-i18n="menu.full_papers"></span></strong>
-					<div class="description-one" style="margin-top: 20px">
-					<?php for ($i=0; $i < count($full_papers); $i++) { ?>
-						<p style="line-height: 22px; margin-bottom: 20px">
-							<span style="font-size: 17px"><?php echo $full_papers[$i]->title; ?><br/>
-							<span style="font-size: 14px"><?php echo $full_papers[$i]->authors; ?></span>
-						</p>
-					<?php } ?>
+					<?php if (count($full_papers) != 0) { ?>
+						<br/>
+						<strong><span style="font-size: 20px; font-weight: bold" data-i18n="menu.full_papers"></span></strong>
+						<div class="description-one" style="margin-top: 20px">
+						<?php for ($i=0; $i < count($full_papers); $i++) { ?>
+							<p style="line-height: 22px; margin-bottom: 20px">
+								<span style="font-size: 17px"><?php echo $full_papers[$i]->title; ?><br/>
+								<span style="font-size: 14px"><?php echo $full_papers[$i]->authors; ?></span>
+							</p>
+						<?php } ?>
 					</div>
+					<?php } ?>
 					
 					<?php if (count($short_papers) != 0) { ?>
 					<br />
@@ -92,6 +108,38 @@
 							<p style="line-height: 22px; margin-bottom: 20px">
 								<span style="font-size: 17px"><?php echo $short_papers[$i]->title; ?><br/>
 								<span style="font-size: 14px"><?php echo $short_papers[$i]->authors; ?></span>
+							</p>
+						<?php } ?>
+					</div>
+					<?php } ?>
+					
+					<?php if (count($phd_ctd) != 0) { ?>
+					<br />
+					<strong><span style="font-size: 20px; font-weight: bold" data-i18n="ctd-es.categorias_selected.0"></span></strong>
+					<div class="description-one" style="margin-top: 20px">
+						<?php for ($i=0; $i < count($phd_ctd); $i++) { ?>
+							<p style="line-height: 22px; margin-bottom: 20px">
+								<span style="font-size: 17px"><?php echo $phd_ctd[$i]->title; ?><br/>
+								<span style="font-size: 14px" data-i18n="ctd-es.autor"></span>
+								<span style="font-size: 14px"><?php echo $phd_ctd[$i]->author; ?></span><br/>
+								<span style="font-size: 14px" data-i18n="ctd-es.orientador"></span>
+								<span style="font-size: 14px"><?php echo $phd_ctd[$i]->advisors; ?></span>
+							</p>
+						<?php } ?>
+					</div>
+					<?php } ?>
+					
+					<?php if (count($msc_ctd) != 0) { ?>
+					<br />
+					<strong><span style="font-size: 20px; font-weight: bold" data-i18n="ctd-es.categorias_selected.1"></span></strong>
+					<div class="description-one" style="margin-top: 20px">
+						<?php for ($i=0; $i < count($msc_ctd); $i++) { ?>
+							<p style="line-height: 22px; margin-bottom: 20px">
+								<span style="font-size: 17px"><?php echo $msc_ctd[$i]->title; ?><br/>
+								<span style="font-size: 14px" data-i18n="ctd-es.autor"></span>
+								<span style="font-size: 14px"><?php echo $msc_ctd[$i]->author; ?></span><br/>
+								<span style="font-size: 14px" data-i18n="ctd-es.orientador"></span>
+								<span style="font-size: 14px"><?php echo $msc_ctd[$i]->advisors; ?></span>
 							</p>
 						<?php } ?>
 					</div>
