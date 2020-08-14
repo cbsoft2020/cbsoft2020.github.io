@@ -1328,7 +1328,7 @@
 			"Date"
 		],
 		"deadlines_vem": [
-			"August 15, 2020",
+			"<strike>August 15, 2020</strike> <span style='color: red; font-weight: bold'>August 23, 2020</span>",
 			"September 12, 2020",
 			"September 16, 2020",
 			"October 19, 2020"
