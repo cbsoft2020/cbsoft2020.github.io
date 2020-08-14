@@ -3,6 +3,10 @@
 <!-- HEAD -->
 <?php 
 	include_once ("header.php");
+	
+	$file_pc = "conteudo/pc.json";
+    $info_pc = file_get_contents($file_pc);
+    $data_pc = json_decode($info_pc);
 ?>
 
 <body class="body-wrapper">
@@ -105,6 +109,11 @@
 						<p data-i18n="ctd-es.comite.10"></p>
 						<p data-i18n="ctd-es.comite.11"></p>
 						<p data-i18n="ctd-es.comite.12"></p>
+						<strong><p style="margin-top: 10px" data-i18n="ctd-es.comite.13"></p></strong>
+						<?php
+							for ($i=14; $i < count($data_pc->pc_ctdes_en)+14; $i++) { ?>
+							<p data-i18n="ctd-es.comite.<?php echo $i; ?>" style="color: black;"></p>
+						<?php }	// for ?>
 					</div>
 				</div>
 			</div>
