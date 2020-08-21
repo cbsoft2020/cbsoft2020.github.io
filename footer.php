@@ -7,6 +7,9 @@
               <img src="images/logo-footer.png" alt="logo" width="220px" height="34px" class="img-fluid">
             </div>
             <ul class="social-links-footer list-inline">
+			  <li class="list-inline-item">
+                <a href="mailto:cbsoft2020@imd.ufrn.br"><i class="fa fa-envelope fa-2x"></i></a>
+              </li>
               <li class="list-inline-item">
                 <a href="https://www.facebook.com/congresso.cbsoft/" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>
               </li>
