@@ -371,5 +371,53 @@
 		"title": "H.I.D.R.A.: A Hierarchical, Interactive and Dynamic Recognition Architecture for Product Categorization",
 		"authors": "Renato Cordeiro Ferreira, Igor Bonadio, Beatriz Marouelli",
 		"category": "short"
+	},
+	{
+		"id_event": "sblp",
+		"title": "Stream Parallelism Annotations for Multi-Core Frameworks",
+		"authors": "Renato B. Hoffmann, Dalvan Griebler, Marco Danelutto, Luiz G. Fernandes",
+		"category": "full"
+	},
+	{
+		"id_event": "sblp",
+		"title": "An Algorithm for Context-Free Path Queries over Graph Databases",
+		"authors": "Ciro M. Medeiros, Martin Musicante, Umberto Costa",
+		"category": "full"
+	},
+	{
+		"id_event": "sblp",
+		"title": "Syntax vs Semantics: Comparing Consistency Proofs for Minimal Propositional Logics",
+		"authors": "Felipe Sasdelli, Maycon Amaro, Elton Máximo Cardoso, Samuel Feitosa, Rodrigo Ribeiro",
+		"category": "full"
+	},
+	{
+		"id_event": "sblp",
+		"title": "An Intrinsically Typed Solution for the List-Machine Benchmark",
+		"authors": "Samuel Feitosa, Rodrigo Ribeiro",
+		"category": "full"
+	},
+	{
+		"id_event": "sblp",
+		"title": "Mystery: A Complete Infrastructure to the Design and Exploration of Code Optimization Sequences",
+		"authors": "Anderson Faustino da Silva, Fernando Pereira, André Felipe Zanella",
+		"category": "full"
+	},
+	{
+		"id_event": "sblp",
+		"title": "Monadic W in Coq",
+		"authors": "Rafael Castro Gonçalves Silva, Cristiano Vasconcellos, Karina Roggia",
+		"category": "full"
+	},
+	{
+		"id_event": "sblp",
+		"title": "A Gradual Type System for Elixir",
+		"authors": "Alberto Pardo, Marcos Viera, Mauricio Cassola, Agustín Talagorria",
+		"category": "full"
+	},
+	{
+		"id_event": "sblp",
+		"title": "A Formalisation of LEGv8 in Agda",
+		"authors": "Santiago Arranz Olmos, Martín Fernández, Alejandro Gadea, Emmanuel Gunther, Miguel Pagano, Matías Steinberg",
+		"category": "full"
 	}
 ]}

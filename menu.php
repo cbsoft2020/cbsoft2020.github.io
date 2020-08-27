@@ -82,7 +82,7 @@
                     <a class="nav-link" href="sblp.php" data-toggle="dropdown">SBLP</a>
                     <div class="dropdown-menu">
                         <a class="dropdown-item" href="sblp.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a>
-                        <a class="dropdown-item" href="sblp.php" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>
+                        <a class="dropdown-item" href="artigos.php?evento=sblp" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>
                         <a class="dropdown-item" href="palestras.php?evento=sblp" data-i18n="menu.palestras">Palestras</a>
                     </div>
                 </li>
