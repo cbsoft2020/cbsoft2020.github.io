@@ -7,6 +7,10 @@
 	$file = "conteudo/topicos.json";
     $info = file_get_contents($file);
     $data = json_decode($info);
+	
+	$file_pc = "conteudo/pc.json";
+    $info_pc = file_get_contents($file_pc);
+    $data_pc = json_decode($info_pc);
 ?>
 
 <body class="body-wrapper">
@@ -109,9 +113,22 @@
 					</div>
 					
 					<br/>
+					<h5 data-i18n="trilha-industria.secao_camera-ready"></h5>
+					<div class="description-one">
+						<p style="margin-bottom: 10px" data-i18n="trilha-industria.descricao_11"></p>
+						<p data-i18n="trilha-industria.descricao_12"></p>
+					</div>
+					
+					<br/>
 					<h5 data-i18n="trilha-industria.secao_comite"></h5>
 					<div class="description-one">
-						<p data-i18n="trilha-industria.comite.0"></p>
+						<strong><p data-i18n="trilha-industria.comite.0"></p></strong>
+						<p data-i18n="trilha-industria.comite.1"></p>
+						<strong><p style="margin-top: 10px" data-i18n="trilha-industria.comite.2"></p></strong>
+						<?php
+							for ($i=3; $i < count($data_pc->pc_industria_en)+3; $i++) { ?>
+							<p data-i18n="trilha-industria.comite.<?php echo $i; ?>" style="color: black;"></p>
+						<?php }	// for ?>
 					</div>
 				</div>
 			</div>

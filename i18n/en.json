@@ -94,10 +94,6 @@
 		"signature_sc": "<i>Ivan Machado<br/>CBSoft Steering Committee Chair</i>"
 	},
 
-	"speakers": {
-		"palestrantes": "Speakers"
-	},
-
 	"schedule": {
 		"dia_1": "Day 01",
 		"dia_2": "Day 02",
@@ -189,9 +185,43 @@
 			"for proposals discussing challenges, clarity in describing the problem, including motivation, context, and known difficulties",
 			"for proposals discussing solutions for industry, description of the solution's applicability and success indicators (e.g., proof-of-concept, prototype, etc.)"
 		],
-		"secao_comite": "Technical Committee",
+		"secao_camera-ready": "Camera-Ready Submission",
+		"descricao_11": "Camera-ready version of accepted papers must be up 4 pages long. It is not required providing the cover page. The paper must follow the SBC's Template for Paper Publication available at this <a style='color: #f4b321' href='http://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros'>link</a>. The paper must be sent through the <a style='color: #f4b321' href='https://jems.sbc.org.br/home.cgi?c=3603'>JEMS</a> system.",
+		"descricao_12": "Another mandatory element is the SBC's Consent to Publish, available at this <a style='color: #f4b321' href='http://www.sbc.org.br/documentos-da-sbc/summary/164-publicacoes/1231-termo-de-autorizacao-de-publicacao'>link</a>, which must be signed by one of the co-authors of each accepted paper. It is also required fill an electronic metadata collection form available at this <a style='color: #f4b321' href='https://forms.gle/mrmyn2X89wCRZZtBA'>link</a> for each accepted paper.",
+		"secao_comite": "Organization",
 		"comite": [
-			"To be defined"
+			"Technical Committee Chair",
+			"Jair Leite (UFRN, Brazil)",
+			"Technical Committee",
+			"Adenilso Simao (ICMC-USP, Brazil)",
+			"Alexandre Alvaro (UFSCAR, Brazil)",
+			"Alexandre Gomes (UnB, Brazil)",
+			"Allan Araujo (CESAR, Brazil)",
+			"Avelino Zorzo (PUCRS, Brazil)",
+			"Bernardo Estácio (Takeaway.com, Germany)",
+			"Carmelo Bastos-Filho (UFPE, Brazil)",
+			"Daniel Lucrédio (UFSCAR, Brazil)",
+			"Denise Bombonatti (USP, Brazil)",
+			"Eduardo Figueiredo (UFMG, Brazil)",
+			"Eduardo Guerra (Free University of Bolzano, Italy)",
+			"Fernando Trinta (UFC, Brazil)",
+			"Gibeon Soares de Aquino Junior (UFRN, Brazil)",
+			"Gleison Santos (UNIRIO, Brazil)",
+			"Graziela Simone Tonin (UFFS, Brazil)",
+			"Guilherme Travassos (COPPE-UFRJ, Brazil)",
+			"Hyggo Almeida (UFCG, Brazil)",
+			"José Carlos Maldonado (ICMC-USP, Brazil)",
+			"Leandro M. Nascimento (UFRPE, Brazil)",
+			"Manoel Mendonca (UFBA, Brazil)",  
+			"Marcel Simonette (USP, Brazil)",
+			"Maria Istela Cagnin (UFMS, Brazil)",
+			"Rafael Prikladnicki (PUCRS, Brazil)",
+			"Raul Wazlawick (UFSC, Brazil)",
+			"Roberto Rigolin F. Lopes (Fraunhofer FKIE, Germany)",
+			"Sergio Soares (UFPE, Brazil)",
+			"Simone Souza (ICMC-USP, Brazil)",
+			"Vanilson Burégio (UFRPE, Brazil)",
+			"Vaninha Vieira (UFBA, Brazil)"
 		]
 	},
 

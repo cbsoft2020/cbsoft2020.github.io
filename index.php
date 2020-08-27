@@ -173,7 +173,7 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="section-title white">
-					<h3 data-i18n="speakers.palestrantes">Palestrantes</h3>
+					<h3 data-i18n="speakers.title">Palestrantes</h3>
 				</div>
 			</div>
 		</div>

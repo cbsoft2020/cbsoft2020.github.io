@@ -94,10 +94,6 @@
 		"signature_sc": "<i>Ivan Machado<br/>Presidente do Comitê Diretivo do CBSoft</i>"
 	},
 
-	"speakers": {
-		"palestrantes": "Palestrantes"
-	},
-
 	"schedule": {
 		"dia_1": "1º Dia",
 		"dia_2": "2º Dia",
@@ -189,9 +185,43 @@
 			"para os trabalhos que discorrem sobre desafios, clareza na descrição do problema, incluindo motivação, contexto e dificuldades conhecidas",
 			"Para os trabalhos que discorrem sobre soluções para a indústria, descrição da aplicabilidade da solução e indicadores de sucesso (por exemplo, prova de conceito, protótipo, etc.)"
 		],
-		"secao_comite": "Comitê Técnico",
+		"secao_camera-ready": "Envio da Versão Final",
+		"descricao_11": "As versões finais dos artigos aceitos devem devem ter até 4 páginas e não é necessário incluir a folha de rosto. O artigo deve seguir o Modelo para Publicação de Artigos da SBC disponível neste <a style='color: #f4b321' href='http://www.sbc.org.br/documentos-da-sbc/category/169-templates-para-artigos-e-capitulos-de-livros'>link</a>. O envio do artigo deve ser feito através do sistema <a style='color: #f4b321' href='https://jems.sbc.org.br/home.cgi?c=3603'>JEMS</a>.",
+		"descricao_12": "Outro elemento obrigatório é o Termo de Autorização de Publicação de Artigos da SBC, disponível neste <a style='color: #f4b321' href='http://www.sbc.org.br/documentos-da-sbc/summary/164-publicacoes/1231-termo-de-autorizacao-de-publicacao'>link</a>, o qual deve ser assinado por um dos autores de cada artigo aceito. É necessário também preencher o formulário eletrônico de coleta de metadados disponível neste <a style='color: #f4b321' href='https://forms.gle/mrmyn2X89wCRZZtBA'>link</a> para cada artigo aceito.",
+		"secao_comite": "Organização",
 		"comite": [
-			"Em definição"
+			"Coordenador de Comitê Técnico",
+			"Jair Leite (UFRN, Brasil)",
+			"Comitê Técnico",
+			"Adenilso Simao (ICMC-USP, Brasil)",
+			"Alexandre Alvaro (UFSCAR, Brasil)",
+			"Alexandre Gomes (UnB, Brasil)",
+			"Allan Araujo (CESAR, Brasil)",
+			"Avelino Zorzo (PUCRS, Brasil)",
+			"Bernardo Estácio (Takeaway.com, Alemanha)",
+			"Carmelo Bastos-Filho (UFPE, Brasil)",
+			"Daniel Lucrédio (UFSCAR, Brasil)",
+			"Denise Bombonatti (USP, Brasil)",
+			"Eduardo Figueiredo (UFMG, Brasil)",
+			"Eduardo Guerra (Libera Università di Bolzano, Itália)",
+			"Fernando Trinta (UFC, Brasil)",
+			"Gibeon Soares de Aquino Junior (UFRN, Brasil)",
+			"Gleison Santos (UNIRIO, Brasil)",
+			"Graziela Simone Tonin (UFFS, Brasil)",
+			"Guilherme Travassos (COPPE-UFRJ, Brasil)",
+			"Hyggo Almeida (UFCG, Brasil)",
+			"José Carlos Maldonado (ICMC-USP, Brasil)",
+			"Leandro M. Nascimento (UFRPE, Brasil)",
+			"Manoel Mendonca (UFBA, Brasil)",  
+			"Marcel Simonette (USP, Brasil)",
+			"Maria Istela Cagnin (UFMS, Brasil)",
+			"Rafael Prikladnicki (PUCRS, Brasil)",
+			"Raul Wazlawick (UFSC, Brasil)",
+			"Roberto Rigolin F. Lopes (Fraunhofer FKIE, Alemanha)",
+			"Sergio Soares (UFPE, Brasil)",
+			"Simone Souza (ICMC-USP, Brasil)",
+			"Vanilson Burégio (UFRPE, Brasil)",
+			"Vaninha Vieira (UFBA, Brasil)"
 		]
 	},
 
