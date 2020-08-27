@@ -214,14 +214,6 @@
 			"email": "lincoln@dc.ufc.br"
 		}
 	],
-	"proceedings_chair": [{
-			"imagem": "marcel.jpg",
-			"nome": "Marcel Oliveira",
-			"universidade": "UFRN",
-			"link": "http://lattes.cnpq.br/1756952696097255",
-			"email": "marcel@dimap.ufrn.br"
-		}
-	],
 	"chairs_communication": [{
 			"imagem": "priscila.png",
 			"nome": "Priscila Kruger",

@@ -263,21 +263,6 @@
 		<div class="row">
 			<div class="col-12">
 				<div class="sponsor-title text-center">
-					<h5 style="margin-bottom: 25px" data-i18n="org.proceedings"></h5>
-				</div>
-			</div>
-		</div>
-		<div class="row justify-content-center" style="margin-left: 25px">
-			<?php foreach($data->proceedings_chair as $org) {
-                	include("organizer.php");
-				}
-			?>
-		</div>
-		
-		<br/>
-		<div class="row">
-			<div class="col-12">
-				<div class="sponsor-title text-center">
 					<h5 style="margin-bottom: 25px" data-i18n="org.communication"></h5>
 				</div>
 			</div>
