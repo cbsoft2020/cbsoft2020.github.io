@@ -555,7 +555,7 @@
 			"Se o trabalho submetido for uma evolução de trabalho anterior, é possível anonimizar a referência no artigo submetido. Por exemplo, &quot;o trabalho anterior de Silva et al.&quot; pode ser adaptado para &quot;baseado no trabalho anterior [X]&quot; e a referência no final do artigo pode ser apresentada como &quot;[X] autores anônimos devido a revisão <i>double-blind</i>&quot;."
 		],
 		"descricao_18": "Após a aceitação do artigo, todas as informações (sem anonimização) poderão ser incluídas na versão final.",
-		"descricao_19": "Em caso de dúvida sobre a preparação do trabalho seguindo as regras de submissão <i>double-blind</i>, pode-se entrar em contato com os Coordenadores do Comitê de Programa através desta <a href='contato.php' style='color: #f4b321'>página</a>.",
+		"descricao_19": "Em caso de dúvida sobre a preparação do trabalho seguindo as regras de submissão <i>double-blind</i>, pode-se entrar em contato com os Coordenadores do Comitê de Programa.",
 		"secao_informacoes": "Informações Gerais",
 		"descricao_20": "A aceitação da submissão implica em pelo menos um autor se inscrever e participar do CBSoft 2020 para apresentar o artigo e a ferramenta. A apresentação do artigo e a demonstração da ferramenta são obrigatórias para todas as ferramentas aceitas. Demonstrações de ferramentas devem ser ao vivo e os vídeos de demonstração enviados <b>não</b> devem ser usados. O formato e o horário das apresentações serão anunciados posteriormente.",
 		"secao_comite": "Organização",
@@ -1219,7 +1219,7 @@
 			"Tomofumi Yuki (INRIA, França)"
 		],
 		"secao_contato": "Contato",
-		"descricao_6": "Quaisquer dúvidas sobre o processo de submissão podem ser enviadas por <i>e-mail</i> para Sérgio Medeiros (<a style='color: #f4b321' href='mailto:sergiomedeiros@ect.ufrn.br'>sergiomedeiros@ect.ufrn.br</a>)."
+		"descricao_6": "Quaisquer dúvidas sobre o processo de submissão podem ser enviadas aos Coordenadores de Comitê de Programa."
 	},
 
 	"sast": {
@@ -1338,7 +1338,7 @@
 		],
 		"secao_contato": "Contato",
 		"descricao_9": [
-			"Dúvidas e pedidos de informação devem ser encaminhados para a Coordenação de <i>Workshops</i> do CBSoft 2020, Thelma Elita Colanzi (<a href='mailto:thelma@din.uem.br' style='color: #f4b321'>thelma@din.uem.br</a>)."
+			"Dúvidas e pedidos de informação devem ser encaminhados para a Coordenação de <i>Workshops</i> do CBSoft 2020."
 		],
 		"vem": "VEM",
 		"vem_nome": "8º Workshop de Visualização, Evolução e Manutenção de Software",

@@ -557,7 +557,7 @@
 			"If the submitted paper is a follow up of a previous work, the reference may be anonymized in the submitted paper. For example, &quot;the previous work of Silva et al.&quot; can be adapted to &quot;based on the previous work [X]&quot; and the reference at the end of the paper can be presented as &quot;[X] Anonymous authors. Not presented due to double blind review.&quot;."
 		],
 		"descricao_18": "After the paper acceptance, all the paper information (without anonymization) can be included in the camera-ready version.",
-		"descricao_19": "Any questions about the preparation of the paper following the double-blind rules can be sent to the Program Committee Chairs through this <a href='contato.php' style='color: #f4b321'>page</a>.",
+		"descricao_19": "Any questions about the preparation of the paper following the double-blind rules can be sent to the Program Committee Chairs.",
 		"secao_informacoes": "General Information",
 		"descricao_20": "The acceptance of the submission implies in at least one author to register at CBSoft 2020 and attend the symposium to present the paper and the tool. Both paper presentation and tool demonstration are mandatory for all accepted tools. Tool demonstrations should be live and the demo videos uploaded for submission should <b>not</b> be used.  The format and timing of presentations will be announced later.",
 		"secao_comite": "Organization",
@@ -1223,7 +1223,7 @@
 			"Tomofumi Yuki (INRIA, France)"
 		],
 		"secao_contato": "Contact",
-		"descricao_6": "All questions about submissions can be emailed to Sérgio Medeiros (<a style='color: #f4b321' href='mailto:sergiomedeiros@ect.ufrn.br'>sergiomedeiros@ect.ufrn.br</a>)."
+		"descricao_6": "All questions about submissions can be emailed to the Program Committee Chairs."
 	},
 
 	"sast": {
@@ -1342,7 +1342,7 @@
 		],
 		"secao_contato": "Contact",
 		"descricao_9": [
-			"Questions should be directed to the CBSoft 2020 Workshops Chair, Thelma Elita Colanzi (<a href='mailto:thelma@din.uem.br' style='color: #f4b321'>thelma@din.uem.br</a>)."
+			"Questions should be directed to the CBSoft 2020 Workshops Chair."
 		],
 		"vem": "VEM",
 		"vem_nome": "8th Workshop on Software Visualization, Evolution and Maintenance",
