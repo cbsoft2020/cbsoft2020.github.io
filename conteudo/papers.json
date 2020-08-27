@@ -335,5 +335,41 @@
 		"author": "Valéria da Silva (UFRJ)",
 		"advisors": "Guilherme Travassos (COPPE/UFRJ)",
 		"category": "master"
+	},
+	{
+		"id_event": "trilha-industria",
+		"title": "Soluções para Aumentar a Satisfação de Usuários: O Caso do WMS GTI Plugs",
+		"authors": "Ricardo Terra",
+		"category": "short"
+	},
+	{
+		"id_event": "trilha-industria",
+		"title": "Technical Debt: A Clean Architecture Implementation",
+		"authors": "Alessandro Beltrao, Fabio Farzat, Guilherme Travassos",
+		"category": "short"
+	},
+	{
+		"id_event": "trilha-industria",
+		"title": "Assessment of Companies Safety Processes Maturity in Requirements Engineering with Uni-REPM SCS",
+		"authors": "Jéssyka Vilela, Luiz Eduardo Martins, Tony Gorschek, Jaelson Castro",
+		"category": "short"
+	},
+	{
+		"id_event": "trilha-industria",
+		"title": "Desafios na Adoção de MLOps por Time DevOps - Caso do Projeto de Co-desenvolvimento entre Governo e Academia para a Introdução de e-gov 3.0",
+		"authors": "Carla Aguiar",
+		"category": "short"
+	},
+	{
+		"id_event": "trilha-industria",
+		"title": "Loggi: Treinamento Localizado em Automatização de Teste de Software em Ambiente Empresarial",
+		"authors": "Auri Marcelo Rizzo Vincenzi, Ana Barbosa, Cassio Sousa, Cauê Polimanti, Felipe Oliveira, Gustavo Paula, José Carlos Maldonado",
+		"category": "short"
+	},
+	{
+		"id_event": "trilha-industria",
+		"title": "H.I.D.R.A.: A Hierarchical, Interactive and Dynamic Recognition Architecture for Product Categorization",
+		"authors": "Renato Cordeiro Ferreira, Igor Bonadio, Beatriz Marouelli",
+		"category": "short"
 	}
 ]}

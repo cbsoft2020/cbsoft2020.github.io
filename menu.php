@@ -98,7 +98,7 @@
                     <a class="nav-link" href="trilha-industria.php" data-toggle="dropdown" data-i18n="menu.trilha_industria"></a>
                     <div class="dropdown-menu">
                         <a class="dropdown-item" href="trilha-industria.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a>
-                        <a class="dropdown-item" href="trilha-industria.php" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>
+                        <a class="dropdown-item" href="artigos.php?evento=trilha-industria" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>
                         <a class="dropdown-item" href="palestras.php?evento=trilha-industria" data-i18n="menu.palestras">Palestras</a>
                     </div>
                 </li>
