@@ -398,7 +398,7 @@
 	},
 	{
 		"id_event": "sblp",
-		"title": "Mystery: A Complete Infrastructure to the Design and Exploration of Code Optimization Sequences",
+		"title": "YaCoS: A Complete Infrastructure to the Design and Exploration of Code Optimization Sequences",
 		"authors": "Anderson Faustino da Silva, Fernando Pereira, André Felipe Zanella",
 		"category": "full"
 	},
@@ -419,5 +419,26 @@
 		"title": "A Formalisation of LEGv8 in Agda",
 		"authors": "Santiago Arranz Olmos, Martín Fernández, Alejandro Gadea, Emmanuel Gunther, Miguel Pagano, Matías Steinberg",
 		"category": "full"
+	},
+	{
+		"id_event": "ctic-es",
+		"title": "A Lightweight Technique to Identify Equivalent Mutants",
+		"author": "Beatriz Souza (UFCG)",
+		"advisors": "Rohit Gheyi (UFCG)",
+		"category": "ug"
+	},
+	{
+		"id_event": "ctic-es",
+		"title": "Lidando com Componentes Resistentes a Mudanças no Contexto de Internet das Coisas",
+		"author": "Adrilene Fonseca (UECE)",
+		"advisors": "Denis Sousa, Matheus Chagas, Paulo Maia (UECE)",
+		"category": "ug"
+	},
+	{
+		"id_event": "ctic-es",
+		"title": "Simulation of Systems-of-Systems Dynamic Architectures",
+		"author": "Wallace Manzano (ICMC-USP)",
+		"advisors": "Valdemar Vicente Graciano Neto (UFG), Elisa Nakagawa (ICMC-USP)",
+		"category": "ug"
 	}
 ]}

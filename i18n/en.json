@@ -965,7 +965,10 @@
 			"Rossana Andrade (UFC, Brazil)",
 			"Simone Souza (ICMC-USP, Brazil)",
 			"Valter Camargo (UFSCar, Brazil)"
-		]
+		],
+		"selected": "Selected works (in alphabetical order)",
+		"autor": "Author: ",
+		"orientador": "Advisor(s): "
 	},
 
 	"ctd-es": {

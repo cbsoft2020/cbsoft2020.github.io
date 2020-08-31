@@ -113,6 +113,22 @@
 					</div>
 					<?php } ?>
 					
+					<?php if (count($ug_ctic) != 0) { ?>
+					<br />
+					<strong><span style="font-size: 20px; font-weight: bold" data-i18n="ctic-es.selected"></span></strong>
+					<div class="description-one" style="margin-top: 20px">
+						<?php for ($i=0; $i < count($ug_ctic); $i++) { ?>
+							<p style="line-height: 22px; margin-bottom: 20px">
+								<span style="font-size: 17px"><?php echo $ug_ctic[$i]->title; ?><br/>
+								<span style="font-size: 14px" data-i18n="ctic-es.autor"></span>
+								<span style="font-size: 14px"><?php echo $ug_ctic[$i]->author; ?></span><br/>
+								<span style="font-size: 14px" data-i18n="ctic-es.orientador"></span>
+								<span style="font-size: 14px"><?php echo $ug_ctic[$i]->advisors; ?></span>
+							</p>
+						<?php } ?>
+					</div>
+					<?php } ?>
+					
 					<?php if (count($phd_ctd) != 0) { ?>
 					<br />
 					<strong><span style="font-size: 20px; font-weight: bold" data-i18n="ctd-es.categorias_selected.0"></span></strong>
