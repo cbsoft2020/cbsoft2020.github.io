@@ -440,5 +440,209 @@
 		"author": "Wallace Manzano (ICMC-USP)",
 		"advisors": "Valdemar Vicente Graciano Neto (UFG), Elisa Nakagawa (ICMC-USP)",
 		"category": "ug"
+	},
+	{
+		"id_event": "sbes-educacao",
+		"title": "A Tool for Software Ecosystem Models: An Analysis on their Implications in Education",
+		"authors": "Igor R. Alencar, Emanuel F. Coutinho, Leonardo O. Moreira, Carla I. M. Bezerra",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-educacao",
+		"title": "Achieving Scalability in Project Based Learning through a Low-Code Platform",
+		"authors": "João Paulo Fernandes, Ricardo Araújo, Mário Zenha-Rela",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-educacao",
+		"title": "Agile Accelerator Program: From Industry-Academia Collaboration to Effective Agile Training",
+		"authors": "Caio Steglich, Anielle Lisboa, Rafael Prikladnicki, Sabrina Marczak, Michael da Costa Móra, Alejandro Olchik, Nelice Heck, Yasser Rachid, Guilherme Ghidorsi",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-educacao",
+		"title": "An Approach for Selecting FLOSS Projects for Education",
+		"authors": "Moara Sousa Brito Lessa, Christina von Flach G. Chavez",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-educacao",
+		"title": "An Experience Report About Challenges of Software Engineering as a Second Cycle Course",
+		"authors": "Felipe Torres Leite, Jarbele C. S. Coutinho, Reudismam Rolim de Sousa",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-educacao",
+		"title": "Assessing a Multidisciplinary Group of Undergraduate Students Applying the Challenge Based Learning Methodology to Learn Mobile Development",
+		"authors": "Andrew Diniz da Costa, Hendi Lemos Coelho, Ricardo Almeida Venieris, Carlos José Pereira de Lucena, Gustavo Robichez Carvalho, Marcelo Fernandes Pereira",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-educacao",
+		"title": "Challenges and Recommendations in DevOps Education: A Systematic Literature Review",
+		"authors": "Marcelo Fernandes, Samuel Ferino, Uirá Kulesza, Eduardo Aranha",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-educacao",
+		"title": "Competencies Development based on Thinking-based Learning in Software Engineering: An Action-Research",
+		"authors": "Andrés Paúl Moya Flores, Fernanda Maria Ribeiro de Alencar",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-educacao",
+		"title": "Do we use FLOSS in Software Engineering Education? - Mapping the Profiles and Practices of Higher Education Teachers from Brazil",
+		"authors": "Fernanda Gomes Silva, Paulo Ezequiel Dias dos Santos, Christina von Flach G. Chavez",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-educacao",
+		"title": "Evaluating the impact of Software Testing Education through the Flipped Classroom Model in deriving Test Requirements",
+		"authors": "Leo Natan Paschoal, Myke M. Oliveira, Silvana M. Melo, Ellen F. Barbosa, Simone R. S. Souza",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-educacao",
+		"title": "Flipped Classroom in Software Engineering: A Systematic Mapping Study",
+		"authors": "Nécio L. Veras, Lincoln S. Rocha, Windson Viana",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-educacao",
+		"title": "Gamification in Remote Teaching of SE Courses: Experience Report",
+		"authors": "Valéria Lelli, Rossana M. C. Andrade, Lavinia M. Freitas, Rubens A. S. Silva, Francisco Gutenberg S. Filho, Renata Faria Gomes, Jan Sousa de Oliveira Severo",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-educacao",
+		"title": "Hackathons as a Pedagogical Strategy to Engage Students to Learn and to Adopt Software Engineering Practices",
+		"authors": "Caio Steglich, Larissa Salerno, Thaís Fernandes, Sabrina Marczak, Alessandra Dutra, Ana Paula Bacelo, Cássio Trindade",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-educacao",
+		"title": "Identifying Improvement Opportunities in Software Engineering Education at the Maranhão State: Listening to Voices from Academy and Industry",
+		"authors": "Yandson Costa, Dayanne Gomes, Sebastião Santos, Nathasha Pinto, Davi Viana, Geraldo Braz Júnior, Luis Rivero",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-educacao",
+		"title": "LEARN Board Game: A game for teaching Software Architecture created through Design Science Research",
+		"authors": "Tamires A. S. Sousa, Anna B. S. Marques",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-educacao",
+		"title": "Software Testing Education: A Survey on a Global Scale",
+		"authors": "Silvana M. Melo, Veronica X. S. Moreira, Leo Natan Paschoal, Simone R. S. Souza",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-educacao",
+		"title": "Stimulating the Development of Soft Skills in Software Engineering Education through Design Thinking",
+		"authors": "Anna B. Marques, Bruna Ferreira, Adriana Lopes, Williamson Silva",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-educacao",
+		"title": "Teaching Development of Distributed Software during COVID-19: An Experience Report in Brazil",
+		"authors": "Fernando Trinta, Paulo A. L. Rego, Windson Viana",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-educacao",
+		"title": "Teaching UML Models with FLOSS Projects: A Study carried out during the Period of Social Isolation Imposed by the COVID-19 Pandemic",
+		"authors": "Fernanda Gomes Silva, Moara Sousa Brito Lessa, Nádia da Luz Lopes, Christina von Flach G. Chavez",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ferramentas",
+		"title": "PSAS: A Framework for Peer Assessment of an Individuals Skills in a Software Projects Team",
+		"authors": "Tiago da Rosa Santos, Avanilde Kemczinski",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ferramentas",
+		"title": "Mining Software Repositories for the Characterization of Continuous Integration and Delivery",
+		"authors": "Gabriel Augusto Destro, Breno de França",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ferramentas",
+		"title": "OPLA-Tool v2.0: a Tool for Product Line Architecture Design Optimization",
+		"authors": "Willian Marques Freire, Mamoru Massago, Arthur Cattaneo Zavadski, Aline Amaral, Thelma Elita Colanzi",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ferramentas",
+		"title": "PLATOOL: A Functional Test Generation Tool for Mobile Applications",
+		"authors": "Euler Marinho, Eduardo Figueiredo",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ferramentas",
+		"title": "Data Mining Tool to Discover DevOps Trends from Public Repositories: Predicting Releases Candidates with <code>gthbmining.rc</code>",
+		"authors": "Daniel D'Angelo Resende Barros, Flavio Horita, Denis Fantinato",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ferramentas",
+		"title": "ArchPython: Architecture Conformance Checking for Python Systems",
+		"authors": "Eduardo Lima, Ricardo Terra",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ferramentas",
+		"title": "ENVIAR - ENVIronment dAta simulatoR",
+		"authors": "Diego Rodrigues de Almeida, Patricia Machado, Wilkerson Andrade",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ferramentas",
+		"title": "JNose: Java Test Smell Detector",
+		"authors": "Tassio Virginio, Luana Martins, Larissa Rocha Soares, Railana Santana, Adriana Cruz, Heitor Costa, Ivan do Carmo Machado",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ferramentas",
+		"title": "InSet: A Tool to Identify Architecture Smells Using Machine Learning",
+		"authors": "Warteruzannan Cunha, Guisella Angulo, Valter Camargo",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ferramentas",
+		"title": "DataQI.NET: A Framework for Specifying Query Criteria Using the Repository Pattern",
+		"authors": "Henrique Gouveia, Paulo Maia",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ferramentas",
+		"title": "T2-UXT: A Tool to Support Transparency Evaluation in Software Ecosystems Portals",
+		"authors": "Rodrigo Zacarias, Kennedy Souza, Marcos Seruffo, Rodrigo Santos",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ferramentas",
+		"title": "Pah Pum: A Project Management Tool based on TAKT PM",
+		"authors": "Rodrigo Zacarias, Kennedy Souza, Marcos Seruffo, Rodrigo Santos",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ferramentas",
+		"title": "RAIDE: A tool for Assertion Roulette and Duplicate Assert Identification and Refactoring",
+		"authors": "Railana Santana, Luana Martins, Larissa Rocha Soares, Tassio Virginio, Adriana Cruz, Heitor Costa, Ivan Machado",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ferramentas",
+		"title": "A Tool for Product Derivation and Semi-Automatic Deployment of Web-Based Systems",
+		"authors": "Jackson Canuto, Uirá Kulesza, Frederico Lopes",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ferramentas",
+		"title": "JExpert: A Tool for Library Expert Identification",
+		"authors": "Johnatan Oliveira, Denis Pinheiro, Eduardo Figueiredo",
+		"category": "full"
 	}
 ]}
