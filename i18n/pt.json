@@ -1404,6 +1404,69 @@
 	"mssis": {
 		"titulo": "MSSiS 2020<br/>II Workshop de Modelagem e Simulação de Sistemas Intensivos em Software"
 	},
+	
+	"inscricoes": {
+		"titulo": "Inscrições",
+		"botao": "Faça sua inscrição através do sistema ECOS da SBC",
+		"descricao_1": "O CBSoft é um evento realizado pela <a href='http://www.sbc.org.br' style='color: #f4b321'>Sociedade Brasileira de Computação (SBC)</a>. A SBC é uma associação civil sem fins lucrativos que reúne estudantes, professores, profissionais, pesquisadores e entusiastas em Computação de todo o Brasil, sendo a maior sociedade científica da área na América do Sul. Com 42 anos de existência, a SBC estimula o desenvolvimento científico e tecnológico no País, promovendo a inclusão digital, incentivando atividades de ensino, pesquisa e desenvolvimento em Computação no Brasil e contribuir para a formação do profissional de Computação com responsabilidade social.",
+		"descricao_2": "Os valores de inscrição no CBSoft 2020 estão listados abaixo. Estudantes e profissionais não associados à SBC podem se associar ou renovar sua associação no processo de inscrição com desconto. Inscrever-se no evento e se associar à SBC (combo) é a opção mais vantajosa para o participante que ainda é associado à Sociedade, pois o participante pagará um valor menor que a opção sem associação e ainda aproveitará os benefícios de ser associado à SBC. Os benefícios de se associar à SBC podem são listados neste <a href='http://www.sbc.org.br/associe-se-2/269-beneficios' style='color: #f4b321'>link</a>.",
+		"descricao_3": "As inscrições serão realizadas através do sistema <a href='http://centraldesistemas.sbc.org.br/ecos/cbsoft2020/' style='color: #f4b321'>ECOS</a> da SBC. Antes, porém, recomenda-se uma leitura atenta das informações abaixo para conhecimento das condições e prazos relativos à inscrição. Todos os valores estão expressos em reais (R$).",
+		"tabela_valores": {
+			"header": "Categoria",
+			"faixas": [
+				"01/09/2020 a 21/09/2020",
+				"22/09/2020 a 05/10/2020",
+				"06/10/2020 a 18/10/2020",
+				"Durante o evento"
+			],
+			"categorias": [
+				"Estudante de Graduação",
+				"Estudante de Pós-graduação",
+				"Profissional"
+			],
+			"subcategorias": [
+				"Associado à SBC com anuidade vigente",
+				"Associado à SBC com anuidade vencendo em até 90 dias<br/>(Melhor opção: <strong>combo</strong> inscrição no evento e renovação da associação à SBC)",
+				"Não associado ou com associação vencida à SBC<br/>(Melhor opção: <strong>combo</strong> inscrição no evento e associação à SBC)",
+				"Não associado à SBC<br/>(Somente inscrição no evento)",
+				"Não associado à SBC ou com associação vencida à SBC<br/>(Melhor opção: <strong>combo quadrimestral</strong> inscrição no evento e associação quadrimestral à SBC)"
+			]
+		},
+		"secao_publicacao": "Publicação de Artigos",
+		"tabela_artigos": {
+			"header_1": "Categoria",
+			"categorias": [
+				"Artigos aceitos no SBES, SBCARS, SAST ou SBLP<br/><span style='font-size: 14px'>(a serem publicados na ACM Digital Library)</span>",
+				"Artigos aceitos no CTIC-ES, CTD-ES, WTDSoft, Trilha da Indústria, VEM ou MSSiS<br/><span style='font-size: 14px'>(a serem publicados na SBC OpenLibrary)</span>"
+			],
+			"header_2": "Taxa de publicação<br/>(até 21/09/2020)",
+			"valores": [
+				"R$ 200,00/artigo",
+				"R$ 50,00/artigo"
+			]
+		},
+		"secao_informacoes": "Informações Adicionais",
+		"descricao_4": "<strong>Inscrição + associação (ou renovação de associação) à SBC.</strong> Estas categorias referem-se a um valor com desconto aplicado quando da inscrição no evento e associação à SBC. Tal modalidade foi criada com a intenção de tornar a soma desses dois benefícios mais barata que a aquisição de cada um deles em separado, sendo, portanto, a opção mais vantajosa para quem ainda não é associado à SBC ou está com a anuidade prestes a vencer ou vencida. Maiores informações podem ser encontradas na <a href='http://www.sbc.org.br/noticias/10-slideshow-noticias/1970-faq-sobre-o-combo-da-sbc' style='color: #f4b321'>página de perguntas frequentes (FAQ) do site da SBC</a>, disponível em Português.",
+		"descricao_5": "<strong>Inscrição de estudantes.</strong> Os valores de inscrição para estudantes estão disponíveis apenas para aqueles que possuam matrícula atualmente ativa em cursos de Graduação ou de Pós-graduação de Instituições de Ensino Superior, não se aplicando a pesquisadores em nível de Pós-Doutorado. No momento da inscrição através do sistema ECOS, será exigido o envio eletrônico de um comprovante de vínculo estudantil contendo afiliação, nome do participante, curso no qual está matriculado e data atual. Somente após a SBC verificar o documento (o que pode demorar até 1 dia útil para ser analisado) será possível dar prosseguimento ao pagamento da inscrição. Para evitar algum transtorno, sugere-se que a inscrição no evento não seja feita no último dia da faixa de inscrição. Somente após a validação por parte da SBC as formas de pagamento serão liberadas. O inscrito receberá <emph>e-mails</emph> informativos em todas as etapas da evolução da sua inscrição no CBSoft 2020.",
+		"descricao_6": "<strong>Acesso às salas virtuais.</strong> Dado que o CBSoft 2020 será realizado em formato virtual, a participação e acesso às salas virtuais nas quais serão realizadas as sessões técnicas de apresentação de artigos, bem como aos canais de interação, serão limitados exclusivamente aos participantes que tiverem sua inscrição com status &quot;Pago&quot; no sistema ECOS.",
+		"descricao_7": "<strong>Inscrição para autores de SBES, SBCARS, SBLP, SAST, Trilha da Indústria, VEM e MSSiS.</strong> Os artigos aceitos no SBES, SBCARS, SBLP e SAST serão publicados na ACM Digital Library, enquanto os artigos aceitos para os demais eventos (concursos, Trilha da Indústria e workshops) serão publicados na SBC OpenLibrary. Com exceção dos artigos aceitos no CTIC-ES, CTD-ES e WTDSoft, é obrigatória a inscrição de pelo menos um autor de cada artigo aceito e pagamento da taxa de publicação correspondente a sua respectiva categoria e ao evento para o qual o artigo foi aceito, caso contrário o artigo não será publicado nos anais do evento. Essa taxa de publicação deve ser paga <strong>até o dia 21/09/2020</strong>, último dia da primeira faixa de inscrições. Por exemplo, caso um autor seja um professor com associação vigente à SBC tenha 1 artigo aceito para publicação no SBES 2020 e 1 artigo aceito para publicação no VEM 2020, o valor total a ser pago será o valor de inscrição na categoria Profissional mais o valor corresponde a 1 taxa de publicação de artigo na ACM Digital Library e mais o valor correspondente a 1 taxa de publicação de artigo na SBC OpenLibrary: R$ 100,00 + (1 x R$ 200,00) + (1 x R$ 50,00) = R$ 350,00",
+		"descricao_8": "<strong>Inscrição de autores de CTIC-ES, CTD-ES e WTDSoft.</strong> A Loggi, parceira oficial do CBSoft 2020, estará patrocinando a inscrição de estudantes de Graduação e de Pós-Graduação que tiveram artigos aceitos para esses eventos, condicionado à existência de associação vigente à SBC em sua respectiva categoria. Para beneficiar-se desse patrocínio, o estudante deverá: (1) se ainda não for associado à SBC, associar-se através deste <a href='http://www.sbc.org.br/associe-se-2' style='color: #f4b321'>link</a> e aguardar validação da associação por parte da SBC; (2) realizar a inscrição no CBSoft 2020 através do sistema ECOS de acordo com sua respectiva categoria, incluindo a taxa de publicação de artigos a serem publicados na SBC OpenLibrary, e escolher a categoria de pagamento &quot;Faturamento&quot;, <strong>não realizando qualquer tipo de pagamento por meios próprios</strong>, e; (3) fazer o envio da carta de aceite de inscrição enviada pela Coordenação Geral do CBSoft 2020 no sistema ECOS. Em seguida, a SBC fará a validação e atestação de inscrição paga. Todo esse processo deverá ser feito <strong>até o dia 21/09/2020</strong>, último dia da primeira faixa de inscrições. Caso o participante efetue algum pagamento, este não poderá ser reembolsado de forma integral, ficando o reembolso limitado a 70% do valor pago.",
+		"descricao_9": "<strong>Formas de pagamento.</strong> O pagamento da inscrição poderá ser feito por meio de boleto bancário, cartão de crédito, débito em conta do Banco do Brasil, nota de empenho ou faturamento, através do sistema ECOS. As inscrições poderão ser feitas até o último dia de realização do CBSoft 2020, porém pagamentos por débito em conta e boleto bancário serão encerrados no dia 14/10/2020. Após essa data, será possível efetuar o pagamento de inscrição apenas por cartão de crédito, nota de empenho ou faturamento.",
+		"descricao_10": "<strong>Inscrição por nota de empenho ou faturamento.</strong> O participante deverá acessar o sistema ECOS e realizar sua inscrição selecionando as opções de pagamento &quot;Nota de empenho&quot; ou &quot;Faturamento&quot;. Uma vez solicitado o pagamento, o sistema fornecerá as informações necessárias que deverão constar na nota de empenho ou no pedido de faturamento.",
+		"descricao_11": "<strong>Política de cancelamento.</strong> Solicitações de cancelamento de inscrição feitas até o dia 09/10/2020 poderão ter reembolso de 70% do valor pago pela inscrição no CBSoft 2020, sendo os 30% restantes utilizados para cobrir custos administrativos da inscrição. Após essa data, não haverá devolução de qualquer valor pago. Essa política aplica-se tanto ao cancelamento de inscrição quanto da taxa de publicação. Para solicitar o cancelamento, o participante deverá enviar e-mail para <a href='mailto:faturamento@sbc.org.br' style='color: #f4b321'>faturamento@sbc.org.br</a> e <a href='cbsoft2020@imd.ufrn.br' style='color: #f4b321'>cbsoft2020@imd.ufrn.br</a>.",
+		"secao_beneficios": "Benefícios da Associação à SBC",
+		"descricao_12": "Associar-se à SBC é uma forma de tornar a Sociedade ainda mais forte para representar a área de Computação junto aos diversos setores. Outros motivos para associar-se à SBC são:",
+		"beneficios_sbc": [
+			"Acesso à rede sem fio <a href='http://www.sbc.org.br/2-uncategorised/1945-acesso-a-rede-sem-fio-eduroam-para-associados-da-sbc' style='color: #f4b321'>Eduroam</a> (somente pessoa física)",
+			"Acesso ao serviço <a href='https://www.rnp.br/servicos/alunos-e-professores/colaboracao-a-distancia/filesender' style='color: #f4b321'>FileSender</a> da Rede Nacional de Ensino e Pesquisa (RNP)",
+			"Desconto em inscrições nos mais de 40 <a href='http://www.sbc.org.br/eventos' style='color: #f4b321'>eventos realizados anualmente pela SBC</a>",
+			"Desconto de no mínimo 15% em inscrições de eventos apoiados pela SBC",
+			"Valor de inscrição diferenciado no <a href='http://www.sbc.org.br/index.php?option=com_content&view=article&layout=edit&id=458' style='color: #f4b321'>Exame Nacional para Ingresso na Pós-Graduação em Computação (POSCOMP)</a>",
+			"Acesso às listas de discussão mantidas pela SBC",
+			"Acesso aos estudos realizados pela SBC e destinados a órgãos públicos e privados, expressando posições políticas da Sociedade"
+		],
+		"descricao_13": "Os benefícios específicos de cada categoria de associação podem ser consultados no <a href='http://www.sbc.org.br/associe-se-2/269-beneficios' style='color: #f4b321'>site da SBC</a>."
+	},
 
 	"local": {
 		"titulo": "Local do Evento",

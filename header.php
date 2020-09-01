@@ -100,6 +100,11 @@
 		  white-space: pre;
 	  }
 	  
+	  #tabela-inscricoes tr td p span::before {
+		  content: "\A";
+		  white-space: pre;
+	  }
+	  
 	  #datas-workshops tr td p span::before {
 		  content: "\A";
 		  white-space: pre;
@@ -139,6 +144,26 @@
 		  background: #fff !important;
   		  color: #f4b321 !important;
 	 }
+	  
+	 .btn-main-md-2 {
+  padding: 15px 40px;
+  border-radius: 0;
+  background: #f4b321;
+  color: #fff;
+  outline: none;
+  font-size: 1.0625rem;
+  font-weight: bold;
+}
+
+.btn-main-md-2:hover {
+  color: #fff;
+  background: #2f92d0;
+}
+
+.btn-main-md-2:focus {
+  color: #fff;
+  box-shadow: none;
+}
   </style>
 
 </head>

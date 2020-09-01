@@ -133,7 +133,7 @@
                     </form>
                 </li>
             </ul>
-            <a href="#" class="ticket">
+            <a href="inscricoes.php" class="ticket">
 				<span style="color: #ffffff"><i class="fa fa-ticket fa-lg"></i></span>&nbsp;
 				<span data-i18n="menu.inscricoes">Inscreva-se</span>
             </a>
