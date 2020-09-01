@@ -46,7 +46,7 @@
 								  	<th scope="col" colspan="2" class="align-middle">
 										<p data-i18n="inscricoes.tabela_valores.header" style="color: white;"></p>
 									</th>
-								  	<th scope="col" class="align-middle" width="14%">
+								  	<th scope="col" class="align-middle" width="16%">
 										<p data-i18n="inscricoes.tabela_valores.faixas.0" style="color: white;"></p>
 									</th>
 								  	<th scope="col" class="align-middle" width="15%">
@@ -62,7 +62,7 @@
 							</thead>
 							<tbody>
 								<tr>
-									<td rowspan="5" width="14%"><p data-i18n="inscricoes.tabela_valores.categorias.0" style="color: black"></p></td>
+									<td rowspan="5"><p data-i18n="inscricoes.tabela_valores.categorias.0" style="color: black"></p></td>
 									<td><p data-i18n="inscricoes.tabela_valores.subcategorias.0" style="color: black"></p></td>
 									<td><p style="color: black">R$ 20,00</p></td>
 									<td><p style="color: black">R$ 40,00</p></td>

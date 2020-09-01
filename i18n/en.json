@@ -1408,6 +1408,69 @@
 	"mssis": {
 		"titulo": "MSSiS 2020<br/>2nd Workshop on Software-Intensive Systems Modeling and Simulation"
 	},
+	
+	"inscricoes": {
+		"titulo": "Registration",
+		"botao": "Register for CBSoft 2020 through the SBC's ECOS system",
+		"descricao_1": "CBSoft is a conference sponsored by the <a href='http://www.sbc.org.br' style='color: #f4b321'>Brazilian Computer Society (SBC)</a>. SBC is a civil, non-profit association that brings together students, professors, professionals, researchers, and enthusiasts in Computer Science from all over Brazil, being the largest scientific society of this field in South America. With 42 years of existence, SBC stimulates the scientific and technological development of Brazil by promoting digital inclusion, encouraging teaching, research, and development activities in Computer Science in Brazil, and contributing to the formation of Computer Science professionals with social responsibility.",
+		"descricao_2": "The registration fees for CBSoft 2020 are listed below. Students and professionals who are not members of SBC can associate or renew their association with a discount during the registration process. Registering for the conference and becoming a member of SBC (combo) is the most advantageous option for the participant who is not yet a member of SBC since he/she will pay less than the option for non-members and will enjoy the benefits of being a member of SBC. The benefits of joining SBC can be found <a href='http://www.sbc.org.br/associe-se-2/269-beneficios' style='color: #f4b321'>here</a>.",
+		"descricao_3": "Registration will be handled by the SBC's <a href='http://centraldesistemas.sbc.org.br/ecos/cbsoft2020/' style='color: #f4b321'>ECOS</a> system. However, it is recommended to carefully read the information below to know the conditions and deadlines related to the registration. All registration fees are in Brazilian reais (R$/BRL).",
+		"tabela_valores": {
+			"header": "Category",
+			"faixas": [
+				"From September 1 to September 21",
+				"From September 22 to October 5",
+				"From October 6 to October 18",
+				"During the conference"
+			],
+			"categorias": [
+				"Undergraduate student",
+				"Graduate student",
+				"Professional"
+			],
+			"subcategorias": [
+				"Member of SBC with valid membership",
+				"Member of SBC with membership due in up to 90 days<br/>(Best option: <strong>combo</strong> registration for CBSoft 2020 + SBC annual membership renewal)",
+				"Non-member of SBC or with expired membership<br/>(Best option: <strong>combo:</strong> registration for CBSoft 2020 + SBC annual membership)",
+				"Non-member of SBC<br/>(Registration only)",
+				"Non-member of SBC or with expired membership<br/>(Best option: <strong>combo</strong> registration for CBSoft 2020 and SBC 4-month membership)"
+			]
+		},
+		"secao_publicacao": "Paper Publication",
+		"tabela_artigos": {
+			"header_1": "Category",
+			"categorias": [
+				"Papers accepted to SBES, SBCARS, SAST or SBLP<br/><span style='font-size: 14px'>(to be published at ACM Digital Library)</span>",
+				"Papers accepted to CTIC-ES, CTD-ES, WTDSoft, Industry Track, VEM or MSSiS<br/><span style='font-size: 14px'>(to be published at SBC OpenLibrary)</span>"
+			],
+			"header_2": "Publication fee<br/>(until September 21)",
+			"valores": [
+				"R$ 200,00 per paper",
+				"R$ 50,00 per paper"
+			]
+		},
+		"secao_informacoes": "Additional Information",
+		"descricao_4": "<strong>Registration + SBC membership (or membership renewal).</strong> These categories refer to a discounted value applied when registering for CBSoft 2020 and joining SBC. This modality was created to make the sum of those benefits cheaper than acquiring each of them separately, thus being the most advantageous option for whom is not yet a member of SBC or is with his/her membership expired or about to expire. Further information can be found at the <a href='http://www.sbc.org.br/noticias/10-slideshow-noticias/1970-faq-sobre-o-combo-da-sbc' style='color: #f4b321'>FAQ page at the SBC's website</a>, available in Brazilian Portuguese.",
+		"descricao_5": "<strong>Student registration.</strong> Registration fees for students are only available to those who are currently enrolled in undergraduate or graduate courses at Higher Education Institutions and do not apply to post-doc researchers. When registering through the ECOS system, an electronic proof of the student status with affiliation, participant's name, course which he/she is enrolled at, and current date will be required. Only after SBC verifies the document (which can take up to 1 business day to be analyzed) it will be possible to proceed with the payment of registration. To avoid any inconvenience, it is recommended not registering for CBSoft 2020 in the last day of the registration range. Payment options will be available only after the SBC's validation. Registrants will receive informative e-mails in all stages of their registration for CBSoft 2020.",
+		"descricao_6": "<strong>Access to virtual rooms.</strong> CBSoft will be held virtually. Therefore, the participation and access to the virtual rooms in which technical sessions of paper presentation, as well as to the interaction channels, will be exclusive to registrants who have registration with &quot;Paid&quot; status in the ECOS system.",
+		"descricao_7": "<strong>Registration for authors of SBES, SBCARS, SBLP, SAST, Industry Track, VEM, and MSSiS.</strong> Papers accepted to SBES, SBCARS, SBLP, and SAST will be published at ACM Digital Library while papers accepted to other events (competitions, Industry Track, and workshops) will be published at SBC OpenLibrary. Except for papers accepted to CTIC-ES, CTD-ES, and WTDSoft, at least one author of each accepted paper must register for CBSoft 2020 and pay the publication fee corresponding to the event to which the paper has been accepted, otherwise the paper will not appear in the proceedings. The publication fee must be paid <strong>until September 21, 2020</strong>, the last day of the first registration range. For example, if an author is a professor with a valid SBC membership and has 1 paper accepted to SBES and 1 paper accepted to VEM, the total amount to be paid will be the registration fee for the Professional category plus 1 publication fee for ACM Digital Library and 1 publication fee for SBC OpenLibrary: R$ 100,00 + (1 x R$ 200,00) + (1 x R$ 50,00) = R$ 350,00.",
+		"descricao_8": "<strong>Registration for authors of CTIC-ES, CTD-ES, and WTDSoft.</strong> Loggi, official partner of CBSoft 2020, will sponsor the registration of undergraduate and graduate students who had papers accepted to these events, subjected to the existence of a valid SBC membership in their corresponding category. To benefit from such a sponsorship, students must: (1) if he/she is not yet a member of SBC, join it through this <a href='http://www.sbc.org.br/associe-se-2' style='color: #f4b321'>link</a> and wait for the membership validation from SBC; (2) register for CBSoft 2020 through the ECOS system according to his/her respective category, including the publication fee for papers to be published at SBC OpenLibrary, and choose &quot;Billing&quot; as payment option, <strong>not making any type of payment by him/her own</strong>; and (3) send the acceptance letter sent by the CBSoft 2020 General Chairs through the ECOS system. Next, SBC will validate and certify the registration as paid. All of this process must be done <strong>until September 21, 2020</strong>, the last day of the first registration range. If the registrant makes any payment, it cannot be fully refunded and the refund will be limited to 70% of the paid amount.",
+		"descricao_9": "<strong>Payment options.</strong> Registrations can be paid by bank ticket, credit card, debit to a Bank of Brazil account, note of commitment or billing through the ECOS system. Registrations can be made until the last day of CBSoft 2020, but payments by debit account and bank ticket will be closed on October 14, 2020. After that date, registration can be paid only by credit card, note of commitment, and billing.",
+		"descricao_10": "<strong>Registrations to be paid by note of commitment or billing.</strong> Registrants must access the ECOS system and make their registration by selecting either &quot;Note of commitment&quot; or &quot;Billing&quot; as payment option. Once the payment has been requested, the system will provide the required information that must be in the note of commitment or billing request.",
+		"descricao_11": "<strong>Cancellation policy.</strong> Registration cancellation requests made until October 9, 2020 may have a refund of 70% of the amount paid for registration in CBSoft 2020, the remaining 30% being used to cover administrative costs. After that date, there will be no refund of any paid amount. This policy applies to cancellation of both registration and publication fee. To request cancellation, registrants must send an e-mail to <a href='mailto:faturamento@sbc.org.br' style='color: #f4b321'>faturamento@sbc.org.br</a> and <a href='cbsoft2020@imd.ufrn.br' style='color: #f4b321'>cbsoft2020@imd.ufrn.br</a>.",
+		"secao_beneficios": "Benefits of the SBC Membership",
+		"descricao_12": "Becoming a member of SBC is a way of strengthening it to represent the Computer Science field in several parties. Other reasons to become a member of SBC are:",
+		"beneficios_sbc": [
+			"Access to the <a href='http://www.sbc.org.br/2-uncategorised/1945-acesso-a-rede-sem-fio-eduroam-para-associados-da-sbc' style='color: #f4b321'>Eduroam</a> wireless network",
+			"Access to the Brazilian Research and Education Network (RNP)'s <a href='https://www.rnp.br/servicos/alunos-e-professores/colaboracao-a-distancia/filesender' style='color: #f4b321'>FileSender</a> service",
+			"Discounted registration fees in more than 40 <a href='http://www.sbc.org.br/eventos' style='color: #f4b321'>events annually promoted by SBC</a>",
+			"Discount of at least 15% in registration fees of events supported by SBC",
+			"Special registration fees in the <a href='http://www.sbc.org.br/index.php?option=com_content&view=article&layout=edit&id=458' style='color: #f4b321'>Brazilian National Exam for Admission to Computer Science Graduate Courses (POSCOMP)</a>",
+			"Access to the discussion lists maintained by SBC",
+			"Access to the studies carried out by SBC to public and private bodies expressing its political positions"
+		],
+		"descricao_13": "The specific benefits of each membership category can be found at the <a href='http://www.sbc.org.br/associe-se-2/269-beneficios' style='color: #f4b321'>SBC website</a>."
+	},
 
 	"local": {
 		"titulo": "Venue",
