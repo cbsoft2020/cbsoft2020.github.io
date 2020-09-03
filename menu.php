@@ -34,7 +34,7 @@
 							<a class="dropdown-item menu-sbes" href="#" data-toggle="dropdown" data-i18n="menu.trilha_ideias_inovadoras">Trilha de Ideias Inovadoras e Resultados Emergentes</a>
 							<ul class="dropdown-menu dropdown-menu-right">
 								<li><a class="dropdown-item menu-sbes" href="sbes-ideias.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a></li>
-								<li><a class="dropdown-item menu-sbes" href="#" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a></li>
+								<li><a class="dropdown-item menu-sbes" href="artigos.php?evento=sbes-ideias" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a></li>
 							</ul>
 						</li>
 						<li class="dropdown-submenu">
@@ -55,7 +55,7 @@
 							<a class="dropdown-item menu-sbes" href="#" data-toggle="dropdown" data-i18n="menu.ctic-es">Concurso de Trabalhos de Iniciação Científica</a>
 							<ul class="dropdown-menu dropdown-menu-right">
 								<li><a class="dropdown-item menu-sbes" href="sbes-ctic.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a></li>
-								<li><a class="dropdown-item menu-sbes" href="#" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a></li>
+								<li><a class="dropdown-item menu-sbes" href="artigos.php?evento=ctic-es" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a></li>
 							</ul>
 						</li>
 						<li class="dropdown-submenu">

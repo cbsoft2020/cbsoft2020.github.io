@@ -430,8 +430,8 @@
 	{
 		"id_event": "ctic-es",
 		"title": "Lidando com Componentes Resistentes a Mudanças no Contexto de Internet das Coisas",
-		"author": "Adrilene Fonseca (UECE)",
-		"advisors": "Denis Sousa, Matheus Chagas, Paulo Maia (UECE)",
+		"author": "Adrilene Fonseca, Denis Sousa (UECE)",
+		"advisors": "Matheus Chagas, Paulo Maia (UECE)",
 		"category": "ug"
 	},
 	{
@@ -643,6 +643,138 @@
 		"id_event": "sbes-ferramentas",
 		"title": "JExpert: A Tool for Library Expert Identification",
 		"authors": "Johnatan Oliveira, Denis Pinheiro, Eduardo Figueiredo",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ideias",
+		"title": "Guia de Avaliação de Qualidade para S-RES conforme ISO/IEC 25010:2011 e Certificação SBIS/CFM",
+		"authors": "Luis de Lima, Cristiane Huve, Leticia Peres",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ideias",
+		"title": "A Portal for Cataloging Worked Examples Extracted from Open Source Software",
+		"authors": "Simone Tonhão, Thelma Colanzi, Igor Steinmacher",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ideias",
+		"title": "Managing Assurance Information: A Solution based on Issue Tracking Systems",
+		"authors": "Camilo Almendra, Carla Silva",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ideias",
+		"title": "Towards a Framework for Continuous Software Engineering",
+		"authors": "Monalessa Perini Barcellos",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ideias",
+		"title": "Um Modelo de Simulação Possibilístico para Cenários de Vídeo Games Multiplayer usando CPN Tools",
+		"authors": "Franciny Barreto, Stéphane Julia",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ideias",
+		"title": "Clouds are Heavy! A Storm of Relevant Project-Related Terms to Support Newcomers' Onboarding",
+		"authors": "Márcia Lima, Edson Oliveira, Tayana Conte, Bruno Gadelha",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ideias",
+		"title": "CognIDE: a psychophysiological data integrator approach for Visual Studio Code",
+		"authors": "Márcia Lima, Edson Oliveira, Tayana Conte, Bruno Gadelha",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ideias",
+		"title": "Effects of Bad Practices of Continuous Integration in Real Projects: An Initial Study",
+		"authors": "Ruben Silva, Carla Ilane Moreira Bezerra",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ideias",
+		"title": "Behavior-Driven Development: An Expert Panel to Evaluate Benefits and Challenges",
+		"authors": "Nicolas Nascimento, Alan Santos, Afonso Sales, Rafael Chanin",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ideias",
+		"title": "Colloquy: Um Método para Design de APIs Conversacionais",
+		"authors": "Joao Antonio Bastos, Rafael de Mello, Alessandro Garcia",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ideias",
+		"title": "Generating Adaptation Plans Based on Quality Models for Cloud Platforms",
+		"authors": "Jorge Luiz Machado da Silva, Breno de França, Cecilia Rubira",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ideias",
+		"title": "Developers eXperience (DX) in Software Tools: An Investigation on Virtual Kanban Boards",
+		"authors": "Jullia Saad, Priscila Costa, Alexandre Alvaro, Luciana Zaina",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ideias",
+		"title": "Towards a Model for Managing Diversity and Inclusion in Software Development Teams",
+		"authors": "Michelle Miranda, Rafael Prikladnicki",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ideias",
+		"title": "Software Testing Ecosystems Insights and Research Opportunities",
+		"authors": "Italo Santos, Emanuel Coutinho, Simone Souza",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ideias",
+		"title": "What to Expect from Code Review Bots on GitHub? A Survey with OSS Maintainers",
+		"authors": "Mairieli Wessel, Alexander Serebrenik, Igor Wiese, Igor Steinmacher, Marco Aurelio Gerosa",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ideias",
+		"title": "Unveiling Practitioners Awareness of Android Apps Regression Testing through an Expert Survey",
+		"authors": "Sara Lima, Denivan Campos, Larissa Rocha Soares, Ivan Machado",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ideias",
+		"title": "Death of a Software Ecosystem: A Developer Relations (DevRel) Perspective",
+		"authors": "Daniel Massanori, Bruno Cafeo, Igor Wiese, Awdren Fontão",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ideias",
+		"title": "Analyzing App Store Comments and Quality Attributes for Defining an Inspection Checklist for Mobile Educational Games",
+		"authors": "Kastney Frazão, Jéssica Mendes, Davi Viana, Luis Rivero",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ideias",
+		"title": "CoNCRA: A Convolution Network Code Retrieval Approach",
+		"authors": "Marcelo de Rezende Martins, Marco Aurelio Gerosa",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ideias",
+		"title": "Software Quality is Multidimensional: Let's Play with Tensors",
+		"authors": "Hilmer Neri, Guilherme Travassos",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ideias",
+		"title": "Toward a Metamodel Quality Evaluation Framework: Requirements, Model, Measures, and Process",
+		"authors": "Taciana Novo Kudo, Renato Bulcão Neto, Auri Marcelo Rizzo Vincenzi",
+		"category": "full"
+	},
+	{
+		"id_event": "sbes-ideias",
+		"title": "From Safety Requirements to Just-Enough Safety-Centered Architectural Solutions in Agile Context",
+		"authors": "Ana Leite, Pablo Antonino, Elisa Nakagawa",
 		"category": "full"
 	}
 ]}
