@@ -102,14 +102,32 @@
                         <a class="dropdown-item" href="palestras.php?evento=trilha-industria" data-i18n="menu.palestras">Palestras</a>
                     </div>
                 </li>
-                <li class="nav-item dropdown dropdown-slide">
-                    <a class="nav-link" href="workshops.php">Workshops</a>
-                    <div class="dropdown-menu">
-                        <a class="dropdown-item" href="https://ww2.inf.ufg.br/mssis/" target="_blank" data-i18n="workshops.mssis">MSSiS</a>
-                        <a class="dropdown-item" href="https://vem2020.github.io/vem2020/" target="_blank" data-i18n="workshops.vem">VEM</a>
-						<a class="dropdown-item" href="wtdsoft.php" data-i18n="menu.wtdsoft">WTDSoft</a>
-                    </div>
-                </li>
+				<li class="nav-item dropdown">
+					<a class="nav-link" href="workshops.php" data-toggle="dropdown">Workshops</a>
+					<ul class="dropdown-menu">
+						<li class="dropdown-submenu">
+							<a class="dropdown-item menu-wtdsoft" href="#" data-toggle="dropdown" data-i18n="workshops.mssis">MSSiS</a>
+							<ul class="dropdown-menu dropdown-menu-right">
+								<li><a class="dropdown-item menu-wtdsoft" href="https://ww2.inf.ufg.br/mssis/" target="_blank" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a></li>
+								<li><a class="dropdown-item menu-wtdsoft" href="#" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a></li>
+							</ul>
+						</li>
+						<li class="dropdown-submenu">
+							<a class="dropdown-item menu-wtdsoft" href="#" target="_blank" data-toggle="dropdown" data-i18n="workshops.vem">VEM</a>
+							<ul class="dropdown-menu dropdown-menu-right">
+								<li><a class="dropdown-item menu-wtdsoft" href="https://vem2020.github.io/vem2020/" target="_blank" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a></li>
+								<li><a class="dropdown-item menu-wtdsoft" href="#" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a></li>
+							</ul>
+						</li>
+						<li class="dropdown-submenu">
+							<a class="dropdown-item menu-sbes" href="#" data-toggle="dropdown" data-i18n="menu.wtdsoft">WTDSoft</a>
+							<ul class="dropdown-menu dropdown-menu-right">
+								<li><a class="dropdown-item menu-wtdsoft" href="wtdsoft.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a></li>
+								<li><a class="dropdown-item menu-wtdsoft" style="font-size: 15px" href="artigos.php?evento=wtdsoft" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
                 <!--
                 <li class="nav-item dropdown dropdown-slide">
                 	<a class="nav-link" href="#" data-i18n="menu.informacoes">Informações</a>

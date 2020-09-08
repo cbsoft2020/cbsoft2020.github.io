@@ -348,7 +348,9 @@
 			"Vinicius Durelli (UFSJ, Brazil)",
 			"Waldemar Ferreira (UFCG, Brazil)",
 			"Willian Oizumi (PUC-Rio, Brazil)"
-		]
+		],
+		"autor": "Author: ",
+		"orientador": "Advisor(s): "
 	},
 
 	"codigo-conduta": {
@@ -966,7 +968,7 @@
 			"Simone Souza (ICMC-USP, Brazil)",
 			"Valter Camargo (UFSCar, Brazil)"
 		],
-		"selected": "Selected works (in alphabetical order)",
+		"selected": "Selected works",
 		"autor": "Author: ",
 		"orientador": "Advisor(s): "
 	},
@@ -1051,8 +1053,8 @@
 			"Uirá Kulesza (UFRN, Brazil)"
 		],
 		"categorias_selected": [
-			"Selected Doctoral theses (in alphabetical order)",
-			"Selected Master theses (in alphabetical order)"
+			"Selected Doctoral theses",
+			"Selected Master theses"
 		],
 		"autor": "Author: ",
 		"orientador": "Advisor(s): "

@@ -348,7 +348,9 @@
 			"Vinicius Durelli (UFSJ, Brasil)",
 			"Waldemar Ferreira (UFCG, Brasil)",
 			"Willian Oizumi (PUC-Rio, Brasil)"
-		]
+		],
+		"autor": "Autor: ",
+		"orientador": "Orientador(es): "
 	},
 
 	"codigo-conduta": {
@@ -963,7 +965,7 @@
 			"Simone Souza (ICMC-USP, Brasil)",
 			"Valter Camargo (UFSCar, Brasil)"
 		],
-		"selected": "Trabalhos selecionados (em ordem alfabética)",
+		"selected": "Trabalhos selecionados",
 		"autor": "Autor: ",
 		"orientador": "Orientador(es): "
 	},
@@ -1047,8 +1049,8 @@
 			"Uirá Kulesza (UFRN, Brasil)"
 		],
 		"categorias_selected": [
-			"Teses de Doutorado selecionadas (em ordem alfabética)",
-			"Dissertações de Mestrado selecionadas (em ordem alfabética)"
+			"Teses de Doutorado selecionadas",
+			"Dissertações de Mestrado selecionadas"
 		],
 		"autor": "Autor: ",
 		"orientador": "Orientador(es): "

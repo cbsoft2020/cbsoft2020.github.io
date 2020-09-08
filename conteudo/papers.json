@@ -776,5 +776,117 @@
 		"title": "From Safety Requirements to Just-Enough Safety-Centered Architectural Solutions in Agile Context",
 		"authors": "Ana Leite, Pablo Antonino, Elisa Nakagawa",
 		"category": "full"
+	},
+	{
+		"id_event": "wtdsoft",
+		"title": "Uma Ontologia de Apoio ao Ensino de Experimentação em Engenharia de Software",
+		"author": "Carlos Luz (UEM)",
+		"advisors": "Edson Oliveira Jr. (UEM), Igor Steinmacher (UTFPR)",
+		"category": "master"
+	},
+	{
+		"id_event": "wtdsoft",
+		"title": "Obtaining a Set of Recommendations for Evolving Executable Languages towards Systems-of-Systems Architecture Design",
+		"author": "Bruno Lebtag (UFG)",
+		"advisors": "Valdemar Vicente Graciano Neto (UFG)",
+		"category": "master"
+	},
+	{
+		"id_event": "wtdsoft",
+		"title": "Towards Advances on Software Architecture Design of Constituents for Systems-of-Systems: Enabling Operational Independence",
+		"author": "Paulo Teixeira (UFG)",
+		"advisors": "Valdemar Vicente Graciano Neto (UFG)",
+		"category": "master"
+	},
+	{
+		"id_event": "wtdsoft",
+		"title": "Elicitação de Requisitos em Sistemas Críticos de Segurança",
+		"author": "Sthéfanie Magro (UFPE)",
+		"advisors": "Jaelson Castro (UFPE)",
+		"category": "master"
+	},
+	{
+		"id_event": "wtdsoft",
+		"title": "Assessing JavaScript API Deprecation",
+		"author": "Romulo Nascimento (UFMG)",
+		"advisors": "Eduardo Figueiredo, Andre Hora (UFMG)",
+		"category": "master"
+	},
+	{
+		"id_event": "wtdsoft",
+		"title": "Uma Abordagem Visual para Evolução de Test Smells em Sistemas de Software Java",
+		"author": "Adriana Cruz (UFLA)",
+		"advisors": "Heitor Costa (UFLA)",
+		"category": "master"
+	},
+	{
+		"id_event": "wtdsoft",
+		"title": "Um Estudo Preliminar para Identificação e Mensuração de Dívida Técnica em Requisitos de Software",
+		"author": "Ana Carolina Melo (UPE)",
+		"advisors": "Roberta Andrade de Araújo Fagundes, Wylliams Santos (UPE)",
+		"category": "master"
+	},
+	{
+		"id_event": "wtdsoft",
+		"title": "Quantifying the Effects of Refactorings on Bad Smells",
+		"author": "Cleiton Tavares (UFMG)",
+		"advisors": "Mariza Bigonha, Eduardo Figueiredo (UFMG)",
+		"category": "master"
+	},
+	{
+		"id_event": "wtdsoft",
+		"title": "Um Método para Geração de Modelo de Sistemas-de-Sistemas de Informação a partir da Análise de Modelos de Processos de Negócio",
+		"author": "Lucas Oliveira (IFFluminese)",
+		"advisors": "Aline Vasconcelos (IFFluminense), Rodrigo Santos (UNIRIO)",
+		"category": "master"
+	},
+	{
+		"id_event": "wtdsoft",
+		"title": "Using a Predictive Model to Evaluate the Quality of a Test Suite at Class and Method Level",
+		"author": "Keslley Silva (UFRGS)",
+		"advisors": "Erika Cota (UFRGS)",
+		"category": "master"
+	},
+	{
+		"id_event": "wtdsoft",
+		"title": "Uma Abordagem para Redução do Custo do Teste de Mutação utilizando Redes Neurais",
+		"author": "Lucas Lagoa (ICMC-USP)",
+		"advisors": "Marcio Delamaro (ICMC-USP)",
+		"category": "master"
+	},
+	{
+		"id_event": "wtdsoft",
+		"title": "A Context-based Recommendation Model for Design Thinking Techniques Selection in Software Development",
+		"author": "Rafael Parizi (IFFarroupilha)",
+		"advisors": "Sabrina Marczak (PUCRS)",
+		"category": "phd"
+	},
+	{
+		"id_event": "wtdsoft",
+		"title": "Understanding Context and Forces for Choosing Organizational Structures for Continuous Delivery",
+		"author": "Leonardo Leite (IME-USP)",
+		"advisors": "Fabio Kon (IME-USP), Paulo Meirelles (UNIFESP)",
+		"category": "phd"
+	},
+	{
+		"id_event": "wtdsoft",
+		"title": "Modelo para Caracterização e Evolução de Sistemas com Arquitetura Baseada em Serviços",
+		"author": "Thatiane de Oliveira Rosa (IFTO)",
+		"advisors": "Alfredo Goldman (IME-USP), Eduardo Guerra (unibz)",
+		"category": "phd"
+	},
+	{
+		"id_event": "wtdsoft",
+		"title": "Auxiliando Professores de Engenharia de Requisitos a Utilizarem Jogos como Recursos Pedagógicos",
+		"author": "Caio Steglich (PUCRS)",
+		"advisors": "Sabrina Marczak (PUCRS)",
+		"category": "phd"
+	},
+	{
+		"id_event": "wtdsoft",
+		"title": "Towards a Quantitative Model to Deal with Uncertainty Management in Software Projects",
+		"author": "Jefferson Barbosa (UFPE)",
+		"advisors": "Hermano Perrelli de Moura (UFPE)",
+		"category": "phd"
 	}
 ]}

@@ -19,9 +19,9 @@
 	// Artigos do evento em questão
 	$full_papers = array();
 	$short_papers = array();
-	$msc_ctd = array();
-	$phd_ctd = array();
-	$ug_ctic = array();
+	$msc = array();
+	$phd = array();
+	$ug = array();
 	foreach($data->papers as $p) {
 		if (strcmp($p->id_event, $evento) == 0) {
 			switch ($p->category) {
@@ -32,13 +32,13 @@
 					array_push($full_papers, $p);
 					break;
 				case "master":
-					array_push($msc_ctd, $p);
+					array_push($msc, $p);
 					break;
 				case "phd":
-					array_push($phd_ctd, $p);
+					array_push($phd, $p);
 					break;
 				case "ug":
-					array_push($ug_ctic, $p);
+					array_push($ug, $p);
 					break;
 			}
 		}
@@ -113,49 +113,49 @@
 					</div>
 					<?php } ?>
 					
-					<?php if (count($ug_ctic) != 0) { ?>
+					<?php if (count($ug) != 0) { ?>
 					<br />
 					<strong><span style="font-size: 20px; font-weight: bold" data-i18n="ctic-es.selected"></span></strong>
 					<div class="description-one" style="margin-top: 20px">
-						<?php for ($i=0; $i < count($ug_ctic); $i++) { ?>
+						<?php for ($i=0; $i < count($ug); $i++) { ?>
 							<p style="line-height: 22px; margin-bottom: 20px">
-								<span style="font-size: 17px"><?php echo $ug_ctic[$i]->title; ?><br/>
+								<span style="font-size: 17px"><?php echo $ug[$i]->title; ?><br/>
 								<span style="font-size: 14px" data-i18n="ctic-es.autor"></span>
-								<span style="font-size: 14px"><?php echo $ug_ctic[$i]->author; ?></span><br/>
+								<span style="font-size: 14px"><?php echo $ug[$i]->author; ?></span><br/>
 								<span style="font-size: 14px" data-i18n="ctic-es.orientador"></span>
-								<span style="font-size: 14px"><?php echo $ug_ctic[$i]->advisors; ?></span>
+								<span style="font-size: 14px"><?php echo $ug[$i]->advisors; ?></span>
 							</p>
 						<?php } ?>
 					</div>
 					<?php } ?>
 					
-					<?php if (count($phd_ctd) != 0) { ?>
+					<?php if (count($phd) != 0) { ?>
 					<br />
 					<strong><span style="font-size: 20px; font-weight: bold" data-i18n="ctd-es.categorias_selected.0"></span></strong>
 					<div class="description-one" style="margin-top: 20px">
-						<?php for ($i=0; $i < count($phd_ctd); $i++) { ?>
+						<?php for ($i=0; $i < count($phd); $i++) { ?>
 							<p style="line-height: 22px; margin-bottom: 20px">
-								<span style="font-size: 17px"><?php echo $phd_ctd[$i]->title; ?><br/>
+								<span style="font-size: 17px"><?php echo $phd[$i]->title; ?><br/>
 								<span style="font-size: 14px" data-i18n="ctd-es.autor"></span>
-								<span style="font-size: 14px"><?php echo $phd_ctd[$i]->author; ?></span><br/>
+								<span style="font-size: 14px"><?php echo $phd[$i]->author; ?></span><br/>
 								<span style="font-size: 14px" data-i18n="ctd-es.orientador"></span>
-								<span style="font-size: 14px"><?php echo $phd_ctd[$i]->advisors; ?></span>
+								<span style="font-size: 14px"><?php echo $phd[$i]->advisors; ?></span>
 							</p>
 						<?php } ?>
 					</div>
 					<?php } ?>
 					
-					<?php if (count($msc_ctd) != 0) { ?>
+					<?php if (count($msc) != 0) { ?>
 					<br />
 					<strong><span style="font-size: 20px; font-weight: bold" data-i18n="ctd-es.categorias_selected.1"></span></strong>
 					<div class="description-one" style="margin-top: 20px">
-						<?php for ($i=0; $i < count($msc_ctd); $i++) { ?>
+						<?php for ($i=0; $i < count($msc); $i++) { ?>
 							<p style="line-height: 22px; margin-bottom: 20px">
-								<span style="font-size: 17px"><?php echo $msc_ctd[$i]->title; ?><br/>
+								<span style="font-size: 17px"><?php echo $msc[$i]->title; ?><br/>
 								<span style="font-size: 14px" data-i18n="ctd-es.autor"></span>
-								<span style="font-size: 14px"><?php echo $msc_ctd[$i]->author; ?></span><br/>
+								<span style="font-size: 14px"><?php echo $msc[$i]->author; ?></span><br/>
 								<span style="font-size: 14px" data-i18n="ctd-es.orientador"></span>
-								<span style="font-size: 14px"><?php echo $msc_ctd[$i]->advisors; ?></span>
+								<span style="font-size: 14px"><?php echo $msc[$i]->advisors; ?></span>
 							</p>
 						<?php } ?>
 					</div>
