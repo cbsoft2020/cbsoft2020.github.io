@@ -66,7 +66,7 @@
 							</ul>
 						</li>
 						<li class="dropdown-submenu">
-							<a class="dropdown-item menu-sbes" href="palestras.php?evento=sbes" data-toggle="dropdown" data-i18n="menu.palestras">Palestras</a>
+							<a class="dropdown-item menu-sbes" href="palestras.php?evento=sbes" data-i18n="menu.palestras">Palestras</a>
 						</li>
 					</ul>
 				</li>
