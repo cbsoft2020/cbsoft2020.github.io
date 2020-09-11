@@ -117,7 +117,7 @@
 	{
 		"id_event": "sbes-pesquisa",
 		"title": "Impactos da COVID-19 na Produtividade de Desenvolvedores de Software Brasileiros",
-		"authors": "Edson Oliveira Jr., Marco Tulio Valente, Rafael Prikladnicki, Marcelo Morandini, Gislaine Camila Leal, Leandro Pompermaier, Rafael Chanin",
+		"authors": "Edson Oliveira Jr., Gislaine C. L. Leal, Marco Tulio Valente, Marcelo Morandini, Rafael Prikladnicki, Leandro Pompermaier, Rafael Chanin, Clara Caldeira, Letícia Machado, Cleidson de Souza",
 		"category": "full"
 	},
 	{
@@ -257,12 +257,6 @@
 		"title": "What Causes Merge Conflicts?",
 		"authors": "José William Menezes, Bruno Trindade, João Felipe Pimentel, Tayane Moura, Alexandre Plastino, Leonardo Murta, Catarina Costa",
 		"category": "full"
-	},
-	{
-		"id_event": "sbes-pesquisa",
-		"title": "A Comparative Study of Personality Assessment Methods in Software Engineering",
-		"authors": "Gleyser Bomfim Guimarães",
-		"category": "short"
 	},
 	{
 		"id_event": "sbes-pesquisa",
