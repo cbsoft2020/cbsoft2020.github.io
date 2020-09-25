@@ -888,5 +888,76 @@
           "title": "Identifying Improvement Opportunities in Software Engineering Education at the Maranhão State: Listening to Voices from Academy and Industry",
           "authors": "Yandson Costa, Dayanne Gomes, Sebastião Santos, Nathasha Pinto, Davi Viana, Geraldo Braz Júnior, Luis Rivero",
           "category": "full"
+      },
+	  {
+          "id_event": "sast",
+          "title": "Investigating Multi and Many-Objective Metaheuristics to Support Software Integration Testing",
+          "authors": "Camila Pereira Sales, Valdivino Alexandre de Santiago Junior",
+          "category": "full"
+      }, 
+	  {
+          "id_event": "sast",
+          "title": "Applying Many-Objective Algorithms to the Variability Test of Software Product Lines",
+          "authors": "Thiago do Nascimento Ferreira, Silvia Regina Vergilio, Marouane Kessentini",
+          "category": "full"
+      }, 
+	  {
+          "id_event": "sast",
+          "title": "Multi-Armed Bandit Test Case Prioritization in Continuous Integration Environments: A Trade-off Analysis",
+          "authors": "Jackson Antonio do Prado Lima, Silvia Regina Vergilio",
+          "category": "full"
+      }, 
+	  {
+          "id_event": "sast",
+          "title": "Using App Attributes to Improve Mobile Device Selection for Compatibility Testing",
+          "authors": "Isabel K. Villanes, Andre Takeshi Endo, Arilo Claudio Dias-Neto",
+          "category": "full"
+      }, 
+	  {
+          "id_event": "sast",
+          "title": "On the Relation between Code Elements and Accessibility Issues in Android Apps",
+          "authors": "Henrique Neves Silva, Andre Takeshi Endo, Marcelo Medeiros Eler, Silvia Regina Vergilio, Vinicius H. S. Durelli",
+          "category": "full"
+      }, 
+	  {
+          "id_event": "sast",
+          "title": "Refactoring Test Smells: A Perspective from Open-Source Developers",
+          "authors": "Elvys Soares, Márcio Ribeiro, Guilherme Amaral, Rohit Gheyi, Leo Fernandes, Alessandro Garcia, Baldoino Fonseca, Andre Santos",
+          "category": "full"
+      }, 
+	  {
+          "id_event": "sast",
+          "title": "Asserting Functional Equivalence Between C Code and SCADE Models in Code-to-Model Transformations",
+          "authors": "Jan Toennemann, Adina Aniculaesei, Andreas Rausch",
+          "category": "full"
+      }, 
+	  {
+          "id_event": "sast",
+          "title": "Contributions to Improve the Combined Selection of Concurrent Software Testing Techniques",
+          "authors": "Italo Santos, Andre Baconcelo P. Furlanetti, Silvana M. Melo, Paulo Sergio Lopes de Souza, Márcio E. Delamaro, Simone R. S. Souza",
+          "category": "full"
+      }, 
+	  {
+          "id_event": "sast",
+          "title": "OggyBug: A Test Automation Tool in Chatbots",
+          "authors": "Marcio B. dos Santos, Diogo D. Moreira, Sidney C. Nogueira, Ana Paula C. C. Furtado",
+          "category": "full"
+      }, {
+          "id_event": "sast",
+          "title": "A Systematic Mapping Study on Software Testing for Systems-of-Systems",
+          "authors": "Vinicius Carvalho Lopes, Marcus Norberto Jacome, Douglas Winston Ribeiro Soares, Roberto F. Oliveira, Valdemar Vicente Graciano Neto, Mohamad Kassab, Anderson da Silva Soares",
+          "category": "full"
+      }, 
+	  {
+          "id_event": "sast",
+          "title": "An Experimental Study on Applying Metamorphic Testing in Machine Learning Applications",
+          "authors": "Sebastião H. N. Santos, Beatriz Nogueira Carvalho da Silveira, Stevão Alves de Andrade, Márcio Delamaro, Simone R. S. Souza",
+          "category": "full"
+      }, 
+	  {
+          "id_event": "sast",
+          "title": "An Experimental Study for Complete-IOCO Theory",
+          "authors": "Sofia Costa Paiva, Adenilso Simao",
+          "category": "full"
       }]
 }

@@ -90,7 +90,7 @@
                     <a class="nav-link" href="sast.php" data-toggle="dropdown">SAST</a>
                     <div class="dropdown-menu">
                         <a class="dropdown-item" href="sast.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a>
-                        <a class="dropdown-item" href="sast.php" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>
+                        <a class="dropdown-item" href="artigos.php?evento=sast" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>
                         <a class="dropdown-item" href="palestras.php?evento=sast" data-i18n="menu.palestras">Palestras</a>
                     </div>
                 </li>
