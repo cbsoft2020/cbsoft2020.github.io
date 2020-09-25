@@ -267,32 +267,32 @@
       },
 	  {
           "id_event": "sbes-pesquisa",
-          "title": "Incremental Development of Safety Cases: a Mapping Study",
-          "authors": "Camilo Almendra, Carla Silva, Jéssyka Vilela",
+          "title": "On the Influence of Different Perspectives on Evaluating the Quality of Teamwork in the Context of Agile Software Development",
+          "authors": "Manuel Silva, Arthur Freire, Mirko Perkusich, Kyller Gorgônio, Hyggo Almeida, Angelo Perkusich",
           "category": "full"
       },
       {
           "id_event": "sbes-pesquisa",
-          "title": "Recovering Architectural Variability from Source Code",
-          "authors": "Crescencio Lima, Ivan Machado, Matthias Galster, Christina von Flach G. Chavez",
+          "title": "Challenges in Agile Transformation Journey - A Qualitative Study",
+          "authors": "Fabio Reginaldo, Gleison Santos",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-educacao",
+          "title": "Agile Accelerator Program: From Industry-Academia Collaboration to Effective Agile Training",
+          "authors": "Caio Steglich, Anielle Lisboa, Rafael Prikladnicki, Sabrina Marczak, Michael da Costa Móra, Alejandro Olchik, Nelice Heck, Yasser Rachid, Guilherme Ghidorsi",
           "category": "full"
       },
       {
           "id_event": "sbes-pesquisa",
-          "title": "Understanding Legacy Systems in the Light of Grounded Theory",
-          "authors": "Alex Severo Chervenski, Andréa Sabedra Bordin",
+          "title": "Agile Global Software Development: A Systematic Literature Review",
+          "authors": "Rafael Camara, Iury Monte, Annelyelthon Alves, Marcelo Marinho",
           "category": "full"
       },
       {
-          "id_event": "sbes-pesquisa",
-          "title": "Sentiment Polarity of Programmers in an Open Source Software Project: An Exploratory Study",
-          "authors": "Rui Carigé, Glauco Carneiro",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "Evaluating Usefulness, Ease of Use and Usability of an UML-based Software Product Line Tool",
-          "authors": "Leandro F. Silva, Edson OliveiraJr",
+          "id_event": "sbes-ideias",
+          "title": "Behavior-Driven Development: An Expert Panel to Evaluate Benefits and Challenges",
+          "authors": "Nicolas Nascimento, Alan R. Santos, Afonso Sales, Rafael Chanin",
           "category": "full"
       },
       {
@@ -303,68 +303,8 @@
       },
       {
           "id_event": "sbes-pesquisa",
-          "title": "An Exploratory Study on Developers Opinions about Influence in Open Source Software Ecosystems",
-          "authors": "Vinicius Condina, Paulo Malcher, Victor Farias, Rodrigo Santos, Awdren Fontão, Igor Wiese, Davi Viana",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "Context-aware Android Applications Testing",
-          "authors": "Diego Rodrigues de Almeida, Patricia D. L. Machado, Wilkerson L. Andrade",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "Am I going to Heaven? First step Climbing the Stairway to Heaven Model: Results from a Case Study in Industry",
-          "authors": "Paulo Sérgio dos Santos Júnior, Monalessa P. Barcellos, Rodrigo Fernandes Calhau",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "A Large Scale Study On the Effectiveness of Manual and Automatic Unit Test Generation",
-          "authors": "Beatriz Souza, Patrícia Machado",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "Analyzing the Impact of Refactoring on Bad Smells",
-          "authors": "Cleiton Tavares, Mariza Bigonha, Eduardo Figueiredo",
-          "category": "short"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "An Empirical Study on Configuration-Related Code Weaknesses",
-          "authors": "Flávio Medeiros, Márcio Ribeiro, Rohit Gheyi, Larissa Braz, Christian Kästner, Sven Apel, Kleber Santos",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "How Software Organizations are using the ISO/IEC 29110 Standard's Processes: A Survey of the State of the Art and Practice",
-          "authors": "Jean C. R. Hauck, Stéphanie da Silva Leal",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "Agile Global Software Development: A Systematic Literature Review",
-          "authors": "Rafael Camara, Iury Monte, Annelyelthon Alves, Marcelo Marinho",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "An Empirical Study of Automatically-Generated Tests from the Perspective of Test Smells",
-          "authors": "Luana Almeida Martins, Larissa Rocha Soares, Railana Santana, Heitor Costa, Ivan Machado",
-          "category": "short"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "Predicting Prime Path Coverage Using Regression Analysis",
-          "authors": "Erika Cota",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "An Approach for Updating forks Against the Original Project",
-          "authors": "Arthur Roberto Marcondes, Ricardo Terra",
+          "title": "Are Code Smell Co-occurrences Harmful to Internal Quality Attributes? A Mixed-Method Study",
+          "authors": "Júlio Martins, Carla Bezerra, Anderson Uchôa, Alessandro Garcia",
           "category": "full"
       },
       {
@@ -375,92 +315,8 @@
       },
       {
           "id_event": "sbes-pesquisa",
-          "title": "Manually Written or Generated Tests? A Study with Developers and Maintenance Tasks",
-          "authors": "Wesley B. R. Herculano, Melina Mongiovi, Everton L. G. Alves",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "How Human and Organizational Factors Influence Software Teams Productivity in COVID-19 Pandemic: A Brazilian Survey",
-          "authors": "Carla Bezerra, José Cezar Souza, Emanuel Coutinho,  Alice Gama,  Ana Lívia Ferreira, Gabriel Leitão, Carlos Eduardo Feitosa",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "A Semi-Automated Iterative Process for Detecting Feature Interactions",
-          "authors": "Larissa Rocha, Ivan Machado, Eduardo Almeida, Christian Kästner, Sarah Nadi",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "Are Code Smell Co-occurrences Harmful to Internal Quality Attributes? A Mixed-Method Study",
-          "authors": "Júlio Martins, Carla Bezerra, Anderson Uchôa, Alessandro Garcia",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "Usability and User eXperience Evaluation of Conversational Systems: A Systematic Mapping Study",
-          "authors": "Guilherme Corredato Guerino, Natasha Malveira Costa Valentim",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "Probabilistic Model-Based Analysis to Improve Software Energy Efficiency",
-          "authors": "Danilo da Silva Alves, Oseias Ayres Ferreira, Lucio Mauro Duarte, Paulo Henrique Maia",
-          "category": "short"
-      },
-      {
-          "id_event": "sbes-pesquisa",
           "title": "Recommending Composite Refactorings for Smell Removal: Heuristics and Evaluation",
           "authors": "Willian Oizumi, Diego Cedrim, Leonardo Sousa, Ana C. Bibiano, Anderson Oliveira, Alessandro Garcia, Daniel Oliveira",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "Improving Traceability Recovery Between Bug Reports and Manual Test Cases",
-          "authors": "Guilherme Gadelha, Franklin Ramalho, Tiago Massoni",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "A Conceptual Framework for Conversational APIs",
-          "authors": "João Antonio D. M. Bastos, Rafael Maiani de Mello, Alessandro Fabricio Garcia",
-          "category": "short"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "Improving Mobile App Development using Transpilers with Maintainable Outputs",
-          "authors": "Vinícius Jorge Vendramini, Alfredo Goldman, Grégory Mounié",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "Applying Machine Learning to Customized Smell Detection: A Multi-Project Study",
-          "authors": "Daniel Oliveira, Wesley K. G. Assunção, Leonardo Souza, Willian Oizumi, Alessandro Garcia, Baldoino Fonseca",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "A Metadata Handling API for Framework Development: a Comparative Study",
-          "authors": "Eduardo Guerra, Phyllipe Lima, Joelma Choma, Tiago Silva, Marco Nardes, Michele Lanza, Paulo Meirelles",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "Using Stack Overflow to Assess Technical Debt Identification on Software Projects",
-          "authors": "Eliakim Gama, Sávio Freire, Manoel Mendonça, Rodrigo O. Spínola, Matheus Paixao, Mariela I. Cortés",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "Using Surveys to Build-up Empirical Evidence on Test-Related Technical Debt",
-          "authors": "Lucinéia Souza, Sávio Freire, Verusca Rocha, Nicolli Alves, Rodrigo O. Spínola, Manoel Mendonça",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "From Dusk till Dawn: Reflections on the Impact of COVID-19 on the Development Practices of a R&D Project",
-          "authors": "Walter Lucas Monteiro de Mendonça, Pedro Henrique Teixeira Costa, Emille Catarine Rodrigues Cançado, Fernanda Lima, Edna Dias Canedo, Rodrigo Bonifácio, Luis Henrique Vieira Amaral",
           "category": "full"
       },
       {
@@ -471,50 +327,74 @@
       },
       {
           "id_event": "sbes-pesquisa",
-          "title": "Turnover in Open-Source Projects: The Case of Core Developers",
-          "authors": "Fabio Ferreira, Luciana Lourdes Silva, Marco Tulio Valente",
+          "title": "An Empirical Study of Automatically-Generated Tests from the Perspective of Test Smells",
+          "authors": "Luana Martins, Larissa Soares, Railana Santana, Heitor Costa, Ivan Machado, Tássio Virgínio",
+          "category": "short"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "Analyzing the Impact of Refactoring on Bad Smells",
+          "authors": "Cleiton Tavares, Mariza Bigonha, Eduardo Figueiredo",
+          "category": "short"
+      },
+      {
+          "id_event": "sbes-ideias",
+          "title": "Toward a Metamodel Quality Evaluation Framework: Requirements, Model, Measures, and Process",
+          "authors": "Taciana Novo Kudo, Renato F. Bulcão-Neto, Auri Marcelo Rizzo Vincenzi",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-ideias",
+          "title": "Software Product Quality Evaluation Guide for Electronic Health Record Systems",
+          "authors": "Luis Felipe de Lima, Cristiane Aparecida Gonçalves Huve, Leticia Mara Peres",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-ideias",
+          "title": "A Possibilistic Simulation Model for Multiplayer Game Scenarios Using CPN Tools",
+          "authors": "Stéphane Julia, Franciny Barreto",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-ideias",
+          "title": "Generating Adaptation Plans Based on Quality Models for Cloud Platforms",
+          "authors": "Jorge Luiz Machado da Silva, Breno Bernard Nicolau de França, Cecília Mary Fischer Rubira",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-ideias",
+          "title": "Software Quality is Multidimensional: Let's Play with Tensors",
+          "authors": "Hilmer Rodrigues Neri",
           "category": "full"
       },
       {
           "id_event": "sbes-pesquisa",
-          "title": "Anticipating Identification of Technical Debt Items in Model-Driven Software Projects",
-          "authors": "Ramon Araújo Gomes, Larissa Barbosa Leôncio Pinheiro, Rita Suzana Pitangueira Maciel",
+          "title": "Probabilistic Model-Based Analysis to Improve Software Energy Efficiency",
+          "authors": "Danilo da Silva Alves, Oseias Ayres Ferreira, Lucio Mauro Duarte, Paulo Henrique Maia",
+          "category": "short"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "An Exploratory Study on Developers Opinions about Influence in Open Source Software Ecosystems",
+          "authors": "Vinicius Condina, Paulo Malcher, Victor Farias, Rodrigo Santos, Awdren Fontão, Igor Wiese, Davi Viana",
           "category": "full"
       },
       {
           "id_event": "sbes-pesquisa",
-          "title": "USARP method: eliciting and describing USAbility Requirements with Personas and user stories",
-          "authors": "Gabriel F. de Oliveira Júnior, Bruna Ferreira, Anna Beatriz Marques",
+          "title": "Sentiment Polarity of Programmers in an Open Source Software Project: An Exploratory Study",
+          "authors": "Rui Carigé, Glauco Carneiro",
           "category": "full"
       },
       {
           "id_event": "sbes-pesquisa",
-          "title": "Challenges in Agile Transformation Journey - A Qualitative Study",
-          "authors": "Fabio Reginaldo, Gleison Santos",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "Atoms of Confusion: The Eyes Do Not Lie",
-          "authors": "Benedito de Oliveira, Márcio Ribeiro, José Aldo Silva da Costa, Rohit Gheyi, Guilherme Amaral, Rafael de Mello, Anderson Oliveira, Alessandro Garcia, Rodrigo Bonifácio, Baldoino Fonseca",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "MDE in the Wild: An Exploratory Analysis of What Developers Discuss in Q&A Platforms",
+          "title": "MDE in the Wild: An Exploratory Analysis on What Developers are Discussing from Q&A Platforms",
           "authors": "Carlos Alberto Medeiros, Alan Bandeira, Paulo Henrique M. Maia, Matheus Paixao",
           "category": "full"
       },
       {
-          "id_event": "sbes-pesquisa",
-          "title": "On the Relation between Complexity, Explicitness, Effectiveness of Refactorings and Non-Functional Concerns",
-          "authors": "Vinícius Soares, Anderson Oliveira, Juliana Alves Pereira, Ana Carla Bibiano, Alessandro Garcia, Paulo Roberto Farah, Silvia Regina Vergilio, Marcelo Schots, Caio Silva, Daniel Coutinho, Daniel Oliveira, Anderson Uchoa",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-pesquisa",
-          "title": "What Causes Merge Conflicts?",
-          "authors": "José William Menezes, Bruno Trindade, João Felipe Pimentel, Tayane Moura, Alexandre Plastino, Leonardo Murta, Catarina Costa",
+          "id_event": "sbes-ideias",
+          "title": "Developers eXperience (DX) in ALM Tools: An Investigation on Virtual Kanban Boards",
+          "authors": "Jullia Saad, Priscila Portela Costa, Alexandre Alvaro, Luciana A. M. Zaina",
           "category": "full"
       },
       {
@@ -531,38 +411,80 @@
       },
       {
           "id_event": "sbes-pesquisa",
-          "title": "Revealing the Social Aspects of Design Decay - A Retrospective Study of Pull Requests",
-          "authors": "Caio Barbosa, Anderson Uchôa, Daniel Coutinho, Filipe Falcão, Hyago Brito, Guilherme Amaral, Vinicius Soares, Alessandro Garcia, Baldoino Fonseca, Marcio Ribeiro, Leonardo Sousa",
+          "title": "An Empirical Study on Configuration-Related Code Weaknesses",
+          "authors": "Flávio Medeiros, Márcio Ribeiro, Rohit Gheyi, Larissa Braz, Christian Kästner, Sven Apel, Kleber Santos",
           "category": "full"
       },
       {
           "id_event": "sbes-pesquisa",
-          "title": "Surveying the Impacts of COVID-19 on the Perceived Productivity of Brazilian Software Developers",
-          "authors": "Edson OliveiraJr, Gislaine Leal, Marco Túlio Valente, Marcelo Morandini, Rafael Prikladnicki, Leandro Pompermaier,  Rafael Chanin, Clara Caldeira, Letícia Machado, Cleidson de Souza",
+          "title": "What Causes Merge Conflicts?",
+          "authors": "José William Menezes, Bruno Trindade, João Felipe Pimentel, Tayane Moura, Alexandre Plastino, Leonardo Murta, Catarina Costa",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "An Approach for Updating forks Against the Original Project",
+          "authors": "Arthur Roberto Marcondes, Ricardo Terra",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "Understanding and Detecting Harmful Code",
+          "authors": "Rodrigo Lima, Jairo Souza, Baldoino Fonseca, Leopoldo Teixeira, Rohit Greyi, Márcio Ribeiro, Alessandro Garcia, Rafael de Mello",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "Applying Machine Learning to Customized Smell Detection: A Multi-Project Study",
+          "authors": "Daniel Oliveira, Wesley K. G. Assunção, Leonardo Souza, Willian Oizumi, Alessandro Garcia, Baldoino Fonseca",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "Atoms of Confusion: The Eyes Do Not Lie",
+          "authors": "Benedito de Oliveira, Márcio Ribeiro, José Aldo Silva da Costa, Rohit Gheyi, Guilherme Amaral, Rafael de Mello, Anderson Oliveira, Alessandro Garcia, Rodrigo Bonifácio, Baldoino Fonseca",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "A Large Scale Study On the Effectiveness of Manual and Automatic Unit Test Generation",
+          "authors": "Beatriz Souza, Patrícia Machado",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "Predicting Prime Path Coverage Using Regression Analysis",
+          "authors": "Keslley Silva, Erika Cota",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "Manually Written or Generated Tests? A Study with Developers and Maintenance Tasks",
+          "authors": "Wesley B. R. Herculano, Melina Mongiovi, Everton L. G. Alves",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "Context-aware Android Applications Testing",
+          "authors": "Diego Rodrigues de Almeida, Patricia D. L. Machado, Wilkerson L. Andrade",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "Improving Traceability Recovery Between Bug Reports and Manual Test Cases",
+          "authors": "Lucas Raniére Juvino Santos, Guilherme Gadelha, Franklin Ramalho, Tiago Massoni",
           "category": "full"
       },
       {
           "id_event": "sbes-ideias",
-          "title": "Death of a Software Ecosystem: a Developer Relations (DevRel) Perspective",
-          "authors": "Daniel Massanori, Bruno Cafeo, Igor Wiese, Awdren Fontão",
+          "title": "Unveiling Practitioners Awareness of Android Apps Regression Testing through an Expert Survey",
+          "authors": "Sara Lima, Denivan Campos, Larissa Soares, Ivan Machado",
           "category": "full"
       },
       {
-          "id_event": "sbes-ideias",
-          "title": "Software Quality is Multidimensional: Let's Play with Tensors",
-          "authors": "Hilmer Rodrigues Neri, Guilherme Horta Travassos",
-          "category": "short"
-      },
-      {
-          "id_event": "sbes-ideias",
-          "title": "CognIDE: A Psychophysiological Data Integrator for Visual Studio Code",
-          "authors": "Kleinner Farias",
-          "category": "short"
-      },
-      {
-          "id_event": "sbes-ideias",
-          "title": "Managing Assurance Rationale: A Solution based on Issue Tracking Systems",
-          "authors": "Camilo Almendra, Carla Silva",
+          "id_event": "sbes-pesquisa",
+          "title": "Am I going to Heaven? First step Climbing the Stairway to Heaven Model: Results from a Case Study in Industry",
+          "authors": "Paulo Sérgio dos Santos Júnior, Monalessa P. Barcellos, Rodrigo Fernandes Calhau",
           "category": "full"
       },
       {
@@ -573,146 +495,68 @@
       },
       {
           "id_event": "sbes-ideias",
-          "title": "Software Testing Ecosystems Insights and Research Opportunities",
-          "authors": "Italo Santos, Emanuel F. Coutinho, Simone R. S. Souza",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-ideias",
-          "title": "What to Expect from Code Review Bots on GitHub? A Survey with OSS Maintainers",
-          "authors": "Mairieli Wessel, Alexander Serebrenik, Igor Wiese, Igor Steinmacher, Marco A. Gerosa",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-ideias",
-          "title": "Behavior-Driven Development: An Expert Panel to Evaluate Benefits and Challenges",
-          "authors": "Nicolas Nascimento, Alan R. Santos, Afonso Sales, Rafael Chanin",
-          "category": "short"
-      },
-      {
-          "id_event": "sbes-ideias",
-          "title": "Toward a Metamodel Quality Evaluation Framework: Requirements, Model, Measures, and Process",
-          "authors": "Taciana Novo Kudo, Renato F. Bulcão-Neto, Auri Marcelo Rizzo Vincenzi",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-ideias",
-          "title": "CoNCRA: A Convolutional Neural Network Code Retrieval Approach",
-          "authors": "Marcelo de Rezende Martins, Marco Aurélio Gerosa",
-          "category": "short"
-      },
-      {
-          "id_event": "sbes-ideias",
-          "title": "Generating Adaptation Plans Based on Quality Models for Cloud Platforms",
-          "authors": "Jorge Luiz Machado da Silva, Breno Bernard Nicolau de França, Cecília Mary Fischer Rubira",
-          "category": "short"
-      },
-      {
-          "id_event": "sbes-ideias",
-          "title": "Colloquy: A Method for Conversational API Design",
-          "authors": "João Antonio D. M. Bastos, Rafael Maiani de Mello, Alessandro Fabricio Garcia",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-ideias",
-          "title": "Towards a Framework for Continuous Software Engineering",
-          "authors": "Monalessa Perini Barcellos",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-ideias",
-          "title": "Unveiling Practitioners' Awareness of Android Apps Regression Testing through an Expert Survey",
-          "authors": "Sara Lima, Denivan Campos, Larissa Soares, Ivan Machado",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-ideias",
-          "title": "A Portal for Cataloging Worked Examples Extracted from Open Source Software",
-          "authors": "Simone de França Tonhão, Thelma Elita Colanzi, Igor Steinmacher",
-          "category": "short"
-      },
-      {
-          "id_event": "sbes-ideias",
-          "title": "A Possibilistic Simulation Model for Multiplayer Game Scenarios Using CPN Tools",
-          "authors": "Stéphane Julia",
-          "category": "short"
-      },
-      {
-          "id_event": "sbes-ideias",
           "title": "Towards a Model for Managing Diversity and Inclusion in Software Development Teams",
           "authors": "Michelle Miranda, Rafael Prikladnicki",
-          "category": "short"
+          "category": "full"
       },
       {
-          "id_event": "sbes-ideias",
-          "title": "Analyzing Continuous Integration Bad Practices in Closed-Source Projects: An Initial Study",
-          "authors": "Ruben Silva, Carla Bezerra",
+          "id_event": "sbes-ferramentas",
+          "title": "Pah Pum: A Project Management Tool based on TAKT PM",
+          "authors": "Deyvson Silva, Adriano Gomes, Rafael Macieira, Emanoel Silva, Sergio Soares",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-ferramentas",
+          "title": "PSAS: A Framework for Peer Assessment of an Individuals Skills in a Software Projects Team",
+          "authors": "Tiago da Rosa Santos, Avanilde Kemczinski",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "Understanding Legacy Systems in the Light of Grounded Theory",
+          "authors": "Alex Severo Chervenski, Andréa Sabedra Bordin",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "Improving Mobile App Development using Transpilers with Maintainable Outputs",
+          "authors": "Vinícius Jorge Vendramini, Alfredo Goldman, Grégory Mounié",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "Revealing the Social Aspects of Design Decay - A Retrospective Study of Pull Requests",
+          "authors": "Caio Barbosa, Anderson Uchôa, Daniel Coutinho, Filipe Falcão, Hyago Brito, Guilherme Amaral, Vinicius Soares, Alessandro Garcia, Baldoino Fonseca, Marcio Ribeiro, Leonardo Sousa",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-ferramentas",
+          "title": "RAIDE: A Tool for Assertion Roulette and Duplicate Assert Identification and Refactoring",
+          "authors": "Railana Santana, Luana Martins, Larissa Rocha, Tássio Virgínio, Adriana Cruz, Heitor Costa, Ivan Machado",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-ferramentas",
+          "title": "A Tool for Product Derivation and Semi-Automatic Deployment of Web-Based Systems",
+          "authors": "Jackson Meires Dantas Canuto, Uirá Kulesza, Frederico Lopes",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-ferramentas",
+          "title": "JExpert: A Tool for Library Expert Identification",
+          "authors": "Johnatan Oliveira, Denis Pinheiro, Eduardo Figueiredo",
           "category": "full"
       },
       {
           "id_event": "sbes-ideias",
-          "title": "Developers eXperience (DX) in ALM Tools: An Investigation on Virtual Kanban Boards",
-          "authors": "Jullia Saad, Priscila Portela Costa, Alexandre Alvaro, Luciana A. M. Zaina",
+          "title": "CognIDE: A Psychophysiological Data Integrator Approach for Visual Studio Code",
+          "authors": "Roger Denis Vieira, Kleinner Farias",
           "category": "full"
       },
       {
           "id_event": "sbes-ideias",
-          "title": "From Safety Requirements to Just-Enough Safety-Centered Architectural Solutions in Agile Contexts",
-          "authors": "Ana Isabella Muniz Leite, Pablo Oliveira Antonino, Elisa Yumi Nakagawa",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-ideias",
-          "title": "Analyzing App Store Comments and Quality Attributes for Defining an Inspection Checklist for Mobile Educational Games",
-          "authors": "Kastney Frazão, Jessica Costa, Davi Viana, Luis Rivero",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-ideias",
-          "title": "Software Product Quality Evaluation Guide for Electronic Health Record Systems",
-          "authors": "Luis Felipe de Lima, Cristiane Aparecida Gonçalves Huve, Leticia Mara Peres",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-educacao",
-          "title": "Hackathons as a Pedagogical Strategy to Engage Students to Learn and to Adopt Software Engineering Practices",
-          "authors": "Caio Steglich, Larissa Salerno, Thaís Fernandes, Sabrina Marczak, Alessandra Dutra, Ana Bacelo, Cassio Trindade",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-educacao",
-          "title": "Teaching Development of Distributed Software during COVID-19: An Experience Report in Brazil",
-          "authors": "Fernando Trinta, Paulo A. L. Rêgo, Windson Viana",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-educacao",
-          "title": "Competencies Development based on Thinking-Based Learning in Software Engineering: An Action-Research",
-          "authors": "Fernanda Alencar",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-educacao",
-          "title": "Achieving Scalability in Project Based Learning through a Low-Code Platform",
-          "authors": "João Paulo Fernandes, Ricardo Araújo, Mário Zenha-Rela",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-educacao",
-          "title": "Software Testing Education: A Survey on a Global Scale",
-          "authors": "Silvana M. Melo, Verônica X. S. Moreira, Leo Natan Paschoal, Simone do R. S. Souza",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-educacao",
-          "title": "Assessing a Multidisciplinary Group of Undergraduate Students Applying the Challenge Based Learning Methodology to Learn Mobile Development",
-          "authors": "Andrew Diniz da Costa, Hendi Lemos Coelho, Ricardo Almeida Venieris,  Carlos José Pereira de Lucena,  Gustavo Robichez Carvalho,  Marcelo Fernandes Pereira",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-educacao",
-          "title": "Agile Accelerator Program: From Industry-Academia Collaboration to Effective Agile Training",
-          "authors": "Caio Steglich, Rafael Prikladnicki, Sabrina Marczak, Michael da Costa Móra, Alejandro Olchik, Nelice Heck, Yasser Rachid, Guilherme Ghidorsi",
+          "title": "Death of a Software Ecosystem: a Developer Relations (DevRel) Perspective",
+          "authors": "Daniel Massanori, Bruno B. P. Cafeo, Igor Wiese, Awdren Fontão",
           "category": "full"
       },
       {
@@ -722,33 +566,39 @@
           "category": "full"
       },
       {
-          "id_event": "sbes-educacao",
-          "title": "An Experience Report About Challenges of Software Engineering as a Second Cycle Course",
-          "authors": "Jarbele C. S. Coutinho, Reudismam Rolim de Sousa",
+          "id_event": "sbes-ferramentas",
+          "title": "T2-UXT: A Tool to Support Transparency Evaluation in Software Ecosystems Portals",
+          "authors": "Kennedy Edson Silva de Souza, Rodrigo Oliveira Zacarias, Marcos César da Rocha Seruffo, Rodrigo Pereira dos Santos",
           "category": "full"
       },
       {
-          "id_event": "sbes-educacao",
-          "title": "Stimulating the Development of Soft Skills in Software Engineering Education through Design Thinking",
-          "authors": "Anna B. Marques, Bruna Ferreira, Adriana Lopes, Williamson Silva",
+          "id_event": "sbes-ideias",
+          "title": "Software Testing Ecosystems Insights and Research Opportunities",
+          "authors": "Italo Santos, Emanuel F. Coutinho, Simone R. S. Souza",
           "category": "full"
       },
       {
-          "id_event": "sbes-educacao",
-          "title": "Evaluating the Impact of Software Testing Education through the Flipped Classroom Model in Deriving Test Requirements",
-          "authors": "Myke Moraes de Oliveira,  Silvana Morita Melo, Ellen Francine Barbosa, Simone do Rocio Senger de Souza",
+          "id_event": "sbes-pesquisa",
+          "title": "Usability and User eXperience Evaluation of Conversational Systems: A Systematic Mapping Study",
+          "authors": "Guilherme Corredato Guerino, Natasha Malveira Costa Valentim",
           "category": "full"
       },
       {
-          "id_event": "sbes-educacao",
-          "title": "Flipped Classroom in Software Engineering: A Systematic Mapping Study",
-          "authors": "Lincoln S. Rocha, Windson Viana",
+          "id_event": "sbes-pesquisa",
+          "title": "USARP method: eliciting and describing USAbility Requirements with Personas and user stories",
+          "authors": "Gabriel F. de Oliveira Júnior, Bruna Ferreira, Anna Beatriz Marques",
           "category": "full"
       },
       {
-          "id_event": "sbes-educacao",
-          "title": "Teaching UML Models with FLOSS Projects: A Study carried out During the Period of Social Isolation Imposed by the COVID-19 Pandemic",
-          "authors": "Fernanda Gomes Silva, Moara Sousa Brito Lessa, Nádia da Luz Lopes, Christina von Flach G. Chavez",
+          "id_event": "sbes-pesquisa",
+          "title": "Turnover in Open-Source Projects: The Case of Core Developers",
+          "authors": "Fabio Ferreira, Luciana Lourdes Silva, Marco Tulio Valente",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-ideias",
+          "title": "What to Expect from Code Review Bots on GitHub? A Survey with OSS Maintainers",
+          "authors": "Mairieli Wessel, Alexander Serebrenik, Igor Wiese, Igor Steinmacher, Marco A. Gerosa",
           "category": "full"
       },
       {
@@ -765,32 +615,68 @@
       },
       {
           "id_event": "sbes-educacao",
-          "title": "LEARN Board Game: A Game for Teaching Software Architecture Created through Design Science Research",
-          "authors": "Tamires Ariane Silva Sousa, Anna Beatriz dos Santos Marques",
+          "title": "Teaching UML Models with FLOSS Projects: A Study carried out During the Period of Social Isolation Imposed by the COVID-19 Pandemic",
+          "authors": "Fernanda Gomes Silva, Moara Sousa Brito Lessa, Nádia da Luz Lopes, Christina von Flach G. Chavez",
           "category": "full"
       },
       {
-          "id_event": "sbes-educacao",
-          "title": "Identifying Improvement Opportunities in Software Engineering Education at the Maranhão State: Listening to Voices from Academy and Industry",
-          "authors": "Yandson Costa, Dayanne Gomes, Sebastião Santos, Nathasha Pinto, Davi Viana, Geraldo Braz Júnior, Luis Rivero",
+          "id_event": "sbes-ideias",
+          "title": "A Portal for Cataloging Worked Examples Extracted from Open Source Software",
+          "authors": "Simone de França Tonhão, Thelma Elita Colanzi, Igor Steinmacher",
           "category": "full"
       },
       {
-          "id_event": "sbes-educacao",
-          "title": "Challenges and Recommendations in DevOps Education: A Systematic Literature Review",
-          "authors": "Samuel Ferino, Uirá Kulesza, Eduardo Aranha",
+          "id_event": "sbes-pesquisa",
+          "title": "A Metadata Handling API for Framework Development: a Comparative Study",
+          "authors": "Eduardo Guerra, Phyllipe Lima, Joelma Choma, Tiago Silva, Marco Nardes, Michele Lanza, Paulo Meirelles",
           "category": "full"
       },
       {
-          "id_event": "sbes-educacao",
-          "title": "Gamification in Remote Teaching of SE Courses: Experience Report",
-          "authors": "Valéria Lelli, Rossana M. C. Andrade, Lavinia M. Freitas, Rubens A. S. Silva, Francisco Gutenberg S. Filho, Renata Faria Gomes, Jan Sousa de Oliveira Severo",
+          "id_event": "sbes-pesquisa",
+          "title": "A Conceptual Framework for Conversational APIs",
+          "authors": "João Antonio D. M. Bastos, Rafael Maiani de Mello, Alessandro Fabricio Garcia",
+          "category": "short"
+      },
+      {
+          "id_event": "sbes-ideias",
+          "title": "Colloquy: A Method for Conversational API Design",
+          "authors": "João Antonio D. M. Bastos, Rafael Maiani de Mello, Alessandro Fabricio Garcia",
           "category": "full"
       },
       {
           "id_event": "sbes-ferramentas",
-          "title": "OPLA-Tool v2.0: A Tool for Product Line Architecture Design Optimization",
-          "authors": "Willian Marques Freire, Mamoru Massago, Arthur Cattaneo Zavadski, Aline Maria Malachini Miotto Amaral, Thelma Elita Colanzi",
+          "title": "DataQI.NET: A Framework for Specifying Query Criteria Using the Repository Pattern",
+          "authors": "Carlos Henrique G. Carneiro, Paulo Henrique M. Maia",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-ideias",
+          "title": "CoNCRA: A Convolutional Neural Networks Code Retrieval Approach",
+          "authors": "Marcelo de Rezende Martins, Marco Aurélio Gerosa",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-ferramentas",
+          "title": "ENVIAR - ENVIronment dAta simulatoR",
+          "authors": "Diego Rodrigues de Almeida, Patrícia D. L. Machado, Wilkerson L. Andrade",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "Incremental Development of Safety Cases: a Mapping Study",
+          "authors": "Camilo Almendra, Carla Silva, Jéssyka Vilela",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-ferramentas",
+          "title": "PLATOOL: A Functional Test Generation Tool for Mobile Applications",
+          "authors": "Euler Horta Marinho, Eduardo Figueiredo",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-educacao",
+          "title": "Testing Education: A Survey on a Global Scale",
+          "authors": "Silvana M. Melo, Verônica X. S. Moreira, Leo Natan Paschoal, Simone do R. S. Souza",
           "category": "full"
       },
       {
@@ -800,9 +686,63 @@
           "category": "full"
       },
       {
-          "id_event": "sbes-ferramentas",
-          "title": "JExpert: A Tool for Library Expert Identification",
-          "authors": "Johnatan Oliveira, Denis Pinheiro, Eduardo Figueiredo",
+          "id_event": "sbes-educacao",
+          "title": "Evaluating the Impact of Software Testing Education through the Flipped Classroom Model in Deriving Test Requirements",
+          "authors": "Leo Natan Paschoal, Myke Morais de Oliveira, Silvana Morita Melo, Ellen Francine Barbosa, Simone do Rocio Senger de Souza",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-ideias",
+          "title": "Managing Assurance Information: A Solution Based on Issue Tracking Systems",
+          "authors": "Camilo Almendra, Carla Silva",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "Surveying the Impacts of COVID-19 on the Perceived Productivity of Brazilian Software Developers",
+          "authors": "Edson OliveiraJr, Gislaine Leal, Marco Túlio Valente, Marcelo Morandini, Rafael Prikladnicki, Leandro Pompermaier,  Rafael Chanin, Clara Caldeira, Letícia Machado, Cleidson de Souza",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "From Dusk till Dawn: Reflections on the Impact of COVID-19 on the Development Practices of a R&D Project",
+          "authors": "Walter Lucas Monteiro de Mendonça, Pedro Henrique Teixeira Costa, Emille Catarine Rodrigues Cançado, Fernanda Lima, Edna Dias Canedo, Rodrigo Bonifácio, Luis Henrique Vieira Amaral",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "How Human and Organizational Factors Influence Software Teams Productivity in COVID-19 Pandemic: A Brazilian Survey",
+          "authors": "Carla I. M. Bezerra, José Cezar de Souza Filho, Emanuel F. Coutinho, Alice Gama, Ana Lívia Ferreira, Gabriel Leitão, Carlos Eduardo Feitosa",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-educacao",
+          "title": "Teaching Development of Distributed Software during COVID-19: An Experience Report in Brazil",
+          "authors": "Fernando Trinta, Paulo A. L. Rêgo, Windson Viana",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-ideias",
+          "title": "Towards a Framework for Continuous Software Engineering",
+          "authors": "Monalessa Perini Barcellos",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "How Software Organizations are using the ISO/IEC 29110 Standard's Processes: A Survey of the State of the Art and Practice",
+          "authors": "Jean C. R. Hauck, Stéphanie da Silva Leal",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-ideias",
+          "title": "Analyzing Continuous Integration Bad Practices in Closed-Source Projects: An Initial Study",
+          "authors": "Ruben Silva, Carla I. M. Bezerra",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-educacao",
+          "title": "Challenges and Recommendations in DevOps Education: A Systematic Literature Review",
+          "authors": "Marcelo Romulo Fernandes, Samuel Ferino, Uirá Kulesza, Eduardo Aranha",
           "category": "full"
       },
       {
@@ -813,32 +753,62 @@
       },
       {
           "id_event": "sbes-ferramentas",
-          "title": "T2-UXT: A Tool to Support Transparency Evaluation in Software Ecosystems Portals",
-          "authors": "Rodrigo Oliveira Zacarias, Marcos César da Rocha Seruffo, Rodrigo Pereira dos Santos",
-          "category": "full"
-      },
-      {
-          "id_event": "sbes-ferramentas",
           "title": "Mining Software Repositories for the Characterization of Continuous Integration and Delivery",
-          "authors": "Gabriel Augusto Destro, Breno de França",
-          "category": "short"
-      },
-      {
-          "id_event": "sbes-ferramentas",
-          "title": "Pah Pum: A Project Management Tool based on TAKT PM",
-          "authors": "Deyvson Silva, Adriano Gomes, Rafael Macieira, Emanoel Silva, Sergio Soares",
+          "authors": "Gabriel Augusto Destro, Breno Bernard Nicolau de França",
           "category": "full"
       },
       {
-          "id_event": "sbes-ferramentas",
-          "title": "ArchPython: Architecture Conformance Checking for Python Systems",
-          "authors": "Eduardo F. de Lima, Ricardo Terra",
+          "id_event": "sbes-educacao",
+          "title": "Hackathons as a Pedagogical Strategy to Engage Students to Learn and to Adopt Software Engineering Practices",
+          "authors": "Caio Steglich, Larissa Salerno, Thaís Fernandes, Sabrina Marczak, Alessandra Dutra, Ana Bacelo, Cassio Trindade",
           "category": "full"
       },
       {
-          "id_event": "sbes-ferramentas",
-          "title": "PSAS: A Framework for Peer Assessment of an Individual's Skills in a Software Projects Team",
-          "authors": "Tiago da Rosa Santos, Avanilde Kemczinski",
+          "id_event": "sbes-educacao",
+          "title": "Competencies Development based on Thinking-based Learning in Software Engineering: An Action-Research",
+          "authors": "Andres Paul Moya Flores, Fernanda Maria Ribeiro de Alencar",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-educacao",
+          "title": "Stimulating the Development of Soft Skills in Software Engineering Education through Design Thinking",
+          "authors": "Anna B. Marques, Bruna Ferreira, Adriana Lopes, Williamson Silva",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-educacao",
+          "title": "Assessing a Multidisciplinary Group of Undergraduate Students Applying the Challenge Based Learning Methodology to Learn Mobile Development",
+          "authors": "Andrew Diniz da Costa, Hendi Lemos Coelho, Ricardo Almeida Venieris,  Carlos José Pereira de Lucena,  Gustavo Robichez Carvalho,  Marcelo Fernandes Pereira",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-educacao",
+          "title": "Achieving Scalability in Project Based Learning through a Low-Code Platform",
+          "authors": "João Paulo Fernandes, Ricardo Araújo, Mário Zenha-Rela",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-educacao",
+          "title": "Flipped Classroom in Software Engineering: A Systematic Mapping Study",
+          "authors": "Necio L. Veras, Lincoln S. Rocha, Windson Viana",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "Using Stack Overflow to Assess Technical Debt Identification on Software Projects",
+          "authors": "Eliakim Gama, Sávio Freire, Manoel Mendonça, Rodrigo O. Spínola, Matheus Paixao, Mariela I. Cortés",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "Anticipating Identification of Technical Debt Items in Model-Driven Software Projects",
+          "authors": "Ramon Araújo Gomes, Larissa Barbosa Leôncio Pinheiro, Rita Suzana Pitangueira Maciel",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "Using Surveys to Build-up Empirical Evidence on Test-Related Technical Debt",
+          "authors": "Lucinéia Souza, Sávio Freire, Verusca Rocha, Nicolli Alves, Rodrigo O. Spínola, Manoel Mendonça",
           "category": "full"
       },
       {
@@ -848,33 +818,75 @@
           "category": "full"
       },
       {
-          "id_event": "sbes-ferramentas",
-          "title": "PLATOOL: A Functional Test Generation Tool for Mobile Applications",
-          "authors": "Euler Horta Marinho, Eduardo Figueiredo",
+          "id_event": "sbes-ideias",
+          "title": "From Safety Requirements to Just-Enough Safety-Centered Architectural Solutions in Agile Contexts",
+          "authors": "Ana Isabella Muniz Leite, Pablo Oliveira Antonino, Elisa Yumi Nakagawa",
           "category": "full"
       },
       {
           "id_event": "sbes-ferramentas",
-          "title": "DataQI.NET: A Framework for Specifying Query Criteria Using the Repository Pattern",
-          "authors": "Henrique Gouveia, Paulo Maia",
+          "title": "ArchPython: Architecture Conformance Checking for Python Systems",
+          "authors": "Eduardo F. de Lima, Ricardo Terra",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "A Semi-Automated Iterative Process for Detecting Feature Interactions",
+          "authors": "Larissa Rocha, Ivan Machado, Eduardo Almeida, Christian Kästner, Sarah Nadi",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "On the Relation between Complexity, Explicitness, Effectiveness of Refactorings and Non-Functional Concerns",
+          "authors": "Vinícius Soares, Anderson Oliveira, Juliana Alves Pereira, Ana Carla Bibiano, Alessandro Garcia, Paulo Roberto Farah, Silvia Regina Vergilio, Marcelo Schots, Caio Silva, Daniel Coutinho, Daniel Oliveira, Anderson Uchoa",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "Evaluating Usefulness, Ease of Use and Usability of an UML-based Software Product Line Tool",
+          "authors": "Leandro F. Silva, Edson OliveiraJr",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-pesquisa",
+          "title": "Recovering Architectural Variability from Source Code",
+          "authors": "Crescencio Lima, Ivan Machado, Matthias Galster, Christina von Flach G. Chavez",
           "category": "full"
       },
       {
           "id_event": "sbes-ferramentas",
-          "title": "RAIDE: A Tool for Assertion Roulette and Duplicate Assert Identification and Refactoring",
-          "authors": "Luana Almeida Martins, Larissa Rocha Soares, Tássio Guerreiro Antunes Virgínio, Adriana Priscila Santos Cruz,  Heitor Costa, Ivan Machado",
+          "title": "OPLA-Tool v2.0: A Tool for Product Line Architecture Design Optimization",
+          "authors": "Willian Marques Freire, Mamoru Massago, Arthur Cattaneo Zavadski, Aline Maria Malachini Miotto Amaral, Thelma Elita Colanzi",
           "category": "full"
       },
       {
-          "id_event": "sbes-ferramentas",
-          "title": "ENVIAR - ENVIronment dAta simulatoR",
-          "authors": "Diego Rodrigues de Almeida, Patrícia D. L. Machado, Wilkerson L. Andrade",
-          "category": "short"
+          "id_event": "sbes-educacao",
+          "title": "An Experience Report About Challenges of Software Engineering as a Second Cycle Course",
+          "authors": "Felipe Leite, Jarbele S. Coutinho, Reudismam de Sousa",
+          "category": "full"
       },
       {
-          "id_event": "sbes-ferramentas",
-          "title": "A Tool for Product Derivation and Semi-Automatic Deployment of Web-Based Systems",
-          "authors": "Jackson Meires Dantas Canuto, Uirá Kulesza, Frederico Lopes",
+          "id_event": "sbes-educacao",
+          "title": "LEARN Board Game: A Game for Teaching Software Architecture Created through Design Science Research",
+          "authors": "Tamires Ariane Silva Sousa, Anna Beatriz dos Santos Marques",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-educacao",
+          "title": "Gamification in Remote Teaching of SE Courses: Experience Report",
+          "authors": "Valéria Lelli, Rossana M. C. Andrade, Lavinia M. Freitas, Rubens A. S. Silva, Francisco Gutenberg S. Filho, Renata Faria Gomes, Jan Sousa de Oliveira Severo",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-ideias",
+          "title": "Analyzing App Store Comments and Quality Attributes for Defining an Inspection Checklist for Mobile Educational Games",
+          "authors": "Kastney Frazão, Jessica Costa, Davi Viana, Luis Rivero",
+          "category": "full"
+      },
+      {
+          "id_event": "sbes-educacao",
+          "title": "Identifying Improvement Opportunities in Software Engineering Education at the Maranhão State: Listening to Voices from Academy and Industry",
+          "authors": "Yandson Costa, Dayanne Gomes, Sebastião Santos, Nathasha Pinto, Davi Viana, Geraldo Braz Júnior, Luis Rivero",
           "category": "full"
       }]
 }
