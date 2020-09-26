@@ -959,5 +959,101 @@
           "title": "An Experimental Study for Complete-IOCO Theory",
           "authors": "Sofia Costa Paiva, Adenilso Simao",
           "category": "full"
+      },
+  	  {
+          "id_event": "sbcars",
+          "title": "Applying a Multi-platform Architectural Conformance Solution in a Real-world Microservice-based System",
+          "authors": "Elena A. Araujo, Álvaro Espíndola, Vinicius Garcia, Ricardo Terra",
+          "category": "full"
+      },
+      {
+          "id_event": "sbcars",
+          "title": "Architectural Feature Re-Modularization for Software Product Line Evolution",
+          "authors": "Luciane Baldo Nicolodi, Thelma Colanzi, Wesley Assunção",
+          "category": "full"
+      },
+      {
+          "id_event": "sbcars",
+          "title": "Generating Trustworthiness Adaptation Plans Based on Quality Models for Cloud Platforms",
+          "authors": "Jorge Luiz Machado da Silva, Breno Bernard Nicolau de Franca, Cecilia Mary Fischer Rubira",
+          "category": "full"
+      },
+      {
+          "id_event": "sbcars",
+          "title": "Towards a Method for Monitoring the Coupling Evolution of Microservice-Based Architectures",
+          "authors": "Daniel Rodrigo de Freitas Apolinário, Breno Bernard Nicolau de França",
+          "category": "full"
+      },
+      {
+          "id_event": "sbcars",
+          "title": "RefDiff4Go: Detecting Refactorings in Go",
+          "authors": "Rodrigo Brito, Marco Tulio Valente",
+          "category": "full"
+      },
+      {
+          "id_event": "sbcars",
+          "title": "The Impact of Microservices on the Evolution of a Software Product Line",
+          "authors": "Alex Malmann Becker, Daniel Lucredio",
+          "category": "full"
+      },
+      {
+          "id_event": "sbcars",
+          "title": "Classifying Feature Models Maintainability based on Machine Learning Algorithms",
+          "authors": "Publio Silva, Carla Bezerra, Rafael Lima, Ivan Machado",
+          "category": "full"
+      },
+      {
+          "id_event": "sbcars",
+          "title": "Microservice Architecture: A Tertiary Study",
+          "authors": "Eduardo Pereira e Silva Filho, Diego Ivo Costa, Mariela Cortés, Reginaldo Florencio da Silva, Thiago Gama",
+          "category": "full"
+      },
+      {
+          "id_event": "sbcars",
+          "title": "Supporting User Preferences in Search-Based Product Line Architecture Design using Machine Learning",
+          "authors": "Carlos Vinicius Bindewald, Willian Marques Freire, Aline Amaral, Thelma Colanzi",
+          "category": "full"
+      },
+      {
+          "id_event": "sbcars",
+          "title": "Test-case-based Code Navigation in Dynamically Typed Programming Languages",
+          "authors": "Gabriel Fernandes Pereira, Ingrid Nunes, Marcelo Pimenta",
+          "category": "full"
+      },
+      {
+          "id_event": "sbcars",
+          "title": "Measuring Unique Changes: How do Distinct Changes Affect the Size and Lifetime of Pull Requests?",
+          "authors": "Daniel Augusto Nunes da Silva, Daricelio Moreira Soares, Silvana Andrade Goncalves",
+          "category": "full"
+      },
+      {
+          "id_event": "sbcars",
+          "title": "Investigating Non-Usually Employed Features in the Identification of Architectural Smells: A Machine Learning-Based Approach",
+          "authors": "Warteruzannan Soyer Cunha, Guisella Angulo Armijo, Valter Vieira de Camargo",
+          "category": "full"
+      },
+      {
+          "id_event": "sbcars",
+          "title": "An Approach to Identify and Classify State Machine Changes from Code Changes",
+          "authors": "Matheus Barbosa, Franklin Ramalho",
+          "category": "full"
+      },
+      {
+          "id_event": "sbcars",
+          "title": "LCCSS: A Similarity Metric for Identifying Similar Test Code",
+          "authors": "Lucas Pereira da Silva, Patrícia Vilain",
+          "category": "full"
+      },
+      {
+          "id_event": "sbcars",
+          "title": "The Evolving Nature of Developers' Contributions in Open Source Projects",
+          "authors": "Talita Santana Orfano, Mariza Andrade Silva Bigonha, Kecia Ferreira",
+          "category": "full"
+      },
+      {
+          "id_event": "sbcars",
+          "title": "A Blockchain-based Architecture for Query and Registration of Student Degree Certificates",
+          "authors": "Antonio Welligton dos Santos Abreu, Emanuel F. Coutinho, Carla I. M. Bezerra",
+          "category": "full"
       }]
 }

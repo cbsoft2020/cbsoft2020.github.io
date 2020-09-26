@@ -74,7 +74,7 @@
                     <a class="nav-link" href="sbcars.php" data-toggle="dropdown">SBCARS</a>
                     <div class="dropdown-menu">
                         <a class="dropdown-item" href="sbcars.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a>
-                        <a class="dropdown-item" href="sbcars.php" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>
+                        <a class="dropdown-item" href="artigos.php?evento=sbcars" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>
                         <a class="dropdown-item" href="palestras.php?evento=sbcars" data-i18n="menu.palestras">Palestras</a>
                     </div>
                 </li>
