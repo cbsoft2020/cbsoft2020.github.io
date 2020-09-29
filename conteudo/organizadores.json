@@ -119,29 +119,29 @@
 		"email": "gpinto@ufpa.br"
 	}],
 	"chairs_sast": [{
-			"imagem": "wilkerson.jpg",
-			"nome": "Wilkerson Andrade",
-			"universidade": "UFCG",
-			"link": "http://lattes.cnpq.br/3697205933296303",
-			"email": "wilkerson@computacao.ufcg.edu.br"
-		},
-		{
 			"imagem": "vania.jpg",
 			"nome": "Vânia Neves",
 			"universidade": "UFF",
 			"link": "http://lattes.cnpq.br/1527901631481888",
 			"email": "vania@ic.uff.br"
+		},
+		{
+			"imagem": "wilkerson.jpg",
+			"nome": "Wilkerson Andrade",
+			"universidade": "UFCG",
+			"link": "http://lattes.cnpq.br/3697205933296303",
+			"email": "wilkerson@computacao.ufcg.edu.br"
 		}
 	],
 	"chairs_sblp": [{
-			"imagem": "sergio.jpg",
+			"imagem": "sergio.png",
 			"nome": "Sergio Medeiros",
 			"universidade": "UFRN",
 			"link": "http://lattes.cnpq.br/0310395336626784",
 			"email": "sergiomedeiros@ect.ufrn.br"
 		},
 		{
-			"imagem": "avatar-man.png",
+			"imagem": "francisco-santanna.jpg",
 			"nome": "Francisco Sant'anna",
 			"universidade": "UERJ",
 			"link": "http://lattes.cnpq.br/0077491494754494",
