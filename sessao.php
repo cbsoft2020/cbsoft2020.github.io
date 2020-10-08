@@ -133,8 +133,8 @@
 										if (strcmp($paper->category, "short") == 0) {
 											echo ', <span style="font-style:italic; font-size: 14px" data-i18n="schedule.short_paper"></span>';
 										}
+										echo '<br/>';
 									}
-									echo '<br/>';
 									if (isset($paper->authors)) {
 										echo '<span style="font-size: 14px">'.$paper->authors.'</span></p>';
 									} else if (isset($paper->author) && isset($paper->advisors)) {
