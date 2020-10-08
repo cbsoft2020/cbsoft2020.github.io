@@ -1315,8 +1315,8 @@ select.form-control:not([size]):not([multiple]) {
 .schedule .schedule-tab ul li.nav-item a {
   font-family: "Gotham", sans-serif;
   text-transform: uppercase;
-  font-size: 1.5rem;
-  color: #2f92d0;
+  font-size: 1rem;
+  color: #f4b321;
   font-weight: 500;
   display: block;
   border-radius: 0;
@@ -1334,7 +1334,7 @@ select.form-control:not([size]):not([multiple]) {
 }
 
 .schedule .schedule-tab ul li.nav-item a.active {
-  background: #2f92d0;
+  background: #f4b321;
   color: #fff;
   position: relative;
 }

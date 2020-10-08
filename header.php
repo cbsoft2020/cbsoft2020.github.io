@@ -32,7 +32,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>CBSoft 2020 | XI Congresso Brasileiro de Software</title>
+  <title data-i18n="menu.titulo"></title>
   
   <!-- PLUGINS CSS STYLE -->
   <!-- Bootstrap -->
@@ -167,6 +167,24 @@
 	.btn-main-md-2:focus {
 		  color: #fff;
 		  box-shadow: none;
+	}
+	  
+	#program-table tr th p {
+		  font-weight: 300;
+		  text-transform: uppercase;
+		  color: white;
+		  font-size: 16px;
+		  text-align: center;
+	}
+	  
+	#program-table tr td {
+		font-size: 16px;
+		text-align: center;
+	}
+	
+	i {
+		  font-size: 1em;
+  		  color: #9a9d9e;
 	}
 </style>
 

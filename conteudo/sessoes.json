@@ -1,0 +1,558 @@
+{
+	"sessions": [
+	{
+		"id": "opening",
+		"id_event": "cbsoft",
+		"type": "general",
+		"day_id": "dia_1",
+		"time": "08:00-09:00",
+		"chair": "Everton Cavalcante",
+		"title_id": "opening"
+	},
+	{
+		"id": "mssis-1",
+		"id_event": "mssis",
+		"type": "general",
+		"day_id": "dia_1",
+		"time": "09:00-09:05",
+		"chair": "Valdemar Graciano Neto, Elisa Yumi Nakagawa",
+		"title_id": "opening"
+	},
+	{
+		"id": "mssis-1",
+		"id_event": "mssis",
+		"type": "keynote",
+		"day_id": "dia_1",
+		"time": "09:05-10:00",
+		"speaker_id": "pablo"
+	},
+	{
+		"id": "mssis-1",
+		"id_event": "mssis",
+		"type": "technical-session",
+		"day_id": "dia_1",
+		"time": "10:00-10:30",
+		"papers": [ "2", "1" ]
+	},
+	{
+		"id": "mssis-2",
+		"id_event": "mssis",
+		"type": "keynote",
+		"day_id": "dia_1",
+		"time": "10:45-11:40",
+		"speaker_id": "gustavo"
+	},
+	{
+		"id": "mssis-2",
+		"id_event": "mssis",
+		"type": "technical-session",
+		"day_id": "dia_1",
+		"time": "11:40-12:20",
+		"papers": [ "5", "4" ]
+	},
+	{
+		"id": "mssis-3",
+		"id_event": "mssis",
+		"type": "technical-session",
+		"day_id": "dia_1",
+		"time": "15:45-17:05",
+		"papers": [ "6", "7", "8", "3" ]
+	},
+	{
+		"id": "mssis-3",
+		"id_event": "mssis",
+		"type": "general",
+		"day_id": "dia_1",
+		"time": "17:05-17:20",
+		"chair": "Valdemar Graciano Neto, Elisa Yumi Nakagawa",
+		"title_id": "closing_agenda"
+	},
+	{
+		"id": "vem-1",
+		"id_event": "vem",
+		"type": "general",
+		"day_id": "dia_1",
+		"time": "09:00-09:05",
+		"chair": "Rafael Durelli, Lincoln Rocha",
+		"title_id": "opening"
+	},
+	{
+		"id": "vem-1",
+		"id_event": "vem",
+		"type": "keynote",
+		"day_id": "dia_1",
+		"time": "09:05-10:00",
+		"speaker_id": "bogdan"
+	},
+	{
+		"id": "vem-1",
+		"id_event": "vem",
+		"type": "technical-session",
+		"day_id": "dia_1",
+		"time": "10:00-10:20",
+		"papers": [ "1" ]
+	},
+	{
+		"id": "vem-2",
+		"id_event": "vem",
+		"type": "technical-session",
+		"day_id": "dia_1",
+		"time": "10:45-12:15",
+		"papers": [ "2", "3", "4", "5", "6" ]
+	},
+	{
+		"id": "vem-3",
+		"id_event": "vem",
+		"type": "technical-session",
+		"day_id": "dia_1",
+		"time": "15:45-16:25",
+		"papers": [ "7", "8" ]
+	},
+	{
+		"id": "vem-3",
+		"id_event": "vem",
+		"type": "keynote",
+		"day_id": "dia_1",
+		"time": "16:25-17:05",
+		"speaker_id": "castor"
+	},
+	{
+		"id": "vem-3",
+		"id_event": "vem",
+		"type": "general",
+		"day_id": "dia_1",
+		"time": "17:05-17:15",
+		"chair": "Rafael Durelli, Lincoln Rocha",
+		"title_id": "closing_award"
+	},
+	{
+		"id": "wtdsoft-1",
+		"id_event": "wtdsoft",
+		"type": "technical-session",
+		"day_id": "dia_1",
+		"time": "09:00-10:30",
+		"papers": [ "11", "10", "6", "8", "5", "1" ]
+	},
+	{
+		"id": "wtdsoft-2",
+		"id_event": "wtdsoft",
+		"type": "technical-session",
+		"day_id": "dia_1",
+		"time": "10:45-12:15",
+		"papers": [ "7", "4", "9", "2", "3" ]
+	},
+	{
+		"id": "wtdsoft-3",
+		"id_event": "wtdsoft",
+		"type": "technical-session",
+		"day_id": "dia_1",
+		"time": "15:45-17:50",
+		"papers": [ "16", "14", "13", "12", "15" ]
+	},
+	{
+		"id": "sbcars-1",
+		"id_event": "sbcars",
+		"type": "technical-session",
+		"day_id": "dia_1",
+		"time": "09:00-10:30",
+		"papers": [ "1", "2", "3", "4" ]
+	},
+	{
+		"id": "sbcars-2",
+		"id_event": "sbcars",
+		"type": "technical-session",
+		"day_id": "dia_1",
+		"time": "10:45-12:15",
+		"papers": [ "5", "6", "7", "8" ]
+	},
+	{
+		"id": "sbcars-3",
+		"id_event": "sbcars",
+		"type": "technical-session",
+		"day_id": "dia_1",
+		"time": "15:45-17:15",
+		"papers": [ "9", "10", "11", "12" ]
+	},
+	{
+		"id": "sbcars-4",
+		"id_event": "sbcars",
+		"type": "technical-session",
+		"day_id": "dia_2",
+		"time": "10:45-12:15",
+		"papers": [ "13", "14", "15", "16" ]
+	},
+	{
+		"id": "sbcars-palestra",
+		"id_event": "sbcars",
+		"type": "keynote",
+		"day_id": "dia_1",
+		"time": "14:00-15:30",
+		"speaker_id": "diomidis"
+	},
+	{
+		"id": "sbcars-5",
+		"id_event": "sbcars",
+		"type": "general",
+		"day_id": "dia_2",
+		"time": "15:45-17:15",
+		"chair": "Gustavo Pinto",
+		"title_id": "reuniao_steering"
+	},
+	{
+		"id": "sblp-1",
+		"id_event": "sblp",
+		"type": "technical-session",
+		"day_id": "dia_1",
+		"time": "09:00-10:30",
+		"papers": [ "1", "2", "3" ]
+	},
+	{
+		"id": "sblp-2",
+		"id_event": "sblp",
+		"type": "technical-session",
+		"day_id": "dia_1",
+		"time": "10:45-12:15",
+		"papers": [ "4", "5", "6" ]
+	},
+	{
+		"id": "sblp-3",
+		"id_event": "sblp",
+		"type": "technical-session",
+		"day_id": "dia_1",
+		"time": "15:45-17:15",
+		"papers": [ "7", "8", "9" ]
+	},
+	{
+		"id": "sblp-palestra",
+		"id_event": "sblp",
+		"type": "keynote",
+		"day_id": "dia_2",
+		"time": "09:00-10:30",
+		"speaker_id": "philip"
+	},
+	{
+		"id": "trilha-industria-1",
+		"id_event": "trilha-industria",
+		"type": "technical-session",
+		"day_id": "dia_2",
+		"time": "10:45-12:15",
+		"papers": [ "6", "2", "3", "4", "5", "1" ]
+	},
+	{
+		"id": "trilha-industria-palestra",
+		"id_event": "trilha-industria",
+		"type": "keynote",
+		"day_id": "dia_2",
+		"time": "14:00-15:30",
+		"speaker_id": "davi"
+	},
+	{
+		"id": "trilha-industria-2",
+		"id_event": "trilha-industria",
+		"type": "panel",
+		"day_id": "dia_2",
+		"time": "15:45-17:15",
+		"title": "O Impacto da Lei de Informática nas Pesquisas e na Formação de Profissionais de Software nas Universidades e nas Empresas",
+		"abstract": "",
+		"moderator": "",
+		"panelists": [ "hyggo", "alfredo", "veronica" ]
+	},
+	{
+		"id": "sast-1",
+		"id_event": "sast",
+		"type": "technical-session",
+		"day_id": "dia_2",
+		"time": "10:45-12:15",
+		"papers": [ "1", "2", "3" ]
+	},
+	{
+		"id": "sast-2",
+		"id_event": "sast",
+		"type": "technical-session",
+		"day_id": "dia_2",
+		"time": "15:45-17:15",
+		"papers": [ "4", "5", "6" ]
+	},
+	{
+		"id": "sast-3",
+		"id_event": "sast",
+		"type": "technical-session",
+		"day_id": "dia_3",
+		"time": "10:45-12:15",
+		"papers": [ "7", "8", "9" ]
+	},
+	{
+		"id": "sast-4",
+		"id_event": "sast",
+		"type": "technical-session",
+		"day_id": "dia_3",
+		"time": "14:00-15:30",
+		"papers": [ "10", "11", "12" ]
+	},
+	{
+		"id": "sast-palestra",
+		"id_event": "sast",
+		"type": "keynote",
+		"day_id": "dia_3",
+		"time": "15:45-17:15",
+		"speaker_id": "baishakhi"
+	},
+	{
+		"id": "ctic-es-1",
+		"id_event": "ctic-es",
+		"type": "general",
+		"day_id": "dia_2",
+		"time": "15:45-15:55",
+		"chair": "Maria Augusta Nelson, Eduardo Figueiredo",
+		"title_id": "opening"
+	},
+	{
+		"id": "ctic-es-1",
+		"id_event": "ctic-es",
+		"type": "technical-session",
+		"day_id": "dia_2",
+		"time": "15:55-17:10",
+		"papers": [ "3", "2", "1" ]
+	},
+	{
+		"id": "ctic-es-1",
+		"id_event": "ctic-es",
+		"type": "general",
+		"day_id": "dia_2",
+		"time": "17:10-17:15",
+		"chair": "Maria Augusta Nelson, Eduardo Figueiredo",
+		"title_id": "closing"
+	},
+	{
+		"id": "ctd-es-1",
+		"id_event": "ctd-es",
+		"type": "technical-session",
+		"day_id": "dia_2",
+		"time": "10:45-11:54",
+		"papers": [ "1", "2", "3" ]
+	},
+	{
+		"id": "ctd-es-1",
+		"id_event": "ctd-es",
+		"type": "general",
+		"day_id": "dia_2",
+		"time": "11:54-12:15",
+		"chair": "Gleison Santos, Ana Regina Rocha",
+		"title_id": "reuniao_banca"
+	},
+	{
+		"id": "ctd-es-2",
+		"id_event": "ctd-es",
+		"type": "technical-session",
+		"day_id": "dia_2",
+		"time": "15:45-16:54",
+		"papers": [ "4", "5", "6" ]
+	},
+	{
+		"id": "ctd-es-2",
+		"id_event": "ctd-es",
+		"type": "general",
+		"day_id": "dia_2",
+		"time": "16:54-17:15",
+		"chair": "Gleison Santos, Ana Regina Rocha",
+		"title_id": "reuniao_banca"
+	},
+	{
+		"id": "sbes-palestra-1",
+		"id_event": "sbes",
+		"type": "keynote",
+		"day_id": "dia_3",
+		"time": "09:00-10:30",
+		"speaker_id": "alexander"
+	},
+	{
+		"id": "sbes-palestra-2",
+		"id_event": "sbes",
+		"type": "keynote",
+		"day_id": "dia_4",
+		"time": "09:00-10:30",
+		"speaker_id": "ana-regina"
+	},
+	{
+		"id": "sbes-palestra-3",
+		"id_event": "sbes",
+		"type": "keynote",
+		"day_id": "dia_5",
+		"time": "09:00-10:30",
+		"speaker_id": "paulo"
+	},
+	{
+		"id": "sbes-1a",
+		"id_event": "sbes",
+		"type": "technical-session",
+		"day_id": "dia_3",
+		"time": "10:45-12:30",
+		"papers": [ "1", "2", "3", "4", "5", "6" ]
+	},
+	{
+		"id": "sbes-1b",
+		"id_event": "sbes",
+		"type": "technical-session",
+		"day_id": "dia_3",
+		"time": "10:45-12:30",
+		"papers": [ "7", "8", "9", "10", "11", "12" ]
+	},
+	{
+		"id": "sbes-1c",
+		"id_event": "sbes",
+		"type": "technical-session",
+		"day_id": "dia_3",
+		"time": "10:45-12:30",
+		"papers": [ "13", "14", "15", "16", "17", "18" ]
+	},
+	{
+		"id": "sbes-2a",
+		"id_event": "sbes",
+		"type": "technical-session",
+		"day_id": "dia_3",
+		"time": "14:00-15:30",
+		"papers": [ "19", "20", "21", "22", "23", "24" ]
+	},
+	{
+		"id": "sbes-2b",
+		"id_event": "sbes",
+		"type": "technical-session",
+		"day_id": "dia_3",
+		"time": "14:00-15:30",
+		"papers": [ "25", "26", "27", "28", "29", "30" ]
+	},
+	{
+		"id": "sbes-2c",
+		"id_event": "sbes",
+		"type": "technical-session",
+		"day_id": "dia_3",
+		"time": "14:00-15:30",
+		"papers": [ "31", "32", "33", "34", "35", "36" ]
+	},
+	{
+		"id": "sbes-3a",
+		"id_event": "sbes",
+		"type": "technical-session",
+		"day_id": "dia_4",
+		"time": "10:45-12:15",
+		"papers": [ "37", "38", "39", "42", "40", "41" ]
+	},
+	{
+		"id": "sbes-3b",
+		"id_event": "sbes",
+		"type": "technical-session",
+		"day_id": "dia_4",
+		"time": "10:45-12:15",
+		"papers": [ "43", "44", "48", "45", "46", "47" ]
+	},
+	{
+		"id": "sbes-3c",
+		"id_event": "sbes",
+		"type": "technical-session",
+		"day_id": "dia_4",
+		"time": "10:45-12:15",
+		"papers": [ "49", "50", "52", "53", "54", "51" ]
+	},
+	{
+		"id": "sbes-4a",
+		"id_event": "sbes",
+		"type": "technical-session",
+		"day_id": "dia_4",
+		"time": "15:45-17:15",
+		"papers": [ "55", "56", "57", "58", "59", "60" ]
+	},
+	{
+		"id": "sbes-4b",
+		"id_event": "sbes",
+		"type": "technical-session",
+		"day_id": "dia_4",
+		"time": "15:45-17:15",
+		"papers": [ "61", "62", "63", "65", "64", "66" ]
+	},
+	{
+		"id": "sbes-4c",
+		"id_event": "sbes",
+		"type": "technical-session",
+		"day_id": "dia_4",
+		"time": "15:45-17:15",
+		"papers": [ "67", "69", "71", "72", "68", "70" ]
+	},
+	{
+		"id": "sbes-5a",
+		"id_event": "sbes",
+		"type": "technical-session",
+		"day_id": "dia_5",
+		"time": "10:45-12:15",
+		"papers": [ "73", "74", "75", "76" ]
+	},
+	{
+		"id": "sbes-5b",
+		"id_event": "sbes",
+		"type": "technical-session",
+		"day_id": "dia_5",
+		"time": "10:45-12:15",
+		"papers": [ "77", "78", "79", "80", "81", "82" ]
+	},
+	{
+		"id": "sbes-5c",
+		"id_event": "sbes",
+		"type": "technical-session",
+		"day_id": "dia_5",
+		"time": "10:45-12:15",
+		"papers": [ "83", "84", "85", "86", "87", "88" ]
+	},
+	{
+		"id": "sbes-6a",
+		"id_event": "sbes",
+		"type": "technical-session",
+		"day_id": "dia_5",
+		"time": "14:00-15:30",
+		"papers": [ "89", "90", "91", "93", "92", "94" ]
+	},
+	{
+		"id": "sbes-6b",
+		"id_event": "sbes",
+		"type": "technical-session",
+		"day_id": "dia_5",
+		"time": "14:00-15:30",
+		"papers": [ "95", "96", "97", "98", "99" ]
+	},
+	{
+		"id": "sbes-6c",
+		"id_event": "sbes",
+		"type": "technical-session",
+		"day_id": "dia_5",
+		"time": "14:00-15:30",
+		"papers": [ "100", "101", "102", "103", "104" ]
+	},
+	{
+		"id": "painel-cbsoft",
+		"id_event": "cbsoft",
+		"type": "panel",
+		"day_id": "dia_4",
+		"time": "14:00-15:30",
+		"title": "Diferentes Possibilidades para Seguir Carreira no Brasil",
+		"abstract": "Apesar da atual situação econômica brasileira, o mercado de Tecnologia da Informação e Comunicação continua aquecido e há várias oportunidades de atuação para profissionais formados na área de Computação. As habilidades desenvolvidas durante a realização de pesquisa de qualidade, seja em Graduação, Mestrado, Doutorado ou Pós-Doutorado, são valiosas e contribuem com a atuação profissional na indústria de software, em centros de pesquisa e inovação, na academia, como empreendedor(a), etc. Os painelistas têm diferentes experiências sobre estas possibilidades de atuação e vão discutir os diferentes caminhos possíveis para seguir carreira no Brasil.",
+		"moderator": "alessandro",
+		"panelists": [ "fernando", "rafael", "renato", "roberta", "sergio" ]
+	},
+	{
+		"id": "assembleia-cees",
+		"id_event": "cbsoft",
+		"type": "general",
+		"day_id": "dia_4",
+		"time": "19:00-21:00",
+		"chair": "Rafael Prikladnicki",
+		"title_id": "assembleia"
+	},
+	{
+		"id": "closing",
+		"id_event": "cbsoft",
+		"type": "general",
+		"day_id": "dia_5",
+		"time": "15:45-17:15",
+		"chair": "Everton Cavalcante",
+		"title_id": "closing_award"
+	}
+	]
+}

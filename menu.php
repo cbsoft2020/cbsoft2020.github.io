@@ -11,10 +11,10 @@
                 <li class="nav-item dropdown active dropdown-slide">
                     <a class="nav-link" href="#" data-toggle="dropdown">CBSoft 2020</a>
                     <div class="dropdown-menu">
-						<a class="dropdown-item" href="#speakers" data-i18n="menu.palestrantes">Palestrantes</a>
+						<a class="dropdown-item" href="index.php#speakers" data-i18n="menu.palestrantes">Palestrantes</a>
                         <a class="dropdown-item" href="organizacao.php" data-i18n="menu.organizacao">Organização</a>
                         <a class="dropdown-item" href="patrocinio.php" data-i18n="menu.patrocinio">Patrocínio</a>
-                        <a class="dropdown-item" href="index.php#programacao" data-i18n="menu.programacao">Programação</a>
+                        <a class="dropdown-item" href="programacao.php" data-i18n="menu.programacao">Programação</a>
                         <a class="dropdown-item" href="#" data-i18n="menu.anais">Anais</a>
                         <a class="dropdown-item" href="codigo-conduta.php" data-i18n="menu.codigo_conduta">Código de Conduta</a>
                         <a class="dropdown-item" href="edicoes-anteriores.php" data-i18n="menu.edicoes_anteriores">Edições Anteriores</a>
@@ -109,14 +109,14 @@
 							<a class="dropdown-item menu-wtdsoft" href="#" data-toggle="dropdown" data-i18n="workshops.mssis">MSSiS</a>
 							<ul class="dropdown-menu dropdown-menu-right">
 								<li><a class="dropdown-item menu-wtdsoft" href="https://ww2.inf.ufg.br/mssis/" target="_blank" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a></li>
-								<li><a class="dropdown-item menu-wtdsoft" href="#" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a></li>
+								<li><a class="dropdown-item menu-wtdsoft" href="artigos.php?evento=mssis" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a></li>
 							</ul>
 						</li>
 						<li class="dropdown-submenu">
 							<a class="dropdown-item menu-wtdsoft" href="#" target="_blank" data-toggle="dropdown" data-i18n="workshops.vem">VEM</a>
 							<ul class="dropdown-menu dropdown-menu-right">
 								<li><a class="dropdown-item menu-wtdsoft" href="https://vem2020.github.io/vem2020/" target="_blank" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a></li>
-								<li><a class="dropdown-item menu-wtdsoft" href="#" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a></li>
+								<li><a class="dropdown-item menu-wtdsoft" href="artigos.php?evento=vem" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a></li>
 							</ul>
 						</li>
 						<li class="dropdown-submenu">
@@ -152,7 +152,7 @@
                 </li>
             </ul>
             <a href="inscricoes.php" class="ticket">
-				<span style="color: #ffffff"><i class="fa fa-ticket fa-lg"></i></span>&nbsp;
+				<i style="color: white" class="fa fa-ticket fa-lg"></i>&nbsp;
 				<span data-i18n="menu.inscricoes">Inscreva-se</span>
             </a>
         </div>
