@@ -303,6 +303,13 @@
 								</a>
 							</div>
 						</li>
+						<li class="list-inline-item">
+							<div class="image-block text-center">
+								<a href="https://www.cnpq.br/" target="_blank">
+									<img src="images/sponsors/cnpq.png" alt="sponsors-logo" class="img-fluid">
+								</a>
+							</div>
+						</li>
 					</ul>
 				</div>
 			</div>
