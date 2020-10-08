@@ -16,8 +16,12 @@
 							<p><?php echo $speaker->institution;?></p>
 						</div>
 						<div class="details" style="margin-top: 40px">
-							<h5 style="line-height: 30px"><?php echo $speaker->title;?></h5>
-							<p><?php echo $speaker->abstract;?></p>
+							<?php if (!empty($speaker->title)) {
+								echo '<h5 style="line-height: 30px">'.$speaker->title.'</h5>';
+							} ?>
+							<?php if (!empty($speaker->abstract)) {
+								echo '<p>'.$speaker->abstract.'</p>';
+							} ?>
 							<p>
 								<span style="font-weight: bold; color: black" data-i18n="speakers.bio"></span>
 								<?php echo $speaker->bio;?>

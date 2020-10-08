@@ -138,8 +138,8 @@
 		"image": "hyggo.jpg",
 		"name": "Hyggo Almeida",
 		"institution": "Universidade Federal de Campina Grande",
-		"webpage": "#",
-		"email": "#",
+		"webpage": "https://hyggo.computacao.ufcg.edu.br",
+		"email": "hyggo@computacao.ufcg.edu.br",
 		"bio": "Hyggo Almeida é graduado em Ciência da Computação pela Universidade Federal de Alagoas (2002), Mestre em Informática pela Universidade Federal de Campina Grande (2004) e Doutor em Engenharia Elétrica pela Universidade Federal de Campina Grande (2007). Atualmente é Professor Associado de Computação da Universidade Federal de Campina Grande e coordena projetos de pesquisa e desenvolvimento na área de Engenharia de Software. É Diretor Executivo do Núcleo da Unidade EMBRAPII CEEI/UFCG - Software e Automação. É Diretor de Operações do Núcleo de Pesquisa, Desenvolvimento e Inovação em Tecnologia da Informação, Comunicação e Automação (VIRTUS/UFCG). É coordenador do Projeto Baião de Três, que tem como foco o ensino de empreendedorismo inovador na UFCG. É coordenador do grupo de pesquisa ISE no VIRTUS, voltado para a área de Engenharia de Software Inteligente, seu foco de pesquisa atualmente. Publicou mais de 200 artigos em conferências e periódicos nacionais e internacionais."
 	},
 	{
@@ -148,7 +148,7 @@
 		"image": "alfredo.jpg",
 		"name": "Alfredo Goldman",
 		"institution": "Universidade de São Paulo",
-		"webpage": "#",
+		"webpage": "https://www.ime.usp.br/~gold/new/",
 		"email": "gold@ime.usp.br",
 		"bio": "Alfredo Goldman possui Doutorado pelo Institut National Polytechnique de Grenoble, França, e é atualmente Professor Associado da Universidade de São Paulo. Participa do Comitê de Programa de várias conferências. É editor do Elsevier Parallel Computing. Seus principais interesses de pesquisa estão em computação paralela e distribuída, escalonamento e métodos ágeis."
 	},
@@ -158,8 +158,8 @@
 		"image": "veronica.png",
 		"name": "Veronica Teichrieb",
 		"institution": "Universidade Federal de Pernambuco",
-		"webpage": "#",
-		"email": "gold@ime.usp.br",
+		"webpage": "https://cin.ufpe.br/~vt/",
+		"email": "vt@cin.ufpe.br",
 		"bio": "Veronica Teichrieb é professora e Coordenadora de Cooperação e Inovação com empresas do Centro de Informática da Universidade Federal de Pernambuco. Também é diretora do laboratório Voxar Labs, considerado em 2018 o principal grupo de pesquisa em Realidade Aumentada da América Latina em produção científica na área, focado em transferência de tecnologias geradas na pesquisa do laboratório para produtos inovadores e geração de novos negócios. Possui Doutorado em Computação e trabalha em Computação Espacial, englobando Realidades Estendidas, Visão Computacional e Interação Natural. Atua como coordenadora de projetos com empresas desde 2011, incluindo Eletrobras Furnas, LG, HP, Simpress, SimplifiqueGP e AlfaCon, além de projetos com agências de fomento como FACEPE, CNPq, FINEP e CAPES. Também atua como consultora em projetos, como Marinha do Brasil e Samsung. Possui seis patentes depositadas e vários registros de software. Também vem participando de Comitês de Programa de diversas conferências e está na Organização Geral do ISMAR 2020 e do SVR 2020. É editora associada da Frontiers in Virtual Reality - Augmented Reality. Supervisionou dois pesquisadores de Pós-Doutorado e formou oito doutores, 35 mestres e 25 estudantes de Iniciação Científica, orientando atualmente outros 15 estudantes."
 	}
 	]
