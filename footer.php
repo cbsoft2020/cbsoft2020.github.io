@@ -10,6 +10,9 @@
 			  <li class="list-inline-item">
                 <a href="mailto:cbsoft2020@imd.ufrn.br"><i class="fa fa-envelope fa-2x"></i></a>
               </li>
+				<li class="list-inline-item">
+                <a href="https://twitter.com/congressocbsoft" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
+              </li>
               <li class="list-inline-item">
                 <a href="https://www.facebook.com/congresso.cbsoft/" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>
               </li>
