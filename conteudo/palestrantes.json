@@ -131,5 +131,36 @@
 		"title": "Propositions as Types",
 		"abstract": "The principle of Propositions as Types links logic to computation. At first sight, it appears to be a simple coincidence - almost a pun - but it turns out to be remarkably robust, inspiring the design of theorem provers and programming languages, and continuing to influence the forefronts of Computing. Propositions as Types has many names and many origins and is a notion with depth, breadth, and mystery.",
 		"bio": "Philip Wadler likes to introduce theory into practice, and practice into theory. An example of theory into practice: GJ, the basis for Java with generics, derives from quantifiers in second-order logic. An example of practice into theory: Featherweight Java specifies the core of Java in less than one page of rules. He is a principal designer of the Haskell programming language, contributing to its two main innovations, type classes and monads. The YouTube video of his Strange Loop talk Propositions as Types has over 75,000 views. He is a Professor of Theoretical Computer Science at the University of Edinburgh and Senior Research Fellow at IOHK. He is an ACM Fellow, a Fellow of the Royal Society of Edinburgh, and editor-in-chief of Proceedings of the ACM for Programming Languages. He is past chair of ACM SIGPLAN, past holder of a Royal Society-Wolfson Research Merit Fellowship, winner of the SIGPLAN Distinguished Service Award, and a winner of the POPL Most Influential Paper Award. Previously, he worked or studied at the Stanford University, Xerox Parc, CMU, Oxford University, Chalmers University of Technology, Glasgow University, Bell Labs, and Avaya Labs, and visited as a guest professor in Copenhagen, Sydney, and Paris. He has an <emph>h</emph>-index of over 70 with more than 25,000 citations to his work, according to Google Scholar. He contributed to the designs of Haskell, Java, and XQuery and is co-author of <emph>Introduction to Functional Programming</emph> (Prentice Hall, 1988), <emph>XQuery from the Experts</emph> (Addison Wesley, 2004), <emph>Generics and Collections in Java</emph> (O'Reilly, 2006), and <emph>Programming Language Foundations in Agda</emph> (2018). He has delivered invited talks in locations ranging from Aizu to Zurich."
-	}]
+	},
+	{
+		"id": "hyggo",
+		"id_event": "trilha-industria",
+		"image": "hyggo.jpg",
+		"name": "Hyggo Almeida",
+		"institution": "Universidade Federal de Campina Grande",
+		"webpage": "#",
+		"email": "#",
+		"bio": "Hyggo Almeida é graduado em Ciência da Computação pela Universidade Federal de Alagoas (2002), Mestre em Informática pela Universidade Federal de Campina Grande (2004) e Doutor em Engenharia Elétrica pela Universidade Federal de Campina Grande (2007). Atualmente é Professor Associado de Computação da Universidade Federal de Campina Grande e coordena projetos de pesquisa e desenvolvimento na área de Engenharia de Software. É Diretor Executivo do Núcleo da Unidade EMBRAPII CEEI/UFCG - Software e Automação. É Diretor de Operações do Núcleo de Pesquisa, Desenvolvimento e Inovação em Tecnologia da Informação, Comunicação e Automação (VIRTUS/UFCG). É coordenador do Projeto Baião de Três, que tem como foco o ensino de empreendedorismo inovador na UFCG. É coordenador do grupo de pesquisa ISE no VIRTUS, voltado para a área de Engenharia de Software Inteligente, seu foco de pesquisa atualmente. Publicou mais de 200 artigos em conferências e periódicos nacionais e internacionais."
+	},
+	{
+		"id": "alfredo",
+		"id_event": "trilha-industria",
+		"image": "alfredo.jpg",
+		"name": "Alfredo Goldman",
+		"institution": "Universidade de São Paulo",
+		"webpage": "#",
+		"email": "gold@ime.usp.br",
+		"bio": "Alfredo Goldman possui Doutorado pelo Institut National Polytechnique de Grenoble, França, e é atualmente Professor Associado da Universidade de São Paulo. Participa do Comitê de Programa de várias conferências. É editor do Elsevier Parallel Computing. Seus principais interesses de pesquisa estão em computação paralela e distribuída, escalonamento e métodos ágeis."
+	},
+	{
+		"id": "veronica",
+		"id_event": "trilha-industria",
+		"image": "veronica.png",
+		"name": "Veronica Teichrieb",
+		"institution": "Universidade Federal de Pernambuco",
+		"webpage": "#",
+		"email": "gold@ime.usp.br",
+		"bio": "Veronica Teichrieb é professora e Coordenadora de Cooperação e Inovação com empresas do Centro de Informática da Universidade Federal de Pernambuco. Também é diretora do laboratório Voxar Labs, considerado em 2018 o principal grupo de pesquisa em Realidade Aumentada da América Latina em produção científica na área, focado em transferência de tecnologias geradas na pesquisa do laboratório para produtos inovadores e geração de novos negócios. Possui Doutorado em Computação e trabalha em Computação Espacial, englobando Realidades Estendidas, Visão Computacional e Interação Natural. Atua como coordenadora de projetos com empresas desde 2011, incluindo Eletrobras Furnas, LG, HP, Simpress, SimplifiqueGP e AlfaCon, além de projetos com agências de fomento como FACEPE, CNPq, FINEP e CAPES. Também atua como consultora em projetos, como Marinha do Brasil e Samsung. Possui seis patentes depositadas e vários registros de software. Também vem participando de Comitês de Programa de diversas conferências e está na Organização Geral do ISMAR 2020 e do SVR 2020. É editora associada da Frontiers in Virtual Reality - Augmented Reality. Supervisionou dois pesquisadores de Pós-Doutorado e formou oito doutores, 35 mestres e 25 estudantes de Iniciação Científica, orientando atualmente outros 15 estudantes."
+	}
+	]
 }
