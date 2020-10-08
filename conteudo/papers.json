@@ -1288,56 +1288,56 @@
     {
         "id_event": "vem",
         "title": "Visualizing the Maintainability of Feature Models in SPLs",
-        "authors": "",
+        "authors": "Luan Lima, Anderson Uchôa, Carla Bezerra, Emanuel Coutinho, Lincoln Rocha",
         "category": "full",
         "paperId": "1"
     },
     {
         "id_event": "vem",
         "title": "Analisando Estratégias para Identificação de Débitos Técnicos",
-        "authors": "",
+        "authors": "Isabela Oliveira, Humberto T. Marques-Neto, Laerte Xavier",
         "category": "full",
         "paperId": "2"
     },
     {
         "id_event": "vem",
         "title": "Proposta de uma Abordagem para Decompor Sistemas Monolíticos em Microsserviços",
-        "authors": "",
+        "authors": "Felipe Chateaubriand Brasil, Ricardo Terra",
         "category": "full",
         "paperId": "3"
     },
     {
         "id_event": "vem",
         "title": "Data-Flow Analysis Heuristic for Vulnerability Detection on Configurable Systems",
-        "authors": "",
+        "authors": "Gleyberson Andrade, Elder Cirilo, Vinicius Durelli, Bruno Cafeo, Eiji Adachi",
         "category": "full",
         "paperId": "4"
     },
     {
         "id_event": "vem",
         "title": "Quero lhe usar! Uma Análise do Público Alvo de Code Samples",
-        "authors": "",
+        "authors": "Willian Braga, Gabriel Menezes, Awdren Fontão, Andre Hora, Bruno Cafeo",
         "category": "full",
         "paperId": "5"
     },
     {
         "id_event": "vem",
         "title": "Validação e Construção de um Dicionário Léxico para Auxiliar a Análise de Sentimentos em Repositórios de Projetos de Software",
-        "authors": "",
+        "authors": "Hiolanda Menezes, Gláucya Boechat, Joselito Mota Jr, Ivan Machado",
         "category": "full",
         "paperId": "6"
     },
     {
         "id_event": "vem",
         "title": "Contextual Similarity Among Identifier Names - An Empirical Study",
-        "authors": "",
+        "authors": "Remo Gresta, Elder Cirilo",
         "category": "full",
         "paperId": "7"
     },
     {
         "id_event": "vem",
         "title": "DiffMutAnalyze: Uma Ferramenta para Auxiliar a Análise dos Mutantes Equivalentes no Ensino do Teste de Mutação",
-        "authors": "",
+        "authors": "Juliana Botelho, Maurício Souza, Vinicius H. S. Durelli, Rafael S. Durelli",
         "category": "full",
         "paperId": "8"
     }
