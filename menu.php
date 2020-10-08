@@ -110,6 +110,7 @@
 							<ul class="dropdown-menu dropdown-menu-right">
 								<li><a class="dropdown-item menu-wtdsoft" href="https://ww2.inf.ufg.br/mssis/" target="_blank" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a></li>
 								<li><a class="dropdown-item menu-wtdsoft" href="artigos.php?evento=mssis" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a></li>
+								<li><a class="dropdown-item menu-wtdsoft" href="palestras.php?evento=mssis" data-i18n="menu.palestras">Palestras</a></li>
 							</ul>
 						</li>
 						<li class="dropdown-submenu">
@@ -117,6 +118,7 @@
 							<ul class="dropdown-menu dropdown-menu-right">
 								<li><a class="dropdown-item menu-wtdsoft" href="https://vem2020.github.io/vem2020/" target="_blank" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a></li>
 								<li><a class="dropdown-item menu-wtdsoft" href="artigos.php?evento=vem" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a></li>
+								<li><a class="dropdown-item menu-wtdsoft" href="palestras.php?evento=vem" data-i18n="menu.palestras">Palestras</a></li>
 							</ul>
 						</li>
 						<li class="dropdown-submenu">
