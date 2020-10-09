@@ -11,71 +11,6 @@
 		"title_id": "opening"
 	},
 	{
-		"id": "mssis-1",
-		"id_event": "mssis",
-		"type": "general",
-		"day_id": "dia_1",
-		"time": "09:00-09:05",
-		"room_id": "sala_2",
-		"chair": "Valdemar Graciano Neto, Elisa Yumi Nakagawa",
-		"title_id": "opening"
-	},
-	{
-		"id": "mssis-1",
-		"id_event": "mssis",
-		"type": "keynote",
-		"day_id": "dia_1",
-		"room_id": "sala_2",
-		"time": "09:05-10:00",
-		"speaker_id": "pablo"
-	},
-	{
-		"id": "mssis-1",
-		"id_event": "mssis",
-		"type": "technical-session",
-		"day_id": "dia_1",
-		"time": "10:00-10:30",
-		"room_id": "sala_2",
-		"papers": [ "2", "1" ]
-	},
-	{
-		"id": "mssis-2",
-		"id_event": "mssis",
-		"type": "keynote",
-		"day_id": "dia_1",
-		"time": "10:45-11:40",
-		"room_id": "sala_2",
-		"speaker_id": "gustavo"
-	},
-	{
-		"id": "mssis-2",
-		"id_event": "mssis",
-		"type": "technical-session",
-		"day_id": "dia_1",
-		"time": "11:40-12:20",
-		"room_id": "sala_2",
-		"papers": [ "5", "4" ]
-	},
-	{
-		"id": "mssis-3",
-		"id_event": "mssis",
-		"type": "technical-session",
-		"day_id": "dia_1",
-		"time": "15:45-17:05",
-		"room_id": "sala_2",
-		"papers": [ "6", "7", "8", "3" ]
-	},
-	{
-		"id": "mssis-3",
-		"id_event": "mssis",
-		"type": "general",
-		"day_id": "dia_1",
-		"time": "17:05-17:20",
-		"room_id": "sala_2",
-		"chair": "Valdemar Graciano Neto, Elisa Yumi Nakagawa",
-		"title_id": "closing_agenda"
-	},
-	{
 		"id": "vem-1",
 		"id_event": "vem",
 		"type": "general",
@@ -139,6 +74,71 @@
 		"room_id": "sala_1",
 		"chair": "Rafael Durelli, Lincoln Rocha",
 		"title_id": "closing_award"
+	},
+	{
+		"id": "mssis-1",
+		"id_event": "mssis",
+		"type": "general",
+		"day_id": "dia_1",
+		"time": "09:00-09:05",
+		"room_id": "sala_2",
+		"chair": "Valdemar Graciano Neto, Elisa Yumi Nakagawa",
+		"title_id": "opening"
+	},
+	{
+		"id": "mssis-1",
+		"id_event": "mssis",
+		"type": "keynote",
+		"day_id": "dia_1",
+		"room_id": "sala_2",
+		"time": "09:05-10:00",
+		"speaker_id": "pablo"
+	},
+	{
+		"id": "mssis-1",
+		"id_event": "mssis",
+		"type": "technical-session",
+		"day_id": "dia_1",
+		"time": "10:00-10:30",
+		"room_id": "sala_2",
+		"papers": [ "2", "1" ]
+	},
+	{
+		"id": "mssis-2",
+		"id_event": "mssis",
+		"type": "keynote",
+		"day_id": "dia_1",
+		"time": "10:45-11:40",
+		"room_id": "sala_2",
+		"speaker_id": "gustavo"
+	},
+	{
+		"id": "mssis-2",
+		"id_event": "mssis",
+		"type": "technical-session",
+		"day_id": "dia_1",
+		"time": "11:40-12:20",
+		"room_id": "sala_2",
+		"papers": [ "5", "4" ]
+	},
+	{
+		"id": "mssis-3",
+		"id_event": "mssis",
+		"type": "technical-session",
+		"day_id": "dia_1",
+		"time": "15:45-17:05",
+		"room_id": "sala_2",
+		"papers": [ "6", "7", "8", "3" ]
+	},
+	{
+		"id": "mssis-3",
+		"id_event": "mssis",
+		"type": "general",
+		"day_id": "dia_1",
+		"time": "17:05-17:20",
+		"room_id": "sala_2",
+		"chair": "Valdemar Graciano Neto, Elisa Yumi Nakagawa",
+		"title_id": "closing_agenda"
 	},
 	{
 		"id": "wtdsoft-1",

@@ -27,7 +27,18 @@
 						<h3 data-i18n="inscricoes.titulo"></h3>
 					</div>
 					
-					<div class="col-lg-12" align="center">
+					<div id="registration-div" class="col-lg-6 col-md-6 align-self-center" style="margin-bottom: 30px">
+						<div class="content-block">
+							<div class="description-one">
+								<span style="font-size: 1.25rem; font-weight: bold" data-i18n="inscricoes.botao_1"></span>&nbsp;
+								<a href="http://centraldesistemas.sbc.org.br/ecos/cbsoft2020/">
+									<span style="color: #f4b321; font-size: 1.25rem; font-weight: bold" data-i18n="inscricoes.botao_2"></span>
+								</a>
+							</div>
+						</div>
+					</div>
+					
+					<div class="col-lg-12" align="center" id="registration-button">
 						<a href="http://centraldesistemas.sbc.org.br/ecos/cbsoft2020/" class="btn btn-main-md-2">
 							<span data-i18n="inscricoes.botao"></span>
 						</a>

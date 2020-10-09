@@ -39,10 +39,28 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
-				<div class="section-title">
-					<h3 style="margin-top: 50px; margin-bottom: 30px" data-i18n="menu.programacao">Programação</h3>
+				<div class="section-title" style="margin-top: 50px">
+					<h3 data-i18n="menu.programacao"></h3>
 				</div>
-				<div class="description-one">
+					
+				<div id="program-full-div" class="col-lg-6 col-md-6 align-self-center" style="margin-bottom: 30px">
+                    <div class="content-block">
+                        <div class="description-one" style="text-align: center">
+                            <span style="font-size: 1.25rem; font-weight: bold" data-i18n="schedule.programacao_completa_1"></span>&nbsp;
+                            <a href="programacao-completa.php">
+                                <span style="color: #f4b321; font-size: 1.25rem; font-weight: bold" data-i18n="schedule.programacao_completa_2"></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-12" align="center" id="program-full-button">
+                    <a href="programacao-completa.php" class="btn btn-main-md-2">
+                        <span data-i18n="schedule.programacao_completa"></span>
+                    </a>
+                </div>
+					
+				<div class="description-one" style="margin-top: 40px">
 					<p style="text-align: center" data-i18n="schedule.info"></p>
 				</div>
 			</div>
@@ -69,9 +87,9 @@
 					  	</li>
 					</ul>
 				</div>
-				<div class="schedule-contents bg-schedule">
+				<div class="schedule-contents">
 					<div class="tab-content" id="pills-tabContent">
-						<div class="tab-pane fade show active schedule-item" id="oct19">
+						<div class="table-responsive tab-pane fade show active schedule-item" id="oct19">
 							<table class="table table-hover" id="program-table" style="background-color: white">
 								<thead style="background-color: #f4b321; color: white">
 									<tr>
@@ -163,7 +181,7 @@
 								</tbody>
 							</table>
 					</div>
-					<div class="tab-pane fade schedule-item" id="oct20">
+					<div class="table-responsive tab-pane fade schedule-item" id="oct20">
 						<table class="table table-hover" id="program-table" style="background-color: white">
 							<thead style="background-color: #f4b321; color: white">
 								<tr>
@@ -259,7 +277,7 @@
 							</tbody>
 						</table>
 					</div>
-					<div class="tab-pane fade schedule-item" id="oct21">
+					<div class="table-responsive tab-pane fade schedule-item" id="oct21">
 						<table class="table table-hover" id="program-table" style="background-color: white">
 							<thead style="background-color: #f4b321; color: white">
 								<tr>
@@ -345,7 +363,7 @@
 							</tbody>
 						</table>
 					</div>
-					<div class="tab-pane fade schedule-item" id="oct22">
+					<div class="table-responsive tab-pane fade schedule-item" id="oct22">
 						<table class="table table-hover" id="program-table" style="background-color: white">
 							<thead style="background-color: #f4b321; color: white">
 								<tr>
@@ -438,7 +456,7 @@
 							</tbody>
 						</table>
 					</div>
-					<div class="tab-pane fade schedule-item" id="oct23">
+					<div class="table-responsive tab-pane fade schedule-item" id="oct23">
 						<table class="table table-hover" id="program-table" style="background-color: white">
 							<thead style="background-color: #f4b321; color: white">
 								<tr>

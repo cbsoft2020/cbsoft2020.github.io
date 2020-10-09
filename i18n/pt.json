@@ -97,13 +97,17 @@
 	},
 
 	"schedule": {
+		"titulo": "Programação",
 		"dia_1": "19/10/2020",
 		"dia_2": "20/10/2020",
 		"dia_3": "21/10/2020",
 		"dia_4": "22/10/2020",
 		"dia_5": "23/10/2020",
 		"horario": "Horário",
-		"info": "Todas as sessões serão realizadas virtualmente através da plataforma <a href='https://zoom.us' target='_blank' style='color: #f4b321'>Zoom</a>, com <strong>acesso restrito</strong> aos participantes inscritos no CBSoft 2020. Os horários de todas as sessões referem-se ao horário de Brasília (BRT/GMT-3).<br/>Para outros fusos horários, acesse <a href='https://www.timeanddate.com/worldclock/converter.html?iso=20201019T210000&p1=568' target='_blank' style='color: #f4b321'>timeanddate.com</a>.",
+		"programacao_completa": "Programação detalhada",
+		"programacao_completa_1": "Veja a programação detalhada",
+		"programacao_completa_2": "aqui",
+		"info": "Todas as sessões serão realizadas virtualmente através da plataforma <a href='https://zoom.us' target='_blank' style='color: #f4b321'>Zoom</a>, com <span style='font-weight: bold; color: black'>acesso restrito</span> aos participantes inscritos no CBSoft 2020. Os horários de todas as sessões referem-se ao horário de Brasília (BRT/GMT-3).<br/>Para outros fusos horários, acesse <a href='https://www.timeanddate.com/worldclock/converter.html?iso=20201019T210000&p1=568' target='_blank' style='color: #f4b321'>timeanddate.com</a>.",
 		"sala_1": "Sala Virtual 1",
 		"sala_2": "Sala Virtual 2",
 		"sala_3": "Sala Virtual 3",
@@ -1473,6 +1477,8 @@
 	"inscricoes": {
 		"titulo": "Inscrições",
 		"botao": "Faça sua inscrição no CBSoft 2020 através do sistema ECOS da SBC",
+		"botao_1": "Faça sua inscrição no CBSoft 2020 através do sistema ECOS da SBC clicando",
+		"botao_2": "aqui",
 		"descricao_1": "O CBSoft é um evento realizado pela <a href='http://www.sbc.org.br' style='color: #f4b321'>Sociedade Brasileira de Computação (SBC)</a>. A SBC é uma associação civil sem fins lucrativos que reúne estudantes, professores, profissionais, pesquisadores e entusiastas em Computação de todo o Brasil, sendo a maior sociedade científica da área na América do Sul. Com 42 anos de existência, a SBC estimula o desenvolvimento científico e tecnológico no País, promovendo a inclusão digital, incentivando atividades de ensino, pesquisa e desenvolvimento em Computação no Brasil e contribuindo para a formação do profissional de Computação com responsabilidade social.",
 		"descricao_2": "Os valores de inscrição no CBSoft 2020 estão listados abaixo. Estudantes e profissionais não associados à SBC podem se associar ou renovar sua associação no processo de inscrição com desconto. Inscrever-se no evento e se associar à SBC (combo) é a opção mais vantajosa para o participante que ainda não é associado à Sociedade, pois o participante pagará um valor menor que a opção sem associação e ainda aproveitará os benefícios de ser associado à SBC. Os benefícios de se associar à SBC podem ser encontrados neste <a href='http://www.sbc.org.br/associe-se-2/269-beneficios' style='color: #f4b321'>link</a>.",
 		"descricao_3": "As inscrições serão realizadas através do sistema <a href='http://centraldesistemas.sbc.org.br/ecos/cbsoft2020/' style='color: #f4b321'>ECOS</a> da SBC. Antes, porém, recomenda-se uma leitura atenta das informações abaixo para conhecimento das condições e prazos relativos à inscrição. Todos os valores estão expressos em reais (R$).",

@@ -77,8 +77,26 @@
 	  	  }
 	  }
 	  
+	  @media (min-width: 767px) {
+		  #registration-div {
+		  	  display: none;
+	  	  }
+	  }
+	  
 	  @media (max-width: 767px) {
-		  #announcement-button {
+		  #registration-button {
+			  display: none;
+		  }
+	  }
+	  
+	  @media (min-width: 767px) {
+		  #program-full-div {
+		  	  display: none;
+	  	  }
+	  }
+	  
+	  @media (max-width: 767px) {
+		  #program-full-button {
 			  display: none;
 		  }
 	  }

@@ -97,13 +97,17 @@
 	},
 
 	"schedule": {
+		"titulo": "Program",
 		"dia_1": "October 19",
 		"dia_2": "October 20",
 		"dia_3": "October 21",
 		"dia_4": "October 22",
 		"dia_5": "October 23",
 		"horario": "Time",
-		"info": "All sessions will be held virtually at the <a href='https://zoom.us' target='_blank' style='color: #f4b321'>Zoom</a> platform, with <strong>access restricted</strong> to participants registered in CBSoft 2020. The times of all sessions refer to the Brasilia Time (BRT/GMT-3). For other time zones, see <a href='https://www.timeanddate.com/worldclock/converter.html?iso=20201019T210000&p1=568' target='_blank' style='color: #f4b321'>timeanddate.com</a>.",
+		"programacao_completa": "Detailed program",
+		"programacao_completa_1": "See the detailed program",
+		"programacao_completa_2": "here",
+		"info": "All sessions will be held virtually at the <a href='https://zoom.us' target='_blank' style='color: #f4b321'>Zoom</a> platform, with <span style='font-weight: bold; color: black'>access restricted</span> to participants registered in CBSoft 2020. The times of all sessions refer to the Brasilia Time (BRT/GMT-3). For other time zones, see <a href='https://www.timeanddate.com/worldclock/converter.html?iso=20201019T210000&p1=568' target='_blank' style='color: #f4b321'>timeanddate.com</a>.",
 		"sala_1": "Virtual Room 1",
 		"sala_2": "Virtual Room 2",
 		"sala_3": "Virtual Room 3",
@@ -1477,6 +1481,8 @@
 	"inscricoes": {
 		"titulo": "Registration",
 		"botao": "Register for CBSoft 2020 through the SBC's ECOS system",
+		"botao_1": "Register for CBSoft 2020 in the SBC's ECOS system by clicking",
+		"botao_2": "here",
 		"descricao_1": "CBSoft is a conference sponsored by the <a href='http://www.sbc.org.br' style='color: #f4b321'>Brazilian Computer Society (SBC)</a>. SBC is a civil, non-profit association that brings together students, professors, professionals, researchers, and enthusiasts in Computer Science from all over Brazil, being the largest scientific society of this field in South America. With 42 years of existence, SBC stimulates the scientific and technological development of Brazil by promoting digital inclusion, encouraging teaching, research, and development activities in Computer Science in Brazil, and contributing to the formation of Computer Science professionals with social responsibility.",
 		"descricao_2": "The registration fees for CBSoft 2020 are listed below. Students and professionals who are not members of SBC can associate or renew their association with a discount during the registration process. Registering for the conference and becoming a member of SBC (combo) is the most advantageous option for the participant who is not yet a member of SBC since he/she will pay less than the option for non-members and will enjoy the benefits of being a member of SBC. The benefits of joining SBC can be found <a href='http://www.sbc.org.br/associe-se-2/269-beneficios' style='color: #f4b321'>here</a>.",
 		"descricao_3": "Registration will be handled by the SBC's <a href='http://centraldesistemas.sbc.org.br/ecos/cbsoft2020/' style='color: #f4b321'>ECOS</a> system. However, it is recommended to carefully read the information below to know the conditions and deadlines related to the registration. All registration fees are in Brazilian reais (R$/BRL).",
