@@ -103,7 +103,7 @@
 		"dia_4": "October 22",
 		"dia_5": "October 23",
 		"horario": "Time",
-		"time_zone": "All times refer to the Brasilia Time (BRT/GMT-3). For other time zones, please use <a href='https://www.timeanddate.com/worldclock/converter.html?iso=20201019T210000&p1=568' target='_blank' style='color: #f4b321'>timeanddate.com</a>.",
+		"info": "All sessions will be held virtually at the <a href='https://zoom.us' target='_blank' style='color: #f4b321'>Zoom</a> platform, with <strong>access restricted</strong> to participants registered in CBSoft 2020. The times of all sessions refer to the Brasilia Time (BRT/GMT-3). For other time zones, see <a href='https://www.timeanddate.com/worldclock/converter.html?iso=20201019T210000&p1=568' target='_blank' style='color: #f4b321'>timeanddate.com</a>.",
 		"sala_1": "Virtual Room 1",
 		"sala_2": "Virtual Room 2",
 		"sala_3": "Virtual Room 3",

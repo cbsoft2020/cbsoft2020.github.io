@@ -41,10 +41,13 @@
 			<div class="col-12">
 				<div class="section-title">
 					<h3 style="margin-top: 50px; margin-bottom: 30px" data-i18n="menu.programacao">Programação</h3>
-					<p style="text-align: center" data-i18n="schedule.time_zone"></p>
+				</div>
+				<div class="description-one">
+					<p style="text-align: center" data-i18n="schedule.info"></p>
 				</div>
 			</div>
 		</div>
+		<br/>
 		<div class="row">
 			<div class="col-12">
 				<div class="schedule-tab">
