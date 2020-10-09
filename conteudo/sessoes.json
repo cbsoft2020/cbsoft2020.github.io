@@ -285,6 +285,7 @@
 		"room_id": "sala_3",
 		"title": "O Impacto da Lei de Informática nas Pesquisas e na Formação de Profissionais de Software nas Universidades e nas Empresas",
 		"abstract": "",
+		"chair": "",
 		"moderator": "",
 		"panelists": [ "hyggo", "alfredo", "veronica" ]
 	},
@@ -598,6 +599,7 @@
 		"room_id": "sala_1",
 		"title": "Diferentes Possibilidades para Seguir Carreira no Brasil",
 		"abstract": "Apesar da atual situação econômica brasileira, o mercado de Tecnologia da Informação e Comunicação continua aquecido e há várias oportunidades de atuação para profissionais formados na área de Computação. As habilidades desenvolvidas durante a realização de pesquisa de qualidade, seja em Graduação, Mestrado, Doutorado ou Pós-Doutorado, são valiosas e contribuem com a atuação profissional na indústria de software, em centros de pesquisa e inovação, na academia, como empreendedor(a), etc. Os painelistas têm diferentes experiências sobre estas possibilidades de atuação e vão discutir os diferentes caminhos possíveis para seguir carreira no Brasil.",
+		"chair": "Thelma Colanzi",
 		"moderator": "alessandro",
 		"panelists": [ "fernando", "rafael", "renato", "roberta", "sergio" ]
 	},

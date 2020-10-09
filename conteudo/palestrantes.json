@@ -161,6 +161,46 @@
 		"webpage": "https://cin.ufpe.br/~vt/",
 		"email": "vt@cin.ufpe.br",
 		"bio": "Veronica Teichrieb é professora e Coordenadora de Cooperação e Inovação com empresas do Centro de Informática da Universidade Federal de Pernambuco. Também é diretora do laboratório Voxar Labs, considerado em 2018 o principal grupo de pesquisa em Realidade Aumentada da América Latina em produção científica na área, focado em transferência de tecnologias geradas na pesquisa do laboratório para produtos inovadores e geração de novos negócios. Possui Doutorado em Computação e trabalha em Computação Espacial, englobando Realidades Estendidas, Visão Computacional e Interação Natural. Atua como coordenadora de projetos com empresas desde 2011, incluindo Eletrobras Furnas, LG, HP, Simpress, SimplifiqueGP e AlfaCon, além de projetos com agências de fomento como FACEPE, CNPq, FINEP e CAPES. Também atua como consultora em projetos, como Marinha do Brasil e Samsung. Possui seis patentes depositadas e vários registros de software. Também vem participando de Comitês de Programa de diversas conferências e está na Organização Geral do ISMAR 2020 e do SVR 2020. É editora associada da Frontiers in Virtual Reality - Augmented Reality. Supervisionou dois pesquisadores de Pós-Doutorado e formou oito doutores, 35 mestres e 25 estudantes de Iniciação Científica, orientando atualmente outros 15 estudantes."
+	},
+	{
+		"id": "alessandro",
+		"id_event": "cbsoft",
+		"image": "alessandro.jpg",
+		"name": "Alessandro Garcia",
+		"institution": "Pontifícia Universidade Católica do Rio de Janeiro",
+		"webpage": "http://www-di.inf.puc-rio.br/~afgarcia/",
+		"email": "afgarcia@inf.puc-rio.br",
+		"bio": "Alessandro Garcia é professor associado do Departamento de Informática da Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio). Possui Doutorado em Informática pela PUC-Rio (2004). Atuou como professor adjunto na Lancaster University (Reimo Unido) de fevereiro de 2005 a janeiro de 2009. Atuou como membro do Conselho Editorial de dois importantes periódicos internacionais em sua área, o <em>IEEE Transactions on Software Engineering</em> e o <em>Journal of Systems and Software</em>. Tem sido frequentemente convidado para Comitês de Programa e/ou Comitês de Organização das principais conferências internacionais em Engenharia de Software e áreas afins, como ICSE, FSE, ICSME, MODELS, ICPC, ESEM e várias outras. Recebeu vários prêmios, distinções e reconhecimentos, tais como a Melhor Dissertação de Mestrado do ano de 2000 (Sociedade Brasileira de Computação), Pesquisador do Ano (Lancaster University, 2006), Jovem Cientista - Rio de Janeiro (FAPERJ, 2009, 2013 e 2016) e Membro Afiliado da Academia Brasileira de Ciências (ABC, 2009 a 2014). Vários de seus artigos receberam distinções nas principais conferências de sua área, tais como o <em>ACM Distinguished Paper Award</em> no ICSE 2014. Possui várias parcerias com grupos internacionais de pesquisa nos EUA, Reino Unido, Alemanha e Argentina. Seus projetos de pesquisa são financiados por agências de desenvolvimento - CNPq, CAPES, FAPERJ e Newton Fund - e por parceiros da indústria de software."
+	},
+	{
+		"id": "fernando",
+		"id_event": "cbsoft",
+		"image": "fernando.jpg",
+		"name": "Fernando Magno Quintao Pereira",
+		"institution": "Universidade Federal de Minas Gerais",
+		"webpage": "https://homepages.dcc.ufmg.br/~fernando/home/",
+		"email": "fernando@dcc.ufmg.br",
+		"bio": "Fernando Pereira obteve seu doutorado na University of Califórnia, Los Angeles, em 2008. Desde novembro de 2009 é professor do Departamento De Ciência da Computação da Universidade Federal de Minas Gerais, onde coordena o Laboratório de Compiladores. Trabalhos desenvolvidos sob sua coordenação fazem ou fizeram parte de compiladores muito populares como o nvcc (NVIDIA), o Mozilla TraceMonkey e o LLVM. Alunos que se formaram no Laboratório de Compiladores hoje trabalham em empresas como Microsoft, Apple, Google e ARM."
+	},
+	{
+		"id": "renato",
+		"id_event": "cbsoft",
+		"image": "renato.png",
+		"name": "Renato Cerqueira",
+		"institution": "IBM Research Brazil",
+		"webpage": "https://www.cin.ufpe.br/~scbs/",
+		"email": "sbcs@cin.ufpe.br",
+		"bio": "Renato Cerqueira é Senior Research Manager na IBM Research Brazil, onde lidera um grupo de pesquisa que desenvolve tecnologias baseadas em Inteligência Artificial para interpretação de dados e tomada de decisão, com enfoque em aprendizado e raciocínio adaptativo, Inteligência Artificial centrada no ser humano, engenharia de conhecimento e Aprendizado de Máquina com conhecimento de domínio aumentado. Renato e sua equipe têm explorado a aplicação de suas pesquisas a diferentes problemas em Geociências, tais como caracterização de sub-superfícies e avaliação de risco geológico. Antes de ingressar na IBM Research, Renato foi professor no Departamento de Informática da PUC-Rio, onde conduziy pesquisas em Engenharia de Software para sistemas distribuídos e orientou diversos estudantes de Mestrado e Doutorado. Em 2001, foi professor visitante na University of Illinois at Urbana-Champaign, EUA."
+	},
+	{
+		"id": "sergio",
+		"id_event": "cbsoft",
+		"image": "sergio.jpg",
+		"name": "Sergio Castelo Branco Soares",
+		"institution": "Universidade Federal de Pernambuco",
+		"webpage": "https://www.cin.ufpe.br/~scbs/",
+		"email": "sbcs@cin.ufpe.br",
+		"bio": "Sergio Soares é Doutor em Ciência da Computação pela Universidade Federal de Pernambuco (2004) e Professor Associado do Centro de Informática da Universidade Federal de Pernambuco - CIn/UFPE. Publicou mais de 150 artigos com mais de 2.700 citações em trabalho acadêmicos, segundo o Google Acadêmico, e orienta pesquisadores de Pós-Doutorado, Doutorado, Mestrado, Especialização, Iniciação Científica e de conclusão de curso na área de Computação, com mais de 100 alunos e pesquisadores orientados. Tem experiência na coordenação de projetos de desenvolvimento, pesquisa e inovação financiados por SENAI, CNPq, FACEPE, FINEP, Petrobras, Lei de Informática e pela indústria. É coordenador executivo do INES - Instituto Nacional de Ciência e Tecnologia para Engenharia de Software. Associado da Sociedade Brasileira de Computação - SBC desde 2002. Foi Diretor do Instituto SENAI de Inovação para Tecnologias da Informação e Comunicação - ISI-TICs de 2013 a 2020, onde atuou de 2018 a 2020 como Líder da Aliança de Mercado Industria Mais Avançada - I+A do SENAI, responsável por lidar com desafios associados à Indústria 4.0, Manufatura Avançada, Internet das Coisas - IoT e Digitalização para a Indústria Brasileira."
 	}
 	]
 }

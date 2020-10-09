@@ -33,6 +33,15 @@
 			$file = "conteudo/palestrantes.json";
 			$info = file_get_contents($file);
 			$keynoteData = json_decode($info);
+			if (!empty($s->moderator)) {
+				foreach($keynoteData->speakers as $speaker) {
+					if (strcmp($speaker->id, $s->moderator) == 0) {
+						array_push($panelists, $speaker);
+					}
+				}
+			} else {
+				array_push($panelists, null);
+			}
 			foreach($s->panelists as $panelist_id) {
 				foreach($keynoteData->speakers as $speaker) {
 					if (strcmp($speaker->id, $panelist_id) == 0) {
@@ -190,13 +199,44 @@
 							<span style="margin-left: 5px"><?php echo $s->time; ?></span><br/>
 							<i style="margin-left: 3px; margin-right: 3px; margin-top: 10px" class="fa fa-map-marker fa-lg"></i>
 							<span style="margin-left: 10px; margin-right: 10px" data-i18n="schedule.<?php echo $s->room_id; ?>"></span>
+							<?php if (!empty($s->chair)) { ?>
+								<br/>
+								<i style="margin-top: 10px" class="fa fa-user fa-lg"></i>
+								<span style="margin-left: 11px" data-i18n="schedule.chair"></span>: 
+								<span><?php echo $s->chair; ?></span>
+							<?php } ?>
 							<?php if (!empty($s->abstract)) {
 								echo '<h6 style="margin-top: 30px" data-i18n="schedule.descricao"></h6>';
 								echo '<p>'.$s->abstract.'</p>';
-							} 
+							}
 							if (!empty($panelists)) {
+								if ($panelists[0] != null) { ?>
+									<h6 style="margin-top: 30px" data-i18n="schedule.moderador"></h6>
+									<div class="container" style="margin-left: -45px">
+									<div class="block">
+										<div class="row">
+											<div class="col-lg-5 col-md-6 align-self-md-top">
+												<div class="image-block" style="border-width: 0px">
+													<img src="images/speakers/<?php echo $panelists[0]->image;?>" style="width: 80%; border-radius: 0" class="img-fluid" alt="speaker">
+												</div>
+											</div>
+											<div class="col-lg-7 col-md-6 align-self-center" style="margin-left: -100px; margin-top: 20px">
+												<div class="content-block">
+													<div class="details">
+														<p style="font-weight: bold; color: black"><?php echo $panelists[0]->name; ?></p>
+														<p><?php echo $panelists[0]->institution; ?></p><br/>
+														<p><?php echo $panelists[0]->bio;?></p>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+							<?php 
+								} ?>
+							<?php
 								echo '<h6 style="margin-top: 30px" data-i18n="schedule.painelistas"></h6>';
-								for($i=0; $i < count($panelists); $i++) { ?>
+								for($i=1; $i < count($panelists); $i++) { ?>
 								<div class="container" style="margin-left: -45px">
 									<div class="block">
 										<div class="row">
