@@ -103,7 +103,9 @@
 							<div class="description-one">
 								<i class="fa fa-clock-o fa-lg"></i>
 								<span style="margin-left: 10px; margin-right: 10px" data-i18n="schedule.<?php echo $s->day_id; ?>"></span>| 
-								<span style="margin-left: 10px; margin-right: 10px"><?php echo $s->time; ?></span><br/>
+								<span style="margin-left: 5px"><?php echo $s->time; ?></span><br/>
+								<i style="margin-left: 3px; margin-right: 3px; margin-top: 10px" class="fa fa-map-marker fa-lg"></i>
+								<span style="margin-left: 10px; margin-right: 10px" data-i18n="schedule.<?php echo $s->room_id; ?>"><br/>
 								<i style="margin-top: 10px" class="fa fa-user fa-lg"></i>
 								<span style="margin-left: 11px" data-i18n="schedule.chair"></span>: 
 								<span><?php echo $s->chair; ?></span>
@@ -114,7 +116,9 @@
 							<div class="description-one">
 								<i style="margin-top: 10px" class="fa fa-clock-o fa-lg"></i>
 								<span style="margin-left: 10px; margin-right: 10px" data-i18n="schedule.<?php echo $s->day_id; ?>"></span>| 
-								<span style="margin-left: 10px; margin-right: 10px"><?php echo $s->time; ?></span><br/>
+								<span style="margin-left: 5px"><?php echo $s->time; ?></span><br/>
+								<i style="margin-left: 3px; margin-right: 3px; margin-top: 10px" class="fa fa-map-marker fa-lg"></i>
+								<span style="margin-left: 10px; margin-right: 10px" data-i18n="schedule.<?php echo $s->room_id; ?>"><br/>
 								<?php if (isset($s->chair)) { ?>
 									<i style="margin-top: 10px" class="fa fa-user fa-lg"></i>
 									<span style="margin-left: 11px" data-i18n="schedule.chair"></span>: 
@@ -151,7 +155,9 @@
 							</h5>
 							<i class="fa fa-clock-o fa-lg"></i>
 							<span style="margin-left: 10px; margin-right: 10px" data-i18n="schedule.<?php echo $s->day_id; ?>"></span>| 
-							<span style="margin-left: 10px; margin-right: 10px"><?php echo $s->time; ?></span><br/>
+							<span style="margin-left: 5px"><?php echo $s->time; ?></span><br/>
+							<i style="margin-left: 3px; margin-right: 3px; margin-top: 10px" class="fa fa-map-marker fa-lg"></i>
+							<span style="margin-left: 10px; margin-right: 10px" data-i18n="schedule.<?php echo $s->room_id; ?>"></span><br/>
 							<i style="margin-top: 10px" class="fa fa-user fa-lg"></i>
 							<span style="margin-left: 10px"><?php echo $keynote[0]->name; ?> (<?php echo $keynote[0]->institution; ?>)</span>
 							<div class="container" style="margin-left: -45px">
@@ -181,7 +187,9 @@
 							</h5>
 							<i class="fa fa-clock-o fa-lg"></i>
 							<span style="margin-left: 10px; margin-right: 10px" data-i18n="schedule.<?php echo $s->day_id; ?>"></span>| 
-							<span style="margin-left: 10px; margin-right: 10px"><?php echo $s->time; ?></span>
+							<span style="margin-left: 5px"><?php echo $s->time; ?></span><br/>
+							<i style="margin-left: 3px; margin-right: 3px; margin-top: 10px" class="fa fa-map-marker fa-lg"></i>
+							<span style="margin-left: 10px; margin-right: 10px" data-i18n="schedule.<?php echo $s->room_id; ?>"></span>
 							<?php if (!empty($s->abstract)) {
 								echo '<h6 style="margin-top: 30px" data-i18n="schedule.descricao"></h6>';
 								echo '<p>'.$s->abstract.'</p>';
