@@ -15,6 +15,7 @@
                         <a class="dropdown-item" href="organizacao.php" data-i18n="menu.organizacao">Organização</a>
                         <a class="dropdown-item" href="patrocinio.php" data-i18n="menu.patrocinio">Patrocínio</a>
                         <a class="dropdown-item" href="programacao.php" data-i18n="menu.programacao">Programação</a>
+						<a class="dropdown-item" href="sessao.php?id=painel-cbsoft" data-i18n="schedule.painel">Painel</a>
                         <a class="dropdown-item" href="#" data-i18n="menu.anais">Anais</a>
                         <a class="dropdown-item" href="codigo-conduta.php" data-i18n="menu.codigo_conduta">Código de Conduta</a>
                         <a class="dropdown-item" href="edicoes-anteriores.php" data-i18n="menu.edicoes_anteriores">Edições Anteriores</a>
@@ -100,6 +101,7 @@
                         <a class="dropdown-item" href="trilha-industria.php" data-i18n="menu.chamada_trabalhos">Chamada de Trabalhos</a>
                         <a class="dropdown-item" href="artigos.php?evento=trilha-industria" data-i18n="menu.artigos_aceitos">Artigos Aceitos</a>
                         <a class="dropdown-item" href="palestras.php?evento=trilha-industria" data-i18n="menu.palestras">Palestras</a>
+						<a class="dropdown-item" href="sessao.php?id=trilha-industria-2" data-i18n="schedule.painel">Painel</a>
                     </div>
                 </li>
 				<li class="nav-item dropdown">
