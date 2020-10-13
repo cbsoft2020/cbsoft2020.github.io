@@ -61,7 +61,8 @@
                 </div>
 					
 				<div class="description-one" style="margin-top: 40px">
-					<p style="text-align: center" data-i18n="schedule.info"></p>
+					<p style="text-align: center" data-i18n="schedule.info"></p><br/>
+					<p style="text-align: center" data-i18n="schedule.calendar"></p>
 				</div>
 			</div>
 		</div>
@@ -94,10 +95,10 @@
 								<thead style="background-color: #f4b321; color: white">
 									<tr>
 										<th scope="col" class="align-middle"></th>
-										<th scope="col" class="align-middle" width="15%">
+										<th scope="col" class="align-middle" width="13%">
 											<p style="text-align: left; margin-left: -10px" data-i18n="schedule.horario"></p>
 										</th>
-										<th scope="col" class="align-middle" width="17%">
+										<th scope="col" class="align-middle" width="20%">
 											<p data-i18n="schedule.sala_1"></p>
 										</th>
 										<th scope="col" class="align-middle" width="17%">
@@ -186,10 +187,10 @@
 							<thead style="background-color: #f4b321; color: white">
 								<tr>
 									<th scope="col" class="align-middle"></th>
-									<th scope="col" class="align-middle" width="15%">
+									<th scope="col" class="align-middle" width="13%">
 										<p style="text-align: left; margin-left: -10px" data-i18n="schedule.horario"></p>
 									</th>
-									<th scope="col" class="align-middle" width="17%">
+									<th scope="col" class="align-middle" width="20%">
 										<p data-i18n="schedule.sala_1"></p>
 									</th>
 									<th scope="col" class="align-middle" width="17%">											
@@ -285,10 +286,10 @@
 							<thead style="background-color: #f4b321; color: white">
 								<tr>
 									<th scope="col" class="align-middle"></th>
-									<th scope="col" class="align-middle" width="15%">
+									<th scope="col" class="align-middle" width="13%">
 										<p style="text-align: left; margin-left: -10px" data-i18n="schedule.horario"></p>
 									</th>
-									<th scope="col" class="align-middle" width="17%">
+									<th scope="col" class="align-middle" width="20%">
 										<p data-i18n="schedule.sala_1"></p>
 									</th>
 									<th scope="col" class="align-middle" width="17%">											
@@ -371,10 +372,10 @@
 							<thead style="background-color: #f4b321; color: white">
 								<tr>
 									<th scope="col" class="align-middle"></th>
-									<th scope="col" class="align-middle" width="15%">
+									<th scope="col" class="align-middle" width="13%">
 										<p style="text-align: left; margin-left: -10px" data-i18n="schedule.horario"></p>
 									</th>
-									<th scope="col" class="align-middle" width="17%">
+									<th scope="col" class="align-middle" width="20%">
 										<p data-i18n="schedule.sala_1"></p>
 									</th>
 									<th scope="col" class="align-middle" width="17%">											
@@ -464,10 +465,10 @@
 							<thead style="background-color: #f4b321; color: white">
 								<tr>
 									<th scope="col" class="align-middle"></th>
-									<th scope="col" class="align-middle" width="15%">
+									<th scope="col" class="align-middle" width="13%">
 										<p style="text-align: left; margin-left: -10px" data-i18n="schedule.horario"></p>
 									</th>
-									<th scope="col" class="align-middle" width="17%">
+									<th scope="col" class="align-middle" width="20%">
 										<p data-i18n="schedule.sala_1"></p>
 									</th>
 									<th scope="col" class="align-middle" width="17%">											

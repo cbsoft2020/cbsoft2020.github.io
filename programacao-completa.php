@@ -132,7 +132,8 @@
 				</div>
 					
 				<div class="description-one" style="margin-top: 40px">
-					<p style="text-align: center" data-i18n="schedule.info"></p>
+					<p style="text-align: center" data-i18n="schedule.info"></p><br/>
+					<p style="text-align: center" data-i18n="schedule.calendar"></p>
 				</div>
 			</div>
 		</div>
