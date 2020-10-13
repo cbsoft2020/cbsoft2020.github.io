@@ -183,6 +183,16 @@
 		"bio": "Fernando Pereira obteve seu doutorado na University of Califórnia, Los Angeles, em 2008. Desde novembro de 2009 é professor do Departamento De Ciência da Computação da Universidade Federal de Minas Gerais, onde coordena o Laboratório de Compiladores. Trabalhos desenvolvidos sob sua coordenação fazem ou fizeram parte de compiladores muito populares como o nvcc (NVIDIA), o Mozilla TraceMonkey e o LLVM. Alunos que se formaram no Laboratório de Compiladores hoje trabalham em empresas como Microsoft, Apple, Google e ARM."
 	},
 	{
+		"id": "rafael",
+		"id_event": "cbsoft",
+		"image": "rafael.jpg",
+		"name": "Rafael Prikladnicki",
+		"institution": "Pontifícia Universidade Católica do Rio Grande do Sul",
+		"webpage": "#",
+		"email": "rafael.prikladnicki@pucrs.br",
+		"bio": "Rafael Prikladnicki é professor da Escola Politécnica e membro permanente do Programa de Pós-Graduação em Ciência da Computação da Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS). É gestor de negócios e relacionamento do Tecnopuc, Parque Científico e Tecnológico da PUCRS. Doutor em Ciência da Computação pela PUCRS,com estágio de Doutorado na University of Victoria, Canadá. É presidente do Conselho Consultivo da revista <em>IEEE Software</em> e atua como membro do conselho editorial do <em>Empirical Software Engineering Journal</em>. Foi co-fundador da Agile Alliance Brazil. É membro da International Software Engineering Research Network (ISERN) e da Software Startup Research Network (SSRN). É Pesquisador Nível 1D do CNPq, autor de diversos artigos publicados em eventos e periódicos nacionais e internacionais e co-autor de cinco livros, entre eles o primeiro livro em português sobre desenvolvimento distribuído de software e o livro <em>Metodologias Ágeis para Desenvolvimento de Software</em>, que contou com a contribuição de mais de uma dezena de profissionais do País. Atualmente é coordenador da Comissão Especial de Engenharia de Software da SBC."
+	},
+	{
 		"id": "renato",
 		"id_event": "cbsoft",
 		"image": "renato.png",
