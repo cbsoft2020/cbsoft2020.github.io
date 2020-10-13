@@ -188,9 +188,19 @@
 		"image": "renato.png",
 		"name": "Renato Cerqueira",
 		"institution": "IBM Research Brazil",
-		"webpage": "https://www.cin.ufpe.br/~scbs/",
-		"email": "sbcs@cin.ufpe.br",
-		"bio": "Renato Cerqueira é Senior Research Manager na IBM Research Brazil, onde lidera um grupo de pesquisa que desenvolve tecnologias baseadas em Inteligência Artificial para interpretação de dados e tomada de decisão, com enfoque em aprendizado e raciocínio adaptativo, Inteligência Artificial centrada no ser humano, engenharia de conhecimento e Aprendizado de Máquina com conhecimento de domínio aumentado. Renato e sua equipe têm explorado a aplicação de suas pesquisas a diferentes problemas em Geociências, tais como caracterização de sub-superfícies e avaliação de risco geológico. Antes de ingressar na IBM Research, Renato foi professor no Departamento de Informática da PUC-Rio, onde conduziy pesquisas em Engenharia de Software para sistemas distribuídos e orientou diversos estudantes de Mestrado e Doutorado. Em 2001, foi professor visitante na University of Illinois at Urbana-Champaign, EUA."
+		"webpage": "https://researcher.watson.ibm.com/researcher/view.php?person=br-rcerq",
+		"email": "rcerq@br.ibm.com",
+		"bio": "Renato Cerqueira é Senior Research Manager na IBM Research Brazil, onde lidera um grupo de pesquisa que desenvolve tecnologias baseadas em Inteligência Artificial para interpretação de dados e tomada de decisão, com enfoque em aprendizado e raciocínio adaptativo, Inteligência Artificial centrada no ser humano, engenharia de conhecimento e Aprendizado de Máquina com conhecimento de domínio aumentado. Renato e sua equipe têm explorado a aplicação de suas pesquisas a diferentes problemas em Geociências, tais como caracterização de sub-superfícies e avaliação de risco geológico. Antes de ingressar na IBM Research, Renato foi professor no Departamento de Informática da Pontifícia Universidade Católica do Rio de Janeiro, onde conduziy pesquisas em Engenharia de Software para sistemas distribuídos e orientou diversos estudantes de Mestrado e Doutorado. Em 2001, foi professor visitante na University of Illinois at Urbana-Champaign, EUA."
+	},
+	{
+		"id": "roberta",
+		"id_event": "cbsoft",
+		"image": "roberta.png",
+		"name": "Roberta Lopes Arcoverde",
+		"institution": "Stack Overflow",
+		"webpage": "https://br.linkedin.com/in/robertaarcoverde",
+		"email": "#",
+		"bio": "Roberta Lopes Arcoverde é Mestre em Informática pela Pontifícia Universidade Católica do Rio de Janeiro e Bacharel em Ciência da Computação pela Universidade Federal de Pernambuco. Atua como <em>Tech Lead</em> e <em>Principal Software Developer</em> na empresa Stack Overflow (empresa privada americana) desde 2014."
 	},
 	{
 		"id": "sergio",
