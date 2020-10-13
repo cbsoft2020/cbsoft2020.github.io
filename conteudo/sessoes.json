@@ -186,6 +186,15 @@
 		"papers": [ "5", "6", "7", "8" ]
 	},
 	{
+		"id": "sbcars-palestra",
+		"id_event": "sbcars",
+		"type": "keynote",
+		"day_id": "dia_1",
+		"time": "14:00-15:30",
+		"room_id": "sala_1",
+		"speaker_id": "diomidis"
+	},
+	{
 		"id": "sbcars-3",
 		"id_event": "sbcars",
 		"type": "technical-session",
@@ -204,15 +213,6 @@
 		"papers": [ "13", "14", "15", "16" ]
 	},
 	{
-		"id": "sbcars-palestra",
-		"id_event": "sbcars",
-		"type": "keynote",
-		"day_id": "dia_1",
-		"time": "14:00-15:30",
-		"room_id": "sala_1",
-		"speaker_id": "diomidis"
-	},
-	{
 		"id": "sbcars-5",
 		"id_event": "sbcars",
 		"type": "general",
@@ -220,7 +220,7 @@
 		"time": "15:45-17:15",
 		"room_id": "sala_1",
 		"chair": "Gustavo Pinto",
-		"title_id": "reuniao_steering"
+		"title_id": "reuniao_sbcars"
 	},
 	{
 		"id": "sblp-1",
@@ -257,6 +257,16 @@
 		"time": "09:00-10:30",
 		"room_id": "sala_1",
 		"speaker_id": "philip"
+	},
+	{
+		"id": "sblp-4",
+		"id_event": "cbsoft",
+		"type": "general",
+		"day_id": "dia_2",
+		"time": "10:45-12:15",
+		"room_id": "sala_4",
+		"chair": "Rodrigo Ribeiro",
+		"title_id": "reuniao_celp"
 	},
 	{
 		"id": "trilha-industria-1",
@@ -611,7 +621,7 @@
 		"time": "19:00-21:00",
 		"room_id": "sala_1",
 		"chair": "Rafael Prikladnicki",
-		"title_id": "assembleia"
+		"title_id": "assembleia_cees"
 	},
 	{
 		"id": "closing",

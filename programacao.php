@@ -230,7 +230,11 @@
 									<td><a href="sessao.php?id=sbcars-4" data-i18n="events.sbcars"></a></td>
 									<td><a href="sessao.php?id=sast-1" data-i18n="events.sast"></a></td>
 									<td><a href="sessao.php?id=trilha-industria-1" data-i18n="events.trilha-industria"></a></td>
-									<td>SBLP</td>
+									<td>
+										<a href="sessao.php?id=sblp-4">
+											<span style="font-size: 15px; line-height: 0px" data-i18n="schedule.reuniao_celp"></span>
+										</a>
+									</td>
 									<td><a href="sessao.php?id=ctd-es-1" data-i18n="events.ctd-es"></a></td>
 								</tr>
 								<tr>
@@ -260,8 +264,7 @@
 									<td class="align-middle" style="text-align: left"><span style="margin-left: -10px" class="time">15:45-17:15</span></td></td>
 									<td>
 										<a href="sessao.php?id=sbcars-5">
-											<span data-i18n="events.sbcars"></span><br/>
-											<span style="font-size: 15px; line-height: 0px" data-i18n="schedule.reuniao_steering"></span>
+											<span data-i18n="schedule.reuniao_sbcars"></span>
 										</a>
 									</td>
 									<td><a href="sessao.php?id=sast-2" data-i18n="events.sast"></a></td>
@@ -451,7 +454,7 @@
 								<tr>
 									<td><i class="fa fa-clock-o"></i></td>
 									<td style="text-align: left"><span style="margin-left: -10px" class="time">19:00-20:30</span></td>
-									<td colspan="5"><a href="sessao.php?id=assembleia-cees" data-i18n="schedule.assembleia"></a></td>
+									<td colspan="5"><a href="sessao.php?id=assembleia-cees" data-i18n="schedule.assembleia_cees"></a></td>
 								</tr>
 							</tbody>
 						</table>

@@ -1,43 +1,5 @@
 <?php
-	function getSessions($dayId) {
-		$file = "conteudo/sessoes.json";
-		$info = file_get_contents($file);
-		$sessionData = json_decode($info);
-		$sessions = array();
-		foreach($sessionData->sessions as $session) {
-			if (strcmp($session->day_id, $dayId) == 0) {
-				array_push($sessions, $session);
-			}
-		}
-		return $sessions;
-	}
-
-	function getKeynote($keynoteId) {
-		$file = "conteudo/palestrantes.json";
-    	$info = file_get_contents($file);
-    	$keynoteData = json_decode($info);
-		foreach($keynoteData->speakers as $speaker) {
-			if (strcmp($speaker->id, $keynoteId) == 0) {
-				return $speaker;
-			}
-		}
-	}
-
-	function getPaper($eventId, $paperId) {
-		$file = "conteudo/papers.json";
-    	$info = file_get_contents($file);
-    	$paperData = json_decode($info);
-		foreach($paperData->papers as $paper) {
-			if (strcmp($paper->id_event, $eventId) == 0 && strcmp($paper->paperId, $paperId) == 0) {
-				return $paper;
-			} else {
-				$evento = substr($paper->id_event, 0, strpos($paper->id_event, '-'));
-				if (strcmp($evento, $eventId) == 0 && strcmp($paper->paperId, $paperId) == 0) {
-					return $paper;
-				}
-			}
-		}
-	}
+	include_once("plugins/functions.php");
 
 	function printSessions($sessions) {
 		$sbes_tracks = array(
@@ -63,7 +25,7 @@
             }
             if (strcmp($session->type, "general") == 0 && strcmp($session->id_event, $currentEvent) == 0) {
                 echo '<tr><td width="15%" style="text-align: left">
-                                <i style="margin-right: 10px" class="fa fa-clock-o"></i><span class="time">'.$session->time.'</span>
+                          <i style="margin-right: 10px" class="fa fa-clock-o"></i><span class="time">'.$session->time.'</span>
                           </td>
                           <td style="text-align: left"><span data-i18n="schedule.'.$session->title_id.'"></span><br/>
                           <i class="fa fa-map-marker"></i>
@@ -71,29 +33,31 @@
                       </td></tr>';
             } else if (strcmp($session->type, "technical-session") == 0) {
                 echo '<tr><td width="15%" style="text-align: left">
-                                <i style="margin-right: 10px" class="fa fa-clock-o"></i><span class="time">'.$session->time.'</span>
+                          <i style="margin-right: 10px" class="fa fa-clock-o"></i><span class="time">'.$session->time.'</span>
                           </td>
                           <td style="text-align: left"><span data-i18n="schedule.'.$session->id.'"></span><br/>
                           <i style="margin-bottom: 15px" class="fa fa-map-marker"></i>
                           <span style="font-size: 14px" data-i18n="schedule.'.$session->room_id.'"></span>';
+				echo '<ul id="papers-list" style="margin-left: -25px; list-style: none">';
                 for ($i=0; $i < count($session->papers); $i++) {
                     $evento = substr($session->id, 0, strrpos($session->id, '-'));
                     $paper = getPaper($evento, $session->papers[$i]);
-                    echo '<br/>- <span>'.$paper->title.'</span><br/>';
+					echo '<li class="paper-li">'.$paper->title.'<br/>';
                     if (strcmp($evento, "sbes") == 0) {
-                        echo '<span style="font-style:italic; font-size: 14px; margin-left: 12px" data-i18n="sbes.'.$sbes_tracks[$paper->id_event].'"></span>';
+                        echo '<span style="font-style:italic; font-size: 14px" data-i18n="sbes.'.$sbes_tracks[$paper->id_event].'"></span>';
                         if (strcmp($paper->category, "short") == 0) {
                             echo ', <span style="font-style:italic; font-size: 14px" data-i18n="schedule.short_paper"></span>';
                         }
 						echo '<br/>';
                     }
                     if (isset($paper->authors)) {
-                        echo '<span style="font-size: 14px; margin-left: 12px">'.$paper->authors.'</span>';
+                        echo '<span style="font-size: 14px">'.$paper->authors.'</span>';
                     } else if (isset($paper->author) && isset($paper->advisors)) {
-                        echo '<span style="font-size: 14px; margin-left: 12px">'.$paper->author.', '.$paper->advisors.'</span>';
+                        echo '<span style="font-size: 14px">'.$paper->author.', '.$paper->advisors.'</span>';
                     }
+					echo '</li>';
                 }
-                echo '</td></tr>';
+                echo '</ul></td></tr>';
             } else if (strcmp($session->type, "keynote") == 0) {
                 $keynote = getKeynote($session->speaker_id);
                 echo '<tr>
@@ -108,7 +72,28 @@
                       <span style="font-size: 13px" data-i18n="schedule.'.$session->room_id.'"></span>
                       </td>
                       </tr>';
-            }
+            } else if (strcmp($session->type, "panel") == 0) {
+				$panelists = getPanelists($session);
+				echo '<tr>
+                      <td width="15%" style="text-align: left">
+                      <i style="margin-right: 10px" class="fa fa-clock-o"></i><span class="time">'.$session->time.'</span>
+                      </td>
+                      <td style="text-align: left">
+                      <span data-i18n="schedule.painel"></span>:
+                      <span style="font-style: italic">'.$session->title.'</span><br/>
+					  <i style="margin-bottom: 15px" class="fa fa-map-marker"></i>
+					  <span style="font-size: 13px" data-i18n="schedule.'.$session->room_id.'"></span><br/>';
+				if ($panelists[0] != null) {
+					echo '<span data-i18n="schedule.moderador"></span>: '.$panelists[0]->name.' ('.$panelists[0]->institution.')<br/>';
+				}
+				echo '<span data-i18n="schedule.painelistas"></span>:';
+				echo '<ul id="papers-list" style="margin-left: -25px; list-style: none">';
+				for ($i=1; $i < count($panelists); $i++) {
+					echo '<li class="paper-li">'.$panelists[$i]->name.' ('.$panelists[$i]->institution.')</li>';
+				}
+				echo '</ul>';
+                echo'</td></tr>';
+			}
         }
         echo '</tbody></table>';
 	}

@@ -152,4 +152,85 @@ function sendEmail($nome, $email, $assunto, $mensagem, $destinatarios) {
 	}
 }
 
+
+// Função que retorna as sessões de um determinado dia
+function getSessions($dayId) {
+	// Carregando os dados das sessões
+    $file = "conteudo/sessoes.json";
+    $info = file_get_contents($file);
+    $sessionData = json_decode($info);
+    $sessions = array();
+    foreach($sessionData->sessions as $session) {
+        if (strcmp($session->day_id, $dayId) == 0) {
+            array_push($sessions, $session);
+        }
+    }
+    return $sessions;
+}
+
+
+// Função que retorna as informações de um palestrante
+function getKeynote($keynoteId) {
+	// Carregando os dados dos palestrantes
+    $file = "conteudo/palestrantes.json";
+    $info = file_get_contents($file);
+    $keynoteData = json_decode($info);
+    foreach($keynoteData->speakers as $speaker) {
+        if (strcmp($speaker->id, $keynoteId) == 0) {
+            return $speaker;
+        }
+    }
+}
+
+
+// Função que retorna as informações de um artigo de um determinado evento
+function getPaper($eventId, $paperId) {
+	// Carregando os dados dos artigos
+    $file = "conteudo/papers.json";
+    $info = file_get_contents($file);
+    $paperData = json_decode($info);
+    foreach($paperData->papers as $paper) {
+        if (strcmp($paper->id_event, $eventId) == 0 && strcmp($paper->paperId, $paperId) == 0) {
+            return $paper;
+        } else {
+            $evento = substr($paper->id_event, 0, strpos($paper->id_event, '-'));
+            if (strcmp($evento, $eventId) == 0 && strcmp($paper->paperId, $paperId) == 0) {
+                return $paper;
+            }
+        }
+    }
+}
+
+
+// Função que retorna os painelistas do evento
+function getPanelists($session) {
+    $panelists = array();
+	
+	// Carregando os dados dos palestrantes
+    $file = "conteudo/palestrantes.json";
+    $info = file_get_contents($file);
+    $keynoteData = json_decode($info);
+	
+	// Moderador
+    if (!empty($session->moderator)) {
+        foreach($keynoteData->speakers as $speaker) {
+            if (strcmp($speaker->id, $session->moderator) == 0) {
+                array_push($panelists, $speaker);
+            }
+        }
+    } else {
+        array_push($panelists, null);
+    }
+	
+	// Painelistas
+    foreach($session->panelists as $panelist_id) {
+        foreach($keynoteData->speakers as $speaker) {
+            if (strcmp($speaker->id, $panelist_id) == 0) {
+                array_push($panelists, $speaker);
+            }
+        }
+    }			
+    return $panelists;
+}
+
 ?>
