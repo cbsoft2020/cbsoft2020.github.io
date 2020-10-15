@@ -114,7 +114,7 @@
 								<span style="margin-left: 10px; margin-right: 10px" data-i18n="schedule.<?php echo $s->day_id; ?>"></span>| 
 								<span style="margin-left: 5px"><?php echo $s->time; ?></span><br/>
 								<i style="margin-left: 3px; margin-right: 3px; margin-top: 10px" class="fa fa-map-marker fa-lg"></i>
-								<span style="margin-left: 10px; margin-right: 10px" data-i18n="schedule.<?php echo $s->room_id; ?>"><br/>
+								<span style="margin-left: 10px; margin-right: 10px" data-i18n="schedule.<?php echo $s->room_id; ?>"></span><br/>
 								<i style="margin-top: 10px" class="fa fa-user fa-lg"></i>
 								<span style="margin-left: 11px" data-i18n="schedule.chair"></span>: 
 								<span><?php echo $s->chair; ?></span>
@@ -127,7 +127,7 @@
 								<span style="margin-left: 10px; margin-right: 10px" data-i18n="schedule.<?php echo $s->day_id; ?>"></span>| 
 								<span style="margin-left: 5px"><?php echo $s->time; ?></span><br/>
 								<i style="margin-left: 3px; margin-right: 3px; margin-top: 10px" class="fa fa-map-marker fa-lg"></i>
-								<span style="margin-left: 10px; margin-right: 10px" data-i18n="schedule.<?php echo $s->room_id; ?>"><br/>
+								<span style="margin-left: 10px; margin-right: 10px" data-i18n="schedule.<?php echo $s->room_id; ?>"></span><br/>
 								<?php if (isset($s->chair)) { ?>
 									<i style="margin-top: 10px" class="fa fa-user fa-lg"></i>
 									<span style="margin-left: 11px" data-i18n="schedule.chair"></span>: 
