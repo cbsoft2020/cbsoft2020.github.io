@@ -1259,7 +1259,7 @@
     },
     {
         "id_event": "mssis",
-        "title": "Towards BPMN @Runtime",
+        "title": "Towards BPM@Runtime",
         "authors": "Luiz Loja, Sofia Paiva, Juliano Lopes de Oliveira",
         "category": "full",
         "paperId": "5"
@@ -1274,7 +1274,7 @@
     {
         "id_event": "mssis",
         "title": "Integration of Activity Specification into DEVS Modeling & Simulation Development Environment",
-        "authors": "Abdurrahman Alshareef",
+        "authors": "Abdurrahman Alshareef, Bernard P. Zeigler",
         "category": "full",
         "paperId": "7"
     },
