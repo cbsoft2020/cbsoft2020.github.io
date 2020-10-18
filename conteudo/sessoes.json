@@ -27,6 +27,7 @@
 		"day_id": "dia_1",
 		"time": "09:05-10:00",
 		"room_id": "sala_1",
+		"chair": "Paulo Maia",
 		"speaker_id": "bogdan"
 	},
 	{
@@ -36,6 +37,7 @@
 		"day_id": "dia_1",
 		"time": "10:00-10:20",
 		"room_id": "sala_1",
+		"chair": "Paulo Maia",
 		"papers": [ "1" ]
 	},
 	{
@@ -45,6 +47,7 @@
 		"day_id": "dia_1",
 		"time": "10:45-12:15",
 		"room_id": "sala_1",
+		"chair": "Fernanda Madeiral",
 		"papers": [ "2", "3", "4", "5", "6" ]
 	},
 	{
@@ -54,6 +57,7 @@
 		"day_id": "dia_1",
 		"time": "15:45-16:25",
 		"room_id": "sala_1",
+		"chair": "Rafael Durelli",
 		"papers": [ "7", "8" ]
 	},
 	{
@@ -63,6 +67,7 @@
 		"day_id": "dia_1",
 		"time": "16:25-17:05",
 		"room_id": "sala_1",
+		"chair": "Rafael Durelli",
 		"speaker_id": "castor"
 	},
 	{
@@ -92,6 +97,7 @@
 		"day_id": "dia_1",
 		"room_id": "sala_2",
 		"time": "09:05-10:00",
+		"chair": "Elisa Yumi Nakagawa",
 		"speaker_id": "pablo"
 	},
 	{
@@ -101,6 +107,7 @@
 		"day_id": "dia_1",
 		"time": "10:00-10:30",
 		"room_id": "sala_2",
+		"chair": "Valdemar Graciano Neto",
 		"papers": [ "2", "1" ]
 	},
 	{
@@ -110,6 +117,7 @@
 		"day_id": "dia_1",
 		"time": "10:45-11:40",
 		"room_id": "sala_2",
+		"chair": "Valdemar Graciano Neto",
 		"speaker_id": "gustavo"
 	},
 	{
@@ -119,6 +127,7 @@
 		"day_id": "dia_1",
 		"time": "11:40-12:20",
 		"room_id": "sala_2",
+		"chair": "Valdemar Graciano Neto",
 		"papers": [ "5", "4" ]
 	},
 	{
@@ -128,6 +137,7 @@
 		"day_id": "dia_1",
 		"time": "15:45-17:05",
 		"room_id": "sala_2",
+		"chair": "Valdemar Graciano Neto, Elisa Yumi Nakagawa",
 		"papers": [ "6", "7", "8", "3" ]
 	},
 	{
@@ -147,6 +157,7 @@
 		"day_id": "dia_1",
 		"time": "09:00-10:30",
 		"room_id": "sala_3",
+		"chair": "Johnny Marques",
 		"papers": [ "11", "10", "6", "8", "5", "1" ]
 	},
 	{
@@ -156,6 +167,7 @@
 		"day_id": "dia_1",
 		"time": "10:45-12:15",
 		"room_id": "sala_3",
+		"chair": "Elisa Yumi Nakagawa",
 		"papers": [ "7", "4", "9", "2", "3" ]
 	},
 	{
@@ -165,6 +177,7 @@
 		"day_id": "dia_1",
 		"time": "15:45-17:50",
 		"room_id": "sala_3",
+		"chair": "Paulo Meirelles",
 		"papers": [ "16", "14", "13", "12", "15" ]
 	},
 	{
@@ -174,6 +187,7 @@
 		"day_id": "dia_1",
 		"time": "09:00-10:30",
 		"room_id": "sala_4",
+		"chair": "Fernanda Madeiral",
 		"papers": [ "1", "2", "3", "4" ]
 	},
 	{
@@ -183,6 +197,7 @@
 		"day_id": "dia_1",
 		"time": "10:45-12:15",
 		"room_id": "sala_4",
+		"chair": "Rodrigo Bonifácio",
 		"papers": [ "5", "6", "7", "8" ]
 	},
 	{
@@ -192,6 +207,7 @@
 		"day_id": "dia_1",
 		"time": "14:00-15:30",
 		"room_id": "sala_1",
+		"chair": "Gustavo Pinto",
 		"speaker_id": "diomidis"
 	},
 	{
@@ -201,6 +217,7 @@
 		"day_id": "dia_1",
 		"time": "15:45-17:15",
 		"room_id": "sala_4",
+		"chair": "Leopoldo Teixeira",
 		"papers": [ "9", "10", "11", "12" ]
 	},
 	{
@@ -210,6 +227,7 @@
 		"day_id": "dia_2",
 		"time": "10:45-12:15",
 		"room_id": "sala_1",
+		"chair": "Paola Accioly",
 		"papers": [ "13", "14", "15", "16" ]
 	},
 	{
@@ -229,6 +247,7 @@
 		"day_id": "dia_1",
 		"time": "09:00-10:30",
 		"room_id": "sala_5",
+		"chair": "Sérgio Medeiros",
 		"papers": [ "1", "2", "3" ]
 	},
 	{
@@ -238,6 +257,7 @@
 		"day_id": "dia_1",
 		"time": "10:45-12:15",
 		"room_id": "sala_5",
+		"chair": "Rodrigo Ribeiro",
 		"papers": [ "4", "5", "6" ]
 	},
 	{
@@ -247,6 +267,7 @@
 		"day_id": "dia_1",
 		"time": "15:45-17:15",
 		"room_id": "sala_5",
+		"chair": "Francisco Sant'Anna",
 		"papers": [ "7", "8", "9" ]
 	},
 	{
@@ -256,6 +277,7 @@
 		"day_id": "dia_2",
 		"time": "09:00-10:30",
 		"room_id": "sala_1",
+		"chair": "Roberto Ierusalimschy",
 		"speaker_id": "philip"
 	},
 	{
@@ -275,6 +297,7 @@
 		"day_id": "dia_2",
 		"time": "10:45-12:15",
 		"room_id": "sala_3",
+		"chair": "Uirá Kulesza",
 		"papers": [ "6", "2", "3", "4", "5", "1" ]
 	},
 	{
@@ -306,6 +329,7 @@
 		"day_id": "dia_2",
 		"time": "10:45-12:15",
 		"room_id": "sala_2",
+		"chair": "Simone Senger",
 		"papers": [ "1", "2", "3" ]
 	},
 	{
@@ -315,6 +339,7 @@
 		"day_id": "dia_2",
 		"time": "15:45-17:15",
 		"room_id": "sala_2",
+		"chair": "Wesley Assunção",
 		"papers": [ "4", "5", "6" ]
 	},
 	{
@@ -324,6 +349,7 @@
 		"day_id": "dia_3",
 		"time": "10:45-12:15",
 		"room_id": "sala_1",
+		"chair": "Patricia Machado",
 		"papers": [ "7", "8", "9" ]
 	},
 	{
@@ -333,6 +359,7 @@
 		"day_id": "dia_3",
 		"time": "14:00-15:30",
 		"room_id": "sala_1",
+		"chair": "Silvana Morita",
 		"papers": [ "10", "11", "12" ]
 	},
 	{
@@ -342,6 +369,7 @@
 		"day_id": "dia_3",
 		"time": "15:45-17:15",
 		"room_id": "sala_1",
+		"chair": "Vania Neves",
 		"speaker_id": "baishakhi"
 	},
 	{
@@ -361,6 +389,7 @@
 		"day_id": "dia_2",
 		"time": "15:55-17:10",
 		"room_id": "sala_4",
+		"chair": "Maria Augusta Nelson, Eduardo Figueiredo",
 		"papers": [ "3", "2", "1" ]
 	},
 	{
@@ -380,6 +409,7 @@
 		"day_id": "dia_2",
 		"time": "10:45-11:54",
 		"room_id": "sala_5",
+		"chair": "Ana Regina Rocha, Gleison Santos",
 		"papers": [ "1", "2", "3" ]
 	},
 	{
@@ -389,7 +419,7 @@
 		"day_id": "dia_2",
 		"time": "11:54-12:15",
 		"room_id": "sala_5",
-		"chair": "Gleison Santos, Ana Regina Rocha",
+		"chair": "Ana Regina Rocha, Gleison Santos",
 		"title_id": "reuniao_banca"
 	},
 	{
@@ -399,6 +429,7 @@
 		"day_id": "dia_2",
 		"time": "15:45-16:54",
 		"room_id": "sala_5",
+		"chair": "Ana Regina Rocha, Gleison Santos",
 		"papers": [ "4", "5", "6" ]
 	},
 	{
@@ -408,7 +439,7 @@
 		"day_id": "dia_2",
 		"time": "16:54-17:15",
 		"room_id": "sala_5",
-		"chair": "Gleison Santos, Ana Regina Rocha",
+		"chair": "Ana Regina Rocha, Gleison Santos",
 		"title_id": "reuniao_banca"
 	},
 	{
@@ -418,6 +449,7 @@
 		"day_id": "dia_3",
 		"time": "09:00-10:30",
 		"room_id": "sala_1",
+		"chair": "Fernando Castor",
 		"speaker_id": "alexander"
 	},
 	{
@@ -427,6 +459,7 @@
 		"day_id": "dia_4",
 		"time": "09:00-10:30",
 		"room_id": "sala_1",
+		"chair": "Tayana Conte",
 		"speaker_id": "ana-regina"
 	},
 	{
@@ -436,6 +469,7 @@
 		"day_id": "dia_5",
 		"time": "09:00-10:30",
 		"room_id": "sala_1",
+		"chair": "Fernando Castor",
 		"speaker_id": "paulo"
 	},
 	{
