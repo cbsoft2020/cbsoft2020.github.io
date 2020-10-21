@@ -364,6 +364,18 @@
 										</a>
 									</td>
 								</tr>
+								<tr>
+									<td><i class="fa fa-clock-o"></i></td>
+									<td style="text-align: left"><span style="margin-left: -10px" class="time">17:15-17:30</span></td>
+									<td colspan="5"><a href="#" data-i18n="schedule.intervalo"></a></td>
+								</tr>
+								<tr>
+									<td class="align-middle"><i class="fa fa-clock-o"></i></td>
+									<td class="align-middle" style="text-align: left"><span style="margin-left: -10px" class="time">17:30-18:00</span></td>
+									<td colspan="5">
+										<a href="sessao.php?id=cultural" data-i18n="schedule.programacao_cultural"></a>
+									</td>
+								</tr>
 							</tbody>
 						</table>
 					</div>

@@ -666,6 +666,16 @@
 		"panelists": [ "fernando", "rafael", "renato", "roberta", "sergio" ]
 	},
 	{
+		"id": "cultural",
+		"id_event": "cbsoft",
+		"type": "general",
+		"day_id": "dia_3",
+		"time": "17:30-18:00",
+		"room_id": "sala_1",
+		"chair": "Everton Cavalcante",
+		"title_id": "programacao_cultural"
+	},
+	{
 		"id": "assembleia-cees",
 		"id_event": "cbsoft",
 		"type": "general",
